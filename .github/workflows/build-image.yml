@@ -1,0 +1,97 @@
+# Generic image build: docker build + push to ghcr.io/<owner>/fanout-<project>.
+# Knows nothing about any project's domain. The project's Dockerfile lives at
+# <dockerfile_path> (default projects/<project>/Dockerfile); the build
+# context is the repo root so COPY can reach projects/<project>/...
+#
+# APPROVAL ECONOMY: pushing a Dockerfile change auto-rebuilds the image
+# (push trigger on projects/**/Dockerfile) — zero extra approvals. The
+# project is derived from the changed path projects/<project>/Dockerfile.
+name: build-image
+
+on:
+  push:
+    paths: ['projects/**/Dockerfile']
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Project dir under projects/ (e.g. mix-sbox-search)"
+        required: true
+      dockerfile_path:
+        description: "Dockerfile path (default projects/<project>/Dockerfile)"
+        default: ""
+      tag:
+        description: "Image tag"
+        default: "latest"
+
+permissions:
+  contents: read
+  packages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # one build per Dockerfile in the push (usually one)
+        dockerfile: ${{ fromJson(needs.resolve.outputs.dockerfiles_json) }}
+    needs: resolve
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: docker/setup-buildx-action@v3
+      - name: derive project from path
+        id: proj
+        run: |
+          P='${{ matrix.dockerfile }}'
+          [ -f "$P" ] || { echo "Dockerfile not found: $P"; exit 1; }
+          echo "$P" | grep -q "^projects/[^/]*/Dockerfile$" || \
+            { echo "Dockerfile must live at projects/<project>/Dockerfile: $P"; exit 1; }
+          PROJ=$(echo "$P" | sed 's#^projects/##; s#/Dockerfile$##')
+          echo "project=$PROJ" >> "$GITHUB_OUTPUT"
+          echo "building $P as fanout-$PROJ:${{ needs.resolve.outputs.tag }}"
+      - uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ${{ matrix.dockerfile }}
+          push: true
+          tags: ghcr.io/${{ github.repository_owner }}/fanout-${{ steps.proj.outputs.project }}:${{ needs.resolve.outputs.tag }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  resolve:
+    runs-on: ubuntu-latest
+    outputs:
+      dockerfiles_json: ${{ steps.df.outputs.dockerfiles_json }}
+      tag: ${{ steps.df.outputs.tag }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: resolve Dockerfile list + tag
+        id: df
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            P="${{ inputs.dockerfile_path }}"
+            [ -z "$P" ] && P="projects/${{ inputs.project }}/Dockerfile"
+            TAG="${{ inputs.tag }}"
+            LIST="$P"
+          else
+            # push trigger: every Dockerfile in the push builds.
+            # diff-tree (not diff HEAD~1) so the repo's FIRST push works too.
+            LIST=$(git diff-tree --no-commit-id --name-only -r HEAD -- \
+                     'projects/**/Dockerfile')
+            [ -n "$LIST" ] || { echo "no Dockerfile in push"; exit 1; }
+            TAG="latest"
+          fi
+          python3 -c "
+          import json
+          files = [l for l in '''$LIST'''.split('\n') if l.strip()]
+          print('dockerfiles_json=' + json.dumps(files))
+          " >> "$GITHUB_OUTPUT"
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "building: $LIST"

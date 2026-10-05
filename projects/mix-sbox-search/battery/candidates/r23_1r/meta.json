@@ -1,0 +1,20 @@
+{
+ "name": "r23_1r",
+ "description": "1-round r23 SPN (S1 DIFF/LIN kill canary)",
+ "rtl_top": "r23_1r",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x0"
+  }
+ ]
+}

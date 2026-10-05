@@ -1,0 +1,18 @@
+{
+ "name": "mul64",
+ "description": "64x64 multiplier as DUT (S0 delay-kill canary: ratio 1.0 > 0.9)",
+ "rtl_top": "mul64",
+ "screen_keys": [
+  "0x123456789abcdef0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0"
+ ],
+ "goldens": [
+  {
+   "val": "0x2",
+   "key": "0x3",
+   "out": "0x6"
+  }
+ ]
+}

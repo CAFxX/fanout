@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Built third-party tools (rebuilt by battery/third_party/build_third_party.sh
+# at image build / job start; cached via actions/cache — never committed)
+projects/*/battery/third_party/install/
+projects/*/battery/third_party/_build_*/
+
+# Autotools/configure scratch inside vendored trees
+*.log
+
+# Battery synthesis scratch (local runs only)
+projects/*/battery/ref/_*
+
+# Agent-side scratch (never committed; results arrive via the collect job)
+.fanout/
+campaign_runs/
+out/
+_artifacts/
+tmp/
