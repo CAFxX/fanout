@@ -1,3 +1,3 @@
-FROM mambaorg/micromamba:latest
-RUN echo "base image works"
+FROM ubuntu:22.04
+RUN echo "ubuntu works"
 CMD ["echo", "hello"]
