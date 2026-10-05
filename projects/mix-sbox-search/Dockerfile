@@ -21,22 +21,19 @@
 #   with wide margin. No PDK baked in (fetched at job start).
 FROM mambaorg/micromamba:2 AS base
 
-# Install yosys 0.69 (pinned) + python + battery toolchain into
-# ${MAMBA_USER}'s base env.
-# conda-forge only: the VM's yosys is the conda-forge 0.69 build; the
-# version assert in flow/run_synth.py ("0.69" in `yosys -V`) guards drift.
-# Battery needs: gcc (C harnesses), iverilog (S0 equiv check),
-# numpy + scipy (S1 screen; pinned to the VM's versions).
+# Install yosys + python + battery toolchain into ${MAMBA_USER}'s base env.
+# conda-forge only. Battery needs: gcc (C harnesses), iverilog (S0 equiv
+# check), numpy + scipy (S1 screen).
 RUN micromamba install -y -n base -c conda-forge \
-        yosys=0.69 \
-        python=3.12 \
+        yosys \
+        python \
         gcc \
         autoconf \
         curl \
         unzip \
         iverilog \
-        numpy==1.26.4 \
-        scipy==1.11.4 \
+        numpy \
+        scipy \
     && micromamba clean --all --yes
 
 ENV YOSYS_BIN=/opt/conda/bin/yosys \
