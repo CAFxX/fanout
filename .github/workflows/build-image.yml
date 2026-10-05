@@ -38,6 +38,11 @@ jobs:
     needs: resolve
     steps:
       - uses: actions/checkout@v4
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
       - name: derive project from path
         id: proj
         run: |
@@ -47,10 +52,14 @@ jobs:
             { echo "Dockerfile must live at projects/<project>/Dockerfile: $P"; exit 1; }
           PROJ=$(echo "$P" | sed 's#^projects/##; s#/Dockerfile$##')
           echo "project=$PROJ" >> "$GITHUB_OUTPUT"
-          echo "building $P as fanout-$PROJ:${{ needs.resolve.outputs.tag }}"
-      - name: Build image (no push, test only)
+          TAG="${{ needs.resolve.outputs.tag }}"
+          IMG="ghcr.io/${{ github.repository_owner }}/fanout-$PROJ:$TAG"
+          echo "img=$IMG" >> "$GITHUB_OUTPUT"
+          echo "building $P as $IMG"
+      - name: Build and push image
         run: |
-          docker build -f ${{ matrix.dockerfile }} -t test:${{ needs.resolve.outputs.tag }} .
+          docker build -f ${{ matrix.dockerfile }} -t ${{ steps.proj.outputs.img }} .
+          docker push ${{ steps.proj.outputs.img }}
 
   resolve:
     runs-on: ubuntu-latest
