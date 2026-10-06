@@ -177,6 +177,10 @@ def drive_one(bundle, c_out, rng_bin, max_bytes, canary_scope=False):
 
 def main():
     a = parse_args()
+    # Absolute paths: vendored modules may os.chdir();
+    # relative paths would silently break mid-run.
+    a.candidates_dir = os.path.abspath(a.candidates_dir)
+    a.out = os.path.abspath(a.out)
     common.setup_env()
     out_dir = os.environ.get("OUT_DIR", a.out)
     rng_bin = rng_test_bin(a.third_party_dir)

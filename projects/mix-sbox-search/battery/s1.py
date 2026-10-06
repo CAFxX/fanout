@@ -43,6 +43,10 @@ def parse_args():
 
 def main():
     a = parse_args()
+    # Absolute paths: vendored modules may os.chdir();
+    # relative paths would silently break mid-run.
+    a.candidates_dir = os.path.abspath(a.candidates_dir)
+    a.out = os.path.abspath(a.out)
     flow_dir = a.flow_dir or os.path.join(
         os.path.dirname(common.BATTERY_HOME), "flow")
     common.setup_env(flow_dir)

@@ -105,6 +105,10 @@ def drive_one(bundle, c_out, log2n, kill_repeats):
 
 def main():
     a = parse_args()
+    # Absolute paths: vendored modules may os.chdir();
+    # relative paths would silently break mid-run.
+    a.candidates_dir = os.path.abspath(a.candidates_dir)
+    a.out = os.path.abspath(a.out)
     common.setup_env()
     out_dir = os.environ.get("OUT_DIR", a.out)
     kr = a.kill_repeats or kill_repeats_default()

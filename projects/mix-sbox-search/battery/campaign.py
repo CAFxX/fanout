@@ -64,7 +64,10 @@ def run_stage_driver(stage, candidates_dir, out_dir, candidate,
     cmd = [sys.executable, os.path.join(here, f"{stage}.py"),
            "--candidates-dir", candidates_dir,
            "--out", out_dir,
-           "--only", candidate]
+           "--only", candidate,
+           # campaign.py already sharded; the driver must NOT re-shard
+           # via SHARD_IDX/SHARD_COUNT env (would filter to empty).
+           "--shard-idx", "0", "--shard-count", "1"]
     if skip_canary:
         cmd.append("--skip-canary")
     if stage == "s3":
@@ -90,6 +93,10 @@ def run_stage_driver(stage, candidates_dir, out_dir, candidate,
 
 def main():
     a = parse_args()
+    # Absolute paths: vendored modules may os.chdir();
+    # relative paths would silently break mid-run.
+    a.candidates_dir = os.path.abspath(a.candidates_dir)
+    a.out = os.path.abspath(a.out)
     common.setup_env()
     out_dir = os.environ.get("OUT_DIR", a.out)
     os.makedirs(out_dir, exist_ok=True)
