@@ -113,18 +113,38 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     except Exception as e:
         raise RuntimeError(f"gen sanity check exception: {e}")
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
+    # Diagnostic (2026-10-06): if S3_PIPE_DEBUG=0, write gen output to a temp
+    # file first instead of piping directly. This isolates Python pipe
+    # issues from generator/RNG_test issues.
+    use_pipe = os.environ.get("S3_PIPE_DEBUG", "1") != "0"
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
-    with open(err, "w") as ef:
-        gen = subprocess.Popen(
-            [gen_bin, key, str(nbytes), str(stride)],
-            stdout=subprocess.PIPE, stderr=ef)
-        with open(log, "w") as lf:
+    if not use_pipe:
+        tmpf = os.path.join(c_out, f"_gen_{tag}.bin")
+        r = subprocess.run([gen_bin, key, str(nbytes), str(stride)],
+                           stdout=open(tmpf, "wb"), stderr=open(err, "w"),
+                           timeout=600)
+        sz = os.path.getsize(tmpf) if os.path.exists(tmpf) else -1
+        print(f"[s3_pipe_debug] gen wrote {sz} bytes (want {nbytes}), "
+              f"rc={r.returncode}", flush=True)
+        if sz != nbytes:
+            raise RuntimeError(f"gen produced {sz} bytes, want {nbytes}")
+        with open(log, "w") as lf, open(tmpf, "rb") as inf:
             rng = subprocess.run(
-                [rng_bin, "stdin64"], stdin=gen.stdout,
+                [rng_bin, "stdin64"], stdin=inf,
                 stdout=lf, stderr=subprocess.STDOUT, timeout=timeout_s)
-        gen.stdout.close()
-        gen.wait(timeout=60)
+        os.remove(tmpf)
+    else:
+        with open(err, "w") as ef:
+            gen = subprocess.Popen(
+                [gen_bin, key, str(nbytes), str(stride)],
+                stdout=subprocess.PIPE, stderr=ef)
+            with open(log, "w") as lf:
+                rng = subprocess.run(
+                    [rng_bin, "stdin64"], stdin=gen.stdout,
+                    stdout=lf, stderr=subprocess.STDOUT, timeout=timeout_s)
+            gen.stdout.close()
+            gen.wait(timeout=60)
     text = open(log).read()
     fails = [l for l in text.splitlines() if "FAIL" in l][:8]
     ran_tests = ("length=" in text and
