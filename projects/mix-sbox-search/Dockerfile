@@ -41,5 +41,13 @@ COPY projects/mix-sbox-search/battery /opt/sbox/battery
 RUN python3 /opt/sbox/flow/validate_sbox.py --self-test && \
     echo "golden self-test OK"
 
+# Create a user matching the GHA runner UID/GID (2026-10-06): the dispatch
+# workflow runs shards via `docker run --user $RUID:$RGID` (1001:1001 on
+# github-hosted runners). If the UID does not exist in /etc/passwd, file
+# I/O via stdio (fopen/fread) silently fails in the shard container —
+# RNG_test gets EOF on valid files. Creating the user fixes it.
+RUN (id -u 1001 >/dev/null 2>&1 || useradd -u 1001 -m runner) && \
+    (getent group 1001 >/dev/null 2>&1 || groupmod -g 1001 runner 2>/dev/null || true)
+
 WORKDIR /work
 CMD ["python3", "--version"]
