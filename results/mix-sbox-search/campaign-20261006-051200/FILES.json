@@ -1,0 +1,8 @@
+{
+ "job_id": "campaign-20261006-051200",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-2/_shard_status.json"
+ ]
+}
