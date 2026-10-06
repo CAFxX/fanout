@@ -280,10 +280,15 @@ jobs:
             [ -z "$line" ] && continue
             ENV_ARGS="$ENV_ARGS -e $line"
           done <<< "${{ steps.cfg.outputs.env }}"
+          # The spec command references container env vars ($OUT_DIR etc.).
+          # Escape every $ so the RUNNER's shell does not expand them;
+          # the container's sh -c then expands them where they are set.
+          CMD='${{ steps.cfg.outputs.command }}'
+          CMD_ESCAPED=${CMD//\$/\\\$}
           set +e
           # shellcheck disable=SC2086
           docker run --rm -v "$PWD:/work" -w /work $ENV_ARGS \
-            "${{ steps.cfg.outputs.image }}" sh -c "${{ steps.cfg.outputs.command }}"
+            "${{ steps.cfg.outputs.image }}" sh -c "$CMD_ESCAPED"
           RC=$?
           set -e
           # the status file ALWAYS lands, even if the driver crashed
