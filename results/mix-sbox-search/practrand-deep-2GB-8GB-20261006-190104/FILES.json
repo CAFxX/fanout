@@ -1,0 +1,18 @@
+{
+ "job_id": "practrand-deep-2GB-8GB-20261006-190104",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/r25_spn_pba19_sb_rasC2_0_513_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_513_nw/__pycache__/model.cpython-314.pyc",
+  "shard-0/r25_spn_pba19_sb_rasC2_0_513_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_513_nw/meta.json",
+  "shard-0/r25_spn_pba19_sb_rasC2_0_513_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_513_nw/model.py",
+  "shard-0/r25_spn_pba19_sb_rasC2_0_513_nw/_work/gen",
+  "shard-0/r25_spn_pba19_sb_rasC2_0_513_nw_s3.json",
+  "shard-1/_shard_status.json",
+  "shard-1/r25_spn_pba19_sb_rasC2_0_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_nw/__pycache__/model.cpython-314.pyc",
+  "shard-1/r25_spn_pba19_sb_rasC2_0_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_nw/meta.json",
+  "shard-1/r25_spn_pba19_sb_rasC2_0_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_nw/model.py",
+  "shard-1/r25_spn_pba19_sb_rasC2_0_nw/_work/gen",
+  "shard-1/r25_spn_pba19_sb_rasC2_0_nw_s3.json"
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "candidate": "r25_spn_pba19_sb_rasC2_0_nw",
+ "stage": "s3",
+ "verdict": "INFRA_FAIL",
+ "detail": {
+  "signal": "xcheck C-vs-Python mismatch: Traceback (most recent call last):\n  File \"/work/projects/mix-sbox-search/battery/vendor/xcheck.py\", line 52, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/work/projects/mix-sbox-search/battery/vendor/xcheck.py\", line 24, in main\n    mix = load_model(cand)\n  File \"/work/projects/mix-sbox-search/battery/vendor/xcheck.py\", line 19, in load_model\n    spec.loader.exec_module(m)\n    ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"<frozen importlib._bootstrap_external>\", line 763, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 491, in _call_with_frames_removed\n  File \"/work/out/r25_spn_pba19_sb_rasC2_0_nw/_work/_shadow/candidates/r25_spn_pba19_sb_rasC2_0_nw/model.py\", line 6, in <module>\n    import r25\nModuleNotFoundError: No module named 'r25'\n"
+ },
+ "ts": "2026-10-06T19:03:15Z"
+}
