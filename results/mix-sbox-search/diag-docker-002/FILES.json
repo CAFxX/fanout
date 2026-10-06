@@ -1,0 +1,7 @@
+{
+ "job_id": "diag-docker-002",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json"
+ ]
+}
