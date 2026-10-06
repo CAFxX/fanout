@@ -53,3 +53,5 @@ RUN if ! id -u 1001 >/dev/null 2>&1; then \
 
 WORKDIR /work
 CMD ["python3", "--version"]
+
+# Rebuild trigger 2026-10-06: refresh baked battery code (s3.py pipe fix).
