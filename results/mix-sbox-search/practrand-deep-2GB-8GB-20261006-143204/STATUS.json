@@ -1,0 +1,44 @@
+{
+ "job_id": "practrand-deep-2GB-8GB-20261006-143204",
+ "project": "mix-sbox-search",
+ "status": "failed",
+ "shards": 2,
+ "n_ok": 0,
+ "n_failed": 2,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=1"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=1"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "practrand-deep-2GB-8GB-20261006-143204",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/s3.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_rasC2_0_513_nw,r25_spn_pba19_sb_rasC2_0_nw --min-bytes 2147483648 --max-bytes 8589934592",
+  "shards": 2,
+  "timeout_minutes": 300,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "priority": "frontier-challengers",
+  "est_min": 420.0,
+  "campaign": "practrand-deep-2GB-8GB-20261006-143204",
+  "candidates": [
+   "r25_spn_pba19_sb_rasC2_0_513_nw",
+   "r25_spn_pba19_sb_rasC2_0_nw"
+  ],
+  "min_bytes": 2147483648,
+  "max_bytes": 8589934592,
+  "submitted_at": "2026-10-06T14:32:04.030723+00:00"
+ },
+ "finished_at": "2026-10-06T14:36:22.133900+00:00"
+}
