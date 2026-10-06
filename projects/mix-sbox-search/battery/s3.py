@@ -24,6 +24,7 @@ Usage:
         [--canary-bytes B] [--third-party-dir DIR]
 """
 import argparse
+import json
 import os
 import re
 import subprocess
@@ -263,5 +264,35 @@ def main():
     print("[s3] shard done", flush=True)
 
 
+def main_wrapped():
+    """Wrap main() so ANY crash writes an INFRA_FAIL record instead of
+    dying silently with rc=1 and no output (the 2026-10-06 deep-run mystery:
+    both shards rc=1, zero files, no diagnosis possible)."""
+    import traceback
+    try:
+        main()
+    except Exception as e:
+        # Best-effort: write a crash record where the collect job looks.
+        try:
+            out_dir = os.environ.get("OUT_DIR", "/tmp")
+            os.makedirs(out_dir, exist_ok=True)
+            crash = {
+                "candidate": "_driver",
+                "stage": "s3",
+                "verdict": "INFRA_FAIL",
+                "detail": {
+                    "signal": f"driver crash: {type(e).__name__}: {e}\n"
+                              f"{traceback.format_exc()[-2000:]}"
+                },
+            }
+            with open(os.path.join(out_dir, "_driver_s3.json"), "w") as f:
+                json.dump(crash, f, indent=1)
+        except Exception:
+            pass
+        # Also print to stderr for the workflow log.
+        traceback.print_exc()
+        sys.exit(1)
+
+
 if __name__ == "__main__":
-    main()
+    main_wrapped()
