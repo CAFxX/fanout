@@ -96,10 +96,14 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
 
     Timeout scales with size: ~10 min per GB (measured ~3.5 min/GB at 1GB;
     PractRand's suite grows with input, so 3x headroom), min 2h.
+
+    Implementation (2026-10-06): write gen output to a temp file and use
+    RNG_test's file64() reader instead of piping via stdin. Python's
+    subprocess.PIPE stdin redirection silently delivers EOF in the GHA
+    container (RNG_test gets "error reading from file" on a 16MB stream
+    that works fine via file). The temp file is deleted after the stage.
     """
-    # Sanity check (2026-10-06): verify the generator produces output before
-    # piping to RNG_test. If gen is broken, fail fast with a clear error
-    # instead of a confusing "error reading from file" from RNG_test.
+    # Sanity check: verify the generator produces output.
     try:
         t = subprocess.run([gen_bin, key, "1024", stride],
                            capture_output=True, timeout=30)
@@ -113,38 +117,27 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     except Exception as e:
         raise RuntimeError(f"gen sanity check exception: {e}")
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
-    # Diagnostic (2026-10-06): if S3_PIPE_DEBUG=0, write gen output to a temp
-    # file first instead of piping directly. This isolates Python pipe
-    # issues from generator/RNG_test issues.
-    use_pipe = os.environ.get("S3_PIPE_DEBUG", "1") != "0"
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
-    if not use_pipe:
-        tmpf = os.path.join(c_out, f"_gen_{tag}.bin")
+    tmpf = os.path.join(c_out, f"_gen_{tag}.bin")
+    # Generate to temp file.
+    with open(err, "w") as ef:
         r = subprocess.run([gen_bin, key, str(nbytes), str(stride)],
-                           stdout=open(tmpf, "wb"), stderr=open(err, "w"),
-                           timeout=600)
-        sz = os.path.getsize(tmpf) if os.path.exists(tmpf) else -1
-        print(f"[s3_pipe_debug] gen wrote {sz} bytes (want {nbytes}), "
-              f"rc={r.returncode}", flush=True)
-        if sz != nbytes:
-            raise RuntimeError(f"gen produced {sz} bytes, want {nbytes}")
-        with open(log, "w") as lf, open(tmpf, "rb") as inf:
-            rng = subprocess.run(
-                [rng_bin, "stdin64"], stdin=inf,
-                stdout=lf, stderr=subprocess.STDOUT, timeout=timeout_s)
+                           stdout=open(tmpf, "wb"), stderr=ef,
+                           timeout=timeout_s)
+    sz = os.path.getsize(tmpf) if os.path.exists(tmpf) else -1
+    if sz != nbytes or r.returncode != 0:
+        raise RuntimeError(
+            f"gen failed: wrote {sz} bytes (want {nbytes}), rc={r.returncode}")
+    # Run RNG_test on the file directly (not via stdin pipe).
+    with open(log, "w") as lf:
+        rng = subprocess.run(
+            [rng_bin, f"file64({tmpf})"], stdout=lf,
+            stderr=subprocess.STDOUT, timeout=timeout_s)
+    try:
         os.remove(tmpf)
-    else:
-        with open(err, "w") as ef:
-            gen = subprocess.Popen(
-                [gen_bin, key, str(nbytes), str(stride)],
-                stdout=subprocess.PIPE, stderr=ef)
-            with open(log, "w") as lf:
-                rng = subprocess.run(
-                    [rng_bin, "stdin64"], stdin=gen.stdout,
-                    stdout=lf, stderr=subprocess.STDOUT, timeout=timeout_s)
-            gen.stdout.close()
-            gen.wait(timeout=60)
+    except OSError:
+        pass
     text = open(log).read()
     fails = [l for l in text.splitlines() if "FAIL" in l][:8]
     ran_tests = ("length=" in text and
