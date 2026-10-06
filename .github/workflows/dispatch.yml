@@ -231,8 +231,14 @@ jobs:
           SPEC_B64: ${{ matrix.combo.spec_b64 }}
       - name: enforce per-shard timeout cap
         run: |
-          T=${{ steps.cfg.outputs.timeout_minutes }}
-          [ "$T" -gt 300 ] && { echo "timeout $T > 300 cap"; exit 1; }
+          T='${{ steps.cfg.outputs.timeout_minutes }}'
+          # NB: plain `[ "$T" -gt 300 ] && exit 1` fails the step under
+          # bash -e when T<=300 (the false test returns 1); use if/fi.
+          if [ "$T" -gt 300 ]; then
+            echo "timeout $T > 300 cap"
+            exit 1
+          fi
+          echo "shard timeout: ${T}m (cap 300m)"
       - name: restore cache
         if: steps.cfg.outputs.cache_key != ''
         uses: actions/cache/restore@v4
