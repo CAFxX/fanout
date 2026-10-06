@@ -1,0 +1,13 @@
+{
+ "candidate": "r25_spn_pba19_sb_ulbc_s1_nw",
+ "stages": {
+  "s0": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: ^^^^^^^^^^^\n    ...<5 lines>...\n                        gid, gids, uid, umask,\n                        ^^^^^^^^^^^^^^^^^^^^^^\n                        start_new_session, process_group)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/lib/python3.14/subprocess.py\", line 1990, in _execute_child\n    raise child_exception_type(errno_num, err_msg, err_filename)\nFileNotFoundError: [Errno 2] No such file or directory: '/home/hatch/tools/micromamba-root/envs/sky130/bin/yosys'\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s0",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}

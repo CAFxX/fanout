@@ -1,0 +1,12 @@
+{
+ "job_id": "campaign-20261006-052500",
+ "files": [
+  "STATUS.json",
+  "shard-1/_canary/_canary/pass/_synth/s_r23_spn_mix4r_pba19b01_nw.ys",
+  "shard-1/_shard_status.json",
+  "shard-1/r25_spn_pba19_sb_thf_blink_nw_campaign.json",
+  "shard-2/_canary/_canary/pass/_synth/s_r23_spn_mix4r_pba19b01_nw.ys",
+  "shard-2/_shard_status.json",
+  "shard-2/r25_spn_pba19_sb_ulbc_s1_nw_campaign.json"
+ ]
+}
