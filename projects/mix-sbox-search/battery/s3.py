@@ -98,11 +98,10 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     Timeout scales with size: ~10 min per GB (measured ~3.5 min/GB at 1GB;
     PractRand's suite grows with input, so 3x headroom), min 2h.
 
-    Implementation (2026-10-06): write gen output to a temp file and use
-    RNG_test's file64() reader instead of piping via stdin. Python's
-    subprocess.PIPE stdin redirection silently delivers EOF in the GHA
-    container (RNG_test gets "error reading from file" on a 16MB stream
-    that works fine via file). The temp file is deleted after the stage.
+    Implementation (2026-10-06): pipe via bash, not Python subprocess.
+    Python's subprocess.PIPE stdin redirection silently delivers EOF to
+    RNG_test in the GHA job container (works at image build time, fails
+    at job runtime). Bash pipes work in both contexts.
     """
     # Sanity check: verify the generator produces output.
     try:
@@ -120,33 +119,13 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
-    # Use container-local /tmp for the temp file (2026-10-06): RNG_test
-    # cannot read files on the /work volume mount (fopen/fread returns EOF
-    # on a valid 16MB file), but works on /tmp. The file is deleted after.
-    import tempfile
-    tmpf = os.path.join(tempfile.gettempdir(), f"_gen_{tag}_{os.getpid()}.bin")
-    # Generate to temp file.
-    with open(err, "w") as ef:
-        r = subprocess.run([gen_bin, key, str(nbytes), str(stride)],
-                           stdout=open(tmpf, "wb"), stderr=ef,
-                           timeout=timeout_s)
-    sz = os.path.getsize(tmpf) if os.path.exists(tmpf) else -1
-    if sz != nbytes or r.returncode != 0:
-        raise RuntimeError(
-            f"gen failed: wrote {sz} bytes (want {nbytes}), rc={r.returncode}")
-    # Verify Python can read it (guards against volume/mount weirdness).
-    with open(tmpf, "rb") as f:
-        if len(f.read(16)) != 16:
-            raise RuntimeError(f"temp file {tmpf} not readable")
-    # Run RNG_test on the file directly (not via stdin pipe).
-    with open(log, "w") as lf:
-        rng = subprocess.run(
-            [rng_bin, f"file64({tmpf})"], stdout=lf,
-            stderr=subprocess.STDOUT, timeout=timeout_s)
-    try:
-        os.remove(tmpf)
-    except OSError:
-        pass
+    # Use bash for the pipeline (not Python subprocess.PIPE).
+    # Quote args to handle spaces in paths.
+    import shlex
+    cmd = (f"{shlex.quote(gen_bin)} {shlex.quote(key)} {nbytes} "
+           f"{shlex.quote(stride)} 2>{shlex.quote(err)} | "
+           f"{shlex.quote(rng_bin)} stdin64 > {shlex.quote(log)} 2>&1")
+    r = subprocess.run(["bash", "-c", cmd], timeout=timeout_s)
     text = open(log).read()
     fails = [l for l in text.splitlines() if "FAIL" in l][:8]
     ran_tests = ("length=" in text and
