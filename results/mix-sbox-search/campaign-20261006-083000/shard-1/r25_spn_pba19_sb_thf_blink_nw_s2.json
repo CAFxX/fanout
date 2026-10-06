@@ -1,0 +1,15 @@
+{
+ "candidate": "r25_spn_pba19_sb_thf_blink_nw",
+ "stage": "s2",
+ "verdict": "KILL",
+ "detail": {
+  "signal": "KILL delta=0x0800000000000000 repeats=22",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 84.5,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-06T06:26:10Z"
+}

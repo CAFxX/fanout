@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_orthros_nw",
+ "description": "R25 in-context S-box decision battery: 4r SPN, S-box Orthros (4.0u standalone; table derived from sbox_screen_add2 boolean equations), pba19b01 P-box, L=lin(3,11), golden ks.",
+ "composition": "R25 in-context S-box decision battery: 4r SPN, S-box Orthros (4.0u standalone; table derived from sbox_screen_add2 boolean equations), pba19b01 P-box, L=lin(3,11), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_orthros_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x2673db5251dcf118"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0x8f30c237efb0524f"
+  }
+ ]
+}
