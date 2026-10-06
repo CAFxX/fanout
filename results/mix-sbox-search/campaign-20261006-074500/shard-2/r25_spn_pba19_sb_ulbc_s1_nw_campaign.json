@@ -1,0 +1,13 @@
+{
+ "candidate": "r25_spn_pba19_sb_ulbc_s1_nw",
+ "stages": {
+  "s0": {
+   "verdict": "INFRA_FAIL",
+   "signal": "unreadable record: [Errno 2] No such file or directory: '/work/out/r25_spn_pba19_sb_ulbc_s1_nw_s0.json'",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s0",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}

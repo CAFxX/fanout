@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_orthros_nw",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 26.1,
+  "cells": 5892,
+  "area": 16063.0,
+  "delay_ratio_vs_mult": 0.2522,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-06T06:09:19Z"
+}

@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_orthros_nw",
+ "stages": {
+  "s0": {
+   "verdict": "PASS",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  },
+  "s1": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: ch/battery/s1.py\", line 106, in <module>\n    main()\n    ~~~~^^\n  File \"/work/projects/mix-sbox-search/battery/s1.py\", line 97, in main\n    names = common.list_candidates(a.candidates_dir, a.only)\n  File \"/work/projects/mix-sbox-search/battery/common.py\", line 106, in list_candidates\n    names = sorted(n for n in os.listdir(candidates_dir)\n                              ~~~~~~~~~~^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: 'projects/mix-sbox-search/battery/candidates'\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
