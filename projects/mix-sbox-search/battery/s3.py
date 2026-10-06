@@ -97,6 +97,21 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     Timeout scales with size: ~10 min per GB (measured ~3.5 min/GB at 1GB;
     PractRand's suite grows with input, so 3x headroom), min 2h.
     """
+    # Sanity check (2026-10-06): verify the generator produces output before
+    # piping to RNG_test. If gen is broken, fail fast with a clear error
+    # instead of a confusing "error reading from file" from RNG_test.
+    try:
+        t = subprocess.run([gen_bin, key, "1024", stride],
+                           capture_output=True, timeout=30)
+        if len(t.stdout) != 1024 or t.returncode != 0:
+            raise RuntimeError(
+                f"gen sanity check failed: expected 1024 bytes, got "
+                f"{len(t.stdout)}, rc={t.returncode}, "
+                f"stderr={t.stderr[:500]!r}")
+    except RuntimeError:
+        raise
+    except Exception as e:
+        raise RuntimeError(f"gen sanity check exception: {e}")
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
