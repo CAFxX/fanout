@@ -207,6 +207,11 @@ jobs:
     if: needs.setup.outputs.combos != '[]'
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    # shards pull (possibly private) GHCR images; GITHUB_TOKEN needs
+    # packages:read for the registry-login fallback.
+    permissions:
+      contents: read
+      packages: read
     strategy:
       fail-fast: false
       matrix:
@@ -247,11 +252,21 @@ jobs:
           key: ${{ steps.cfg.outputs.cache_key }}-${{ matrix.combo.idx }}
           restore-keys: ${{ steps.cfg.outputs.cache_key }}-
       - name: registry login
-        if: steps.cfg.outputs.registry_user != ''
+        # Private GHCR images need auth even for pulls. Explicit spec
+        # credentials win; otherwise fall back to GITHUB_TOKEN for ghcr.io
+        # (the repo's token can pull packages the repo has access to).
         run: |
-          echo "${{ steps.cfg.outputs.registry_password }}" | docker login \
-            "$(echo '${{ steps.cfg.outputs.image }}' | cut -d/ -f1)" \
-            -u "${{ steps.cfg.outputs.registry_user }}" --password-stdin
+          IMG='${{ steps.cfg.outputs.image }}'
+          REG=$(echo "$IMG" | cut -d/ -f1)
+          if [ -n '${{ steps.cfg.outputs.registry_user }}' ]; then
+            echo "${{ steps.cfg.outputs.registry_password }}" | docker login \
+              "$REG" -u "${{ steps.cfg.outputs.registry_user }}" --password-stdin
+          elif [ "$REG" = "ghcr.io" ]; then
+            echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io \
+              -u "${{ github.actor }}" --password-stdin
+          else
+            echo "anonymous pull for $REG"
+          fi
       - name: run shard
         timeout-minutes: ${{ fromJson(steps.cfg.outputs.timeout_minutes) }}
         run: |
