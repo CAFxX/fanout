@@ -46,8 +46,10 @@ RUN python3 /opt/sbox/flow/validate_sbox.py --self-test && \
 # github-hosted runners). If the UID does not exist in /etc/passwd, file
 # I/O via stdio (fopen/fread) silently fails in the shard container —
 # RNG_test gets EOF on valid files. Creating the user fixes it.
-RUN (id -u 1001 >/dev/null 2>&1 || useradd -u 1001 -m runner) && \
-    (getent group 1001 >/dev/null 2>&1 || groupmod -g 1001 runner 2>/dev/null || true)
+RUN if ! id -u 1001 >/dev/null 2>&1; then \
+      useradd -u 1001 -g 1001 -m -s /bin/bash runner 2>/dev/null || \
+      useradd -u 1001 -m -s /bin/bash runner 2>/dev/null || true; \
+    fi
 
 WORKDIR /work
 CMD ["python3", "--version"]
