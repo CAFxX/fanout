@@ -189,8 +189,11 @@ jobs:
                    json.dumps(s).encode()).decode()}
               for s in live_specs]))
           out("combos", json.dumps(combos))
+          # informational only: stdout is redirected to GITHUB_OUTPUT,
+          # so this MUST go to stderr (a bare "setup: ..." line is not
+          # valid name=value output format and fails the step).
           print(f"setup: {len(live_specs)} live specs, "
-                f"{len(combos)} shard combos")
+                f"{len(combos)} shard combos", file=sys.stderr)
           EOF
 
   shard:
