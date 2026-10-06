@@ -10,8 +10,9 @@ first FAIL. Plus the strided run (2nd practrand key, golden-ratio stride).
 RNG_test comes from $PRACTRAND_BIN, else battery/third_party/install/bin
 (built on demand by third_party/build_third_party.sh).
 
-GHA rule: S3 on GHA stops at 1GB (--max-bytes default 1073741824).
-Breaking-point runs (>1GB) stay on the VM.
+GHA rule: S3 on GHA supports deep breaking-point runs via --min-bytes/--max-bytes
+(up to 32GB). Long PractRand runs (even beyond 1GB) go to the GHA fanout,
+not the VM (his directive 2026-10-06).
 
 Golden canaries (run first; stage refused on mismatch):
   pass: r23_spn_mix4r_pba19b01_nw -> PASS at --canary-bytes (16MB+64MB)
@@ -34,7 +35,10 @@ import common
 
 XCHECK_VECS = 10000
 STAGES = [(16777216, "16MB"), (67108864, "64MB"),
-          (268435456, "256MB"), (1073741824, "1GB")]
+          (268435456, "256MB"), (1073741824, "1GB"),
+          (2147483648, "2GB"), (4294967296, "4GB"),
+          (8589934592, "8GB"), (17179869184, "16GB"),
+          (34359738368, "32GB")]
 STRIDE_GOLDEN = "0x9E3779B97F4A7C15"
 
 
@@ -51,6 +55,9 @@ def parse_args():
                         help="comma-separated candidate allow-list")
     ap.add_argument("--skip-canary", action="store_true")
     ap.add_argument("--max-bytes", type=int, default=1073741824)
+    ap.add_argument("--min-bytes", type=int, default=0,
+                    help="skip stages smaller than this (deep runs: start "
+                         "where a previous run stopped)")
     ap.add_argument("--canary-bytes", type=int, default=67108864)
     ap.add_argument("--third-party-dir", default="")
     return ap.parse_args()
@@ -80,7 +87,11 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     ran tests ("length=" + "no anomalies" lines). If RNG_test dies on
     startup ("error reading from file" with no test output — a pipe/load
     flake), the stage is INFRA_FAIL, never PASS.
+
+    Timeout scales with size: ~10 min per GB (measured ~3.5 min/GB at 1GB;
+    PractRand's suite grows with input, so 3x headroom), min 2h.
     """
+    timeout_s = max(7200, int(nbytes / (1024**3) * 600))
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
     with open(err, "w") as ef:
@@ -90,7 +101,7 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
         with open(log, "w") as lf:
             rng = subprocess.run(
                 [rng_bin, "stdin64"], stdin=gen.stdout,
-                stdout=lf, stderr=subprocess.STDOUT, timeout=7200)
+                stdout=lf, stderr=subprocess.STDOUT, timeout=timeout_s)
         gen.stdout.close()
         gen.wait(timeout=60)
     text = open(log).read()
@@ -101,7 +112,7 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     return (len(fails) > 0, "\n".join(fails), text[-500:], infra_ok)
 
 
-def drive_one(bundle, c_out, rng_bin, max_bytes, canary_scope=False):
+def drive_one(bundle, c_out, rng_bin, max_bytes, min_bytes=0, canary_scope=False):
     os.makedirs(c_out, exist_ok=True)
     work = os.path.join(c_out, "_work")
     os.makedirs(work, exist_ok=True)
@@ -123,7 +134,7 @@ def drive_one(bundle, c_out, rng_bin, max_bytes, canary_scope=False):
             out_dir, bundle["name"], "s3", "INFRA_FAIL",
             {"signal": f"xcheck C-vs-Python mismatch: {msg}"})
 
-    stages = [(nb, nm) for nb, nm in STAGES if nb <= max_bytes]
+    stages = [(nb, nm) for nb, nm in STAGES if min_bytes <= nb <= max_bytes]
     keys = bundle["meta"]["practrand_keys"]
     signal, verdict, stage = "all stages: no FAIL", "PASS", None
 
@@ -202,7 +213,8 @@ def main():
         names = common.list_candidates(a.candidates_dir, a.only)
     for n in common.shard_slice(names, a.shard_idx, a.shard_count):
         b = common.load_bundle(a.candidates_dir, n, need_rtl=False)
-        rec = drive_one(b, os.path.join(out_dir, n), rng_bin, a.max_bytes)
+        rec = drive_one(b, os.path.join(out_dir, n), rng_bin,
+                        a.max_bytes, a.min_bytes)
         print(f"[s3 {n}] {rec['verdict']}: "
               f"{rec['detail'].get('signal', '').splitlines()[0]}",
               flush=True)
