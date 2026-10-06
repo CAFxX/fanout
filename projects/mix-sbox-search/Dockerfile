@@ -5,14 +5,16 @@ FROM mambaorg/micromamba:latest
 # Install yosys + python + battery toolchain.
 # NOTE (2026-10-06): conda-forge splits C and C++ compilers: `gcc` is C
 # only, `gxx` is C++. PractRand (third_party) needs g++; the canary/gen
-# C code only needs gcc. Omitting gxx broke every GHA s3 PractRand build
-# with a silent "g++: command not found" (masked as exit 0 by the old
-# build script) -> FileNotFoundError deep in the first stage.
+# C code only needs gcc. Omitting gxx broke every GHA s3 PractRand build.
+# Likewise the unprefixed binutils (`ar`, used to archive PractRand.a)
+# come from the `binutils` metapackage, NOT from gcc's binutils_impl
+# (which only ships prefixed x86_64-conda-linux-gnu-* tools).
 RUN micromamba install -y -n base -c conda-forge \
         yosys \
         python \
         gcc \
         gxx \
+        binutils \
         autoconf \
         curl \
         unzip \
