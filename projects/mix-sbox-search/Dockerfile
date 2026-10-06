@@ -17,6 +17,12 @@ RUN micromamba install -y -n base -c conda-forge \
 
 ENV PATH=/opt/conda/bin:$PATH
 
+# Tool paths for the battery drivers (common.py defaults to the VM's
+# absolute paths when these are unset — which do not exist in the image).
+ENV YOSYS_BIN=/opt/conda/bin/yosys \
+    IVERILOG_BIN=/opt/conda/bin/iverilog \
+    VVP_BIN=/opt/conda/bin/vvp
+
 # Bake the pinned flow + drivers.
 COPY projects/mix-sbox-search/flow /opt/sbox/flow
 COPY projects/mix-sbox-search/driver /opt/sbox/driver
