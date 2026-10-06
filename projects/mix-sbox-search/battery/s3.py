@@ -74,9 +74,15 @@ def rng_test_bin(third_party_dir):
             ["bash", os.path.join(tp, "build_third_party.sh"),
              os.path.join(tp, "install"), "practrand"],
             capture_output=True, text=True, timeout=1800)
-        if r.returncode != 0:
+        # Defense in depth (2026-10-06): build_third_party.sh once masked
+        # build failures as exit 0, so a zero rc alone does not prove the
+        # binary exists. Verify the artifact, not just the return code.
+        if r.returncode != 0 or not os.path.exists(inst):
             raise RuntimeError(
-                f"practrand build failed:\n{r.stderr[-2000:]}")
+                f"practrand build failed (rc={r.returncode}, "
+                f"binary_present={os.path.exists(inst)}):\n"
+                f"--- stdout ---\n{r.stdout[-3000:]}\n"
+                f"--- stderr ---\n{r.stderr[-3000:]}")
     return inst
 
 

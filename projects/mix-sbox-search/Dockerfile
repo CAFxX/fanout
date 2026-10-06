@@ -3,10 +3,16 @@
 FROM mambaorg/micromamba:latest
 
 # Install yosys + python + battery toolchain.
+# NOTE (2026-10-06): conda-forge splits C and C++ compilers: `gcc` is C
+# only, `gxx` is C++. PractRand (third_party) needs g++; the canary/gen
+# C code only needs gcc. Omitting gxx broke every GHA s3 PractRand build
+# with a silent "g++: command not found" (masked as exit 0 by the old
+# build script) -> FileNotFoundError deep in the first stage.
 RUN micromamba install -y -n base -c conda-forge \
         yosys \
         python \
         gcc \
+        gxx \
         autoconf \
         curl \
         unzip \

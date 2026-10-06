@@ -152,10 +152,22 @@ build_testu01() {
   echo "[third_party] TestU01 OK"
 }
 
-case "$WHICH" in
-  practrand) build_practrand ;;
-  testu01)   build_testu01 ;;
-  all)       build_practrand && build_testu01 ;;
-  *) echo "usage: build_third_party.sh [install_dir] [practrand|testu01|all]"; exit 1 ;;
-esac
-echo "[third_party] done -> $INSTALL"
+build_one() {
+  case "$WHICH" in
+    practrand) build_practrand ;;
+    testu01)   build_testu01 ;;
+    all)       build_practrand && build_testu01 ;;
+    *) echo "usage: build_third_party.sh [install_dir] [practrand|testu01|all]" >&2; return 1 ;;
+  esac
+}
+
+# NOTE: the exit status must propagate a build failure. An earlier version
+# ended with a bare `echo` after the case statement, which masked ANY build
+# failure as exit 0 — s3.py then proceeded with a missing RNG_test and died
+# with a confusing FileNotFoundError deep in the first stage (2026-10-06).
+if build_one; then
+  echo "[third_party] done -> $INSTALL"
+else
+  echo "[third_party] FAILED -> $INSTALL" >&2
+  exit 1
+fi
