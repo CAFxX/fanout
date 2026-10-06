@@ -119,7 +119,11 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
-    tmpf = os.path.join(c_out, f"_gen_{tag}.bin")
+    # Use container-local /tmp for the temp file (2026-10-06): RNG_test
+    # cannot read files on the /work volume mount (fopen/fread returns EOF
+    # on a valid 16MB file), but works on /tmp. The file is deleted after.
+    import tempfile
+    tmpf = os.path.join(tempfile.gettempdir(), f"_gen_{tag}_{os.getpid()}.bin")
     # Generate to temp file.
     with open(err, "w") as ef:
         r = subprocess.run([gen_bin, key, str(nbytes), str(stride)],
@@ -129,6 +133,10 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     if sz != nbytes or r.returncode != 0:
         raise RuntimeError(
             f"gen failed: wrote {sz} bytes (want {nbytes}), rc={r.returncode}")
+    # Verify Python can read it (guards against volume/mount weirdness).
+    with open(tmpf, "rb") as f:
+        if len(f.read(16)) != 16:
+            raise RuntimeError(f"temp file {tmpf} not readable")
     # Run RNG_test on the file directly (not via stdin pipe).
     with open(log, "w") as lf:
         rng = subprocess.run(
