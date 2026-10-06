@@ -119,13 +119,23 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
-    # Use bash for the pipeline (not Python subprocess.PIPE).
-    # Quote args to handle spaces in paths.
+    # Do the entire stage in bash (2026-10-06): Python subprocess pipe
+    # redirection silently delivers EOF to RNG_test in the GHA job
+    # container (docker run --user $RUID). Bash pipes work at image build
+    # time; test if they work at job runtime.
     import shlex
-    cmd = (f"{shlex.quote(gen_bin)} {shlex.quote(key)} {nbytes} "
-           f"{shlex.quote(stride)} 2>{shlex.quote(err)} | "
-           f"{shlex.quote(rng_bin)} stdin64 > {shlex.quote(log)} 2>&1")
-    r = subprocess.run(["bash", "-c", cmd], timeout=timeout_s)
+    tmpf = f"/tmp/_gen_{tag}.bin"
+    # Step 1: gen to file via bash.
+    cmd1 = (f"{shlex.quote(gen_bin)} {shlex.quote(key)} {nbytes} "
+            f"{shlex.quote(stride)} > {shlex.quote(tmpf)} "
+            f"2>{shlex.quote(err)}")
+    r1 = subprocess.run(["bash", "-c", cmd1], timeout=timeout_s)
+    # Step 2: RNG_test on file via bash.
+    cmd2 = (f"{shlex.quote(rng_bin)} {shlex.quote(f'file64({tmpf})')} "
+            f"> {shlex.quote(log)} 2>&1")
+    r2 = subprocess.run(["bash", "-c", cmd2], timeout=timeout_s)
+    # Cleanup.
+    subprocess.run(["rm", "-f", tmpf], timeout=30)
     text = open(log).read()
     fails = [l for l in text.splitlines() if "FAIL" in l][:8]
     ran_tests = ("length=" in text and
