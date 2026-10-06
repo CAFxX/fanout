@@ -141,7 +141,16 @@ build_practrand() {
       -O3 -I"$src/include" -I"$src/tools" -pthread \
       || { echo "RNG_test link failed"; return 1; }
   cd "$HERE"; rm -rf "$b"
-  "$INSTALL/bin/RNG_test" --help 2>&1 | head -2 || true
+  # Functional smoke test (2026-10-06): a binary that builds but segfaults
+  # or otherwise produces no output on startup must fail the build LOUDLY
+  # here, not silently deep in the first PractRand stage. Feed 2MB;
+  # RNG_test must emit "length=" test output (-tlmin forces early start).
+  if ! head -c 2097152 /dev/urandom 2>/dev/null | \
+       timeout 60 "$INSTALL/bin/RNG_test" stdin64 -tlmin 1KB 2>&1 \
+       | grep -q "length="; then
+    echo "[third_party] FATAL: RNG_test smoke test failed (no test output)" >&2
+    return 1
+  fi
   echo "[third_party] RNG_test OK"
 }
 

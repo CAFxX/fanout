@@ -9,7 +9,11 @@ projects/*/battery/third_party/install/
 projects/*/battery/third_party/_build_*/
 
 # Autotools/configure scratch inside vendored trees
-*.log
+# NOTE: do NOT use *.log here — the battery's s3_practrand_*.log files are
+# critical diagnostics committed by the collect job (2026-10-06: a blanket
+# *.log ignore silently dropped every PractRand log, hiding an
+# "RNG_test produced no output" failure).
+config.log
 
 # Battery synthesis scratch (local runs only)
 projects/*/battery/ref/_*
