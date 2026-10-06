@@ -128,8 +128,10 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     # Step 1: gen to file via bash.
     cmd1 = (f"{shlex.quote(gen_bin)} {shlex.quote(key)} {nbytes} "
             f"{shlex.quote(stride)} > {shlex.quote(tmpf)} "
-            f"2>{shlex.quote(err)}")
-    r1 = subprocess.run(["bash", "-c", cmd1], timeout=timeout_s)
+            f"2>{shlex.quote(err)}; echo \"gen_exit:$?\"; ls -la {shlex.quote(tmpf)}")
+    r1 = subprocess.run(["bash", "-c", cmd1], capture_output=True, text=True,
+                        timeout=timeout_s)
+    print(f"[s3_diag] step1: {r1.stdout.strip()}", flush=True)
     # Step 2: RNG_test on file via bash.
     cmd2 = (f"{shlex.quote(rng_bin)} {shlex.quote(f'file64({tmpf})')} "
             f"> {shlex.quote(log)} 2>&1")
