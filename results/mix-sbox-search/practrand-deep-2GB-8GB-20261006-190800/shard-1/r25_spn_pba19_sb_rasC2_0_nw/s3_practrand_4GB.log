@@ -1,0 +1,33 @@
+RNG_test using PractRand version 0.96
+RNG = RNG_file64("/tmp/_gen_4GB.bin"), seed = unknown
+test set = core, folding = standard (64 bit)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 64 megabytes (2^26 bytes), time= 3.3 seconds
+  no anomalies in 172 test result(s)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 128 megabytes (2^27 bytes), time= 7.0 seconds
+  no anomalies in 185 test result(s)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 256 megabytes (2^28 bytes), time= 8.3 seconds
+  no anomalies in 199 test result(s)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 512 megabytes (2^29 bytes), time= 10.3 seconds
+  no anomalies in 213 test result(s)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 1 gigabyte (2^30 bytes), time= 13.5 seconds
+  no anomalies in 227 test result(s)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 2 gigabytes (2^31 bytes), time= 19.5 seconds
+  no anomalies in 242 test result(s)
+
+rng=RNG_file64("/tmp/_gen_4GB.bin"), seed=unknown
+length= 4 gigabytes (2^32 bytes), time= 31.4 seconds
+  no anomalies in 256 test result(s)
+
+error reading from file

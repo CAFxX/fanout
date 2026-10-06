@@ -1,0 +1,14 @@
+{
+ "candidate": "r25_spn_pba19_sb_rasC2_0_513_nw",
+ "stage": "s3",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "all stages: no FAIL",
+  "failed_stage": null,
+  "max_bytes": 8589934592,
+  "xcheck_vecs": 10000,
+  "wall_s": 822.6,
+  "native_result": "s3_practrand_*.log"
+ },
+ "ts": "2026-10-06T19:23:41Z"
+}
