@@ -1,0 +1,8 @@
+{
+ "candidate": "_driver",
+ "stage": "s3",
+ "verdict": "INFRA_FAIL",
+ "detail": {
+  "signal": "driver crash: CanaryFail: canary s3/pass (pass/r23_spn_mix4r_pba19b01_nw): want ('PASS', 'CAL_PASS'), got INFRA_FAIL; detail={'signal': 'RNG_test produced no test output at 16MB after 3 attempts \u2014 see s3_practrand_16MB*.log'}; STAGE QUARANTINED\nTraceback (most recent call last):\n  File \"/work/projects/mix-sbox-search/battery/s3.py\", line 273, in main_wrapped\n    main()\n    ~~~~^^\n  File \"/work/projects/mix-sbox-search/battery/s3.py\", line 244, in main\n    common.run_canaries(\n    ~~~~~~~~~~~~~~~~~~~^\n        \"s3\",\n        ^^^^^\n    ...<3 lines>...\n        {\"pass\": \"pass/r23_spn_mix4r_pba19b01_nw\",\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n         \"kill\": \"kill_s234/identity\"})\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/work/projects/mix-sbox-search/battery/common.py\", line 150, in run_canaries\n    raise CanaryFail(\n        f\"canary {stage}/{role} ({rel}): want {want}, \"\n        f\"got {got}; detail={rec['detail']}; STAGE QUARANTINED\")\ncommon.CanaryFail: canary s3/pass (pass/r23_spn_mix4r_pba19b01_nw): want ('PASS', 'CAL_PASS'), got INFRA_FAIL; detail={'signal': 'RNG_test produced no test output at 16MB after 3 attempts \u2014 see s3_practrand_16MB*.log'}; STAGE QUARANTINED\n"
+ }
+}
