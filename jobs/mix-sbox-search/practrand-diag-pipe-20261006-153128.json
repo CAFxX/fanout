@@ -1,0 +1,12 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "practrand-diag-pipe-20261006-153128",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/s3.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_rasC2_0_513_nw --min-bytes 16777216 --max-bytes 16777216",
+ "shards": 1,
+ "timeout_minutes": 60,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow\nS3_PIPE_DEBUG=0",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "priority": "frontier-challengers"
+}
