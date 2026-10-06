@@ -285,9 +285,13 @@ jobs:
           # the container's sh -c then expands them where they are set.
           CMD='${{ steps.cfg.outputs.command }}'
           CMD_ESCAPED=${CMD//\$/\\\$}
+          # The image's default user (mambauser) cannot write to the
+          # runner-owned mount; run as the runner's uid/gid instead so
+          # driver/canary outputs land with correct ownership.
+          RUID=$(id -u); RGID=$(id -g)
           set +e
           # shellcheck disable=SC2086
-          docker run --rm -v "$PWD:/work" -w /work $ENV_ARGS \
+          docker run --rm --user "$RUID:$RGID" -v "$PWD:/work" -w /work $ENV_ARGS \
             "${{ steps.cfg.outputs.image }}" sh -c "$CMD_ESCAPED"
           RC=$?
           set -e
