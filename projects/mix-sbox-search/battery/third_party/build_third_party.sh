@@ -110,9 +110,23 @@ ensure_source() {
   return 1
 }
 
+# Pre-flight: fail fast with a clear message if the toolchain is
+# incomplete. (2026-10-06: the GHA image had gcc but neither g++ nor ar;
+# the build died mid-way with a confusing "command not found".)
+require_tools() {
+  local t
+  for t in "$@"; do
+    command -v "$t" >/dev/null 2>&1 || {
+      echo "[third_party] FATAL: required tool '$t' not found in PATH" >&2
+      return 1
+    }
+  done
+}
+
 build_practrand() {
   [ -f "$INSTALL/bin/RNG_test" ] && \
     { echo "[third_party] RNG_test already built; skipping"; return 0; }
+  require_tools g++ ar curl unzip || return 1
   ensure_source "practrand" "$PRACTRAND_SHA256" "$PRACTRAND_SCOPE" \
     "${PRACTRAND_URLS[@]}" || return 1
   echo "[third_party] building PractRand RNG_test ..."
