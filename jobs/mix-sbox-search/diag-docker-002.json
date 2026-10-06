@@ -1,0 +1,15 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "diag-docker-002",
+ "image": "ubuntu:24.04",
+ "command": "echo RUNNER_DOCKER_OK",
+ "shards": 1,
+ "timeout_minutes": 10,
+ "env": "",
+ "cache_key": "",
+ "cache_paths": "",
+ "registry_user": "",
+ "registry_password": "",
+ "priority": "manual",
+ "submitted_at": "2026-10-06T04:34:15.327216+00:00"
+}
