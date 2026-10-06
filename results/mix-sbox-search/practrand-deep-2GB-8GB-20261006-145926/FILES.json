@@ -1,0 +1,32 @@
+{
+ "job_id": "practrand-deep-2GB-8GB-20261006-145926",
+ "files": [
+  "STATUS.json",
+  "shard-0/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/__pycache__/model.cpython-314.pyc",
+  "shard-0/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/meta.json",
+  "shard-0/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/model.py",
+  "shard-0/_canary/_canary/pass/_work/_xcheck_vecs.txt",
+  "shard-0/_canary/_canary/pass/_work/gen",
+  "shard-0/_canary/_canary/pass/s3_gen_16MB.err",
+  "shard-0/_canary/_canary/pass/s3_gen_16MB_try1.err",
+  "shard-0/_canary/_canary/pass/s3_gen_16MB_try2.err",
+  "shard-0/_canary/_canary/pass/s3_practrand_16MB.log",
+  "shard-0/_canary/_canary/pass/s3_practrand_16MB_try1.log",
+  "shard-0/_canary/_canary/pass/s3_practrand_16MB_try2.log",
+  "shard-0/_canary/_canary/r23_spn_mix4r_pba19b01_nw_s3.json",
+  "shard-0/_shard_status.json",
+  "shard-1/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/__pycache__/model.cpython-314.pyc",
+  "shard-1/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/meta.json",
+  "shard-1/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/model.py",
+  "shard-1/_canary/_canary/pass/_work/_xcheck_vecs.txt",
+  "shard-1/_canary/_canary/pass/_work/gen",
+  "shard-1/_canary/_canary/pass/s3_gen_16MB.err",
+  "shard-1/_canary/_canary/pass/s3_gen_16MB_try1.err",
+  "shard-1/_canary/_canary/pass/s3_gen_16MB_try2.err",
+  "shard-1/_canary/_canary/pass/s3_practrand_16MB.log",
+  "shard-1/_canary/_canary/pass/s3_practrand_16MB_try1.log",
+  "shard-1/_canary/_canary/pass/s3_practrand_16MB_try2.log",
+  "shard-1/_canary/_canary/r23_spn_mix4r_pba19b01_nw_s3.json",
+  "shard-1/_shard_status.json"
+ ]
+}
