@@ -1,0 +1,32 @@
+{
+ "job_id": "diag-docker-001",
+ "project": "mix-sbox-search",
+ "status": "failed",
+ "shards": 1,
+ "n_ok": 0,
+ "n_failed": 1,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "diag-docker-001",
+  "image": "ubuntu:24.04",
+  "command": "echo RUNNER_DOCKER_OK; cat /etc/os-release | head -2",
+  "shards": 1,
+  "timeout_minutes": 10,
+  "env": "",
+  "cache_key": "",
+  "cache_paths": "",
+  "registry_user": "",
+  "registry_password": "",
+  "priority": "manual",
+  "submitted_at": "2026-10-06T04:31:08.555283+00:00"
+ },
+ "finished_at": "2026-10-06T04:31:37.603470+00:00"
+}
