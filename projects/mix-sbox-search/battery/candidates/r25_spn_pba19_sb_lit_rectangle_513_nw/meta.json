@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_lit_rectangle_513_nw",
+ "description": "Broad S-box screen: 4r SPN, lit_rectangle (94fae106c7382b5d), pba19, L=lin(5,13), golden ks.",
+ "composition": "Broad S-box screen: 4r SPN, lit_rectangle (94fae106c7382b5d), pba19, L=lin(5,13), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_lit_rectangle_513_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x3f7b62332996df93"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0xa2c483251cfbfcec"
+  }
+ ]
+}
