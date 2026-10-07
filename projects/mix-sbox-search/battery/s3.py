@@ -119,25 +119,23 @@ def run_stage(gen_bin, rng_bin, key, nbytes, stride, c_out, tag):
     timeout_s = max(7200, int(nbytes / (1024**3) * 600))
     log = os.path.join(c_out, f"s3_practrand_{tag}.log")
     err = os.path.join(c_out, f"s3_gen_{tag}.err")
-    # Do the entire stage in bash (2026-10-06): Python subprocess pipe
-    # redirection silently delivers EOF to RNG_test in the GHA job
-    # container (docker run --user $RUID). Bash pipes work at image build
-    # time; test if they work at job runtime.
+    # Direct pipe in bash (2026-10-07): the intermediate-file workaround
+    # (gen > /tmp/_gen_TAG.bin, then RNG_test file64(...)) infra-failed on
+    # 2026-10-07 — "error reading from file", 2/2 shards, 6/6 attempts at
+    # 16MB, with the generator's own stderr empty. The file the generator
+    # had just written was unreadable to RNG_test in the job container.
+    # This restores the documented design: the generator is piped DIRECTLY
+    # into RNG_test stdin64 with no intermediate files (identical to the
+    # local src/s3_practrand.sh). pipefail + PIPESTATUS keep a generator
+    # failure visible instead of masked by RNG_test's exit code.
     import shlex
-    tmpf = f"/tmp/_gen_{tag}.bin"
-    # Step 1: gen to file via bash.
-    cmd1 = (f"{shlex.quote(gen_bin)} {shlex.quote(key)} {nbytes} "
-            f"{shlex.quote(stride)} > {shlex.quote(tmpf)} "
-            f"2>{shlex.quote(err)}; echo \"gen_exit:$?\"; ls -la {shlex.quote(tmpf)}")
-    r1 = subprocess.run(["bash", "-c", cmd1], capture_output=True, text=True,
-                        timeout=timeout_s)
-    print(f"[s3_diag] step1: {r1.stdout.strip()}", flush=True)
-    # Step 2: RNG_test on file via bash.
-    cmd2 = (f"{shlex.quote(rng_bin)} {shlex.quote(f'file64({tmpf})')} "
-            f"> {shlex.quote(log)} 2>&1")
-    r2 = subprocess.run(["bash", "-c", cmd2], timeout=timeout_s)
-    # Cleanup.
-    subprocess.run(["rm", "-f", tmpf], timeout=30)
+    cmd = (f"set -o pipefail; {shlex.quote(gen_bin)} {shlex.quote(key)} "
+           f"{nbytes} {shlex.quote(stride)} 2>{shlex.quote(err)} | "
+           f"{shlex.quote(rng_bin)} stdin64 > {shlex.quote(log)} 2>&1; "
+           f"echo \"pipe_status:${{PIPESTATUS[0]}}:${{PIPESTATUS[1]}}\"")
+    r = subprocess.run(["bash", "-c", cmd], capture_output=True, text=True,
+                       timeout=timeout_s)
+    print(f"[s3_diag] {tag}: {r.stdout.strip()}", flush=True)
     text = open(log).read()
     fails = [l for l in text.splitlines() if "FAIL" in l][:8]
     ran_tests = ("length=" in text and
