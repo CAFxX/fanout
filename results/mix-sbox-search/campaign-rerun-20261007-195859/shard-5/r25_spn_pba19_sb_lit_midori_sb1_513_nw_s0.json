@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_lit_midori_sb1_513_nw",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 27.7,
+  "cells": 5291,
+  "area": 14269.0,
+  "delay_ratio_vs_mult": 0.2676,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-07T20:08:00Z"
+}

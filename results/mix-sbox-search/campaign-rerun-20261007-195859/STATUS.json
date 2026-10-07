@@ -1,0 +1,134 @@
+{
+ "job_id": "campaign-rerun-20261007-195859",
+ "project": "mix-sbox-search",
+ "status": "partial",
+ "shards": 15,
+ "n_ok": 2,
+ "n_failed": 13,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 1,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 2,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 3,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 4,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 6,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 7,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 8,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 9,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 10,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 11,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 12,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 13,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 14,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "campaign-rerun-20261007-195859",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_lit_present_513_nw,r25_spn_pba19_sb_lit_skinny_513_nw,r25_spn_pba19_sb_lit_rectangle_513_nw,r25_spn_pba19_sb_lit_midori_sb0_513_nw,r25_spn_pba19_sb_lit_midori_sb1_513_nw,r25_spn_pba19_sb_s1_baseline_513_nw,r25_spn_pba19_sb_aff_eq3_513_nw,r25_spn_pba19_sb_aff_eq4_513_nw,r25_spn_pba19_sb_aff_eq5_513_nw,r25_spn_pba19_sb_aff_eq6_513_nw,r25_spn_pba19_sb_rnd_opt1_513_nw,r25_spn_pba19_sb_rnd_opt2_513_nw,r25_spn_pba19_sb_rnd_opt3_513_nw,r25_spn_pba19_sb_rnd_opt4_513_nw,r25_spn_pba19_sb_rnd_opt5_513_nw --stages s0,s1,s2,s3,s4 --skip-canary",
+  "shards": 15,
+  "timeout_minutes": 180,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "priority": "new-leads",
+  "est_min": 1889.9999999999998,
+  "campaign": "campaign-rerun-20261007-195859",
+  "candidates": [
+   "r25_spn_pba19_sb_lit_present_513_nw",
+   "r25_spn_pba19_sb_lit_skinny_513_nw",
+   "r25_spn_pba19_sb_lit_rectangle_513_nw",
+   "r25_spn_pba19_sb_lit_midori_sb0_513_nw",
+   "r25_spn_pba19_sb_lit_midori_sb1_513_nw",
+   "r25_spn_pba19_sb_s1_baseline_513_nw",
+   "r25_spn_pba19_sb_aff_eq3_513_nw",
+   "r25_spn_pba19_sb_aff_eq4_513_nw",
+   "r25_spn_pba19_sb_aff_eq5_513_nw",
+   "r25_spn_pba19_sb_aff_eq6_513_nw",
+   "r25_spn_pba19_sb_rnd_opt1_513_nw",
+   "r25_spn_pba19_sb_rnd_opt2_513_nw",
+   "r25_spn_pba19_sb_rnd_opt3_513_nw",
+   "r25_spn_pba19_sb_rnd_opt4_513_nw",
+   "r25_spn_pba19_sb_rnd_opt5_513_nw"
+  ],
+  "stages": "s0,s1,s2,s3,s4",
+  "submitted_at": "2026-10-07T19:58:59.207572+00:00"
+ },
+ "finished_at": "2026-10-07T20:12:28.701065+00:00"
+}
