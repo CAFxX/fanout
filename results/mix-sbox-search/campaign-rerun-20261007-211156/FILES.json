@@ -1,0 +1,20 @@
+{
+ "job_id": "campaign-rerun-20261007-211156",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/_work/_shadow/candidates/r25_spn_pba19_sb_lit_midori_sb1_513_nw/__pycache__/model.cpython-314.pyc",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/_work/_shadow/candidates/r25_spn_pba19_sb_lit_midori_sb1_513_nw/meta.json",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/_work/_shadow/candidates/r25_spn_pba19_sb_lit_midori_sb1_513_nw/model.py",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/_work/_xcheck_vecs.txt",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/_work/gen",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/s3_gen_16MB.err",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/s3_gen_16MB_try1.err",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/s3_gen_16MB_try2.err",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/s3_practrand_16MB.log",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/s3_practrand_16MB_try1.log",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw/s3_practrand_16MB_try2.log",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw_campaign.json",
+  "shard-0/r25_spn_pba19_sb_lit_midori_sb1_513_nw_s3.json"
+ ]
+}
