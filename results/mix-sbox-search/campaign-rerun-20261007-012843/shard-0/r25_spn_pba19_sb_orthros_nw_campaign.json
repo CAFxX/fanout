@@ -1,0 +1,13 @@
+{
+ "candidate": "r25_spn_pba19_sb_orthros_nw",
+ "stages": {
+  "s3": {
+   "verdict": "INFRA_FAIL",
+   "signal": "RNG_test produced no test output at 16MB after 3 attempts \u2014 see s3_practrand_16MB*.log",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s3",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
