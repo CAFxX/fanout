@@ -1,0 +1,19 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "campaign-rerun-20261007-211156",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_lit_midori_sb1_513_nw --stages s3 --skip-canary",
+ "shards": 1,
+ "timeout_minutes": 180,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "priority": "frontier-challengers",
+ "est_min": 125.99999999999999,
+ "campaign": "campaign-rerun-20261007-211156",
+ "candidates": [
+  "r25_spn_pba19_sb_lit_midori_sb1_513_nw"
+ ],
+ "stages": "s3",
+ "submitted_at": "2026-10-07T21:11:56.760024+00:00"
+}
