@@ -1,0 +1,24 @@
+{
+ "job_id": "directed-s0-11-20261008-1345-rerun",
+ "files": [
+  "STATUS.json",
+  "shard-2/_shard_status.json",
+  "shard-2/dd3_hetero_URUR_nw/_equiv_sim_dd3_hetero_URUR_nw",
+  "shard-2/dd3_hetero_URUR_nw/_equiv_tb_dd3_hetero_URUR_nw.v",
+  "shard-2/dd3_hetero_URUR_nw/_equiv_vecs_dd3_hetero_URUR_nw.txt",
+  "shard-2/dd3_hetero_URUR_nw/_synth/mapped_dd3_hetero_URUR_nw.v",
+  "shard-2/dd3_hetero_URUR_nw/_synth/s_dd3_hetero_URUR_nw.ys",
+  "shard-2/dd3_hetero_URUR_nw/s0_result.json",
+  "shard-2/dd3_hetero_URUR_nw_campaign.json",
+  "shard-2/dd3_hetero_URUR_nw_s0.json",
+  "shard-8/_shard_status.json",
+  "shard-8/dd6_ksrot1_lin8_15_nw/_equiv_sim_dd6_ksrot1_lin8_15_nw",
+  "shard-8/dd6_ksrot1_lin8_15_nw/_equiv_tb_dd6_ksrot1_lin8_15_nw.v",
+  "shard-8/dd6_ksrot1_lin8_15_nw/_equiv_vecs_dd6_ksrot1_lin8_15_nw.txt",
+  "shard-8/dd6_ksrot1_lin8_15_nw/_synth/mapped_dd6_ksrot1_lin8_15_nw.v",
+  "shard-8/dd6_ksrot1_lin8_15_nw/_synth/s_dd6_ksrot1_lin8_15_nw.ys",
+  "shard-8/dd6_ksrot1_lin8_15_nw/s0_result.json",
+  "shard-8/dd6_ksrot1_lin8_15_nw_campaign.json",
+  "shard-8/dd6_ksrot1_lin8_15_nw_s0.json"
+ ]
+}
