@@ -1,0 +1,24 @@
+{
+ "job_id": "directed-s0-13-20261008-082532",
+ "files": [
+  "STATUS.json",
+  "shard-10/_shard_status.json",
+  "shard-10/dd6_ksrot1_lin8_15_nw/_equiv_sim_dd6_ksrot1_lin8_15_nw",
+  "shard-10/dd6_ksrot1_lin8_15_nw/_equiv_tb_dd6_ksrot1_lin8_15_nw.v",
+  "shard-10/dd6_ksrot1_lin8_15_nw/_equiv_vecs_dd6_ksrot1_lin8_15_nw.txt",
+  "shard-10/dd6_ksrot1_lin8_15_nw/_synth/mapped_dd6_ksrot1_lin8_15_nw.v",
+  "shard-10/dd6_ksrot1_lin8_15_nw/_synth/s_dd6_ksrot1_lin8_15_nw.ys",
+  "shard-10/dd6_ksrot1_lin8_15_nw/s0_result.json",
+  "shard-10/dd6_ksrot1_lin8_15_nw_campaign.json",
+  "shard-10/dd6_ksrot1_lin8_15_nw_s0.json",
+  "shard-4/_shard_status.json",
+  "shard-4/dd5_r3_513_nw/_equiv_sim_dd5_r3_513_nw",
+  "shard-4/dd5_r3_513_nw/_equiv_tb_dd5_r3_513_nw.v",
+  "shard-4/dd5_r3_513_nw/_equiv_vecs_dd5_r3_513_nw.txt",
+  "shard-4/dd5_r3_513_nw/_synth/mapped_dd5_r3_513_nw.v",
+  "shard-4/dd5_r3_513_nw/_synth/s_dd5_r3_513_nw.ys",
+  "shard-4/dd5_r3_513_nw/s0_result.json",
+  "shard-4/dd5_r3_513_nw_campaign.json",
+  "shard-4/dd5_r3_513_nw_s0.json"
+ ]
+}

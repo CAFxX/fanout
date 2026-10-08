@@ -1,0 +1,118 @@
+{
+ "job_id": "directed-s0-13-20261008-082532",
+ "project": "mix-sbox-search",
+ "status": "partial",
+ "shards": 13,
+ "n_ok": 2,
+ "n_failed": 11,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 1,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 2,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 3,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 5,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 6,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 7,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 8,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 9,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 10,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 11,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 12,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "directed-s0-13-20261008-082532",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd3_hetero_MRMR_nw,dd3_hetero_RMRM_nw,dd3_hetero_RRMM_nw,dd3_hetero_URUR_nw,dd5_r3_513_nw,dd5_r5_513_nw,dd5_r6_513_nw,dd6_ksnorc_lin5_9_nw,dd6_ksnorc_lin8_15_nw,dd6_ksrot1_lin5_9_nw,dd6_ksrot1_lin8_15_nw,dd6_kssmallrc_lin5_9_nw,dd6_kssmallrc_lin8_15_nw --stages s0 --skip-canary",
+  "shards": 13,
+  "timeout_minutes": 30,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "priority": "new-leads",
+  "est_min": 195.0,
+  "campaign": "directed-s0-13-20261008-082532",
+  "candidates": [
+   "dd3_hetero_MRMR_nw",
+   "dd3_hetero_RMRM_nw",
+   "dd3_hetero_RRMM_nw",
+   "dd3_hetero_URUR_nw",
+   "dd5_r3_513_nw",
+   "dd5_r5_513_nw",
+   "dd5_r6_513_nw",
+   "dd6_ksnorc_lin5_9_nw",
+   "dd6_ksnorc_lin8_15_nw",
+   "dd6_ksrot1_lin5_9_nw",
+   "dd6_ksrot1_lin8_15_nw",
+   "dd6_kssmallrc_lin5_9_nw",
+   "dd6_kssmallrc_lin8_15_nw"
+  ]
+ },
+ "finished_at": "2026-10-08T08:28:23.171768+00:00"
+}
