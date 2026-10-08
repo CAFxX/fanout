@@ -1,0 +1,14 @@
+{
+ "candidate": "al_cascad",
+ "stage": "s3",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "all stages: no FAIL",
+  "failed_stage": null,
+  "max_bytes": 8589934592,
+  "xcheck_vecs": 10000,
+  "wall_s": 360.7,
+  "native_result": "s3_practrand_*.log"
+ },
+ "ts": "2026-10-08T07:36:15Z"
+}
