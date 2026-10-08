@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_rnd_opt3_513_nw",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 31.8,
+  "cells": 5930,
+  "area": 16634.0,
+  "delay_ratio_vs_mult": 0.3072,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-08T01:59:47Z"
+}
