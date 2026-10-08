@@ -1,0 +1,15 @@
+{
+ "candidate": "r25_spn_pba19_sb_rnd_opt5_513_nw",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=0 max|z|=3.8",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 113.4,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-08T02:03:16Z"
+}
