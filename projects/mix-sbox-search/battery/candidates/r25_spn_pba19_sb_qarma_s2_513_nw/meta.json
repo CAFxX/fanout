@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_qarma_s2_513_nw",
+ "description": "Broad S-box screen: 4r SPN, QARMA_S2 (b68fc09e3745d21a), pba19, L=lin(5,13), golden ks.",
+ "composition": "Broad S-box screen: 4r SPN, QARMA_S2 (b68fc09e3745d21a), pba19, L=lin(5,13), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_qarma_s2_513_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x8f42a8d52b953f46"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0x770cb194fdae8ddf"
+  }
+ ]
+}
