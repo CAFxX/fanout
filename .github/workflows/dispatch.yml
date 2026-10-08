@@ -176,12 +176,15 @@ jobs:
                             f"({st}); skipping")
                       continue
               live_specs.append(spec)
-              spec_b64 = base64.b64encode(
-                  json.dumps(spec).encode()).decode()
+              # NB: the full spec is emitted ONCE per spec (in the `specs`
+              # output below), never once per shard. Embedding spec_b64 in
+              # every combo blew GitHub's 1MB step-output limit (32 shards
+              # x 33KB spec killed the setup job, 2026-10-08 broad-s0-317).
+              # Shard jobs look their spec up from `specs` by (project,
+              # job_id) in the cfg step below.
               for i in range(spec["shards"]):
                   combos.append({"project": project, "job_id": job_id,
-                                 "spec_b64": spec_b64, "idx": i,
-                                 "shards": spec["shards"]})
+                                 "idx": i, "shards": spec["shards"]})
 
           out("specs", json.dumps([
               {"project": s["project"], "job_id": s["job_id"],
@@ -219,11 +222,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: cfg
+        # The spec is looked up from the once-per-spec `specs` output
+        # (never duplicated per shard — see setup above).
+        env:
+          SPECS_JSON: ${{ needs.setup.outputs.specs }}
+          WANT_PROJECT: ${{ matrix.combo.project }}
+          WANT_JOB_ID: ${{ matrix.combo.job_id }}
         run: |
           python3 - <<'EOF' >> "$GITHUB_OUTPUT"
           import base64, json, os
-          spec = json.loads(base64.b64decode(
-              os.environ["SPEC_B64"]).decode())
+          want = (os.environ["WANT_PROJECT"], os.environ["WANT_JOB_ID"])
+          specs = json.loads(os.environ["SPECS_JSON"])
+          b64 = next(s["spec_b64"] for s in specs
+                     if (s["project"], s["job_id"]) == want)
+          spec = json.loads(base64.b64decode(b64).decode())
           for k in ("image", "command", "timeout_minutes", "env",
                     "cache_key", "cache_paths", "registry_user",
                     "registry_password", "project", "job_id"):
@@ -232,8 +244,6 @@ jobs:
               print(v)
               print(f"PYEOF_{k}")
           EOF
-        env:
-          SPEC_B64: ${{ matrix.combo.spec_b64 }}
       - name: enforce per-shard timeout cap
         run: |
           T='${{ steps.cfg.outputs.timeout_minutes }}'
