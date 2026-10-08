@@ -1,0 +1,39 @@
+{
+ "name": "dd6_ksrot1_lin5_9_nw",
+ "description": "Directed Design 6: ks=rot1 x lin(5,9) stacking test",
+ "composition": "Directed Design 6: ks=rot1 x lin(5,9) stacking test",
+ "batch": "batch6",
+ "rtl_top": "dd6_ksrot1_lin5_9_nw",
+ "spec": {
+  "nrounds": 4,
+  "rots": [
+   5,
+   9
+  ],
+  "ks": {
+   "rot_step": 1,
+   "rc": "golden"
+  },
+  "order": "LPS"
+ },
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0xc863d88a54b9510d"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0xcfe678954453033f"
+  }
+ ]
+}

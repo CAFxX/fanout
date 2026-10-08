@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_boyar19_gf4inv_513_nw",
+ "description": "Broad S-box screen: 4r SPN, BOYAR19_GF4INV (04c81aed3b59276f), pba19, L=lin(5,13), golden ks.",
+ "composition": "Broad S-box screen: 4r SPN, BOYAR19_GF4INV (04c81aed3b59276f), pba19, L=lin(5,13), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_boyar19_gf4inv_513_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0xc861cff74ca9a9eb"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0xce9da433e6631b87"
+  }
+ ]
+}
