@@ -1,22 +1,25 @@
 {
  "project": "mix-sbox-search",
  "job_id": "broad-s1s2-20261009-b",
- "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
- "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_jia25_12ge_ex_513_nw,r25_spn_pba19_sb_qarma_s1_513_nw",
- "shards": 2,
- "timeout_minutes": 300,
- "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
- "cache_key": "third-party",
- "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
- "registry_user": "",
- "registry_password": "",
- "priority": "new-leads",
- "est_min": 120,
- "per_shard_min": 60,
  "campaign": "broad-s1s2-20261009-b",
  "candidates": [
+  "r25_spn_pba19_sb_rasd3c1_115_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_77_513_nw",
   "r25_spn_pba19_sb_jia25_12ge_ex_513_nw",
   "r25_spn_pba19_sb_qarma_s1_513_nw"
  ],
- "submitted_at": "2026-10-09T09:21:13.044809+00:00"
+ "shards": 4,
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_rasd3c1_115_513_nw,r25_spn_pba19_sb_rasd3c1_77_513_nw,r25_spn_pba19_sb_jia25_12ge_ex_513_nw,r25_spn_pba19_sb_qarma_s1_513_nw --stages s1,s2",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "timeout_minutes": 300,
+ "per_shard_min": 60,
+ "est_min": 240.0,
+ "priority": "new-leads",
+ "registry_user": "",
+ "registry_password": "",
+ "submitted_at": "2026-10-09T20:49:29+00:00",
+ "note": "S1/S2 for the 4 remaining broad-S0 survivors (115 27.3u, 77 28.3u, jia25_12ge_ex 28.9u, qarma_s1 29.1u) lost to the cancelled a/a2 campaigns. Bundles already pushed (commit 62848b5f). By broad-sbox-resubmit worker 2026-10-09."
 }
