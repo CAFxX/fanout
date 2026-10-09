@@ -1,0 +1,130 @@
+{
+ "candidate": "dd8_r3_RMR_vlin1_nw",
+ "verdict": "FLAG",
+ "pb_rejected": [],
+ "red_rejected": [],
+ "lin_rejected": [
+  "('LIN', 0)",
+  "('LIN', 18446744073709551615)",
+  "('LIN', 12297829382473034410)",
+  "('LIN', 6148914691236517205)",
+  "('LIN', 16045690984833335023)",
+  "('LIN', 11400714819323198485)",
+  "('LIN', 4660)",
+  "('LIN', 81985529216486895)",
+  "('LIN', 17344816400086835893)",
+  "('LIN', 660209390169048899)"
+ ],
+ "diff_rejected": [
+  "('DIFF', 0)",
+  "('DIFF', 18446744073709551615)",
+  "('DIFF', 12297829382473034410)",
+  "('DIFF', 6148914691236517205)",
+  "('DIFF', 16045690984833335023)",
+  "('DIFF', 11400714819323198485)",
+  "('DIFF', 4660)",
+  "('DIFF', 81985529216486895)",
+  "('DIFF', 17344816400086835893)",
+  "('DIFF', 660209390169048899)"
+ ],
+ "lin_detail": {
+  "('LIN', 0)": {
+   "D": 4060,
+   "logp": -Infinity
+  },
+  "('LIN', 18446744073709551615)": {
+   "D": 4086,
+   "logp": -Infinity
+  },
+  "('LIN', 12297829382473034410)": {
+   "D": 4091,
+   "logp": -Infinity
+  },
+  "('LIN', 6148914691236517205)": {
+   "D": 4088,
+   "logp": -Infinity
+  },
+  "('LIN', 16045690984833335023)": {
+   "D": 4068,
+   "logp": -Infinity
+  },
+  "('LIN', 11400714819323198485)": {
+   "D": 4096,
+   "logp": -Infinity
+  },
+  "('LIN', 4660)": {
+   "D": 4077,
+   "logp": -Infinity
+  },
+  "('LIN', 81985529216486895)": {
+   "D": 4051,
+   "logp": -Infinity
+  },
+  "('LIN', 17344816400086835893)": {
+   "D": 4096,
+   "logp": -Infinity
+  },
+  "('LIN', 660209390169048899)": {
+   "D": 4096,
+   "logp": -Infinity
+  }
+ },
+ "diff_detail": {
+  "('DIFF', 0)": {
+   "worst_z": 861.4905284919944,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -371087.0594243644
+  },
+  "('DIFF', 18446744073709551615)": {
+   "worst_z": 577.1022915793366,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -166527.22091218806
+  },
+  "('DIFF', 12297829382473034410)": {
+   "worst_z": 376.9782353659308,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -71059.56257685497
+  },
+  "('DIFF', 6148914691236517205)": {
+   "worst_z": 2327.2291745217026,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -2708002.9032257204
+  },
+  "('DIFF', 16045690984833335023)": {
+   "worst_z": 366.0983181197449,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -67017.22758657378
+  },
+  "('DIFF', 11400714819323198485)": {
+   "worst_z": 670.9577506776508,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -225095.9957229713
+  },
+  "('DIFF', 4660)": {
+   "worst_z": 613.874336211557,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -188424.6055394276
+  },
+  "('DIFF', 81985529216486895)": {
+   "worst_z": 826.6958958463938,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -341717.10496113834
+  },
+  "('DIFF', 17344816400086835893)": {
+   "worst_z": 718.2928284798248,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -257976.20601969326
+  },
+  "('DIFF', 660209390169048899)": {
+   "worst_z": 3650.168647237734,
+   "fisher_logp": -Infinity,
+   "bonf_logp": -6661871.1145869205
+  }
+ },
+ "raw_worst_perbit_z": null,
+ "raw_worst_red_z": null,
+ "marginal_skipped": true,
+ "time_marginal_s": 0.0,
+ "time_lin_diff_s": 9.1,
+ "fwer": "NOT RIGOROUS: Fisher-combines dependent p-values (liberal); only LIN family has an honest familywise guarantee. See docstring MAJOR-4/5 notes."
+}
