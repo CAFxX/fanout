@@ -1,0 +1,15 @@
+{
+ "candidate": "dd3_hetero_MRMR_nw",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=1 max|z|=18.3",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 215.7,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T21:00:12Z"
+}
