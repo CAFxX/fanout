@@ -1,0 +1,19 @@
+{
+ "candidate": "al_dualand5b",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [
+   "('DIFF', 0)",
+   "('DIFF', 4660)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 3.9,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-09T21:03:07Z"
+}

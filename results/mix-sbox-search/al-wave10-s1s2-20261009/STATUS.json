@@ -1,0 +1,74 @@
+{
+ "job_id": "al-wave10-s1s2-20261009",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 6,
+ "n_ok": 6,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "campaign": "al-wave10-s1s2-20261009",
+  "candidates": [
+   "al_dualand5a",
+   "al_dualand5b",
+   "al_dualand6a",
+   "al_het6a",
+   "al_het6b",
+   "al_and6a"
+  ],
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only al_dualand5a,al_dualand5b,al_dualand6a,al_het6a,al_het6b,al_and6a --stages s1,s2",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "est_min": 360.0,
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "job_id": "al-wave10-s1s2-20261009",
+  "note": "Track 3 wave-10 (NEW direction; wave-9 danger-zone-free progressive single-AND falsified). Prong A: dual-AND 5/6-stage (5/6-stage dual NEVER tried; dualand5a/b floor attack, dualand6a quality probe). Prong B: heterostage and/or (het6a) and and/chi (het6b) on known-clean and6a triplets (resonance control). al_and6a = golden canary (known S2 max_repeats=0). Bundles bit-exact verified (triage C-vs-Python xcheck OK all 5; triage PASS aval 0.012-0.017 zmax 2.9-4.5). S0: dualand5a 24.7u, dualand5b 24.4u, dualand6a 28.7u, het6a 20.4u, het6b 20.4u. By track-3 supervisor 2026-10-09 (post-reboot respawn).",
+  "per_shard_min": 60,
+  "priority": "frontier-challengers",
+  "project": "mix-sbox-search",
+  "registry_password": "",
+  "registry_user": "",
+  "shards": 6,
+  "submitted_at": "2026-10-09T20:58:00+00:00",
+  "timeout_minutes": 300
+ },
+ "finished_at": "2026-10-09T21:08:32.757776+00:00"
+}
