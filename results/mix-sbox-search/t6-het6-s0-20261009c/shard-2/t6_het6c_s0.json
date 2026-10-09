@@ -1,0 +1,18 @@
+{
+ "candidate": "t6_het6c",
+ "stage": "s0",
+ "verdict": "FAIL",
+ "detail": {
+  "delay_u": 29.7,
+  "cells": 8596,
+  "area": 24850.0,
+  "delay_ratio_vs_mult": 0.287,
+  "equiv": {
+   "ok": false,
+   "detail": "n=1000 err=1000",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T09:50:59Z"
+}
