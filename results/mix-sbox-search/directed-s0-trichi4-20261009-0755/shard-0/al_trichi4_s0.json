@@ -1,0 +1,18 @@
+{
+ "candidate": "al_trichi4",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 21.4,
+  "cells": 6844,
+  "area": 19993.0,
+  "delay_ratio_vs_mult": 0.2068,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T05:51:38Z"
+}
