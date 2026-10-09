@@ -1,0 +1,13 @@
+{
+ "candidate": "al_trichi4",
+ "stages": {
+  "s0": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: (most recent call last):\n  File \"/work/projects/mix-sbox-search/battery/s0.py\", line 109, in <module>\n    main()\n    ~~~~^^\n  File \"/work/projects/mix-sbox-search/battery/s0.py\", line 102, in main\n    rec = drive_one(b, os.path.join(out_dir, n))\n  File \"/work/projects/mix-sbox-search/battery/s0.py\", line 76, in drive_one\n    rc = s0.main()\n  File \"/work/projects/mix-sbox-search/battery/vendor/s0_delay.py\", line 189, in main\n    top = meta[\"rtl_top\"]\n          ~~~~^^^^^^^^^^^\nKeyError: 'rtl_top'\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s0",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
