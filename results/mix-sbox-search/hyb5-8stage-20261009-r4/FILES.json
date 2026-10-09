@@ -1,0 +1,7 @@
+{
+ "job_id": "hyb5-8stage-20261009-r4",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json"
+ ]
+}
