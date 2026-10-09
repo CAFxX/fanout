@@ -1,0 +1,13 @@
+{
+ "candidate": "dd3_hetero_RRMM_nw",
+ "stages": {
+  "s0": {
+   "verdict": "PASS",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  }
+ },
+ "final_stage": "s0",
+ "final_verdict": "PASS",
+ "survived": true
+}
