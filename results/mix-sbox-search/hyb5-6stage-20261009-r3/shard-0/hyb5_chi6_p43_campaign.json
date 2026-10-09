@@ -1,0 +1,18 @@
+{
+ "candidate": "hyb5_chi6_p43",
+ "stages": {
+  "s0": {
+   "verdict": "PASS",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  },
+  "s1": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: \n  File \"/work/projects/mix-sbox-search/battery/s1.py\", line 75, in drive_one\n    rc = s1.main()\n  File \"/work/projects/mix-sbox-search/battery/vendor/s1_screen.py\", line 55, in main\n    mix, mix_np, meta = load_candidate(cand)\n                        ~~~~~~~~~~~~~~^^^^^^\n  File \"/work/projects/mix-sbox-search/battery/vendor/s1_screen.py\", line 49, in load_candidate\n    return m.mix, m.mix_np, meta\n                  ^^^^^^^^\nAttributeError: module 'model_hyb5_chi6_p43' has no attribute 'mix_np'\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
