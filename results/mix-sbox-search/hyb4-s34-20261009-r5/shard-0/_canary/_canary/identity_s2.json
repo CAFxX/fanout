@@ -1,0 +1,15 @@
+{
+ "candidate": "identity",
+ "stage": "s2",
+ "verdict": "KILL",
+ "detail": {
+  "signal": "KILL delta=0x0000000000000400 repeats=2097151",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 0.4,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T08:29:38Z"
+}
