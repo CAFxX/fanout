@@ -1,0 +1,25 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "dd3dd6-s12-20261009",
+ "campaign": "dd3dd6-s12-20261009",
+ "candidates": [
+  "dd3_hetero_MRMR_nw",
+  "dd6_ksrot1_lin5_9_nw",
+  "dd3_hetero_URUR_nw",
+  "dd6_ksrot1_lin8_15_nw"
+ ],
+ "shards": 4,
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd3_hetero_MRMR_nw,dd6_ksrot1_lin5_9_nw,dd3_hetero_URUR_nw,dd6_ksrot1_lin8_15_nw --stages s1,s2",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "fanout-mix-sbox-search-third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "timeout_minutes": 300,
+ "per_shard_min": 60,
+ "est_min": 240.0,
+ "priority": "new-leads",
+ "registry_user": "",
+ "registry_password": "",
+ "submitted_at": "2026-10-09T20:48:57.550585+00:00",
+ "note": "Track-4: S1+S2 for the four S0-PASS leads (dd3 hetero MRMR/URUR 27.1/28.1u, dd6 ksrot1 lin5_9/lin8_15 26.5/26.4u). By track-4 supervisor 2026-10-09."
+}

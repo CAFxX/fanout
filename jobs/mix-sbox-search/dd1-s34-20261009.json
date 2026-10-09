@@ -1,0 +1,24 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "dd1-s34-20261009",
+ "campaign": "dd1-s34-20261009",
+ "candidates": [
+  "dd1_lin_5_13_nw",
+  "dd1_lin_8_15_nw",
+  "dd1_lin_5_9_nw"
+ ],
+ "shards": 3,
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd1_lin_5_13_nw,dd1_lin_8_15_nw,dd1_lin_5_9_nw --stages s3,s4",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "fanout-mix-sbox-search-third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "timeout_minutes": 720,
+ "per_shard_min": 240,
+ "est_min": 720.0,
+ "priority": "new-leads",
+ "registry_user": "",
+ "registry_password": "",
+ "submitted_at": "2026-10-09T20:48:57.550585+00:00",
+ "note": "Track-4: S3 (PractRand 1GB) + S4 (SmallCrush) for the S2-passed dd1 trio (26.3u each). Q1 (sac_z5=0/bic) runs locally. By track-4 supervisor 2026-10-09."
+}
