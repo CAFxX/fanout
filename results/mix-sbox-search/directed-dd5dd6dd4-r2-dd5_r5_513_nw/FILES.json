@@ -1,0 +1,21 @@
+{
+ "job_id": "directed-dd5dd6dd4-r2-dd5_r5_513_nw",
+ "files": [
+  "STATUS.json",
+  "shard-0/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/__pycache__/model.cpython-314.pyc",
+  "shard-0/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/meta.json",
+  "shard-0/_canary/_canary/pass/_work/_shadow/candidates/r23_spn_mix4r_pba19b01_nw/model.py",
+  "shard-0/_canary/_canary/pass/_work/_xcheck_vecs.txt",
+  "shard-0/_canary/_canary/pass/_work/gen",
+  "shard-0/_canary/_canary/pass/s3_gen_16MB.err",
+  "shard-0/_canary/_canary/pass/s3_gen_16MB_try1.err",
+  "shard-0/_canary/_canary/pass/s3_gen_16MB_try2.err",
+  "shard-0/_canary/_canary/pass/s3_practrand_16MB.log",
+  "shard-0/_canary/_canary/pass/s3_practrand_16MB_try1.log",
+  "shard-0/_canary/_canary/pass/s3_practrand_16MB_try2.log",
+  "shard-0/_canary/_canary/r23_spn_mix4r_pba19b01_nw_s3.json",
+  "shard-0/_driver_s3.json",
+  "shard-0/_shard_status.json",
+  "shard-0/dd5_r5_513_nw_campaign.json"
+ ]
+}
