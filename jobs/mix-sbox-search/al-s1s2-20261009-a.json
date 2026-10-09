@@ -1,0 +1,30 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "al-s1s2-20261009-a",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only al_trichi4,al_chi6c,al_chi6d,al_ornot6c,al_ornot6d,al_and6a,al_and6b,al_chi6e,al_chi6f,al_chi6g",
+ "shards": 10,
+ "timeout_minutes": 300,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "registry_user": "",
+ "registry_password": "",
+ "priority": "new-leads",
+ "est_min": 600,
+ "per_shard_min": 60,
+ "campaign": "al-s1s2-20261009-a",
+ "candidates": [
+  "al_trichi4",
+  "al_chi6c",
+  "al_chi6d",
+  "al_ornot6c",
+  "al_ornot6d",
+  "al_and6a",
+  "al_and6b",
+  "al_chi6e",
+  "al_chi6f",
+  "al_chi6g"
+ ],
+ "submitted_at": "2026-10-09T10:38:31.114354+00:00"
+}
