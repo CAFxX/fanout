@@ -1,0 +1,15 @@
+{
+ "job_id": "directed-s0-probe-20261009-0505",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/dd3_hetero_RMRM_nw/_equiv_sim_dd3_hetero_RMRM_nw",
+  "shard-0/dd3_hetero_RMRM_nw/_equiv_tb_dd3_hetero_RMRM_nw.v",
+  "shard-0/dd3_hetero_RMRM_nw/_equiv_vecs_dd3_hetero_RMRM_nw.txt",
+  "shard-0/dd3_hetero_RMRM_nw/_synth/mapped_dd3_hetero_RMRM_nw.v",
+  "shard-0/dd3_hetero_RMRM_nw/_synth/s_dd3_hetero_RMRM_nw.ys",
+  "shard-0/dd3_hetero_RMRM_nw/s0_result.json",
+  "shard-0/dd3_hetero_RMRM_nw_campaign.json",
+  "shard-0/dd3_hetero_RMRM_nw_s0.json"
+ ]
+}
