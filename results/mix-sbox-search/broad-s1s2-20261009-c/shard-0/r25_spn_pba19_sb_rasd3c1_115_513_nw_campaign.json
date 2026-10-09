@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_rasd3c1_115_513_nw",
+ "stages": {
+  "s1": {
+   "verdict": "CAL_PASS",
+   "signal": "",
+   "artifacts": "s1_result.json"
+  },
+  "s2": {
+   "verdict": "PASS",
+   "signal": "PASS max_repeats=0 max|z|=6.6",
+   "artifacts": "s2.out"
+  }
+ },
+ "final_stage": "s2",
+ "final_verdict": "PASS",
+ "survived": true
+}
