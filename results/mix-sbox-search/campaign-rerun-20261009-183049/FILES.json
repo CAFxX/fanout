@@ -1,0 +1,18 @@
+{
+ "job_id": "campaign-rerun-20261009-183049",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/fz14_dchi4a/s1_result.json",
+  "shard-0/fz14_dchi4a_campaign.json",
+  "shard-0/fz14_dchi4a_s1.json",
+  "shard-1/_shard_status.json",
+  "shard-1/fz14_dchi4b/s1_result.json",
+  "shard-1/fz14_dchi4b_campaign.json",
+  "shard-1/fz14_dchi4b_s1.json",
+  "shard-2/_shard_status.json",
+  "shard-2/fz14_tchi3a/s1_result.json",
+  "shard-2/fz14_tchi3a_campaign.json",
+  "shard-2/fz14_tchi3a_s1.json"
+ ]
+}
