@@ -1,0 +1,13 @@
+{
+ "candidate": "al_trichi4",
+ "stages": {
+  "s0": {
+   "verdict": "FAIL",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  }
+ },
+ "final_stage": "s0",
+ "final_verdict": "FAIL",
+ "survived": false
+}
