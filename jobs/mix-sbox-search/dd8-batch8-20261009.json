@@ -1,0 +1,27 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "dd8-batch8-20261009",
+ "campaign": "dd8-batch8-20261009",
+ "candidates": [
+  "dd8_r4_RMRM_513_nw",
+  "dd8_r4_MRMR_513_nw",
+  "dd8_r3_RMR_vlin1_nw",
+  "dd8_r3_MRM_vlin1_nw",
+  "dd8_r3_RMR_vlin2_nw",
+  "dd8_r3_RUM_vlin1_nw"
+ ],
+ "shards": 6,
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd8_r4_RMRM_513_nw,dd8_r4_MRMR_513_nw,dd8_r3_RMR_vlin1_nw,dd8_r3_MRM_vlin1_nw,dd8_r3_RMR_vlin2_nw,dd8_r3_RUM_vlin1_nw --stages s1,s2",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "timeout_minutes": 300,
+ "per_shard_min": 60,
+ "est_min": 360.0,
+ "priority": "frontier-challengers",
+ "registry_user": "",
+ "registry_password": "",
+ "submitted_at": "2026-10-09T17:51:05+00:00",
+ "note": "Batch-8 (D5): 4r hetero (depth test) + 3r hetero with per-round LIN (mixing test). dd7 3r hetero all S1-FLAGGED (D4 falsified). vlin1 RMR at 20.4u S0 (0.3u from al_and6a 20.1u frontier). Bundles bit-exact verified (model vs C 214/214, RTL vs model 52/52). By track-4 supervisor 2026-10-09."
+}
