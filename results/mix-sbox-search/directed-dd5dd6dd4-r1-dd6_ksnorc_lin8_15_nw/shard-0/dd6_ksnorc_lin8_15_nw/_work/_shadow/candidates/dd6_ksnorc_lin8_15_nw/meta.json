@@ -1,0 +1,39 @@
+{
+ "name": "dd6_ksnorc_lin8_15_nw",
+ "description": "Directed Design 6: ks=norc x lin(8,15) stacking test",
+ "composition": "Directed Design 6: ks=norc x lin(8,15) stacking test",
+ "batch": "batch6",
+ "rtl_top": "dd6_ksnorc_lin8_15_nw",
+ "spec": {
+  "nrounds": 4,
+  "rots": [
+   8,
+   15
+  ],
+  "ks": {
+   "rot_step": 13,
+   "rc": "zero"
+  },
+  "order": "LPS"
+ },
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x320ebb6a7ac13f72"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0x46d684d80390b648"
+  }
+ ]
+}
