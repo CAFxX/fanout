@@ -1,0 +1,39 @@
+{
+ "job_id": "t6-het6-s0-20261009f",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 1,
+ "n_ok": 1,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "t6-het6-s0-20261009f",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_het6a",
+  "shards": 1,
+  "timeout_minutes": 300,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "registry_user": "",
+  "registry_password": "",
+  "priority": "new-leads",
+  "est_min": 60,
+  "per_shard_min": 60,
+  "campaign": "t6-het6-s0-20261009f",
+  "candidates": [
+   "t6_het6a"
+  ],
+  "submitted_at": "2026-10-09T12:05:00+00:00",
+  "note": "f: 1-shard re-run for t6_het6a (S0+S1 full pipeline). The -e campaign's shard-0 (het6a, job 113771931800) sat in_progress ~2h (started 10:10:11Z; siblings het6b/het6c done in 60/43 min) with no output -- treated as stuck, run force-cancelled. Bundle unchanged from -e (commit b45001a9, post-whiten fix f3391fce). By mix-search-status-30m 2026-10-09"
+ },
+ "finished_at": "2026-10-09T13:09:33.084244+00:00"
+}
