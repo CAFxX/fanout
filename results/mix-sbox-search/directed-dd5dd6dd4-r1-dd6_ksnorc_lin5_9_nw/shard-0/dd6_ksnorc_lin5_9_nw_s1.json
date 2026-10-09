@@ -1,0 +1,18 @@
+{
+ "candidate": "dd6_ksnorc_lin5_9_nw",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [
+   "('SINGLE-BIT', '0x0000000000000000')"
+  ],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 67.0,
+  "time_lin_diff_s": 7.1,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-09T06:50:57Z"
+}
