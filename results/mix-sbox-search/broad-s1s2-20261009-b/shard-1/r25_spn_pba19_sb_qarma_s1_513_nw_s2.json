@@ -1,0 +1,15 @@
+{
+ "candidate": "r25_spn_pba19_sb_qarma_s1_513_nw",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=1 max|z|=16.2",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 134.3,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T09:37:24Z"
+}
