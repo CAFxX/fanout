@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_qarma_s2_513_nw",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 30.1,
+  "cells": 5169,
+  "area": 13864.0,
+  "delay_ratio_vs_mult": 0.2908,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T20:51:22Z"
+}
