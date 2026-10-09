@@ -1,0 +1,15 @@
+{
+ "candidate": "dd4_ks_rot1_nw",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=1 max|z|=23.6",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 174.6,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T06:56:31Z"
+}
