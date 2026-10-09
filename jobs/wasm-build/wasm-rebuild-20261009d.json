@@ -1,0 +1,1 @@
+{"cache_key":"","cache_paths":"","command":"bash projects/wasm-build/driver.sh","env":"","image":"ghcr.io/cafxx/fanout-wasm-build:latest","job_id":"wasm-rebuild-20261009d","priority":"wasm","project":"wasm-build","registry_password":"","registry_user":"","shards":2,"timeout_minutes":120}
