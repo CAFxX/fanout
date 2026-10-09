@@ -1,0 +1,22 @@
+{
+ "candidate": "al_and6b",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [
+   "('LIN', 0)"
+  ],
+  "diff_rejected": [
+   "('DIFF', 0)",
+   "('DIFF', 4660)",
+   "('DIFF', 11400714819323198485)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 6.0,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-09T10:41:35Z"
+}
