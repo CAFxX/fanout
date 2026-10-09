@@ -1,0 +1,18 @@
+{
+ "candidate": "hyb5_casc8_p43",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 25.6,
+  "cells": 8277,
+  "area": 27299.0,
+  "delay_ratio_vs_mult": 0.2473,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T08:22:45Z"
+}
