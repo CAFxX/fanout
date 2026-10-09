@@ -1,0 +1,16 @@
+{
+ "candidate": "al_and9d",
+ "stage": "s1",
+ "verdict": "CAL_PASS",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 19.5,
+  "time_lin_diff_s": 4.2,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-09T18:16:37Z"
+}

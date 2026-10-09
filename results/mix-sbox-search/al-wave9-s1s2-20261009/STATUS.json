@@ -1,0 +1,60 @@
+{
+ "job_id": "al-wave9-s1s2-20261009",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 4,
+ "n_ok": 4,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "campaign": "al-wave9-s1s2-20261009",
+  "candidates": [
+   "al_and9b",
+   "al_and9c",
+   "al_and9d",
+   "al_andor9b"
+  ],
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only al_and9b,al_and9c,al_and9d,al_andor9b --stages s1,s2",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "est_min": 240.0,
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "job_id": "al-wave9-s1s2-20261009",
+  "note": "Track 3 wave-9: AND-specific rotation co-design. al_and9b 19.8u (ties 6-stage floor), al_andor9b 19.8u, al_and9c/al_and9d 20.1u (tie al_and6a). All danger-zone-free progressive schedules. Bundles bit-exact verified (C vs Python 502/502 incl edge keys). By track-3 supervisor 2026-10-09.",
+  "per_shard_min": 60,
+  "priority": "frontier-challengers",
+  "project": "mix-sbox-search",
+  "registry_password": "",
+  "registry_user": "",
+  "shards": 4,
+  "submitted_at": "2026-10-09T19:55:00+00:00",
+  "timeout_minutes": 300
+ },
+ "finished_at": "2026-10-09T18:21:51.343091+00:00"
+}
