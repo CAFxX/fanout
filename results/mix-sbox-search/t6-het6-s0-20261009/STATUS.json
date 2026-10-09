@@ -1,0 +1,52 @@
+{
+ "job_id": "t6-het6-s0-20261009",
+ "project": "mix-sbox-search",
+ "status": "partial",
+ "shards": 3,
+ "n_ok": 2,
+ "n_failed": 1,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": false,
+   "driver": "missing",
+   "detail": "no artifact"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "t6-het6-s0-20261009",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_het6a,t6_het6b,t6_het6c",
+  "shards": 3,
+  "timeout_minutes": 300,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "registry_user": "",
+  "registry_password": "",
+  "priority": "new-leads",
+  "est_min": 180,
+  "per_shard_min": 60,
+  "campaign": "t6-het6-s0-20261009",
+  "candidates": [
+   "t6_het6a",
+   "t6_het6b",
+   "t6_het6c"
+  ],
+  "submitted_at": "2026-10-09T08:52:24.425635+00:00"
+ },
+ "finished_at": "2026-10-09T09:00:33.419570+00:00"
+}
