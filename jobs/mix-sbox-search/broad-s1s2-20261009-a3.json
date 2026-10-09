@@ -1,0 +1,33 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "broad-s1s2-20261009-a3",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_rasd3c2_18_513_nw,r25_spn_pba19_sb_rasd3c1_144_513_nw,r25_spn_pba19_sb_rasd3c1_48_513_nw,r25_spn_pba19_sb_rasd3c2_64_513_nw,r25_spn_pba19_sb_rasd3c2_122_513_nw,r25_spn_pba19_sb_rasd3c1_36_513_nw,r25_spn_pba19_sb_rasd3c1_94_513_nw,r25_spn_pba19_sb_rasd3c2_35_513_nw,r25_spn_pba19_sb_rasd3c1_127_513_nw,r25_spn_pba19_sb_rasd3c2_47_513_nw,r25_spn_pba19_sb_rasd3c2_76_513_nw,r25_spn_pba19_sb_rasd3c2_105_513_nw,r25_spn_pba19_sb_rasd3c1_19_513_nw",
+ "shards": 13,
+ "timeout_minutes": 300,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "registry_user": "",
+ "registry_password": "",
+ "priority": "new-leads",
+ "est_min": 780,
+ "per_shard_min": 60,
+ "campaign": "broad-s1s2-20261009-a3",
+ "candidates": [
+  "r25_spn_pba19_sb_rasd3c2_18_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_144_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_48_513_nw",
+  "r25_spn_pba19_sb_rasd3c2_64_513_nw",
+  "r25_spn_pba19_sb_rasd3c2_122_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_36_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_94_513_nw",
+  "r25_spn_pba19_sb_rasd3c2_35_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_127_513_nw",
+  "r25_spn_pba19_sb_rasd3c2_47_513_nw",
+  "r25_spn_pba19_sb_rasd3c2_76_513_nw",
+  "r25_spn_pba19_sb_rasd3c2_105_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_19_513_nw"
+ ],
+ "submitted_at": "2026-10-09T09:54:21.227058+00:00"
+}
