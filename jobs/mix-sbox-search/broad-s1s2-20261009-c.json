@@ -1,0 +1,23 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "broad-s1s2-20261009-c",
+ "campaign": "broad-s1s2-20261009-c",
+ "candidates": [
+  "r25_spn_pba19_sb_rasd3c1_115_513_nw",
+  "r25_spn_pba19_sb_rasd3c1_77_513_nw"
+ ],
+ "shards": 2,
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_rasd3c1_115_513_nw,r25_spn_pba19_sb_rasd3c1_77_513_nw --stages s1,s2",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "timeout_minutes": 300,
+ "per_shard_min": 60,
+ "est_min": 120.0,
+ "priority": "new-leads",
+ "registry_user": "",
+ "registry_password": "",
+ "submitted_at": "2026-10-09T20:52:38+00:00",
+ "note": "S1/S2 for the last 2 broad-S0 survivors without results (rasd3c1_115 27.3u, rasd3c1_77 28.3u). jia25_12ge_ex+qarma_s1 already S2-PASS via sibling campaign broad-s1s2-20261009-b. Job-id collision lesson: checked remote jobs dir first. By broad-sbox-resubmit worker 2026-10-09."
+}
