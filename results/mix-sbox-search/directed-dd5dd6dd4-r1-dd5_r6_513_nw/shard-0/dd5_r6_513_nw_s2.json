@@ -1,0 +1,15 @@
+{
+ "candidate": "dd5_r6_513_nw",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=0 max|z|=3.6",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 265.2,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T06:58:46Z"
+}

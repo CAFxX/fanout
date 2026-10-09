@@ -1,0 +1,9 @@
+{
+ "candidate": "r23_spn_mix4r_pba19b01_nw",
+ "stage": "s3",
+ "verdict": "INFRA_FAIL",
+ "detail": {
+  "signal": "RNG_test produced no test output at 16MB after 3 attempts \u2014 see s3_practrand_16MB*.log"
+ },
+ "ts": "2026-10-09T06:59:38Z"
+}

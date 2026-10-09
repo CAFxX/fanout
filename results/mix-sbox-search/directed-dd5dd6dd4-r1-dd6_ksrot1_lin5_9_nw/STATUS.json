@@ -1,0 +1,18 @@
+{
+ "job_id": "directed-dd5dd6dd4-r1-dd6_ksrot1_lin5_9_nw",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 1,
+ "n_ok": 1,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "finished_at": "2026-10-09T07:38:15.053165+00:00",
+ "note": "recovered by mix-search-status-30m 2026-10-09: collect job succeeded but its result commit never landed (13 concurrent collects push race); shard artifact re-committed from GitHub artifact"
+}

@@ -1,0 +1,15 @@
+{
+ "candidate": "dd6_ksrot1_lin5_9_nw",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=2 max|z|=14.1",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 296.6,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T07:00:44Z"
+}
