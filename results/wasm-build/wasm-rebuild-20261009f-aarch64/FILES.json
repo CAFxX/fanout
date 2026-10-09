@@ -1,0 +1,8 @@
+{
+ "job_id": "wasm-rebuild-20261009f-aarch64",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/raidjit_aarch64.js"
+ ]
+}
