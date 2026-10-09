@@ -1,0 +1,39 @@
+{
+ "job_id": "hyb5-8stage-20261009-r6",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 1,
+ "n_ok": 1,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "hyb5-8stage-20261009-r6",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only hyb5_chi8_p27",
+  "shards": 1,
+  "timeout_minutes": 300,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "registry_user": "",
+  "registry_password": "",
+  "priority": "new-leads",
+  "est_min": 120.0,
+  "per_shard_min": 120,
+  "campaign": "hyb5-8stage-20261009-r6",
+  "candidates": [
+   "hyb5_chi8_p27"
+  ],
+  "submitted_at": "2026-10-09T07:53:59.938106+00:00",
+  "note": "r2/r3/r4: re-race of 06:15-06:32 campaigns that died rc=125 on UPPERCASE image ghcr.io/CAFxX/... (docker image refs must be lowercase); resubmitted with ghcr.io/cafxx/... by mix-search-status-30m 2026-10-09"
+ },
+ "finished_at": "2026-10-09T07:59:00.524632+00:00"
+}
