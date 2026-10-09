@@ -1,0 +1,18 @@
+{
+ "candidate": "hyb5_chi8_p43",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 26.4,
+  "cells": 7939,
+  "area": 25961.0,
+  "delay_ratio_vs_mult": 0.2551,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T08:22:52Z"
+}
