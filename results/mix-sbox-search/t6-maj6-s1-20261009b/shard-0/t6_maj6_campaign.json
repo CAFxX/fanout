@@ -1,0 +1,23 @@
+{
+ "candidate": "t6_maj6",
+ "stages": {
+  "s0": {
+   "verdict": "PASS",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  },
+  "s1": {
+   "verdict": "CAL_PASS",
+   "signal": "",
+   "artifacts": "s1_result.json"
+  },
+  "s2": {
+   "verdict": "KILL",
+   "signal": "KILL delta=0xffffffffffffffff repeats=4194303",
+   "artifacts": "s2.out"
+  }
+ },
+ "final_stage": "s2",
+ "final_verdict": "KILL",
+ "survived": false
+}

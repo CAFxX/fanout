@@ -1,0 +1,15 @@
+{
+ "candidate": "t6_maj6",
+ "stage": "s2",
+ "verdict": "KILL",
+ "detail": {
+  "signal": "KILL delta=0xffffffffffffffff repeats=4194303",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 36.9,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T10:24:04Z"
+}
