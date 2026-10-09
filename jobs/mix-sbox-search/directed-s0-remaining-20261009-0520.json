@@ -1,0 +1,24 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "directed-s0-remaining-20261009-0520",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd3_hetero_RRMM_nw,dd5_r5_513_nw,dd5_r6_513_nw,dd6_ksnorc_lin5_9_nw,dd6_ksnorc_lin8_15_nw,dd6_kssmallrc_lin5_9_nw,dd6_kssmallrc_lin8_15_nw --stages s0 --skip-canary",
+ "shards": 7,
+ "timeout_minutes": 30,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "priority": "new-leads",
+ "est_min": 105.0,
+ "campaign": "directed-s0-remaining-20261009-0520",
+ "candidates": [
+  "dd3_hetero_RRMM_nw",
+  "dd5_r5_513_nw",
+  "dd5_r6_513_nw",
+  "dd6_ksnorc_lin5_9_nw",
+  "dd6_ksnorc_lin8_15_nw",
+  "dd6_kssmallrc_lin5_9_nw",
+  "dd6_kssmallrc_lin8_15_nw"
+ ],
+ "submitted_at": "2026-10-09T05:20:00+00:00"
+}
