@@ -1,0 +1,13 @@
+{
+ "name": "t6_het6c",
+ "description": "heterogeneous cascade C: andor/xor3and/maj/chi/majxor/andor",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "rtl_top": "t6_het6c"
+}
