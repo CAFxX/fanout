@@ -3,8 +3,8 @@
  "project": "mix-sbox-search",
  "status": "partial",
  "shards": 17,
- "n_ok": 1,
- "n_failed": 16,
+ "n_ok": 2,
+ "n_failed": 15,
  "shard_status": [
   {
    "idx": 0,
@@ -50,9 +50,9 @@
   },
   {
    "idx": 7,
-   "artifact": false,
-   "driver": "missing",
-   "detail": "no artifact"
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0 (recovered from run 37911579599 shard artifact 2026-10-09)"
   },
   {
    "idx": 8,
@@ -146,5 +146,6 @@
   ],
   "submitted_at": "2026-10-09T09:21:13.044770+00:00"
  },
- "finished_at": "2026-10-09T09:43:29.639250+00:00"
+ "finished_at": "2026-10-09T09:43:29.639250+00:00",
+ "recovery_note": "2026-10-09 09:47Z (mix-search-status-30m): shard-7 (r25_spn_pba19_sb_rasd3c1_77_513_nw, S0 PASS 28.3u / S1 CAL_PASS / S2 PASS max|z|=8.5) recovered from run 37911579599's shard artifact; that run's collect (09:43:39Z) reported success but committed nothing \u2014 second collect-race loss today. Process fix for collect still pending."
 }
