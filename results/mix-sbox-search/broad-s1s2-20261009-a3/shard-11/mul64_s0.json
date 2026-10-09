@@ -1,0 +1,18 @@
+{
+ "candidate": "mul64",
+ "stage": "s0",
+ "verdict": "FAIL",
+ "detail": {
+  "delay_u": 103.5,
+  "cells": 12645,
+  "area": 35323.0,
+  "delay_ratio_vs_mult": 1.0,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T09:55:57Z"
+}

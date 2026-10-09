@@ -1,0 +1,28 @@
+{
+ "candidate": "r25_spn_pba19_sb_rasd3c1_48_513_nw",
+ "stages": {
+  "s0": {
+   "verdict": "PASS",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  },
+  "s1": {
+   "verdict": "CAL_PASS",
+   "signal": "",
+   "artifacts": "s1_result.json"
+  },
+  "s2": {
+   "verdict": "PASS",
+   "signal": "PASS max_repeats=1 max|z|=9.8",
+   "artifacts": "s2.out"
+  },
+  "s3": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1:    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/work/projects/mix-sbox-search/battery/common.py\", line 150, in run_canaries\n    raise CanaryFail(\n        f\"canary {stage}/{role} ({rel}): want {want}, \"\n        f\"got {got}; detail={rec['detail']}; STAGE QUARANTINED\")\ncommon.CanaryFail: canary s3/pass (pass/r23_spn_mix4r_pba19b01_nw): want ('PASS', 'CAL_PASS'), got INFRA_FAIL; detail={'signal': 'RNG_test produced no test output at 16MB after 3 attempts \u2014 see s3_practrand_16MB*.log'}; STAGE QUARANTINED\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s3",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
