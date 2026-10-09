@@ -1,4 +1,4 @@
-"""hyb5_chi6_p43: 6-stage chi + P(43,1) (reduced stages, P-box compensates). Self-contained bit-exact model."""
+"""hyb5_chi8_p43: 8-stage chi + P(43,1) between stages (metric top tier). Self-contained bit-exact model."""
 import numpy as np
 M64 = np.uint64(0xFFFFFFFFFFFFFFFF)
 
@@ -91,6 +91,12 @@ def _mix_core(x, k):
     x = (x ^ ((~ra) & rb) ^ rc) & M64
     x = _pbox(x)
     ra, rb, rc = _rotl(x, 11), _rotl(x, 23), _rotl(x, 37)
+    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    x = _pbox(x)
+    ra, rb, rc = _rotl(x, 29), _rotl(x, 43), _rotl(x, 11)
+    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    x = _pbox(x)
+    ra, rb, rc = _rotl(x, 19), _rotl(x, 41), _rotl(x, 23)
     x = (x ^ ((~ra) & rb) ^ rc) & M64
     return (x ^ _rotl(k, 13)) & M64
 

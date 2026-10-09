@@ -1,4 +1,4 @@
-"""hyb5_chi6_p43: 6-stage chi + P(43,1) (reduced stages, P-box compensates). Self-contained bit-exact model."""
+"""hyb5_casc8_p43: 8-stage AND-cascade + P(43,1) between stages (metric top tier). Self-contained bit-exact model."""
 import numpy as np
 M64 = np.uint64(0xFFFFFFFFFFFFFFFF)
 
@@ -75,23 +75,29 @@ def _pbox(x):  # P(i)=(43*i+1)%64
     return y & M64
 
 def _mix_core(x, k):
-    ra, rb, rc = _rotl(x, 1), _rotl(x, 2), _rotl(x, 13)
-    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    ra, rb, rc = _rotl(x, 1), _rotl(x, 8), _rotl(x, 2)
+    x = (x ^ (ra & rb) ^ rc) & M64
     x = _pbox(x)
-    ra, rb, rc = _rotl(x, 7), _rotl(x, 19), _rotl(x, 5)
-    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    ra, rb, rc = _rotl(x, 3), _rotl(x, 11), _rotl(x, 5)
+    x = (x ^ (ra & rb) ^ rc) & M64
     x = _pbox(x)
-    ra, rb, rc = _rotl(x, 3), _rotl(x, 11), _rotl(x, 29)
-    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    ra, rb, rc = _rotl(x, 7), _rotl(x, 19), _rotl(x, 13)
+    x = (x ^ (ra & rb) ^ rc) & M64
     x = _pbox(x)
-    ra, rb, rc = _rotl(x, 13), _rotl(x, 5), _rotl(x, 17)
-    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    ra, rb, rc = _rotl(x, 2), _rotl(x, 9), _rotl(x, 4)
+    x = (x ^ (ra & rb) ^ rc) & M64
     x = _pbox(x)
-    ra, rb, rc = _rotl(x, 17), _rotl(x, 31), _rotl(x, 7)
-    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    ra, rb, rc = _rotl(x, 5), _rotl(x, 17), _rotl(x, 11)
+    x = (x ^ (ra & rb) ^ rc) & M64
     x = _pbox(x)
-    ra, rb, rc = _rotl(x, 11), _rotl(x, 23), _rotl(x, 37)
-    x = (x ^ ((~ra) & rb) ^ rc) & M64
+    ra, rb, rc = _rotl(x, 13), _rotl(x, 29), _rotl(x, 7)
+    x = (x ^ (ra & rb) ^ rc) & M64
+    x = _pbox(x)
+    ra, rb, rc = _rotl(x, 11), _rotl(x, 23), _rotl(x, 17)
+    x = (x ^ (ra & rb) ^ rc) & M64
+    x = _pbox(x)
+    ra, rb, rc = _rotl(x, 19), _rotl(x, 37), _rotl(x, 23)
+    x = (x ^ (ra & rb) ^ rc) & M64
     return (x ^ _rotl(k, 13)) & M64
 
 if __name__ == "__main__":

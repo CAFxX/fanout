@@ -74,9 +74,7 @@ def _pbox(x):  # P(i)=(43*i+1)%64
     y |= ((x >> np.uint64(63)) & np.uint64(1)) << np.uint64(22)
     return y & M64
 
-def mix_hash(val, key):
-    x = np.uint64(val) ^ np.uint64(key)
-    k = np.uint64(key)
+def _mix_core(x, k):
     ra, rb, rc = _rotl(x, 1), _rotl(x, 8), _rotl(x, 2)
     x = (x ^ (ra & rb) ^ rc) & M64
     x = _pbox(x)
@@ -94,7 +92,7 @@ def mix_hash(val, key):
     x = _pbox(x)
     ra, rb, rc = _rotl(x, 13), _rotl(x, 29), _rotl(x, 7)
     x = (x ^ (ra & rb) ^ rc) & M64
-    return int((x ^ _rotl(k, 13)) & M64)
+    return (x ^ _rotl(k, 13)) & M64
 
 if __name__ == "__main__":
     import sys
@@ -102,3 +100,13 @@ if __name__ == "__main__":
 
 def mix(v, k):
     return mix_hash(v, k)
+
+
+def mix_hash(val, key):
+    return int(_mix_core(np.uint64(val) ^ np.uint64(key), np.uint64(key)))
+
+
+def mix_np(V, K):
+    V = np.asarray(V, dtype=np.uint64)
+    K = np.asarray(K, dtype=np.uint64)
+    return _mix_core(V ^ K, K)
