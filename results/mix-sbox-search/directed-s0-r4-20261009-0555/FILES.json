@@ -1,0 +1,15 @@
+{
+ "job_id": "directed-s0-r4-20261009-0555",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/dd6_kssmallrc_lin5_9_nw/_equiv_sim_dd6_kssmallrc_lin5_9_nw",
+  "shard-0/dd6_kssmallrc_lin5_9_nw/_equiv_tb_dd6_kssmallrc_lin5_9_nw.v",
+  "shard-0/dd6_kssmallrc_lin5_9_nw/_equiv_vecs_dd6_kssmallrc_lin5_9_nw.txt",
+  "shard-0/dd6_kssmallrc_lin5_9_nw/_synth/mapped_dd6_kssmallrc_lin5_9_nw.v",
+  "shard-0/dd6_kssmallrc_lin5_9_nw/_synth/s_dd6_kssmallrc_lin5_9_nw.ys",
+  "shard-0/dd6_kssmallrc_lin5_9_nw/s0_result.json",
+  "shard-0/dd6_kssmallrc_lin5_9_nw_campaign.json",
+  "shard-0/dd6_kssmallrc_lin5_9_nw_s0.json"
+ ]
+}

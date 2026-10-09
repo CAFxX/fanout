@@ -1,0 +1,35 @@
+{
+ "job_id": "directed-s0-r4-20261009-0555",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 1,
+ "n_ok": 1,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "directed-s0-r4-20261009-0555",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd6_kssmallrc_lin5_9_nw --stages s0 --skip-canary",
+  "shards": 1,
+  "timeout_minutes": 30,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "priority": "new-leads",
+  "est_min": 15.0,
+  "campaign": "directed-s0-r4-20261009-0555",
+  "candidates": [
+   "dd6_kssmallrc_lin5_9_nw"
+  ],
+  "submitted_at": "2026-10-09T05:55:00+00:00"
+ },
+ "finished_at": "2026-10-09T05:34:16.243983+00:00"
+}
