@@ -1,0 +1,23 @@
+{
+ "candidate": "dd7_r3_RUM_513_nw",
+ "verdict": "PASS",
+ "delay_u": 21.5,
+ "cells": 3928,
+ "area": 10602.0,
+ "delay_ratio_vs_mult": 0.2077,
+ "ratio_bar": 0.9,
+ "ref": {
+  "cells": 12645,
+  "crit": 103.5,
+  "cached": true
+ },
+ "equiv_check": {
+  "ok": true,
+  "detail": "n=1000 err=0",
+  "nvecs": 1000
+ },
+ "flow": "yosys 0.69+ abc -genlib mini.genlib, explicit no-dretime script (see README)",
+ "time_ref_s": 0.0,
+ "time_dut_s": 0.8,
+ "time_equiv_s": 2.8
+}

@@ -1,0 +1,18 @@
+{
+ "candidate": "dd7_r3_RRM_513_nw",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 20.7,
+  "cells": 3645,
+  "area": 9904.0,
+  "delay_ratio_vs_mult": 0.2,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-09T14:46:02Z"
+}
