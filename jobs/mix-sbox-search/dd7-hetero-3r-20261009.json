@@ -1,0 +1,26 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "dd7-hetero-3r-20261009",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd7_r3_RMR_513_nw,dd7_r3_MRR_513_nw,dd7_r3_RRM_513_nw,dd7_r3_MRM_513_nw,dd7_r3_UMR_513_nw,dd7_r3_RUM_513_nw",
+ "shards": 6,
+ "timeout_minutes": 300,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "registry_user": "",
+ "registry_password": "",
+ "priority": "new-leads",
+ "est_min": 360,
+ "per_shard_min": 60,
+ "campaign": "dd7-hetero-3r-20261009",
+ "candidates": [
+  "dd7_r3_RMR_513_nw",
+  "dd7_r3_MRR_513_nw",
+  "dd7_r3_RRM_513_nw",
+  "dd7_r3_MRM_513_nw",
+  "dd7_r3_UMR_513_nw",
+  "dd7_r3_RUM_513_nw"
+ ],
+ "submitted_at": "2026-10-09T12:44:28.976946+00:00"
+}
