@@ -1,0 +1,21 @@
+{
+ "project": "mix-sbox-search",
+ "job_id": "directed-dd5dd6dd4-r1-dd5_r6_513_nw",
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd5_r6_513_nw",
+ "shards": 1,
+ "timeout_minutes": 300,
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "registry_user": "",
+ "registry_password": "",
+ "priority": "new-leads",
+ "est_min": 120,
+ "per_shard_min": 120,
+ "campaign": "directed-dd5dd6dd4-r1-dd5_r6_513_nw",
+ "candidates": [
+  "dd5_r6_513_nw"
+ ],
+ "submitted_at": "2026-10-09T06:46:20.919496+00:00"
+}
