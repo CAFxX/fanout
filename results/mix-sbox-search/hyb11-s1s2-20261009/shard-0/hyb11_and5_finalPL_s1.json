@@ -1,0 +1,19 @@
+{
+ "candidate": "hyb11_and5_finalPL",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [
+   "('DIFF', 0)",
+   "('DIFF', 4660)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 7.4,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-09T20:55:04Z"
+}

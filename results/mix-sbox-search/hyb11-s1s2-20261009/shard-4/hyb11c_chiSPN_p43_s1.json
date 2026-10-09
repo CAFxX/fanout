@@ -1,0 +1,16 @@
+{
+ "candidate": "hyb11c_chiSPN_p43",
+ "stage": "s1",
+ "verdict": "CAL_PASS",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 52.8,
+  "time_lin_diff_s": 8.2,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-09T20:55:44Z"
+}
