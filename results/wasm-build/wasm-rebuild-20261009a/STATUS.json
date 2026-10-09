@@ -1,0 +1,37 @@
+{
+ "job_id": "wasm-rebuild-20261009a",
+ "project": "wasm-build",
+ "status": "failed",
+ "shards": 2,
+ "n_ok": 0,
+ "n_failed": 2,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  }
+ ],
+ "spec": {
+  "cache_key": "",
+  "cache_paths": "",
+  "command": "bash projects/wasm-build/driver.sh",
+  "env": "",
+  "image": "ghcr.io/cafxx/fanout-wasm-build:latest",
+  "job_id": "wasm-rebuild-20261009a",
+  "priority": "wasm",
+  "project": "wasm-build",
+  "registry_password": "",
+  "registry_user": "",
+  "shards": 2,
+  "timeout_minutes": 120
+ },
+ "finished_at": "2026-10-09T05:30:20.009932+00:00"
+}
