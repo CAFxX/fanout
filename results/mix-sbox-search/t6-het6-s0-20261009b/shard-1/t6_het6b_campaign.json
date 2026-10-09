@@ -1,0 +1,13 @@
+{
+ "candidate": "t6_het6b",
+ "stages": {
+  "s0": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: rk/projects/mix-sbox-search/battery/vendor/s0_delay.py\", line 132, in load_model\n    spec.loader.exec_module(m)\n    ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"<frozen importlib._bootstrap_external>\", line 763, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 491, in _call_with_frames_removed\n  File \"/work/projects/mix-sbox-search/battery/candidates/t6_het6b/model.py\", line 5, in <module>\n    from t6_models_b6 import CANDIDATES_B6, MIX_NP_B6\nModuleNotFoundError: No module named 't6_models_b6'\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s0",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
