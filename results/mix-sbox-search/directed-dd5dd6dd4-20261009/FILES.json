@@ -1,0 +1,8 @@
+{
+ "job_id": "directed-dd5dd6dd4-20261009",
+ "files": [
+  "STATUS.json",
+  "shard-4/_shard_status.json",
+  "shard-5/_shard_status.json"
+ ]
+}
