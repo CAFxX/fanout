@@ -1,0 +1,15 @@
+{
+ "candidate": "fz15_c",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=0 max|z|=32.5",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 28.4,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-09T20:53:27Z"
+}

@@ -1,0 +1,29 @@
+{
+ "job_id": "campaign-rerun-20261009-205008",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/fz15_a/s1_result.json",
+  "shard-0/fz15_a_campaign.json",
+  "shard-0/fz15_a_s1.json",
+  "shard-1/_shard_status.json",
+  "shard-1/fz15_b/s1_result.json",
+  "shard-1/fz15_b_campaign.json",
+  "shard-1/fz15_b_s1.json",
+  "shard-2/_shard_status.json",
+  "shard-2/fz15_c/_work/_shadow/candidates/fz15_c/__pycache__/model.cpython-314.pyc",
+  "shard-2/fz15_c/_work/_shadow/candidates/fz15_c/meta.json",
+  "shard-2/fz15_c/_work/_shadow/candidates/fz15_c/model.py",
+  "shard-2/fz15_c/_work/_xcheck_vecs.txt",
+  "shard-2/fz15_c/_work/diffprof",
+  "shard-2/fz15_c/s1_result.json",
+  "shard-2/fz15_c/s2.out",
+  "shard-2/fz15_c_campaign.json",
+  "shard-2/fz15_c_s1.json",
+  "shard-2/fz15_c_s2.json",
+  "shard-3/_shard_status.json",
+  "shard-3/fz15_d/s1_result.json",
+  "shard-3/fz15_d_campaign.json",
+  "shard-3/fz15_d_s1.json"
+ ]
+}
