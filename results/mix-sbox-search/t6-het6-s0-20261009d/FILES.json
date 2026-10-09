@@ -1,0 +1,29 @@
+{
+ "job_id": "t6-het6-s0-20261009d",
+ "files": [
+  "STATUS.json",
+  "shard-0/_canary/_canary/kill/_equiv_sim_mul64",
+  "shard-0/_canary/_canary/kill/_equiv_tb_mul64.v",
+  "shard-0/_canary/_canary/kill/_equiv_vecs_mul64.txt",
+  "shard-0/_canary/_canary/kill/_synth/mapped_mul64.v",
+  "shard-0/_canary/_canary/kill/_synth/s_mul64.ys",
+  "shard-0/_canary/_canary/kill/s0_result.json",
+  "shard-0/_canary/_canary/pass/_equiv_sim_r23_spn_mix4r_pba19b01_nw",
+  "shard-0/_canary/_canary/pass/_equiv_tb_r23_spn_mix4r_pba19b01_nw.v",
+  "shard-0/_canary/_canary/pass/_equiv_vecs_r23_spn_mix4r_pba19b01_nw.txt",
+  "shard-0/_canary/_canary/pass/_synth/mapped_r23_spn_mix4r_pba19b01_nw.v",
+  "shard-0/_canary/_canary/pass/_synth/s_r23_spn_mix4r_pba19b01_nw.ys",
+  "shard-0/_canary/_canary/pass/s0_result.json",
+  "shard-0/_shard_status.json",
+  "shard-0/mul64_s0.json",
+  "shard-0/r23_spn_mix4r_pba19b01_nw_s0.json",
+  "shard-0/t6_het6b/_equiv_sim_t6_het6b",
+  "shard-0/t6_het6b/_equiv_tb_t6_het6b.v",
+  "shard-0/t6_het6b/_equiv_vecs_t6_het6b.txt",
+  "shard-0/t6_het6b/_synth/mapped_t6_het6b.v",
+  "shard-0/t6_het6b/_synth/s_t6_het6b.ys",
+  "shard-0/t6_het6b/s0_result.json",
+  "shard-0/t6_het6b_campaign.json",
+  "shard-0/t6_het6b_s0.json"
+ ]
+}
