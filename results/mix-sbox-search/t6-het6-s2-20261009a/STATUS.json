@@ -1,0 +1,53 @@
+{
+ "job_id": "t6-het6-s2-20261009a",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 3,
+ "n_ok": 3,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "campaign": "t6-het6-s2-20261009a",
+  "candidates": [
+   "t6_het6a",
+   "t6_het6b",
+   "t6_het6c"
+  ],
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_het6a,t6_het6b,t6_het6c --stages s2",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "est_min": 30.0,
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "job_id": "t6-het6-s2-20261009a",
+  "note": "S2-only re-race for t6 het6 trio: -e campaign's S2 INFRA_FAIL was a bundle defect (impl.c stub, undefined reference to mix_hash). impl.c replaced with real bit-exact C, verified vs t6_models_b6 (2016 vectors each incl. edge keys), pushed as a2f85416. By mix-search-status-30m 2026-10-09",
+  "per_shard_min": 30,
+  "priority": "new-leads",
+  "project": "mix-sbox-search",
+  "registry_password": "",
+  "registry_user": "",
+  "shards": 3,
+  "submitted_at": "2026-10-09T11:45:00+00:00",
+  "timeout_minutes": 300
+ },
+ "finished_at": "2026-10-09T11:43:07.847455+00:00"
+}

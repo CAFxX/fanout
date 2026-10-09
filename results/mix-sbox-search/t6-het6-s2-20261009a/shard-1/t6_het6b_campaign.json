@@ -1,0 +1,13 @@
+{
+ "candidate": "t6_het6b",
+ "stages": {
+  "s2": {
+   "verdict": "PASS",
+   "signal": "PASS max_repeats=0 max|z|=3.9",
+   "artifacts": "s2.out"
+  }
+ },
+ "final_stage": "s2",
+ "final_verdict": "PASS",
+ "survived": true
+}
