@@ -201,11 +201,18 @@ jobs:
 
   shard:
     needs: setup
-    # Concurrency per (project, job-id): two dispatches for the same job
-    # never clobber each other's results; never cancel a running batch.
-    # (matrix.combo carries this combo's project/job_id.)
+    # Concurrency per (project, job-id, shard): two dispatches for the same
+    # campaign never clobber each other's results; never cancel a running
+    # batch. (matrix.combo carries this combo's project/job_id/idx.)
+    # NOTE 2026-10-09: the group MUST include the shard index. Without it,
+    # all shards of one campaign shared a single group and GitHub cancelled
+    # all but 1-2 of them at schedule time ("Canceling since a higher
+    # priority waiting request for <group> exists") — the real mechanism
+    # behind every "mass cancellation" event. The 20-concurrent-job-limit
+    # theory is falsified: shards died with the repo nearly idle (1 active
+    # job repo-wide).
     concurrency:
-      group: fanout-${{ matrix.combo.project }}-${{ matrix.combo.job_id }}
+      group: fanout-${{ matrix.combo.project }}-${{ matrix.combo.job_id }}-shard-${{ matrix.combo.idx }}
       cancel-in-progress: false
     if: needs.setup.outputs.combos != '[]'
     runs-on: ubuntu-latest
