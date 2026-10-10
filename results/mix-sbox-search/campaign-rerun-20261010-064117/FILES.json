@@ -1,0 +1,14 @@
+{
+ "job_id": "campaign-rerun-20261010-064117",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/fz23_b/s1_result.json",
+  "shard-0/fz23_b_campaign.json",
+  "shard-0/fz23_b_s1.json",
+  "shard-1/_shard_status.json",
+  "shard-1/fz23_c/s1_result.json",
+  "shard-1/fz23_c_campaign.json",
+  "shard-1/fz23_c_s1.json"
+ ]
+}

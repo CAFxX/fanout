@@ -1,0 +1,26 @@
+{
+ "candidate": "fz23_b",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [
+   "('DIFF', 6148914691236517205)",
+   "('DIFF', 11400714819323198485)",
+   "('DIFF', 81985529216486895)",
+   "('DIFF', 16045690984833335023)",
+   "('DIFF', 12297829382473034410)",
+   "('DIFF', 17344816400086835893)",
+   "('DIFF', 0)",
+   "('DIFF', 4660)",
+   "('DIFF', 660209390169048899)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 7.6,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T06:42:59Z"
+}
