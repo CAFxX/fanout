@@ -1,0 +1,150 @@
+{
+ "job_id": "broad-s1s2-20261010-b1",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 17,
+ "n_ok": 17,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 6,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 7,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 8,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 9,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 10,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 11,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 12,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 13,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 14,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 15,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 16,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "broad-s1s2-20261010-b1",
+  "campaign": "broad-s1s2-20261010-b1",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_qarma_s0_513_nw,r25_spn_pba19_sb_qarma_s2_513_nw,r25_spn_pba19_sb_midori_sb0_513_nw,r25_spn_pba19_sb_midori_sb1_513_nw,r25_spn_pba19_sb_rasd3c1_0_513_nw,r25_spn_pba19_sb_rasd3c1_1_513_nw,r25_spn_pba19_sb_rasd3c1_2_513_nw,r25_spn_pba19_sb_rasd3c1_3_513_nw,r25_spn_pba19_sb_rasd3c1_4_513_nw,r25_spn_pba19_sb_rasd3c1_5_513_nw,r25_spn_pba19_sb_rasd3c1_6_513_nw,r25_spn_pba19_sb_rasd3c1_7_513_nw,r25_spn_pba19_sb_rasd3c1_8_513_nw,r25_spn_pba19_sb_rasd3c1_9_513_nw,r25_spn_pba19_sb_rasd3c1_10_513_nw,r25_spn_pba19_sb_rasd3c1_11_513_nw,r25_spn_pba19_sb_rasd3c1_12_513_nw --stages s1,s2 --skip-canary",
+  "shards": 17,
+  "timeout_minutes": 180,
+  "per_shard_min": 90,
+  "est_min": 2142.0,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "priority": "new-leads",
+  "candidates": [
+   "r25_spn_pba19_sb_qarma_s0_513_nw",
+   "r25_spn_pba19_sb_qarma_s2_513_nw",
+   "r25_spn_pba19_sb_midori_sb0_513_nw",
+   "r25_spn_pba19_sb_midori_sb1_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_0_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_1_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_2_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_3_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_4_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_5_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_6_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_7_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_8_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_9_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_10_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_11_513_nw",
+   "r25_spn_pba19_sb_rasd3c1_12_513_nw"
+  ],
+  "stages": "s1,s2",
+  "submitted_at": "2026-10-10T09:08:44.659137+00:00",
+  "note": "Broad S1/S2 for S0-pass batch b1 (17 cands, 27.1-30.1u dominated-class). Bundles already in repo from S0 submit. S3 NOT included (canary-pipe INFRA_FAIL, do not re-race)."
+ },
+ "finished_at": "2026-10-10T09:15:57.381770+00:00"
+}

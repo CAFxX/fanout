@@ -1,0 +1,16 @@
+{
+ "candidate": "r25_spn_pba19_sb_qarma_s2_513_nw",
+ "stage": "s1",
+ "verdict": "CAL_PASS",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 59.7,
+  "time_lin_diff_s": 5.1,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T09:11:17Z"
+}
