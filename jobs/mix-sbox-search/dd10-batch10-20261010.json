@@ -1,0 +1,27 @@
+{
+ "cache_key": "third-party",
+ "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+ "campaign": "dd10-batch10-20261010",
+ "candidates": [
+  "dd10_scsc_linsbox_a",
+  "dd10_scsc_linchi_a",
+  "dd10_sccs_linsbox_a",
+  "dd10_scsc_singlerot_a",
+  "dd10_scsc_singlerot_linsbox_a",
+  "dd10_scsc_linsbox_rm"
+ ],
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only dd10_scsc_linsbox_a,dd10_scsc_linchi_a,dd10_sccs_linsbox_a,dd10_scsc_singlerot_a,dd10_scsc_singlerot_linsbox_a,dd10_scsc_linsbox_rm --stages s1,s2",
+ "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+ "est_min": 360.0,
+ "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+ "job_id": "dd10-batch10-20261010",
+ "note": "Batch-10 (D7): partial-LIN isolation + cheaper-LIN probe on the D6 4r mixed S-box/chi SCSC template (pba19, golden KS, AND-chi triples). D6 found the rotation-LIN layer load-bearing for S1 (nolin 17.2-18.6u all S1-FLAG LIN 10/10 + DIFF 10/10; linall 27.2/27.6u S1+S2 clean). D7: lin=sbox (LIN on S rounds only), lin=chi (LIN on chi rounds only), single-rotation LIN [13] all-rounds and S-only, hetero R/M S-boxes in S rounds. Bit-exact: model vs C 214/214, RTL vs model 52/52. By track-4 D7 worker 2026-10-10. S0 2026-10-10: linsbox_a=21.9, linchi_a=23.5, sccs_linsbox_a=22.3, singlerot_a=22.5, singlerot_linsbox_a=19.6, linsbox_rm=22.1 (crit u; mul64 ref 103.5). singlerot_linsbox_a <20.5u -> priority=frontier-challengers.",
+ "per_shard_min": 60,
+ "priority": "frontier-challengers",
+ "project": "mix-sbox-search",
+ "registry_password": "",
+ "registry_user": "",
+ "shards": 6,
+ "submitted_at": "2026-10-10T01:59:00+00:00",
+ "timeout_minutes": 300
+}
