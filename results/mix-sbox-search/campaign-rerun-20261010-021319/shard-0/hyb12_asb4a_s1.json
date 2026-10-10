@@ -1,0 +1,24 @@
+{
+ "candidate": "hyb12_asb4a",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [
+   "('DIFF', 0)",
+   "('DIFF', 4660)",
+   "('DIFF', 81985529216486895)",
+   "('DIFF', 11400714819323198485)",
+   "('DIFF', 660209390169048899)",
+   "('DIFF', 12297829382473034410)",
+   "('DIFF', 16045690984833335023)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 6.5,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T02:15:14Z"
+}
