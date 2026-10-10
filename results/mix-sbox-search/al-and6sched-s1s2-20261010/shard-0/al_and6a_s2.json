@@ -1,0 +1,15 @@
+{
+ "candidate": "al_and6a",
+ "stage": "s2",
+ "verdict": "PASS",
+ "detail": {
+  "signal": "PASS max_repeats=0 max|z|=113.2",
+  "log2n": 22,
+  "kill_repeats": 10,
+  "key": "0x123456789abcdef0",
+  "xcheck_vecs": 10000,
+  "wall_s": 41.1,
+  "native_result": "s2.out"
+ },
+ "ts": "2026-10-10T15:47:31Z"
+}

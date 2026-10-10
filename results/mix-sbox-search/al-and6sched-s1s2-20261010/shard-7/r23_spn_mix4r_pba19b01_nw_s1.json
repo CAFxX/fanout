@@ -1,0 +1,16 @@
+{
+ "candidate": "r23_spn_mix4r_pba19b01_nw",
+ "stage": "s1",
+ "verdict": "CAL_PASS",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 100.7,
+  "time_lin_diff_s": 9.9,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T15:43:37Z"
+}

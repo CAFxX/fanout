@@ -1,0 +1,88 @@
+{
+ "job_id": "al-and6sched-s1s2-20261010",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 8,
+ "n_ok": 8,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 6,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 7,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "campaign": "al-and6sched-s1s2-20261010",
+  "candidates": [
+   "as6_200_15",
+   "as6_200_68",
+   "as6_200_38",
+   "as6_200_106",
+   "as6_200_67",
+   "as6_200_80",
+   "as6_200_118",
+   "al_and6a"
+  ],
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only as6_200_15,as6_200_68,as6_200_38,as6_200_106,as6_200_67,as6_200_80,as6_200_118,al_and6a --stages s1,s2",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "est_min": 480.0,
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "job_id": "al-and6sched-s1s2-20261010",
+  "note": "Track 3 and6 schedule-search harvest (seed 200, 120 schedules, z<18 KEEP x42, REAL S0 all 42): 7 sub-frontier candidates by (S0,z): as6_200_15 19.2u/z5.1, as6_200_68 19.2u/z7.6, as6_200_38 19.2u/z7.8, as6_200_118 19.5u/z7.1, as6_200_106 19.8u/z5.4, as6_200_67 19.8u/z8.1, as6_200_80 19.8u/z8.2. al_and6a = golden canary (known S1 CAL_PASS + S2 PASS, 20.1u). NOTE: pre-reboot S0 lines in search_and6_120.log were the mul64 reference (crit-parse bug, fixed); S0s here are real DUT crits from search_and6_120_s0fix.log. Bundles model-vs-C bit-exact (asserted at generation). By track-3 supervisor 2026-10-10 (post-reboot respawn).",
+  "per_shard_min": 60,
+  "priority": "frontier-challengers",
+  "project": "mix-sbox-search",
+  "registry_password": "",
+  "registry_user": "",
+  "shards": 8,
+  "submitted_at": "2026-10-10T15:45:00+00:00",
+  "timeout_minutes": 300
+ },
+ "finished_at": "2026-10-10T15:47:53.933152+00:00"
+}

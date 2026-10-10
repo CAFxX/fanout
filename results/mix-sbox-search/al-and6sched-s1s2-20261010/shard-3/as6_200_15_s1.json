@@ -1,0 +1,18 @@
+{
+ "candidate": "as6_200_15",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [
+   "('SINGLE-BIT', '0x0000000000000000')"
+  ],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 35.5,
+  "time_lin_diff_s": 6.6,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T15:44:36Z"
+}
