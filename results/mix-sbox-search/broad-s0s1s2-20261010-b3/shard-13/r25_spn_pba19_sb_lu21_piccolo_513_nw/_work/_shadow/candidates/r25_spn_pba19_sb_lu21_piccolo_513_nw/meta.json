@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_lu21_piccolo_513_nw",
+ "description": "Broad S-box screen: 4r SPN, LU21_PICCOLO (e4b238091a7f6c5d), pba19, L=lin(5,13), golden ks.",
+ "composition": "Broad S-box screen: 4r SPN, LU21_PICCOLO (e4b238091a7f6c5d), pba19, L=lin(5,13), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_lu21_piccolo_513_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x5d0b622e2819de"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0xe1847406010389f2"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_boyar19_gf4inv_513_nw",
+ "stages": {
+  "s0": {
+   "verdict": "PASS",
+   "signal": "",
+   "artifacts": "s0_result.json"
+  },
+  "s1": {
+   "verdict": "FLAG",
+   "signal": "",
+   "artifacts": "s1_result.json"
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "FLAG",
+ "survived": false
+}

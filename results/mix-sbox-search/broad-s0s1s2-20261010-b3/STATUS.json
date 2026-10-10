@@ -1,0 +1,157 @@
+{
+ "job_id": "broad-s0s1s2-20261010-b3",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 18,
+ "n_ok": 18,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 6,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 7,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 8,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 9,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 10,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 11,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 12,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 13,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 14,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 15,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 16,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 17,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "broad-s0s1s2-20261010-b3",
+  "campaign": "broad-s0s1s2-20261010-b3",
+  "candidates": [
+   "r25_spn_pba19_sb_aff_eq3_513_nw",
+   "r25_spn_pba19_sb_aff_eq4_513_nw",
+   "r25_spn_pba19_sb_aff_eq5_513_nw",
+   "r25_spn_pba19_sb_aff_eq6_513_nw",
+   "r25_spn_pba19_sb_boyar19_gf4inv_513_nw",
+   "r25_spn_pba19_sb_jia25_11ge_513_nw",
+   "r25_spn_pba19_sb_jia25_12ge_r1_513_nw",
+   "r25_spn_pba19_sb_jia25_12ge_r2_513_nw",
+   "r25_spn_pba19_sb_jia25_12ge_r3_513_nw",
+   "r25_spn_pba19_sb_lit_present_513_nw",
+   "r25_spn_pba19_sb_lit_rectangle_513_nw",
+   "r25_spn_pba19_sb_lit_skinny_513_nw",
+   "r25_spn_pba19_sb_lu21_lblock_s0_513_nw",
+   "r25_spn_pba19_sb_lu21_piccolo_513_nw",
+   "r25_spn_pba19_sb_lu21_rectangle_513_nw",
+   "r25_spn_pba19_sb_lu21_skinny_513_nw",
+   "r25_spn_pba19_sb_prince_s0_513_nw",
+   "r25_spn_pba19_sb_orthros_s0_513_nw"
+  ],
+  "stages": "s0,s1,s2",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_aff_eq3_513_nw,r25_spn_pba19_sb_aff_eq4_513_nw,r25_spn_pba19_sb_aff_eq5_513_nw,r25_spn_pba19_sb_aff_eq6_513_nw,r25_spn_pba19_sb_boyar19_gf4inv_513_nw,r25_spn_pba19_sb_jia25_11ge_513_nw,r25_spn_pba19_sb_jia25_12ge_r1_513_nw,r25_spn_pba19_sb_jia25_12ge_r2_513_nw,r25_spn_pba19_sb_jia25_12ge_r3_513_nw,r25_spn_pba19_sb_lit_present_513_nw,r25_spn_pba19_sb_lit_rectangle_513_nw,r25_spn_pba19_sb_lit_skinny_513_nw,r25_spn_pba19_sb_lu21_lblock_s0_513_nw,r25_spn_pba19_sb_lu21_piccolo_513_nw,r25_spn_pba19_sb_lu21_rectangle_513_nw,r25_spn_pba19_sb_lu21_skinny_513_nw,r25_spn_pba19_sb_prince_s0_513_nw,r25_spn_pba19_sb_orthros_s0_513_nw --stages s0,s1,s2 --skip-canary",
+  "shards": 18,
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "timeout_minutes": 300,
+  "per_shard_min": 100,
+  "est_min": 1800.0,
+  "priority": "new-leads",
+  "submitted_at": "2026-10-10T12:21:34.954111+00:00",
+  "note": "Track-2 broad screen batch 3: literature crypto S-boxes (aff_eq3-6, boyar19_gf4inv, jia25 11ge/12ge_r1-3, lit_present/rectangle/skinny, lu21 lblock_s0/piccolo/rectangle/skinny, prince_s0, orthros_s0) on pba19/513. All 18 bundles verified present in repo before submit. Chained s0,s1,s2 with early stop; S3 excluded (canary-pipe INFRA_FAIL). Bundles not re-pushed (already in repo)."
+ },
+ "finished_at": "2026-10-10T12:28:50.647162+00:00"
+}
