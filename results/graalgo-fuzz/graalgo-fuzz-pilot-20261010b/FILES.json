@@ -1,0 +1,26 @@
+{
+ "job_id": "graalgo-fuzz-pilot-20261010b",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-1/_shard_status.json",
+  "shard-10/_shard_status.json",
+  "shard-11/_shard_status.json",
+  "shard-12/_shard_status.json",
+  "shard-13/_shard_status.json",
+  "shard-14/_shard_status.json",
+  "shard-15/_shard_status.json",
+  "shard-16/_shard_status.json",
+  "shard-17/_shard_status.json",
+  "shard-18/_shard_status.json",
+  "shard-19/_shard_status.json",
+  "shard-2/_shard_status.json",
+  "shard-3/_shard_status.json",
+  "shard-4/_shard_status.json",
+  "shard-5/_shard_status.json",
+  "shard-6/_shard_status.json",
+  "shard-7/_shard_status.json",
+  "shard-8/_shard_status.json",
+  "shard-9/_shard_status.json"
+ ]
+}
