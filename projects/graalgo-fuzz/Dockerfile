@@ -48,6 +48,14 @@ RUN mkdir -p /opt && tar -xz -C /opt -f /tmp/graalgo-slim.tar.gz \
 WORKDIR /opt/graalgo
 RUN make -C phases/phase3 main && echo "graalgo pre-build OK"
 
+# The dispatch workflow runs containers as the runner's uid/gid
+# (--user "$RUID:$RGID"), not as the image user. The graalgo slim tarball
+# carries root-only directory modes (drwxrwx---), which makes every path
+# under /opt/graalgo unreadable to that user (pilot B/C died here:
+# CANARY_FAIL "generator error", EACCES opening generator.py). World-read
+# (+x on dirs) the whole tree so any uid can use it.
+RUN chmod -R a+rX /opt/graalgo
+
 # Shard contract env (set by dispatch.yml at runtime).
 ENV OUT_DIR=/out SHARD_IDX=0 SHARD_COUNT=1
 

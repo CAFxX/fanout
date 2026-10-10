@@ -57,6 +57,16 @@ def main():
     tmpdir = os.path.join(OUT_DIR, "tmp")
     os.makedirs(tmpdir, exist_ok=True)
     os.environ["TMPDIR"] = tmpdir
+    # The container runs as the runner's uid/gid, which has no passwd entry
+    # and no writable $HOME/.cache; keep the Go build/module caches on the
+    # mounted $OUT_DIR (runner-owned, writable) so `go build` in diff_one.sh
+    # cannot fail on GOCACHE permissions.
+    go_cache = os.path.join(OUT_DIR, "gocache")
+    os.makedirs(go_cache, exist_ok=True)
+    os.environ["GOCACHE"] = go_cache
+    go_path = os.path.join(OUT_DIR, "gopath")
+    os.makedirs(go_path, exist_ok=True)
+    os.environ["GOPATH"] = go_path
     # Pre-flight diagnostics (goes to the GHA job log).
     print(f"GRAALGO_HOME={GRAALGO_HOME}", flush=True)
     print(f"gen exists: {os.path.exists(os.path.join(FUZZ, 'gen/generator.py'))}",
