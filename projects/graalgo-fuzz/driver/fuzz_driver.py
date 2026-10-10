@@ -30,6 +30,27 @@ SEEDS_PER_SHARD = int(os.environ.get("SEEDS_PER_SHARD", "50"))
 # Canary: must PASS. (A tiny fixed program exercising int arithmetic.)
 CANARY_SEED = 999999
 
+# Per-seed work dirs land in the collect commit; GitHub rejects files over
+# 100MB (pilot E: a 3.4GB gc.out killed the results push). Truncate any
+# single file above this to head+marker.
+MAX_KEPT_BYTES = 1_000_000
+TRUNC_HEAD_BYTES = 500_000
+
+
+def truncate_workdir(workdir):
+    for name in os.listdir(workdir):
+        p = os.path.join(workdir, name)
+        try:
+            if os.path.isfile(p) and os.path.getsize(p) > MAX_KEPT_BYTES:
+                with open(p, "rb") as fh:
+                    head = fh.read(TRUNC_HEAD_BYTES)
+                with open(p, "wb") as fh:
+                    fh.write(head)
+                    fh.write(b"\n...[truncated by driver: exceeded 1MB]...\n")
+                print(f"  truncated {name}", flush=True)
+        except OSError as e:
+            print(f"  truncate failed for {name}: {e}", flush=True)
+
 
 def sh(cmd, timeout=300):
     return subprocess.run(cmd, shell=True, capture_output=True, text=True,
@@ -107,6 +128,7 @@ def main():
     # on a program that builds fine). Create it before the canary.
     os.makedirs(canary_work, exist_ok=True)
     crec = diff_one(canary_go, canary_work)
+    truncate_workdir(canary_work)
     print(f"canary: {crec}", flush=True)
     if crec["result"] != "PASS":
         with open(os.path.join(OUT_DIR, "CANARY_FAIL"), "w") as f:
@@ -133,6 +155,7 @@ def main():
             rec = diff_one(gofile, workdir)
             rec["seed"] = s
             rec["shard"] = SHARD_IDX
+            truncate_workdir(workdir)
             return rec
 
         with ThreadPoolExecutor(max_workers=4) as ex:
