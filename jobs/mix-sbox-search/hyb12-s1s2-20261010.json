@@ -1,0 +1,16 @@
+{
+  "project": "mix-sbox-search",
+  "job_id": "hyb12-s1s2-20261010",
+  "campaign": "hyb12-s1s2-20261010",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only hyb12_asb4a,hyb12_asb5a,hyb12_sand2a --stages s1,s2",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "shards": 3,
+  "timeout_minutes": 300,
+  "priority": "frontier-challengers",
+  "est_min": 180.0,
+  "per_shard_min": 60,
+  "submitted_at": "2026-10-10T01:20:00+00:00",
+  "candidates": ["hyb12_asb4a", "hyb12_asb5a", "hyb12_sand2a"],
+  "note": "Batch-12 (Track 5 respawn): heterogeneous AND/S-box cascade co-design. 4-bit rasC2_0 S-box layer (S2-clean, degree 3) interleaved with al_and6a AND stages; AND rotations diffuse S-box nibbles (free wiring). hyb12_asb4a S0 19.4u BEATS 20.1u frontier (4xAND+SBOX+L); hyb12_asb5a S0 22.3u quality probe (does S-box fix 5-stage DIFF death?); hyb12_sand2a S0 20.2u interleaved (2AND+SBOX+2AND+L). Bundles bit-exact (model vs C 200/200, RTL vs model 20/20 iverilog). By track-5 supervisor 2026-10-10."
+}
