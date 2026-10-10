@@ -1,0 +1,457 @@
+{
+ "job_id": "broad-s1s2-20261010-b5d",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 61,
+ "n_ok": 61,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 6,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 7,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 8,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 9,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 10,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 11,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 12,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 13,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 14,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 15,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 16,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 17,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 18,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 19,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 20,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 21,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 22,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 23,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 24,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 25,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 26,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 27,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 28,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 29,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 30,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 31,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 32,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 33,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 34,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 35,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 36,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 37,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 38,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 39,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 40,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 41,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 42,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 43,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 44,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 45,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 46,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 47,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 48,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 49,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 50,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 51,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 52,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 53,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 54,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 55,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 56,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 57,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 58,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 59,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  },
+  {
+   "idx": 60,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "broad-s1s2-20261010-b5d",
+  "campaign": "broad-s1s2-20261010-b5d",
+  "candidates": [
+   "r25_spn_pba19_sb_rasd3c2_55_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_56_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_57_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_58_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_59_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_5_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_60_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_61_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_62_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_63_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_65_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_66_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_67_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_68_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_69_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_6_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_70_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_71_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_72_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_73_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_74_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_75_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_77_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_78_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_79_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_7_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_80_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_81_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_82_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_83_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_84_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_85_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_86_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_87_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_88_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_89_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_8_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_90_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_91_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_92_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_93_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_94_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_95_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_96_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_97_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_98_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_99_513_nw",
+   "r25_spn_pba19_sb_rasd3c2_9_513_nw",
+   "r25_spn_pba19_sb_orthros_nw",
+   "r25_spn_pba19_sb_rasC2_0_513_nw",
+   "r25_spn_pba19_sb_rasC2_0_nw",
+   "r25_spn_pba19_sb_rnd_opt1_513_nw",
+   "r25_spn_pba19_sb_rnd_opt2_513_nw",
+   "r25_spn_pba19_sb_rnd_opt3_513_nw",
+   "r25_spn_pba19_sb_rnd_opt4_513_nw",
+   "r25_spn_pba19_sb_rnd_opt5_513_nw",
+   "r25_spn_pba19_sb_s1_baseline_513_nw",
+   "r25_spn_pba19_sb_thf_blink_nw",
+   "r25_spn_pba19_sb_thf_blink_s0_513_nw",
+   "r25_spn_pba19_sb_ulbc_s1_nw",
+   "r25_spn_pba19_sb_user_sbox1_513_nw"
+  ],
+  "stages": "s1,s2",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only r25_spn_pba19_sb_rasd3c2_55_513_nw,r25_spn_pba19_sb_rasd3c2_56_513_nw,r25_spn_pba19_sb_rasd3c2_57_513_nw,r25_spn_pba19_sb_rasd3c2_58_513_nw,r25_spn_pba19_sb_rasd3c2_59_513_nw,r25_spn_pba19_sb_rasd3c2_5_513_nw,r25_spn_pba19_sb_rasd3c2_60_513_nw,r25_spn_pba19_sb_rasd3c2_61_513_nw,r25_spn_pba19_sb_rasd3c2_62_513_nw,r25_spn_pba19_sb_rasd3c2_63_513_nw,r25_spn_pba19_sb_rasd3c2_65_513_nw,r25_spn_pba19_sb_rasd3c2_66_513_nw,r25_spn_pba19_sb_rasd3c2_67_513_nw,r25_spn_pba19_sb_rasd3c2_68_513_nw,r25_spn_pba19_sb_rasd3c2_69_513_nw,r25_spn_pba19_sb_rasd3c2_6_513_nw,r25_spn_pba19_sb_rasd3c2_70_513_nw,r25_spn_pba19_sb_rasd3c2_71_513_nw,r25_spn_pba19_sb_rasd3c2_72_513_nw,r25_spn_pba19_sb_rasd3c2_73_513_nw,r25_spn_pba19_sb_rasd3c2_74_513_nw,r25_spn_pba19_sb_rasd3c2_75_513_nw,r25_spn_pba19_sb_rasd3c2_77_513_nw,r25_spn_pba19_sb_rasd3c2_78_513_nw,r25_spn_pba19_sb_rasd3c2_79_513_nw,r25_spn_pba19_sb_rasd3c2_7_513_nw,r25_spn_pba19_sb_rasd3c2_80_513_nw,r25_spn_pba19_sb_rasd3c2_81_513_nw,r25_spn_pba19_sb_rasd3c2_82_513_nw,r25_spn_pba19_sb_rasd3c2_83_513_nw,r25_spn_pba19_sb_rasd3c2_84_513_nw,r25_spn_pba19_sb_rasd3c2_85_513_nw,r25_spn_pba19_sb_rasd3c2_86_513_nw,r25_spn_pba19_sb_rasd3c2_87_513_nw,r25_spn_pba19_sb_rasd3c2_88_513_nw,r25_spn_pba19_sb_rasd3c2_89_513_nw,r25_spn_pba19_sb_rasd3c2_8_513_nw,r25_spn_pba19_sb_rasd3c2_90_513_nw,r25_spn_pba19_sb_rasd3c2_91_513_nw,r25_spn_pba19_sb_rasd3c2_92_513_nw,r25_spn_pba19_sb_rasd3c2_93_513_nw,r25_spn_pba19_sb_rasd3c2_94_513_nw,r25_spn_pba19_sb_rasd3c2_95_513_nw,r25_spn_pba19_sb_rasd3c2_96_513_nw,r25_spn_pba19_sb_rasd3c2_97_513_nw,r25_spn_pba19_sb_rasd3c2_98_513_nw,r25_spn_pba19_sb_rasd3c2_99_513_nw,r25_spn_pba19_sb_rasd3c2_9_513_nw,r25_spn_pba19_sb_orthros_nw,r25_spn_pba19_sb_rasC2_0_513_nw,r25_spn_pba19_sb_rasC2_0_nw,r25_spn_pba19_sb_rnd_opt1_513_nw,r25_spn_pba19_sb_rnd_opt2_513_nw,r25_spn_pba19_sb_rnd_opt3_513_nw,r25_spn_pba19_sb_rnd_opt4_513_nw,r25_spn_pba19_sb_rnd_opt5_513_nw,r25_spn_pba19_sb_s1_baseline_513_nw,r25_spn_pba19_sb_thf_blink_nw,r25_spn_pba19_sb_thf_blink_s0_513_nw,r25_spn_pba19_sb_ulbc_s1_nw,r25_spn_pba19_sb_user_sbox1_513_nw --stages s1,s2 --skip-canary",
+  "shards": 61,
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "timeout_minutes": 300,
+  "per_shard_min": 100,
+  "priority": "new-leads",
+  "submitted_at": "2026-10-10T19:18:24+00:00",
+  "note": "Track-2 broad screen batch 5d: 61 candidates from the remaining pool (rasd3c1/rasd3c2/misc) on pba19/513. Stages s1+s2 only (S0 skipped: SPN family delay-dominated ~26-30u; S3 excluded, canary-pipe still broken). skip-canary (gate validated by b5a canaries, same image). 2 lit_midori bundles excluded as bit-identical duplicates of already-screened midori_sb0/sb1."
+ },
+ "finished_at": "2026-10-10T20:35:14.994501+00:00"
+}

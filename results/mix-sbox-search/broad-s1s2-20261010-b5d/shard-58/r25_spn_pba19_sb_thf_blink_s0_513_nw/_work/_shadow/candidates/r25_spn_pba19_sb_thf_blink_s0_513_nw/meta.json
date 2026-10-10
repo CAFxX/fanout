@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_thf_blink_s0_513_nw",
+ "description": "Broad S-box screen: 4r SPN, THF_BLINK_S0 (109385e742cbaf6d), pba19, L=lin(5,13), golden ks.",
+ "composition": "Broad S-box screen: 4r SPN, THF_BLINK_S0 (109385e742cbaf6d), pba19, L=lin(5,13), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_thf_blink_s0_513_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0xe3f2dc4814dcd5dd"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0xd52552457b9f38ab"
+  }
+ ]
+}

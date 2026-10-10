@@ -1,0 +1,26 @@
+{
+ "name": "r25_spn_pba19_sb_rasd3c2_61_513_nw",
+ "description": "Broad S-box screen: 4r SPN, rasD3C2_61 (012457a8c963defb), pba19, L=lin(5,13), golden ks.",
+ "composition": "Broad S-box screen: 4r SPN, rasD3C2_61 (012457a8c963defb), pba19, L=lin(5,13), golden ks.",
+ "rtl_top": "r25_spn_pba19_sb_rasd3c2_61_513_nw",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0x5fbd07d49c1e23b8"
+  },
+  {
+   "val": "0x123456789abcdef0",
+   "key": "0x0",
+   "out": "0x19734e2d264dd3ee"
+  }
+ ]
+}
