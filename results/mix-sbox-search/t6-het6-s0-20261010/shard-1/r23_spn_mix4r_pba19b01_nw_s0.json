@@ -1,0 +1,18 @@
+{
+ "candidate": "r23_spn_mix4r_pba19b01_nw",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 27.8,
+  "cells": 5732,
+  "area": 15374.0,
+  "delay_ratio_vs_mult": 0.2686,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-10T14:17:58Z"
+}
