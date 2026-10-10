@@ -1,0 +1,18 @@
+{
+ "job_id": "campaign-rerun-20261010-110721",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/hyb18_dual_a/s1_result.json",
+  "shard-0/hyb18_dual_a_campaign.json",
+  "shard-0/hyb18_dual_a_s1.json",
+  "shard-1/_shard_status.json",
+  "shard-1/hyb18_dual_b/s1_result.json",
+  "shard-1/hyb18_dual_b_campaign.json",
+  "shard-1/hyb18_dual_b_s1.json",
+  "shard-2/_shard_status.json",
+  "shard-2/hyb18_dual_c/s1_result.json",
+  "shard-2/hyb18_dual_c_campaign.json",
+  "shard-2/hyb18_dual_c_s1.json"
+ ]
+}
