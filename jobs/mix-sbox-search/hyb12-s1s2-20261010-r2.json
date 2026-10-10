@@ -1,0 +1,20 @@
+{
+  "project": "mix-sbox-search",
+  "job_id": "hyb12-s1s2-20261010-r2",
+  "campaign": "hyb12-s1s2-20261010-r2",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only hyb12_asb4a,hyb12_asb5a,hyb12_sand2a --stages s1,s2",
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "shards": 3,
+  "timeout_minutes": 300,
+  "priority": "frontier-challengers",
+  "est_min": 180.0,
+  "per_shard_min": 60,
+  "submitted_at": "2026-10-10T08:05:00+00:00",
+  "candidates": [
+    "hyb12_asb4a",
+    "hyb12_asb5a",
+    "hyb12_sand2a"
+  ],
+  "note": "Re-submit after INFRA_FAIL fix (Track 5 frontier-challengers). hyb12-s1s2-20261010 failed all 3 shards with INFRA_FAIL: model.py _sbox64 used int(...) per nibble (scalar-only), TypeError on the S1 vector path. Fixed model.py (vectorized table lookup, bit-exact vs independent scalar reference) committed 2026-10-10 02:13 UTC but never pushed; re-running S1+S2 on hyb12_asb4a (S0 19.4u, beats 20.1u frontier), hyb12_asb5a, hyb12_sand2a with the fixed bundle."
+}
