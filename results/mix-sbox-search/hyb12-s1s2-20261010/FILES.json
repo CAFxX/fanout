@@ -1,0 +1,24 @@
+{
+ "job_id": "hyb12-s1s2-20261010",
+ "files": [
+  "STATUS.json",
+  "shard-0/_canary/_canary/kill/s1_result.json",
+  "shard-0/_canary/_canary/pass/s1_result.json",
+  "shard-0/_shard_status.json",
+  "shard-0/hyb12_asb4a_campaign.json",
+  "shard-0/r23_1r_s1.json",
+  "shard-0/r23_spn_mix4r_pba19b01_nw_s1.json",
+  "shard-1/_canary/_canary/kill/s1_result.json",
+  "shard-1/_canary/_canary/pass/s1_result.json",
+  "shard-1/_shard_status.json",
+  "shard-1/hyb12_asb5a_campaign.json",
+  "shard-1/r23_1r_s1.json",
+  "shard-1/r23_spn_mix4r_pba19b01_nw_s1.json",
+  "shard-2/_canary/_canary/kill/s1_result.json",
+  "shard-2/_canary/_canary/pass/s1_result.json",
+  "shard-2/_shard_status.json",
+  "shard-2/hyb12_sand2a_campaign.json",
+  "shard-2/r23_1r_s1.json",
+  "shard-2/r23_spn_mix4r_pba19b01_nw_s1.json"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "candidate": "hyb12_sand2a",
+ "stages": {
+  "s1": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: ^^^^^^^^^^^^^^^^\n  File \"/work/projects/mix-sbox-search/battery/candidates/hyb12_sand2a/model.py\", line 39, in mix_np\n    return _mix_core(V ^ K, K)\n  File \"/work/projects/mix-sbox-search/battery/candidates/hyb12_sand2a/model.py\", line 26, in _mix_core\n    x = _sbox64(x)\n  File \"/work/projects/mix-sbox-search/battery/candidates/hyb12_sand2a/model.py\", line 13, in _sbox64\n    nib = int((x >> np.uint64(4*i)) & np.uint64(0xF))\nTypeError: only 0-dimensional arrays can be converted to Python scalars\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
