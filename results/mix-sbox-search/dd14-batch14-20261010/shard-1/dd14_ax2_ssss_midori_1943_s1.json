@@ -1,0 +1,26 @@
+{
+ "candidate": "dd14_ax2_ssss_midori_1943",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [
+   "('DIFF', 12297829382473034410)",
+   "('DIFF', 16045690984833335023)",
+   "('DIFF', 4660)",
+   "('DIFF', 18446744073709551615)",
+   "('DIFF', 17344816400086835893)",
+   "('DIFF', 11400714819323198485)",
+   "('DIFF', 660209390169048899)",
+   "('DIFF', 0)",
+   "('DIFF', 6148914691236517205)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 5.6,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T11:02:46Z"
+}
