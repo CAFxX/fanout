@@ -1,0 +1,13 @@
+{
+ "candidate": "dd9_scsc_nolin_a",
+ "stages": {
+  "s1": {
+   "verdict": "FLAG",
+   "signal": "",
+   "artifacts": "s1_result.json"
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "FLAG",
+ "survived": false
+}
