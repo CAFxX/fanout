@@ -1,5 +1,10 @@
 # graalgo-fuzz GHA image: Go 1.27.1 + GraalVM JDK 25 + graalgo sources.
 #
+# Container contract (see driver/fuzz_driver.py): the driver exports
+# GR=/opt/graalgo, JAVA=/opt/graalvm/bin/java, TMPDIR=$OUT_DIR/tmp for the
+# differential harness (diff_one.sh honors all three when set). Go is on
+# PATH via the ENV below; python3 comes from apt.
+#
 # The graalgo sources are baked as a slim tarball (phases/phase1/{src,lib,
 # frontend}, phases/phase2/src, phases/phase3/{src,fuzzing}; ~45MB).
 # Rebuild the tarball and re-push the Dockerfile when graalgo changes.
