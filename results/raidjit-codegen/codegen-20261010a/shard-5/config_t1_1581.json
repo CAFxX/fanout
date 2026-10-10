@@ -1,0 +1,1 @@
+{"tier":1,"idx":1581,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":8,"xorsched":true}},"meta":{"pinned":"xorsched","topo":"liberation(8)/enc","op":"encode","U":8},"result":{"ok":false,"err":"build failed: riscv backend: register pressure (xor+xsched needs 178 regs)"}}

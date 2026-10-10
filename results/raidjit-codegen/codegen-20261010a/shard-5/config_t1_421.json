@@ -1,0 +1,1 @@
+{"tier":1,"idx":421,"isa_module":"x86","target":"avx2","doc":{"v":1,"target":"avx2","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"predtail":true}},"meta":{"pinned":"predtail","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":false,"err":"predtail is SVE only"}}

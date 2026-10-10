@@ -1,0 +1,1 @@
+{"tier":1,"idx":1350,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"recover","failed":[0,1]},"cand":{"U":8,"pipe":true}},"meta":{"pinned":"pipe","topo":"rs(6,3)/rec{0,1}","op":"recover","U":8},"result":{"ok":false,"err":"build failed: aarch64 backend: register pressure (needs 39 regs, isa has 16)"}}

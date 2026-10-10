@@ -1,0 +1,1 @@
+{"tier":1,"idx":1911,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"recover","failed":[0,1]},"cand":"auto"},"meta":{"pinned":"baseline","topo":"rs(6,3)/rec{0,1}","op":"recover","U":8},"result":{"ok":true,"code_size":1024,"twins":[],"uops_per_byte":2.84375,"selection":"heuristic","const_size":0}}

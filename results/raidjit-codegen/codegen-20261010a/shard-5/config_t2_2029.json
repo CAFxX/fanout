@@ -1,0 +1,1 @@
+{"tier":2,"idx":2029,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"encode"},"cand":{"U":4,"nt":true,"mshift":true}},"meta":{"pinned":"nt+mshift","topo":"rs(6,3)/enc","op":"encode","U":4},"result":{"ok":false,"err":"unknown plan ID: mshift needs AVX-512 nibble"}}

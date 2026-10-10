@@ -1,0 +1,1 @@
+{"tier":1,"idx":90,"isa_module":"x86","target":"avx512-gfni","doc":{"v":1,"target":"avx512-gfni","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"encode"},"cand":{"U":1,"rec_cf":true}},"meta":{"pinned":"rec_cf","topo":"rs(6,3)/enc","op":"encode","U":1},"result":{"ok":false,"err":"build failed: x86_64 backend: rec_cf twin needs P_MULACC without other body twins"}}

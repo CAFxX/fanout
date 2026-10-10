@@ -1,0 +1,1 @@
+{"tier":1,"idx":1158,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"raid5","p1":4},"op":{"kind":"encode"},"cand":{"U":8,"nt":true}},"meta":{"pinned":"nt","topo":"raid5(4)/enc","op":"encode","U":8},"result":{"ok":true,"code_size":448,"twins":["nt"],"uops_per_byte":0.46875,"selection":"pinned","const_size":0}}

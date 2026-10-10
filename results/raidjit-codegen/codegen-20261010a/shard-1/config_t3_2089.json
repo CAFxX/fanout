@@ -1,0 +1,1 @@
+{"tier":3,"idx":2089,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"raid1"},"op":{"kind":"encode"},"cand":{"U":1}},"meta":{"pinned":"baseline","topo":"raid1()/enc","op":"encode","U":1},"result":{"ok":true,"code_size":160,"twins":[],"uops_per_byte":0.375,"selection":"pinned","const_size":0}}

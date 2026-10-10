@@ -1,0 +1,1 @@
+{"tier":1,"idx":580,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"raid5","p1":4},"op":{"kind":"encode"},"cand":{"U":1,"xorsched":true}},"meta":{"pinned":"xorsched","topo":"raid5(4)/enc","op":"encode","U":1},"result":{"ok":false,"err":"xorsched needs a P_XOR plan with xor_sched"}}

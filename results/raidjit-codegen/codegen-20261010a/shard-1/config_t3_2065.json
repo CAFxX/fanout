@@ -1,0 +1,1 @@
+{"tier":3,"idx":2065,"isa_module":"x86","target":"avx2","doc":{"v":1,"target":"avx2","topology":{"ctor":"raid1"},"op":{"kind":"encode"},"cand":{"U":1}},"meta":{"pinned":"baseline","topo":"raid1()/enc","op":"encode","U":1},"result":{"ok":true,"code_size":128,"twins":[],"uops_per_byte":0.09375,"selection":"pinned","const_size":0}}

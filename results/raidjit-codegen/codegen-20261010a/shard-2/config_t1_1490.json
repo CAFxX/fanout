@@ -1,0 +1,1 @@
+{"tier":1,"idx":1490,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"rdp","p1":7},"op":{"kind":"encode"},"cand":{"U":1,"xorsched":true}},"meta":{"pinned":"xorsched","topo":"rdp(7)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":2512,"twins":["xorsched"],"uops_per_byte":19.375,"selection":"pinned","const_size":0}}

@@ -1,0 +1,1 @@
+{"tier":1,"idx":1856,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"mshift":true}},"meta":{"pinned":"mshift","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":false,"err":"unknown plan ID: mshift needs AVX-512 nibble"}}

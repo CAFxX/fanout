@@ -1,0 +1,1 @@
+{"tier":1,"idx":632,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"rdp","p1":7},"op":{"kind":"encode"},"cand":{"U":1,"xorsched":true}},"meta":{"pinned":"xorsched","topo":"rdp(7)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":2560,"twins":["xorsched"],"uops_per_byte":10.4375,"selection":"pinned","const_size":0}}

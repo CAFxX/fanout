@@ -1,0 +1,1 @@
+{"tier":2,"idx":2004,"isa_module":"x86","target":"avx512-gfni","doc":{"v":1,"target":"avx512-gfni","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"encode"},"cand":{"U":4,"nt":true,"permi2b":true}},"meta":{"pinned":"nt+permi2b","topo":"rs(6,3)/enc","op":"encode","U":4},"result":{"ok":false,"err":"unknown plan ID: permi2b needs AVX-512 nibble"}}

@@ -1,0 +1,1 @@
+{"tier":1,"idx":1413,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":{"U":1,"xorbit":true}},"meta":{"pinned":"xorbit","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":1},"result":{"ok":false,"err":"x86-only multiply/twin axis on aarch64"}}

@@ -1,0 +1,1 @@
+{"tier":1,"idx":1319,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"recover","failed":[0]},"cand":{"U":8,"maskedtail":true}},"meta":{"pinned":"maskedtail","topo":"rs(6,3)/rec{0}","op":"recover","U":8},"result":{"ok":false,"err":"x86-only multiply/twin axis on aarch64"}}

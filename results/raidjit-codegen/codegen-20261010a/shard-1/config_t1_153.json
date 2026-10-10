@@ -1,0 +1,1 @@
+{"tier":1,"idx":153,"isa_module":"x86","target":"avx512-gfni","doc":{"v":1,"target":"avx512-gfni","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":8,"mshift":true}},"meta":{"pinned":"mshift","topo":"liberation(8)/enc","op":"encode","U":8},"result":{"ok":false,"err":"unknown plan ID: mshift needs GF-multiply rows"}}

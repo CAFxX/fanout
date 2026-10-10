@@ -1,0 +1,1 @@
+{"tier":1,"idx":992,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"notail":true}},"meta":{"pinned":"notail","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":2112,"twins":["notail"],"uops_per_byte":18.3125,"selection":"pinned","const_size":0}}

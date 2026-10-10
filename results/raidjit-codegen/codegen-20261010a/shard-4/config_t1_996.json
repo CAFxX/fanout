@@ -1,0 +1,1 @@
+{"tier":1,"idx":996,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"xorsched":true}},"meta":{"pinned":"xorsched","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":4928,"twins":["xorsched"],"uops_per_byte":18.3125,"selection":"pinned","const_size":0}}

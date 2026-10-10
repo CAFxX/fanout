@@ -1,0 +1,1 @@
+{"tier":1,"idx":626,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"rdp","p1":7},"op":{"kind":"encode"},"cand":{"U":1,"ternlog":true}},"meta":{"pinned":"ternlog","topo":"rdp(7)/enc","op":"encode","U":1},"result":{"ok":false,"err":"unknown plan ID: ternlog is AVX-512-only"}}

@@ -1,0 +1,1 @@
+{"tier":1,"idx":851,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":{"U":8,"maskedtail":true}},"meta":{"pinned":"maskedtail","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":8},"result":{"ok":false,"err":"maskedtail needs the avx512 or rvv ISA"}}

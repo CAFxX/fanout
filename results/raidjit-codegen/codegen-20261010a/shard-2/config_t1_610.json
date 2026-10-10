@@ -1,0 +1,1 @@
+{"tier":1,"idx":610,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"raid6","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"rec_cf":true}},"meta":{"pinned":"rec_cf","topo":"raid6(8)/enc","op":"encode","U":1},"result":{"ok":false,"err":"build failed: x86_64 backend: rec_cf twin needs P_MULACC without other body twins"}}

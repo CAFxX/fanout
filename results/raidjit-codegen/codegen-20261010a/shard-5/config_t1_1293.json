@@ -1,0 +1,1 @@
+{"tier":1,"idx":1293,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":8,"maskedtail":true}},"meta":{"pinned":"maskedtail","topo":"liberation(8)/enc","op":"encode","U":8},"result":{"ok":false,"err":"x86-only multiply/twin axis on aarch64"}}

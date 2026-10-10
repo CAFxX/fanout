@@ -1,0 +1,1 @@
+{"tier":1,"idx":1040,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"recover","failed":[0,1]},"cand":"auto"},"meta":{"pinned":"baseline","topo":"rs(6,3)/rec{0,1}","op":"recover","U":1},"result":{"ok":true,"code_size":3136,"twins":[],"uops_per_byte":4.6015625,"selection":"heuristic","const_size":1280}}

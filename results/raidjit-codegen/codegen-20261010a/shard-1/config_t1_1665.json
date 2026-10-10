@@ -1,0 +1,1 @@
+{"tier":1,"idx":1665,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"parity_update","changed":[0]},"cand":{"U":1,"nt":true}},"meta":{"pinned":"nt","topo":"rs(6,3)/upd{0}","op":"parity_update","U":1},"result":{"ok":false,"err":"nt twin not offered for P_DELTA"}}

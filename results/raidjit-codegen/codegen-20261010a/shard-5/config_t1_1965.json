@@ -1,0 +1,1 @@
+{"tier":1,"idx":1965,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"parity_update","changed":[0]},"cand":{"U":8,"ternlog":true}},"meta":{"pinned":"ternlog","topo":"rs(6,3)/upd{0}","op":"parity_update","U":8},"result":{"ok":false,"err":"unknown plan ID: ternlog is AVX-512-only"}}

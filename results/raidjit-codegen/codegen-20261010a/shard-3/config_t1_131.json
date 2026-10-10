@@ -1,0 +1,1 @@
+{"tier":1,"idx":131,"isa_module":"x86","target":"avx512-gfni","doc":{"v":1,"target":"avx512-gfni","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"nt":true}},"meta":{"pinned":"nt","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":5504,"twins":["nt"],"uops_per_byte":5.875,"selection":"pinned","const_size":0}}

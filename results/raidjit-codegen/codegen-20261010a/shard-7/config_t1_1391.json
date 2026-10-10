@@ -1,0 +1,1 @@
+{"tier":1,"idx":1391,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"parity_update","changed":[0]},"cand":"auto"},"meta":{"pinned":"baseline","topo":"rs(6,3)/upd{0}","op":"parity_update","U":8},"result":{"ok":true,"code_size":704,"twins":[],"uops_per_byte":1.90625,"selection":"heuristic","const_size":768}}

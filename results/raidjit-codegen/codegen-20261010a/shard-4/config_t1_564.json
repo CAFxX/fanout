@@ -1,0 +1,1 @@
+{"tier":1,"idx":564,"isa_module":"x86","target":"avx2","doc":{"v":1,"target":"avx2","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":{"U":8,"predtail":true}},"meta":{"pinned":"predtail","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":8},"result":{"ok":false,"err":"predtail is SVE only"}}

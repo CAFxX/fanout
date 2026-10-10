@@ -1,0 +1,1 @@
+{"tier":3,"idx":2092,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"rs","p1":3,"p2":1},"op":{"kind":"encode"},"cand":{"U":8}},"meta":{"pinned":"baseline","topo":"rs(3,1)/enc","op":"encode","U":8},"result":{"ok":true,"code_size":512,"twins":[],"uops_per_byte":0.4375,"selection":"pinned","const_size":0}}

@@ -1,0 +1,1 @@
+{"tier":3,"idx":2125,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"lrc","p1":8,"p2":2,"p3":2},"op":{"kind":"encode"},"cand":{"U":4}},"meta":{"pinned":"baseline","topo":"lrc(8,2,2)/enc","op":"encode","U":4},"result":{"ok":false,"err":"build failed: riscv backend: register pressure (mulacc needs 35 regs)"}}

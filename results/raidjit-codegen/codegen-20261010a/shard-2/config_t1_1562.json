@@ -1,0 +1,1 @@
+{"tier":1,"idx":1562,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"ternlog":true}},"meta":{"pinned":"ternlog","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":false,"err":"unknown plan ID: ternlog is AVX-512-only"}}

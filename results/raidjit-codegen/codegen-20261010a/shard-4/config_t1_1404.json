@@ -1,0 +1,1 @@
+{"tier":1,"idx":1404,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":"auto"},"meta":{"pinned":"baseline","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":1},"result":{"ok":true,"code_size":960,"twins":[],"uops_per_byte":1.953125,"selection":"heuristic","const_size":768}}

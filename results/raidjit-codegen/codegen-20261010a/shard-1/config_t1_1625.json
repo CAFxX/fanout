@@ -1,0 +1,1 @@
+{"tier":1,"idx":1625,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"recover","failed":[0,1]},"cand":"auto"},"meta":{"pinned":"baseline","topo":"rs(6,3)/rec{0,1}","op":"recover","U":8},"result":{"ok":true,"code_size":1712,"twins":[],"uops_per_byte":3.40625,"selection":"heuristic","const_size":384}}

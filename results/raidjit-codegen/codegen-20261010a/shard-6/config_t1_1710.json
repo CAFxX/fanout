@@ -1,0 +1,1 @@
+{"tier":1,"idx":1710,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":{"U":8,"permi2b":true}},"meta":{"pinned":"permi2b","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":8},"result":{"ok":false,"err":"unknown plan ID: permi2b needs AVX-512 nibble"}}

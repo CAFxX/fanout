@@ -1,0 +1,1 @@
+{"tier":3,"idx":2070,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"raid0","p1":4},"op":{"kind":"encode"},"cand":{"U":8}},"meta":{"pinned":"baseline","topo":"raid0(4)/enc","op":"encode","U":8},"result":{"ok":true,"code_size":64,"twins":[],"uops_per_byte":0,"selection":"pinned","const_size":0}}

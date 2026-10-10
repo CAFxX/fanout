@@ -1,0 +1,1 @@
+{"tier":1,"idx":1566,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"maskedtail":true}},"meta":{"pinned":"maskedtail","topo":"liberation(8)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":4240,"twins":["maskedtail"],"uops_per_byte":37.3125,"selection":"pinned","const_size":0}}

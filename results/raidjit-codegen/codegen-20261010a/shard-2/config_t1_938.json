@@ -1,0 +1,1 @@
+{"tier":1,"idx":938,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"encode"},"cand":{"U":1,"ternlog":true}},"meta":{"pinned":"ternlog","topo":"rs(6,3)/enc","op":"encode","U":1},"result":{"ok":false,"err":"unknown plan ID: ternlog is AVX-512-only"}}

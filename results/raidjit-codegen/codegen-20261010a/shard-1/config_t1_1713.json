@@ -1,0 +1,1 @@
+{"tier":1,"idx":1713,"isa_module":"riscv","target":"rvv","doc":{"v":1,"target":"rvv","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":{"U":8,"mshift":true}},"meta":{"pinned":"mshift","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":8},"result":{"ok":false,"err":"unknown plan ID: mshift needs AVX-512 nibble"}}

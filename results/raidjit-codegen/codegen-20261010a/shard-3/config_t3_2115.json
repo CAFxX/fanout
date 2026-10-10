@@ -1,0 +1,1 @@
+{"tier":3,"idx":2115,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"lrc_azure"},"op":{"kind":"encode"},"cand":{"U":4}},"meta":{"pinned":"baseline","topo":"lrc_azure()/enc","op":"encode","U":4},"result":{"ok":false,"err":"build failed: aarch64 backend: register pressure (needs 24 regs, isa has 16)"}}

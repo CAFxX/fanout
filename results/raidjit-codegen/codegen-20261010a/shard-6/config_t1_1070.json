@@ -1,0 +1,1 @@
+{"tier":1,"idx":1070,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"rs","p1":10,"p2":4},"op":{"kind":"recover","failed":[0,1,2]},"cand":{"U":1,"notail":true}},"meta":{"pinned":"notail","topo":"rs(10,4)/rec{0,1,2}","op":"recover","U":1},"result":{"ok":false,"err":"topology ctor 'rs' rejected its parameters (validity envelope)"}}

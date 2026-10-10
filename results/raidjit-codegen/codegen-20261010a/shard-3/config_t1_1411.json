@@ -1,0 +1,1 @@
+{"tier":1,"idx":1411,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"raid6","p1":8},"op":{"kind":"parity_update","changed":[0,1]},"cand":{"U":1,"permi2b":true}},"meta":{"pinned":"permi2b","topo":"raid6(8)/upd{0,1}","op":"parity_update","U":1},"result":{"ok":false,"err":"unknown plan ID: permi2b needs AVX-512 nibble"}}

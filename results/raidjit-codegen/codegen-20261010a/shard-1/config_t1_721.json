@@ -1,0 +1,1 @@
+{"tier":1,"idx":721,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"liberation","p1":8},"op":{"kind":"encode"},"cand":{"U":8,"maskedtail":true}},"meta":{"pinned":"maskedtail","topo":"liberation(8)/enc","op":"encode","U":8},"result":{"ok":false,"err":"maskedtail needs the avx512 or rvv ISA"}}

@@ -1,0 +1,1 @@
+{"tier":1,"idx":889,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"raid6","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"predtail":true}},"meta":{"pinned":"predtail","topo":"raid6(8)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":1024,"twins":["predtail"],"uops_per_byte":5.6875,"selection":"pinned","const_size":848}}

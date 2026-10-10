@@ -1,0 +1,1 @@
+{"tier":1,"idx":1844,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"rs","p1":10,"p2":4},"op":{"kind":"encode"},"cand":{"U":8,"pipe":true}},"meta":{"pinned":"pipe","topo":"rs(10,4)/enc","op":"encode","U":8},"result":{"ok":false,"err":"topology ctor 'rs' rejected its parameters (validity envelope)"}}

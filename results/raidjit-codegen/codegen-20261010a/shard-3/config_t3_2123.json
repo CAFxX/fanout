@@ -1,0 +1,1 @@
+{"tier":3,"idx":2123,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"lrc_azure"},"op":{"kind":"encode"},"cand":{"U":4}},"meta":{"pinned":"baseline","topo":"lrc_azure()/enc","op":"encode","U":4},"result":{"ok":true,"code_size":4768,"twins":[],"uops_per_byte":16.46875,"selection":"pinned","const_size":544}}

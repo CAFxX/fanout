@@ -1,0 +1,1 @@
+{"tier":3,"idx":2108,"isa_module":"x86","target":"sse","doc":{"v":1,"target":"sse","topology":{"ctor":"lrc_azure"},"op":{"kind":"recover","failed":[0]},"cand":{"U":4}},"meta":{"pinned":"baseline","topo":"lrc_azure()/rec{0}","op":"recover","U":4},"result":{"ok":true,"code_size":4288,"twins":[],"uops_per_byte":9.921875,"selection":"pinned","const_size":1984}}

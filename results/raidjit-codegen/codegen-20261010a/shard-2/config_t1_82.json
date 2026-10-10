@@ -1,0 +1,1 @@
+{"tier":1,"idx":82,"isa_module":"x86","target":"avx512-gfni","doc":{"v":1,"target":"avx512-gfni","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"encode"},"cand":{"U":1,"notail":true}},"meta":{"pinned":"notail","topo":"rs(6,3)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":448,"twins":["notail"],"uops_per_byte":0.71875,"selection":"pinned","const_size":320}}

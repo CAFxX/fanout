@@ -1,0 +1,1 @@
+{"tier":1,"idx":1101,"isa_module":"aarch64","target":"sve2","doc":{"v":1,"target":"sve2","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"parity_update","changed":[0]},"cand":{"U":1,"xorbit":true}},"meta":{"pinned":"xorbit","topo":"rs(6,3)/upd{0}","op":"parity_update","U":1},"result":{"ok":false,"err":"x86-only multiply/twin axis on aarch64"}}

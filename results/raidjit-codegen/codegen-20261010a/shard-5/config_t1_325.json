@@ -1,0 +1,1 @@
+{"tier":1,"idx":325,"isa_module":"x86","target":"avx2","doc":{"v":1,"target":"avx2","topology":{"ctor":"raid6","p1":8},"op":{"kind":"encode"},"cand":"auto"},"meta":{"pinned":"baseline","topo":"raid6(8)/enc","op":"encode","U":8},"result":{"ok":true,"code_size":2624,"twins":[],"uops_per_byte":2.5546875,"selection":"heuristic","const_size":1472}}

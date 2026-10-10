@@ -1,0 +1,1 @@
+{"tier":3,"idx":2118,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"lrc","p1":8,"p2":2,"p3":2},"op":{"kind":"recover","failed":[0]},"cand":{"U":4}},"meta":{"pinned":"baseline","topo":"lrc(8,2,2)/rec{0}","op":"recover","U":4},"result":{"ok":true,"code_size":1408,"twins":[],"uops_per_byte":3.484375,"selection":"pinned","const_size":1408}}

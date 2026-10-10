@@ -1,0 +1,1 @@
+{"tier":1,"idx":54,"isa_module":"x86","target":"avx512-gfni","doc":{"v":1,"target":"avx512-gfni","topology":{"ctor":"rdp","p1":7},"op":{"kind":"encode"},"cand":{"U":1,"ternlog":true}},"meta":{"pinned":"ternlog","topo":"rdp(7)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":2560,"twins":["ternlog"],"uops_per_byte":2.140625,"selection":"pinned","const_size":0}}

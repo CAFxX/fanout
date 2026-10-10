@@ -1,0 +1,1 @@
+{"tier":1,"idx":1746,"isa_module":"riscv","target":"rvv-zvbc32e","doc":{"v":1,"target":"rvv-zvbc32e","topology":{"ctor":"raid6","p1":8},"op":{"kind":"encode"},"cand":{"U":1,"notail":true}},"meta":{"pinned":"notail","topo":"raid6(8)/enc","op":"encode","U":1},"result":{"ok":true,"code_size":528,"twins":["notail"],"uops_per_byte":5.625,"selection":"pinned","const_size":224}}

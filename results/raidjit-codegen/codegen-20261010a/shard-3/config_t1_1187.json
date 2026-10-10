@@ -1,0 +1,1 @@
+{"tier":1,"idx":1187,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"raid6","p1":8},"op":{"kind":"encode"},"cand":{"U":8,"notail":true}},"meta":{"pinned":"notail","topo":"raid6(8)/enc","op":"encode","U":8},"result":{"ok":false,"err":"build failed: aarch64 backend: register pressure (needs 24 regs, isa has 16)"}}

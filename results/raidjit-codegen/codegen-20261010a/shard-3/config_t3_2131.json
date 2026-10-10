@@ -1,0 +1,1 @@
+{"tier":3,"idx":2131,"isa_module":"aarch64","target":"neon","doc":{"v":1,"target":"neon","topology":{"ctor":"rs","p1":6,"p2":3},"op":{"kind":"encode"},"cand":{"U":4,"predtail":true}},"meta":{"pinned":"invalid","topo":"rs(6,3)/enc","op":"encode","U":4,"expect":"reject","why":"predtail on NEON"},"result":{"ok":false,"err":"predtail needs SVE"}}
