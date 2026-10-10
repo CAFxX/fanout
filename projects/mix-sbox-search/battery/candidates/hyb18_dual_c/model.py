@@ -19,3 +19,11 @@ def mix_hash(val,key):
     for st in STAGES:
         x=apply_stage(x,st)
     return int((x^rotl(np.uint64(key),13))&M64)
+def mix_np(V,K):
+    x=np.asarray(V,dtype=np.uint64);k=np.asarray(K,dtype=np.uint64)
+    x=(x^k)&M64
+    for st in STAGES:
+        x=apply_stage(x,st)
+    return (x^rotl(k,13))&M64
+def mix(v,k):
+    return int(mix_np(np.uint64(v),np.uint64(k)))
