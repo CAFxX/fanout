@@ -1,0 +1,13 @@
+{
+ "candidate": "r25_spn_pba19_sb_rasd3c1_27_513_nw",
+ "stages": {
+  "s1": {
+   "verdict": "FLAG",
+   "signal": "",
+   "artifacts": "s1_result.json"
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "FLAG",
+ "survived": false
+}
