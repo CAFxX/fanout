@@ -8,10 +8,14 @@ def _rotl(x, r):
     return x if r == 0 else ((x << np.uint64(r)) | (x >> np.uint64(64 - r))) & M64
 
 def _sbox64(x):
-    y = np.uint64(0)
+    # vectorized: works for scalar np.uint64 AND ndarrays (mix_np path).
+    # A scalar-only version (int(...) per nibble) raises TypeError on the
+    # S1 vector path -- see hyb12-s1s2-20261010 INFRA_FAIL (2026-10-10).
+    x = np.asarray(x, dtype=np.uint64)
+    S = np.asarray(SBOX, dtype=np.uint64)
+    y = np.zeros_like(x)
     for i in range(16):
-        nib = int((x >> np.uint64(4*i)) & np.uint64(0xF))
-        y |= np.uint64(SBOX[nib]) << np.uint64(4*i)
+        y |= S[((x >> np.uint64(4*i)) & np.uint64(0xF))] << np.uint64(4*i)
     return y & M64
 
 def _lin(x):
