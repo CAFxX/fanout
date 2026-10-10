@@ -1,0 +1,145 @@
+{
+ "job_id": "graalgo-fuzz-pilot-20261010c",
+ "project": "graalgo-fuzz",
+ "status": "failed",
+ "shards": 20,
+ "n_ok": 0,
+ "n_failed": 20,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 2,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 3,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 4,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 5,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 6,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 7,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 8,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 9,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 10,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 11,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 12,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 13,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 14,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 15,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 16,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 17,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 18,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 19,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  }
+ ],
+ "spec": {
+  "cache_key": "",
+  "cache_paths": "",
+  "command": "python3 projects/graalgo-fuzz/driver/fuzz_driver.py",
+  "env": "SEEDS_PER_SHARD=50",
+  "image": "ghcr.io/cafxx/fanout-graalgo-fuzz:latest",
+  "job_id": "graalgo-fuzz-pilot-20261010c",
+  "priority": "fuzz",
+  "project": "graalgo-fuzz",
+  "registry_password": "",
+  "registry_user": "",
+  "shards": 20,
+  "timeout_minutes": 180
+ },
+ "finished_at": "2026-10-10T08:26:38.982035+00:00"
+}
