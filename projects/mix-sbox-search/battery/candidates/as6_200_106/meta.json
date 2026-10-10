@@ -1,0 +1,25 @@
+{
+ "name": "as6_200_106",
+ "description": "6-stage AND-rotation cascade, schedule-search winner (seed 200): S0=19.8u, v3 proxy z=5.4",
+ "screen_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "practrand_keys": [
+  "0x123456789abcdef0",
+  "0x0"
+ ],
+ "rtl_top": "as6_200_106",
+ "goldens": [
+  {
+   "val": "0x0",
+   "key": "0x123456789abcdef0",
+   "out": "0xf79ddbdbb35a6289"
+  },
+  {
+   "val": "0x123456789ABCDEF0",
+   "key": "0x0",
+   "out": "0x7d52c88c288460cf"
+  }
+ ]
+}
