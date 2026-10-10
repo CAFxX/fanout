@@ -100,7 +100,13 @@ def main():
         print(f"--- generator stdout (tail) ---\n{r.stdout[-2000:]}", flush=True)
         print(f"--- generator stderr (tail) ---\n{r.stderr[-2000:]}", flush=True)
         sys.exit(2)
-    crec = diff_one(canary_go, os.path.join(OUT_DIR, "work_canary"))
+    crec = None
+    canary_work = os.path.join(OUT_DIR, "work_canary")
+    # diff_one.sh's first redirect (gc_build.err) targets $WORKDIR and fails
+    # outright if the dir does not exist (pilot D: every shard GC_BUILD_FAIL
+    # on a program that builds fine). Create it before the canary.
+    os.makedirs(canary_work, exist_ok=True)
+    crec = diff_one(canary_go, canary_work)
     print(f"canary: {crec}", flush=True)
     if crec["result"] != "PASS":
         with open(os.path.join(OUT_DIR, "CANARY_FAIL"), "w") as f:
