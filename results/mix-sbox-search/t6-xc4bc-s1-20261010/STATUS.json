@@ -1,0 +1,40 @@
+{
+ "job_id": "t6-xc4bc-s1-20261010",
+ "project": "mix-sbox-search",
+ "status": "failed",
+ "shards": 2,
+ "n_ok": 0,
+ "n_failed": 2,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  },
+  {
+   "idx": 1,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "t6-xc4bc-s1-20261010",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_xc4b,t6_xc4c --stages s0,s1 --shards 2 --timeout-minutes 300 --per-shard-min 90",
+  "shards": 2,
+  "timeout_minutes": 300,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "registry_user": "",
+  "registry_password": "",
+  "priority": "frontier-challenger",
+  "est_min": 180.0,
+  "per_shard_min": 90.0,
+  "submitted_at": "2026-10-10T02:33:52.295686+00:00"
+ },
+ "finished_at": "2026-10-10T02:35:51.873026+00:00"
+}
