@@ -2,7 +2,7 @@
  "project": "mix-sbox-search",
  "job_id": "t6-xc4bc-s1-20261010",
  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
- "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_xc4b,t6_xc4c --stages s0,s1 --shards 2 --timeout-minutes 300 --per-shard-min 90",
+ "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_xc4b,t6_xc4c --stages s0,s1",
  "shards": 2,
  "timeout_minutes": 300,
  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
@@ -11,7 +11,8 @@
  "registry_user": "",
  "registry_password": "",
  "priority": "frontier-challenger",
- "est_min": 180.0,
- "per_shard_min": 90.0,
- "submitted_at": "2026-10-10T02:33:52.295686+00:00"
+ "est_min": 180,
+ "per_shard_min": 90,
+ "submitted_at": "2026-10-10T02:34:14.693836+00:00",
+ "note": "Track 6 batch 25: cross-coupling RE-TEST with SEQ-co-designed close AND pairs. Batch-24 t6_xc4a was S1-killed by a schedule bug (wide AND pairs dead on SEQ inputs), not an axis failure. t6_xc4b (xc4a schedule fix) + t6_xc4c (alt schedule), both S0 18.7u LOCAL under 20.1u frontier. By track-6 supervisor (incarnation F) 2026-10-10"
 }
