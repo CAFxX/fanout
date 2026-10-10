@@ -1,0 +1,18 @@
+{
+ "candidate": "t6_xc4c",
+ "stage": "s0",
+ "verdict": "PASS",
+ "detail": {
+  "delay_u": 18.7,
+  "cells": 4755,
+  "area": 13862.0,
+  "delay_ratio_vs_mult": 0.1807,
+  "equiv": {
+   "ok": true,
+   "detail": "n=1000 err=0",
+   "nvecs": 1000
+  },
+  "native_result": "s0_result.json"
+ },
+ "ts": "2026-10-10T05:42:30Z"
+}
