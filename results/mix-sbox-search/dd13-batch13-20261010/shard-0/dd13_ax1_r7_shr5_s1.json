@@ -1,0 +1,20 @@
+{
+ "candidate": "dd13_ax1_r7_shr5",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [],
+  "red_rejected": [],
+  "lin_rejected": [
+   "('LIN', 4660)"
+  ],
+  "diff_rejected": [
+   "('DIFF', 17344816400086835893)"
+  ],
+  "marginal_skipped": true,
+  "time_marginal_s": 0.0,
+  "time_lin_diff_s": 7.9,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T05:42:54Z"
+}
