@@ -1,0 +1,13 @@
+{
+ "candidate": "hyb18_dual_a",
+ "stages": {
+  "s1": {
+   "verdict": "INFRA_FAIL",
+   "signal": "driver rc=1: n(out_dir, n))\n  File \"/work/projects/mix-sbox-search/battery/s1.py\", line 75, in drive_one\n    rc = s1.main()\n  File \"/work/projects/mix-sbox-search/battery/vendor/s1_screen.py\", line 55, in main\n    mix, mix_np, meta = load_candidate(cand)\n                        ~~~~~~~~~~~~~~^^^^^^\n  File \"/work/projects/mix-sbox-search/battery/vendor/s1_screen.py\", line 49, in load_candidate\n    return m.mix, m.mix_np, meta\n           ^^^^^\nAttributeError: module 'model_hyb18_dual_a' has no attribute 'mix'\n",
+   "artifacts": ""
+  }
+ },
+ "final_stage": "s1",
+ "final_verdict": "INFRA_FAIL",
+ "survived": false
+}
