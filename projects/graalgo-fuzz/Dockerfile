@@ -33,7 +33,8 @@ ENV GRAALVM_HOME=/opt/graalvm
 # graalgo slim sources (tarball committed alongside this Dockerfile).
 # Layout inside tarball: graalgo/{phases/phase1/{src,lib,frontend,Makefile},
 # phases/phase2/{src,Makefile}, phases/phase3/{src,fuzzing,Makefile}}
-COPY graalgo-slim.tar.gz /tmp/
+# NOTE: build context is the repo root (see build-image.yml).
+COPY projects/graalgo-fuzz/graalgo-slim.tar.gz /tmp/
 RUN mkdir -p /opt && tar -xz -C /opt -f /tmp/graalgo-slim.tar.gz \
     && rm /tmp/graalgo-slim.tar.gz
 
