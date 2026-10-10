@@ -1,0 +1,18 @@
+{
+ "candidate": "r25_spn_pba19_sb_rasd3c2_42_513_nw",
+ "stage": "s1",
+ "verdict": "FLAG",
+ "detail": {
+  "pb_rejected": [
+   "('MPOW2-5x2^5', '0xaaaaaaaaaaaaaaaa')"
+  ],
+  "red_rejected": [],
+  "lin_rejected": [],
+  "diff_rejected": [],
+  "marginal_skipped": false,
+  "time_marginal_s": 96.7,
+  "time_lin_diff_s": 9.4,
+  "native_result": "s1_result.json"
+ },
+ "ts": "2026-10-10T20:14:17Z"
+}
