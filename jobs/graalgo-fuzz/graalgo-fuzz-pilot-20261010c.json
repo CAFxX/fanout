@@ -1,0 +1,1 @@
+{"cache_key":"","cache_paths":"","command":"python3 projects/graalgo-fuzz/driver/fuzz_driver.py","env":"SEEDS_PER_SHARD=50","image":"ghcr.io/cafxx/fanout-graalgo-fuzz:latest","job_id":"graalgo-fuzz-pilot-20261010c","priority":"fuzz","project":"graalgo-fuzz","registry_password":"","registry_user":"","shards":20,"timeout_minutes":180}

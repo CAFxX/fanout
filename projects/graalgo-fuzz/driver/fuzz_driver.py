@@ -48,6 +48,30 @@ def diff_one(gofile, workdir, gmp=1):
 
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
+    # Container env for the differential harness (diff_one.sh honors
+    # GR/JAVA/TMPDIR when set; local defaults are $HOME-based).
+    # Image layout: Go at /usr/local/go/bin (already on PATH via the
+    # Dockerfile ENV), GraalVM at /opt/graalvm, sources at GRAALGO_HOME.
+    os.environ["GR"] = GRAALGO_HOME
+    os.environ["JAVA"] = "/opt/graalvm/bin/java"
+    tmpdir = os.path.join(OUT_DIR, "tmp")
+    os.makedirs(tmpdir, exist_ok=True)
+    os.environ["TMPDIR"] = tmpdir
+    # Pre-flight diagnostics (goes to the GHA job log).
+    print(f"GRAALGO_HOME={GRAALGO_HOME}", flush=True)
+    print(f"gen exists: {os.path.exists(os.path.join(FUZZ, 'gen/generator.py'))}",
+          flush=True)
+    print(f"harness exists: {os.path.exists(os.path.join(FUZZ, 'harness/diff_one.sh'))}",
+          flush=True)
+    pv = sh("command -v python3 && python3 --version")
+    print(f"python3: rc={pv.returncode} {pv.stdout.strip()} {pv.stderr.strip()}",
+          flush=True)
+    gv = sh("command -v go && go version")
+    print(f"go: rc={gv.returncode} {gv.stdout.strip()} {gv.stderr.strip()}",
+          flush=True)
+    jv = sh("/opt/graalvm/bin/java -version")
+    print(f"java: rc={jv.returncode} {(jv.stdout + jv.stderr).strip().splitlines()[0] if (jv.stdout + jv.stderr).strip() else ''}",
+          flush=True)
     # Shard i owns seeds [i*N, (i+1)*N) offset by a base to avoid overlap
     # with local runs (local uses 0..; GHA uses 1_000_000..).
     base = 1_000_000 + SHARD_IDX * SEEDS_PER_SHARD
@@ -63,6 +87,8 @@ def main():
     r = sh(f"python3 {FUZZ}/gen/generator.py --seed {CANARY_SEED} --out {canary_go}")
     if r.returncode != 0:
         print("CANARY_FAIL: generator error")
+        print(f"--- generator stdout (tail) ---\n{r.stdout[-2000:]}", flush=True)
+        print(f"--- generator stderr (tail) ---\n{r.stderr[-2000:]}", flush=True)
         sys.exit(2)
     crec = diff_one(canary_go, os.path.join(OUT_DIR, "work_canary"))
     print(f"canary: {crec}", flush=True)
@@ -78,6 +104,8 @@ def main():
         r = sh(f"python3 {FUZZ}/gen/generator.py --seed {s} --out {out}")
         if r.returncode != 0:
             print(f"generator failed for seed {s}")
+            print(f"--- stdout (tail) ---\n{r.stdout[-1000:]}", flush=True)
+            print(f"--- stderr (tail) ---\n{r.stderr[-1000:]}", flush=True)
             sys.exit(1)
 
     results_path = os.path.join(OUT_DIR, "results.jsonl")
