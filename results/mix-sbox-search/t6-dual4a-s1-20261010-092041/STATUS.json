@@ -1,0 +1,31 @@
+{
+ "job_id": "t6-dual4a-s1-20261010-092041",
+ "project": "mix-sbox-search",
+ "status": "done",
+ "shards": 1,
+ "n_ok": 1,
+ "n_failed": 0,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "done",
+   "detail": "rc=0"
+  }
+ ],
+ "spec": {
+  "project": "mix-sbox-search",
+  "job_id": "t6-dual4a-s1-20261010-092041",
+  "image": "ghcr.io/cafxx/fanout-mix-sbox-search:latest",
+  "command": "python3 projects/mix-sbox-search/battery/campaign.py --candidates-dir projects/mix-sbox-search/battery/candidates --out $OUT_DIR --only t6_dual4a --stages s0,s1,s2",
+  "shards": 1,
+  "timeout_minutes": 300,
+  "env": "BATTERY_HOME=/work/projects/mix-sbox-search/battery\nFLOW_DIR=/work/projects/mix-sbox-search/flow",
+  "cache_key": "fanout-mix-sbox-search-third-party",
+  "cache_paths": "projects/mix-sbox-search/battery/third_party/install",
+  "priority": "frontier-challengers",
+  "est_min": 180.0,
+  "submitted_at": "2026-10-10T09:20:41.646754+00:00"
+ },
+ "finished_at": "2026-10-10T09:24:29.043840+00:00"
+}
