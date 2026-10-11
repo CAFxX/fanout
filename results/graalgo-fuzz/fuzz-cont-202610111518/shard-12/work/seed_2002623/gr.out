@@ -1,0 +1,11 @@
+-165 -165
+v1: -165
+v2: 0
+maplen v3: 0
+v32: foo bar
+v33: -234
+v34: foo barfoo bar
+	foo bar
+	
+slicelen v4: 1 [-1]
+v7: -9223372036854775808

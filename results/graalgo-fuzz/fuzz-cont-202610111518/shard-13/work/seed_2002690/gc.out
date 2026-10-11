@@ -1,0 +1,7 @@
+v1: 
+	foo barfoo bar
+v2: 0
+v3: foo bar
+slicelen v4: 1 [128]
+v5: 228
+v6: -764

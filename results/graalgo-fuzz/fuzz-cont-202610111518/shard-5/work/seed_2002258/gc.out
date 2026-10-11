@@ -1,0 +1,15 @@
+3.14159 true
+true
+v1: 1
+v11: 3.14159
+slicelen v2: 2 [foo bar
+	 
+	foo barfoo bar]
+v22: foo bar
+v23: 1
+v24: -106
+v27: 42
+v3: true
+slicelen v4: 1 [0]
+v5: 6
+v6: 44

@@ -1,0 +1,7 @@
+true
+true a
+v1: 42
+v2: a
+v3: true
+v4: foo bar
+slicelen v6: 3 [278 9223372036854775807 -1]

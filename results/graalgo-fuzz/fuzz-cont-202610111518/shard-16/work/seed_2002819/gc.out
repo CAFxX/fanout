@@ -1,0 +1,12 @@
+true
+1e+10 1e+10 true
+false
+100 100
+1e+10 1 1
+v1: 100
+v10: 1
+maplen v2: 0
+v3: false
+slicelen v4: 3 [42 127 622]
+v5: 0
+v6: 1e+10

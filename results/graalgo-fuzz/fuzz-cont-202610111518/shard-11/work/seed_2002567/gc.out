@@ -1,0 +1,24 @@
+false a 813
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+v1: 813
+v10: false
+v14: 42
+v15: 238
+v2: a
+v23: 185
+v25: a
+slicelen v3: 3 [foo barhello foo barhellohello foo barhellofoo barfoo barhelloafoo barhello
+	]
+v4: false
+maplen v5: 1
+v7: 1.5

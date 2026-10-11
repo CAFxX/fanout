@@ -1,0 +1,9 @@
+true 1.5
+1.5 true
+1.5 true
+1.5 1.5
+v1: true
+maplen v2: 0
+maplen v3: 0
+v4: 0.1
+slicelen v5: 1 [32768]

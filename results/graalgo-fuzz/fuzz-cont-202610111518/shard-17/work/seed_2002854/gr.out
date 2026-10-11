@@ -1,0 +1,7 @@
+slicelen v1: 4 [-2147483648 1 42 128]
+v12: 207
+v13: false
+slicelen v2: 1 [207]
+slicelen v3: 3 [4294967295 692 2147483647]
+v4: foo barfoo bar
+v9: false

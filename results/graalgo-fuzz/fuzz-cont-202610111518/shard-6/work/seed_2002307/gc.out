@@ -1,0 +1,11 @@
+-0.1 260
+foo bar foo bar
+-0.1 foo bar 260
+260 foo bar -0.1
+foo bar
+v1: 260
+v191: foo bar
+v192: -795
+v196: foo bar
+slicelen v2: 5 [-9223372036854775808 2147483647 32768 -59 128]
+v3: -0.2

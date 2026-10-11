@@ -1,0 +1,8 @@
+v1: -1
+v2: 0
+slicelen v3: 3 [a hellofoo barfoo bar
+	foo barafoo barhello 
+	]
+v5: 255
+v6: 42
+v7: 649

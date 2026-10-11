@@ -1,0 +1,14 @@
+42 -1 -1
+false -1
+false a
+slicelen v1: 1 [2147483647]
+v10: -2
+v2: a
+v25: 0
+v26: 4294967295
+slicelen v3: 3 [aa afoo bar 
+	aaaaaahelloaaafoo bar]
+v34: 1e+10
+v35: true
+v4: 0
+v9: false

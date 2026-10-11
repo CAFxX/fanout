@@ -1,0 +1,11 @@
+foo bar
+foo bar
+0 0 65535
+65535 0 0
+0 65535
+maplen v1: 0
+maplen v2: 0
+v3: -1e+10
+v4: 65535
+v6: hellofoo barfoo bara
+v7: 0

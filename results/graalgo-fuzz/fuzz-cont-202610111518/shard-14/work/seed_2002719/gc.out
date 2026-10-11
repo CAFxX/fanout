@@ -1,0 +1,9 @@
+true
+maplen v1: 0
+maplen v2: 0
+v3: true
+v4: 255
+slicelen v5: 1 [hello
+	]
+v51: false
+v59: -1

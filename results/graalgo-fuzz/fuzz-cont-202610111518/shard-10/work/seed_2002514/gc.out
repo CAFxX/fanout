@@ -1,0 +1,11 @@
+slicelen v1: 2 [ 
+	foo bar]
+v2: 83
+v3: 3.14159
+v30: 0
+v31: -1
+v36: 74
+v37: 34
+v4: NaN
+v5: 65534
+maplen v6: 0

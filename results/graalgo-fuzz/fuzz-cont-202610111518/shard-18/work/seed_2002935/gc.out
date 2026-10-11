@@ -1,0 +1,15 @@
+0 -2147480512
+-1
+v1: -2147480512
+v100: 0
+v101: 2
+v102: 0
+v130: 42
+slicelen v2: 1 [2]
+slicelen v3: 4 [foo bar foo bara a
+	 a]
+slicelen v4: 3 [ hellohelloaahello
+	aa 
+	]
+maplen v5: 0
+maplen v6: 0

@@ -1,0 +1,13 @@
+32767 32767
+0
+v1: -9223372036854775807
+v2: true
+v3: 32767
+slicelen v4: 7 [foo bar
+	foo barhelloa
+	
+	aafoo bar  
+	 hello a 
+	 
+	]
+v6: 0

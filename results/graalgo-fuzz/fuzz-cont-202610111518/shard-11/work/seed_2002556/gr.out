@@ -1,0 +1,10 @@
+foo barfoo barhello
+0 foo barfoo barhello true
+true 0 foo barfoo barhello
+v1: 
+	foo barfoo barhello
+slicelen v12: 2 [12 2147483647]
+v2: true
+v3: 254
+v60: 32767
+v61: 2

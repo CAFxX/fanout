@@ -1,0 +1,8 @@
+v1: 1
+v2: -3.14159
+slicelen v3: 4 [helloa 
+	foo barhellohello foo bar hello]
+v4: foo bara
+slicelen v5: 1 [-1]
+v6: 0.1
+v9: 

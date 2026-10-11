@@ -1,0 +1,12 @@
+42 foo bar
+0 0
+foo bar foo bar
+0 -1 0
+v1: 0
+v14: foo bar
+v2: 0
+v21: 42
+v22: -1
+v3: foo bar
+slicelen v4: 3 [2147483648 0 763]
+v5: 0

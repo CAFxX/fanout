@@ -1,0 +1,16 @@
+-2.25
+-99
+afoo barhello
+	ahellohelloaaaafoo barhello
+	ahellohelloaafoo barafoo barhello
+	ahellohelloaaafoo barhello
+	ahellohelloaa -2.25
+v1: -2.25
+slicelen v10: 4 [9223372036854775807 -9223372036854775808 -605 42]
+v2: 4
+v3: afoo barhello
+	ahellohelloaaaafoo barhello
+	ahellohelloaafoo barafoo barhello
+	ahellohelloaaafoo barhello
+	ahellohelloaa
+v6: 2147483647

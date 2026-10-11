@@ -1,0 +1,22 @@
+1e+10 hello 0
+1e+10 hello 1
+1e+10 hello 2
+1e+10 hello 3
+hello hello hello
+hello 0
+hello 1
+hello 2
+hello 3
+hello 4
+hello 5
+hello 6
+hello 7
+hello 8
+maplen v1: 1
+v15: true
+v16: true
+slicelen v2: 4 [344 42 89 177]
+v3: hello
+slicelen v4: 1 [157]
+v5: 0
+v9: hello
