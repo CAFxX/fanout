@@ -1,0 +1,41 @@
+0 0
+0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+1 0
+slicelen v1: 4 [foo bar foo bar hello
+	
+	
+	 helloaa
+	a
+	aafoo barfoo bar
+	foo baraafoo barfoo barhello
+	helloa
+	foo bar
+	foo barfoo bar
+	foo bar]
+v154: 1
+v174: 2
+v18: 0
+v180: 
+slicelen v2: 2 [2147483647 42]
+v22: 0
+maplen v3: 1
+slicelen v4: 0 []
+slicelen v5: 3 [9223372036854775807 0 -805]

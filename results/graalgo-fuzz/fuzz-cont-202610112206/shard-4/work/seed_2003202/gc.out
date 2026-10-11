@@ -1,0 +1,44 @@
+0 hello
+	hellohelloaaaafoo bar
+-128 hello
+	hellohelloaaaafoo bar
+-256 hello
+	hellohelloaaaafoo bar
+-384 hello
+	hellohelloaaaafoo bar
+-512 hello
+	hellohelloaaaafoo bar
+-640 hello
+	hellohelloaaaafoo bar
+-768 hello
+	hellohelloaaaafoo bar
+-896 hello
+	hellohelloaaaafoo bar
+-1024 hello
+	hellohelloaaaafoo bar
+-1152 hello
+	hellohelloaaaafoo bar
+-1280 hello
+	hellohelloaaaafoo bar
+-1408 hello
+	hellohelloaaaafoo bar
+-1536 hello
+	hellohelloaaaafoo bar
+-1664 hello
+	hellohelloaaaafoo bar
+-1792 hello
+	hellohelloaaaafoo bar
+-1920 hello
+	hellohelloaaaafoo bar
+-2048 hello
+	hellohelloaaaafoo bar
+32767
+v1: hello
+	hellohelloaaaafoo bar
+v106: hello
+	hellohelloaaaafoo bar
+v2: 32767
+maplen v3: 0
+slicelen v4: 5 [1 1 870 65535 308]
+v52: -4328
+v58: 4294967295

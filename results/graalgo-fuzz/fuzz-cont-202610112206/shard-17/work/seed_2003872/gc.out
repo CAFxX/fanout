@@ -1,0 +1,12 @@
+1
+1
+v1: 18446744073709551615
+v10: 1
+v11: 1
+v2: 192
+v20: 2147483647
+v23: 9223372036854775807
+slicelen v3: 5 [a foo bar ahello aahellohellofoo barafoo barfoo barfoo barhellofoo barfoo bar foo bar]
+v4: 4
+slicelen v5: 3 [-606 127 -1]
+slicelen v6: 2 [ a]

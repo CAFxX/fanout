@@ -1,0 +1,11 @@
+ 
+v1: 780
+v13: -833
+maplen v2: 1
+slicelen v3: 4 [foo bar 
+	 foo bar 
+	]
+slicelen v4: 3 [1 -9223372036854775808 105]
+v6: 
+v8: 1
+v9: hello

@@ -1,0 +1,8 @@
+1 1
+0 0
+v1: 0
+v2: 0
+slicelen v3: 16 [a a a a afoo barfoo barhellohello
+	a
+	helloafoo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+maplen v4: 0

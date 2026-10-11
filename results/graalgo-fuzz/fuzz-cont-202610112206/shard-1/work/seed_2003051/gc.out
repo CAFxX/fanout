@@ -1,0 +1,25 @@
+0
+65535
+65535
+65535
+65535
+65535
+ 0 0
+ 1 1
+ 2 2
+ 3 3
+ 4 4
+ 5 5
+v1: 65535
+v12: 0
+v13: 
+slicelen v2: 2 [
+	hello foo barfoo barhello
+	helloa]
+v23: false
+v25: -292
+v26: 964
+maplen v3: 0
+v4: -835
+v5: 0
+maplen v6: 0

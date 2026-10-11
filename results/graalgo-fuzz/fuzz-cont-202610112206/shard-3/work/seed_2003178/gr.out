@@ -1,0 +1,6 @@
+v1: 65535
+v12: 0
+v13: 65535
+maplen v2: 1
+v3: foo barfoo bar
+slicelen v7: 3 [-5 796 -988]

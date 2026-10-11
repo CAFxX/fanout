@@ -1,0 +1,11 @@
+false
+32767 109 helloa
+slicelen v1: 2 [helloa hello]
+v135: 109
+v140: 1000
+v2: helloa
+v3: 1
+slicelen v4: 1 [2147483647]
+v5: 18446744069414584323
+v86: false
+v87: 32767

@@ -1,0 +1,34 @@
+true
+-253 true -253
+-548 true -548
+-843 true -843
+-1138 true -1138
+-1433 true -1433
+-1728 true -1728
+-2023 true -2023
+-2318 true -2318
+-2613 true -2613
+-2908 true -2908
+-3203 true -3203
+-3498 true -3498
+-3793 true -3793
+-4088 true -4088
+-4383 true -4383
+-4678 true -4678
+-4973 true -4973
+-5268 true -5268
+-5268
+-5268 -5268
+2147483648 foo bar
+	 2147483648
+-5268 -5268
+hellohello 716 1.5
+hellohellohellohello 716 1.5
+hellohellohellohellohellohellohellohello 716 1.5
+hellohellohellohellohellohellohellohello true -5268
+v1: -755
+v2: true
+v26: hellohellohellohellohellohellohellohello
+v3: -5268
+maplen v4: 0
+v43: 220

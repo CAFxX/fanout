@@ -1,0 +1,13 @@
+-2147483648 -2.25 1e+09
+1e+09
+slicelen v1: 4 [a hello hello afoo bar
+	foo barahelloa
+	hello
+	ahellofoo barhellofoo bar
+	hellohello]
+v2: 1
+v26: 0
+slicelen v3: 2 [1 42]
+v4: 1.256636e+29
+slicelen v5: 0 []
+v6: 1.0000000001e+09

@@ -1,0 +1,56 @@
+1 1 
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloa
+
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloa 
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloa 
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloa
+0 42
+0 42
+0 42
+0 42
+0 42
+0 42
+0 42
+maplen v1: 0
+maplen v2: 0
+v22: 0
+v28: -902
+v3: hello
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo barhello
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo barhello
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+	foo bar
+	a
+	ahellofoo barhellofoo barhelloafoo bar
+slicelen v4: 2 [860 173]
+v5: 1
+v6: 42

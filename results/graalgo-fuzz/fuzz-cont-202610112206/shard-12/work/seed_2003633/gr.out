@@ -1,0 +1,10 @@
+32767 1
+slicelen v1: 0 []
+v13: 857476
+v2: 32767
+v3: 1
+maplen v4: 0
+slicelen v5: 3 [foo barfoo barfoo bar
+	hellofoo barfoo bar hellohelloahellofoo barahellofoo bar
+	hello 
+	aafoo bara]

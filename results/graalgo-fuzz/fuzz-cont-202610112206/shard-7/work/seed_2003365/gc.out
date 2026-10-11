@@ -1,0 +1,8 @@
+209
+832
+slicelen v1: 2 [2147483647 32767]
+slicelen v2: 1 [-2147483648]
+v3: foo barfoo barhello
+v6: 209
+v7: 4294967295
+v8: -424

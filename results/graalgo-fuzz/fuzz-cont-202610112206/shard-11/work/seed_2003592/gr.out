@@ -1,0 +1,9 @@
+hellohellohellohello hellohellohellohello 100
+maplen v1: 0
+v2: 42
+slicelen v3: 3 [-238 72 -9223372036854775808]
+v34: 100
+v38: 1e+10
+slicelen v4: 2 [foo bar ]
+slicelen v5: 3 [-1 2147483647 9223372036854775807]
+v6: hellohellohellohello

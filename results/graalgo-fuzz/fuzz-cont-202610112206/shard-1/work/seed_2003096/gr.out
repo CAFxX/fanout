@@ -1,0 +1,27 @@
+744
+65535 744 foo bar
+0 744 foo bar
+65535 744 foo bar
+0 744 foo bar
+65535 744 foo bar
+0 744 foo bar
+65535 744 foo bar
+0 744 foo bar
+65535 744 foo bar
+0 744 foo bar
+65535 744 foo bar
+0 744 foo bar
+65535 744 foo bar
+0 744 foo bar
+maplen v1: 0
+v108: 1
+v2: 1
+slicelen v3: 0 []
+v30: foo bar
+v31: 9223372036854775807
+v4: 0
+v40: 0
+v41: 410
+v42: -3.1606832e+20
+v5: 744
+v6: 65535

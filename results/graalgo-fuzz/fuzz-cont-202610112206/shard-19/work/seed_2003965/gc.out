@@ -1,0 +1,9 @@
+slicelen v1: 4 [
+	 foo bar 
+	 foo bar]
+v19: -1
+maplen v2: 0
+v26: 65535
+v27: 2
+maplen v3: 0
+slicelen v4: 3 [2147483647 -563 -98]

@@ -1,0 +1,25 @@
+ 2
+true true foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+false false foo bar
+slicelen v1: 4 [42 2 4294967295 65535]
+v12: 2
+v13: 
+v2: foo bar
+v23: true
+v24: 18446744073709551615
+slicelen v3: 3 [964 -9223372036854775808 -591]
+v4: 18446744073709551615
+maplen v5: 1
+v6: 0

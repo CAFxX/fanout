@@ -1,0 +1,15 @@
+foo bar 1
+9223372036854775807
+v1: 1
+v10: 9223372036854775807
+v12: 42
+v13: 381
+v14: 280900
+v15: 1
+v2: foo bar
+maplen v3: 0
+slicelen v4: 3 [
+	 foo bar
+	 foo barfoo bar]
+v5: 0
+v6: 280900

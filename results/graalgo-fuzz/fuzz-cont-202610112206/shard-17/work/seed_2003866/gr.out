@@ -1,0 +1,18 @@
+-2147483648 2
+0.85 
+	foo bar
+	foo bar
+	foo bar
+	foo barfoo barfoo bar
+18446744073709551615 4 0.85
+0.0012899444 0.0012899444
+v1: 0.0012899444
+v2: 
+	foo bar
+	foo bar
+	foo bar
+	foo barfoo barfoo bar
+v3: -2147483648
+v4: 4
+v5: 18446744073709551615
+v6: 2

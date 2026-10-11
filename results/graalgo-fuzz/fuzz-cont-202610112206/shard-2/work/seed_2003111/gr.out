@@ -1,0 +1,11 @@
+foo bar foo bar
+afoo barfoo bar foo bar
+slicelen v1: 2 [-9223372036854775808 32767]
+v2: foo bar
+v24: foo bar
+v25: -128
+v26: false
+slicelen v3: 4 [1 128 128 128]
+maplen v4: 1
+v5: afoo barfoo bar
+maplen v6: 0

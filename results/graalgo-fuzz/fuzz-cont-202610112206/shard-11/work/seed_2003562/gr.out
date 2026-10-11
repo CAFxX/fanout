@@ -1,0 +1,19 @@
+foo bar -2.25 934
+foo bar 42
+foo bar 42
+foo bar 42
+foo bar 42
+foo bar 42
+foo bar 42
+68719476736 18446744073709551615
+foo bar
+v1: foo bar
+maplen v2: 0
+v3: 42
+v4: 68719476736
+v48: 18446744073709551615
+v49: 42
+v5: -2.25
+v88: -68719476342
+v89: 0
+v91: true

@@ -1,0 +1,15 @@
+0 0 2
+0 1 339
+0 2 676
+0 3 1013
+0 4 1350
+0 255
+maplen v1: 0
+v2: 255
+slicelen v3: 1 [2147483648]
+slicelen v4: 1 [379]
+slicelen v5: 4 [foo bar a foo bar
+	foo bar foo bar]
+v58: 1687
+v6: 0
+v63: -9223372036854775808

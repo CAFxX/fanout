@@ -1,0 +1,16 @@
+-193024 346 -193024
+maplen v1: 0
+v19: false
+v2: 346
+v22: 0
+v25: false
+slicelen v3: 4 [foo barfoo barahelloahellohelloaa 
+	 aa
+	 foo barahello
+	
+	]
+slicelen v4: 1 [
+	foo bar
+	foo barafoo bar]
+slicelen v5: 11 [foo barhello hello         ]
+v6: -193024

@@ -1,0 +1,15 @@
+-194 255
+255 foo bar
+32767
+v1: true
+v11: 100
+v12: true
+v17: 18446744073709551615
+v2: 32767
+maplen v3: 0
+slicelen v4: 0 []
+slicelen v5: 1 [655]
+v6: 255
+v7: foo bar
+v8: 9223372036854775807
+v9: false
