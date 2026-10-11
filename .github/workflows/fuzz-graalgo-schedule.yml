@@ -1,0 +1,73 @@
+# Continuous differential fuzzing for graalgo (scheduled).
+#
+# Every 6 hours this workflow allocates the next seed range, writes a job
+# spec, and commits it. The push to jobs/graalgo-fuzz/** triggers
+# fanout-dispatch, which runs the 20-shard matrix and commits results back
+# to results/graalgo-fuzz/<job-id>/. Triage happens agent-side (the fuzzing
+# campaign lane harvests results and files bugs).
+#
+# Seed cursor lives in projects/graalgo-fuzz/next_seed.txt (committed).
+# Concurrency is serialized: overlapping schedule runs would allocate
+# overlapping seed ranges.
+#
+# HYGIENE: this workflow only touches jobs/graalgo-fuzz/ and
+# projects/graalgo-fuzz/next_seed.txt. It never triggers other projects'
+# workflows (dispatch.yml is path-filtered to jobs/**).
+name: fuzz-graalgo-schedule
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: fuzz-graalgo-schedule
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Allocate seed range and write job spec
+        run: |
+          set -euo pipefail
+          CURSOR=projects/graalgo-fuzz/next_seed.txt
+          SEEDS_PER_JOB=1000
+          base=$(cat "$CURSOR")
+          # sanity: cursor must be a positive integer
+          case "$base" in ''|*[!0-9]*) echo "bad cursor: $base"; exit 1;; esac
+          stamp=$(date -u +%Y%m%d%H%M)
+          job_id="fuzz-cont-$stamp"
+          python3 - "$base" "$job_id" <<'EOF'
+          import json, sys
+          base, job_id = sys.argv[1], sys.argv[2]
+          spec = {
+              "project": "graalgo-fuzz",
+              "job_id": job_id,
+              "image": "ghcr.io/cafxx/fanout-graalgo-fuzz:latest",
+              "command": "python3 projects/graalgo-fuzz/driver/fuzz_driver.py",
+              "shards": 20,
+              "timeout_minutes": 180,
+              "env": "SEEDS_PER_SHARD=50\nSEED_BASE=" + base,
+              "priority": "fuzz",
+              "cache_key": "",
+              "cache_paths": "",
+              "registry_user": "",
+              "registry_password": "",
+          }
+          path = f"jobs/graalgo-fuzz/{job_id}.json"
+          with open(path, "w") as f:
+              json.dump(spec, f)
+          print(f"wrote {path} (seeds {base}..{int(base)+999})")
+          EOF
+          echo $((base + SEEDS_PER_JOB)) > "$CURSOR"
+          git config user.name "fuzz-scheduler"
+          git config user.email "fuzz-scheduler@local"
+          git add "jobs/graalgo-fuzz/$job_id.json" "$CURSOR"
+          git commit -m "fuzz: schedule $job_id (seeds $base..$((base + SEEDS_PER_JOB - 1)))"
+          git push
+          echo "scheduled $job_id"

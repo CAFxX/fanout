@@ -26,6 +26,9 @@ OUT_DIR = os.environ.get("OUT_DIR", "/out")
 SHARD_IDX = int(os.environ.get("SHARD_IDX", "0"))
 SHARD_COUNT = int(os.environ.get("SHARD_COUNT", "1"))
 SEEDS_PER_SHARD = int(os.environ.get("SEEDS_PER_SHARD", "50"))
+# Base seed for this campaign (scheduled continuous runs allocate disjoint
+# ranges via the next_seed.txt cursor; pilot E used 1000000..).
+SEED_BASE = int(os.environ.get("SEED_BASE", "1000000"))
 
 # Canary: must PASS. (A tiny fixed program exercising int arithmetic.)
 CANARY_SEED = 999999
@@ -103,9 +106,10 @@ def main():
     jv = sh("/opt/graalvm/bin/java -version")
     print(f"java: rc={jv.returncode} {(jv.stdout + jv.stderr).strip().splitlines()[0] if (jv.stdout + jv.stderr).strip() else ''}",
           flush=True)
-    # Shard i owns seeds [i*N, (i+1)*N) offset by a base to avoid overlap
-    # with local runs (local uses 0..; GHA uses 1_000_000..).
-    base = 1_000_000 + SHARD_IDX * SEEDS_PER_SHARD
+    # Shard i owns seeds [base, base+N) for a disjoint range per campaign.
+    # SEED_BASE comes from the job spec env (scheduled runs allocate from
+    # the next_seed.txt cursor); default keeps pilot-era behavior.
+    base = SEED_BASE + SHARD_IDX * SEEDS_PER_SHARD
     seeds = list(range(base, base + SEEDS_PER_SHARD))
     progdir = os.path.join(OUT_DIR, "programs")
     os.makedirs(progdir, exist_ok=True)

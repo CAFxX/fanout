@@ -9,6 +9,11 @@
 # frontend}, phases/phase2/src, phases/phase3/{src,fuzzing}; ~45MB).
 # Rebuild the tarball and re-push the Dockerfile when graalgo changes.
 #
+# 2026-10-11: rebuilt with the generator fix (float_divisor_safe: matched-
+# paren strip + scientific-notation handling; loop nesting cap 2) and the
+# diff_one.sh OUTPUT_BOMB classification. Tarball built from
+# wt/graalgo-p3/m9-fuzz (m9@64415b5 + generator/harness fixes).
+#
 # Build via the fanout build-image.yml workflow (push trigger on
 # projects/graalgo-fuzz/Dockerfile), or locally with docker build.
 FROM ubuntu:24.04

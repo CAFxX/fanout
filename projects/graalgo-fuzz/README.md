@@ -41,6 +41,23 @@ Via the PAT Git Data API pattern (`~/workspace/skills/github-pat/bin/push_fanout
 3. Poll `results/graalgo-fuzz/<job-id>/STATUS.json`; fetch shard results;
    run `aggregate.py` locally.
 
+## Continuous fuzzing (scheduled)
+
+`.github/workflows/fuzz-graalgo-schedule.yml` runs every 6 hours:
+
+1. Reads the seed cursor from `projects/graalgo-fuzz/next_seed.txt`.
+2. Writes `jobs/graalgo-fuzz/fuzz-cont-<timestamp>.json` (20 shards x 50
+   seeds = 1000 programs, `SEED_BASE` set from the cursor).
+3. Advances the cursor by 1000 and commits both files — the push triggers
+   `fanout-dispatch`, which runs the shards and commits results back.
+
+The driver honors `SEED_BASE` (default 1000000, the pilot-E range).
+Generator defects are classified separately from differentials:
+`GC_BUILD_FAIL` (doesn't compile), `GC_HANG`, `OUTPUT_BOMB` (>1MB gc
+output) are generator-side; `WRONG_OUTPUT`/`CRASH`/`HANG`/`EXIT_MISMATCH`
+are graalgo findings. Triage agent-side; results are leads, re-verify
+raw logs locally before filing bugs.
+
 ## Pilot (Phase 2)
 
 - 20 shards x 50 seeds = 1000 programs.
