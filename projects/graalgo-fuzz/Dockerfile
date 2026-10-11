@@ -13,7 +13,7 @@
 # paren strip + scientific-notation handling; loop nesting cap 2) and the
 # diff_one.sh OUTPUT_BOMB classification. Tarball built from
 # wt/graalgo-p3/m9-fuzz (m9@64415b5 + generator/harness fixes +
-# diff_one.sh TMPDIR fix).
+# diff_one.sh TMPDIR fix + JAVA env fix).
 #
 # Build via the fanout build-image.yml workflow (push trigger on
 # projects/graalgo-fuzz/Dockerfile), or locally with docker build.
