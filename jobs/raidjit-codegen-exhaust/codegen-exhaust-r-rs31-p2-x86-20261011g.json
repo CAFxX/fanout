@@ -1,0 +1,14 @@
+{
+ "cache_key": "",
+ "cache_paths": "",
+ "command": "cd /work/projects/raidjit-codegen-exhaust && node driver.mjs",
+ "env": "",
+ "image": "node:24-slim",
+ "job_id": "codegen-exhaust-r-rs31-p2-x86-20261011g",
+ "priority": "new-leads",
+ "project": "raidjit-codegen-exhaust",
+ "registry_password": "",
+ "registry_user": "",
+ "shards": 32,
+ "timeout_minutes": 60
+}
