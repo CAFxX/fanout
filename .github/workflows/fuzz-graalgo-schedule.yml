@@ -71,3 +71,34 @@ jobs:
           git commit -m "fuzz: schedule $job_id (seeds $base..$((base + SEEDS_PER_JOB - 1)))"
           git push
           echo "scheduled $job_id"
+      - name: Trigger fuzzing dispatch
+        # Pushes made with GITHUB_TOKEN do NOT trigger workflows (GitHub
+        # anti-recursion rule), so the push above cannot start
+        # fanout-dispatch. Trigger it explicitly via workflow_dispatch.
+        run: |
+          set -euo pipefail
+          base=$(cat projects/graalgo-fuzz/next_seed.txt)
+          base=$((base - 1000))
+          job_id=$(ls jobs/graalgo-fuzz/fuzz-cont-*.json | tail -1 | xargs basename -s .json)
+          curl -sS -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/CAFxX/fanout/actions/workflows/dispatch.yml/dispatches \
+            -d "$(python3 - "$job_id" "$base" <<'EOF'
+          import json, sys
+          job_id, base = sys.argv[1], sys.argv[2]
+          print(json.dumps({
+              "ref": "main",
+              "inputs": {
+                  "project": "graalgo-fuzz",
+                  "job_id": job_id,
+                  "image": "ghcr.io/cafxx/fanout-graalgo-fuzz:latest",
+                  "command": "python3 projects/graalgo-fuzz/driver/fuzz_driver.py",
+                  "shards": "20",
+                  "timeout_minutes": "180",
+                  "env": f"SEEDS_PER_SHARD=50\nSEED_BASE={base}",
+              },
+          }))
+          EOF
+          )"
+          echo "dispatched $job_id"
