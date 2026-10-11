@@ -5,6 +5,14 @@
 // asm_bundle.txt.gz (all disassemblies, header-delimited), instead of
 // one .asm/.json file pair per config. Shard contract unchanged:
 // $SHARD_IDX/$SHARD_COUNT select configs; outputs under $OUT_DIR.
+//
+// BUG-COMBO-TRAP-002 fix (2026-10-11): a library abort (assert) kills the
+// shared WASM instance; the old driver kept serving the dead instance, so
+// every later config in the shard threw 'memory access out of bounds'
+// (992 of E1's 1,024 'traps' were this artifact). Now: any throw from a
+// compile/disasm call drops the instance, and the SAME config is retried
+// once on a fresh instance. Only a throw on the fresh instance is recorded
+// as a trap verdict; a successful retry yields the config's true verdict.
 import { readFileSync, writeFileSync, mkdirSync, createWriteStream } from 'fs';
 import { createRequire } from 'module';
 import { createHash } from 'crypto';
@@ -31,6 +39,7 @@ async function getMod(isa_module) {
   }
   return mods[isa_module];
 }
+function dropMod(isa_module) { delete mods[isa_module]; }
 let dmod = null;
 async function getDisasm() {
   if (!dmod) {
@@ -40,12 +49,15 @@ async function getDisasm() {
   return dmod;
 }
 
-function compileKernel(mod, doc) {
+// One compile attempt on the given instance. Throws propagate to the
+// caller (instance may be dead afterwards); cleanup is best-effort.
+// A JSON parse failure is a returned verdict, not a throw (as before).
+function compileOnce(mod, doc) {
   const json = JSON.stringify(doc);
   const p = mod.stringToNewUTF8(json);
   let rp;
   try { rp = mod._rjw_compile(p); }
-  catch (e) { mod._free(p); return { ok: false, err: 'trap: ' + e.message }; }
+  catch (e) { try { mod._free(p); } catch { /* dead instance */ } throw e; }
   let res;
   try { res = JSON.parse(mod.UTF8ToString(rp)); }
   catch (e) { mod._rjw_free_string(rp); mod._free(p); return { ok: false, err: 'bad JSON: ' + e.message }; }
@@ -63,16 +75,40 @@ function compileKernel(mod, doc) {
   return res;
 }
 
-function disasm(arch, bytes) {
+// Compile with instance-poisoning protection (BUG-COMBO-TRAP-002): on any
+// throw, drop the instance and retry the same config once on a fresh one.
+async function compileKernel(isa_module, doc) {
+  const mod = await getMod(isa_module);
+  try { return compileOnce(mod, doc); }
+  catch (e1) {
+    dropMod(isa_module);
+    const fresh = await getMod(isa_module);
+    try { return compileOnce(fresh, doc); }
+    catch (e2) { dropMod(isa_module); return { ok: false, err: 'trap: ' + e2.message }; }
+  }
+}
+
+function disasmOnce(arch, bytes) {
   const p = dmod._malloc(bytes.length || 1);
   if (bytes.length) dmod.HEAPU8.set(bytes, p);
   const ap = dmod.stringToNewUTF8(arch);
   let rp;
   try { rp = dmod._dj_disasm(ap, p, bytes.length, 0n); }
-  catch (e) { dmod._free(ap); dmod._free(p); return null; }
+  catch (e) { try { dmod._free(ap); dmod._free(p); } catch { /* dead */ } throw e; }
   const s = dmod.UTF8ToString(rp);
   dmod._free(ap); dmod._free(p);
   return s;
+}
+
+async function disasm(arch, bytes) {
+  await getDisasm();
+  try { return disasmOnce(arch, bytes); }
+  catch (e1) {
+    dmod = null;
+    await getDisasm();
+    try { return disasmOnce(arch, bytes); }
+    catch (e2) { dmod = null; return null; }
+  }
 }
 
 function fmtAsm(cfg, res, disJson) {
@@ -104,11 +140,10 @@ async function main() {
   for (const cfg of mine) {
     const name = `config_t${cfg.tier}_${cfg.idx}`;
     try {
-      const mod = await getMod(cfg.isa_module);
-      const res = compileKernel(mod, cfg.doc);
+      const res = await compileKernel(cfg.isa_module, cfg.doc);
       if (res.ok) {
         ok++;
-        const d = disasm(ARCH_OF[cfg.isa_module], res.code);
+        const d = await disasm(ARCH_OF[cfg.isa_module], res.code);
         const asm = fmtAsm(cfg, res, d);
         gz.write(`===== ${name} =====\n${asm}`);
         recs.push(JSON.stringify({ name, tier: cfg.tier, idx: cfg.idx, isa_module: cfg.isa_module,
