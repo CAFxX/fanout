@@ -227,6 +227,13 @@ def main():
     a = ap.parse_args()
     assert (a.box is None) != (a.pool_file is None), "one of --box/--pool-file"
 
+    # Shard contract: $OUT_DIR may arrive unexpanded (shell-escaping quirk
+    # in the dispatch workflow); resolve it from the environment.
+    # campaign.py does os.environ.get("OUT_DIR") for the same reason.
+    if "$OUT_DIR" in a.out:
+        a.out = a.out.replace("$OUT_DIR",
+                              os.environ.get("OUT_DIR", "."))
+
     workroot = a.workroot or tempfile.mkdtemp(prefix="sbox_screen_")
     os.makedirs(workroot, exist_ok=True)
 
