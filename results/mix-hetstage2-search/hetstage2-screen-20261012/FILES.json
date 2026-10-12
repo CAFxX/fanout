@@ -1,0 +1,14 @@
+{
+ "job_id": "hetstage2-screen-20261012",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-1/_shard_status.json",
+  "shard-2/_shard_status.json",
+  "shard-3/_shard_status.json",
+  "shard-4/_shard_status.json",
+  "shard-5/_shard_status.json",
+  "shard-6/_shard_status.json",
+  "shard-7/_shard_status.json"
+ ]
+}
