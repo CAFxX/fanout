@@ -1,0 +1,14 @@
+v1: 42
+v10: 0
+v2: 42
+slicelen v3: 4 [ahello
+	
+	 hello
+	helloafoo barhellohello hello hello]
+slicelen v4: 3 [
+	 
+	 a]
+v5: 1.5
+v6: 65535
+v8: -1
+v9: hello

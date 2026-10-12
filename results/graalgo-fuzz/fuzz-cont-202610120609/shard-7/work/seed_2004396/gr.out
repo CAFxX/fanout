@@ -1,0 +1,6 @@
+slicelen v1: 4 [hello foo bar
+	 foo bara foo bar]
+v2: 65535
+v28: -2.25
+maplen v3: 0
+v4: false

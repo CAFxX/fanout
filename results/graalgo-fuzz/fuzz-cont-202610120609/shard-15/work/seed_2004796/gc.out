@@ -1,0 +1,15 @@
+34 34 -1
+34 foo bar
+v1: 225
+v11: -1
+v12: 34
+maplen v2: 0
+slicelen v22: 3 [-309 0 32768]
+v23: false
+v24: 42
+v25: -128
+v26: -2147483648
+v3: 18446744073709551615
+maplen v4: 0
+v5: foo bar
+maplen v6: 0

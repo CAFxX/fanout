@@ -1,0 +1,9 @@
+foo barahello
+33681 foo barahello
+foo barahello 33681 -9223372036854775808
+v1: foo barahello
+v10: 33681
+slicelen v2: 0 []
+slicelen v3: 1 [128]
+v6: 912
+v9: -9223372036854775808

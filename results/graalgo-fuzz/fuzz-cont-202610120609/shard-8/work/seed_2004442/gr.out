@@ -1,0 +1,29 @@
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+31
+31
+v1: 57
+v15: 149
+v17: 31
+v19: 0
+maplen v2: 0
+v20: foo barfoo bar
+slicelen v3: 1 [
+	hellohello
+	
+	hellofoo bar
+	]
+v30: -231
+maplen v4: 0

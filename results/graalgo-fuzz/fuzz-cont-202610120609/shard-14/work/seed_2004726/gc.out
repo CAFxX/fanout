@@ -1,0 +1,11 @@
+0 0
+0
+maplen v1: 0
+v2: 2147483649
+v20: foo bar
+slicelen v3: 2 [42 32767]
+v32: foo barfoo bar
+slicelen v4: 1 [2147483647]
+v5: 0
+slicelen v6: 0 []
+v60: 4294967295

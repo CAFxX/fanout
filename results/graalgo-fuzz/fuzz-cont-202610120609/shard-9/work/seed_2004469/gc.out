@@ -1,0 +1,28 @@
+true 67
+188 false
+188 false
+188 false
+188 false
+188 false
+188 false
+188 false
+188 false
+188 false
+188 false
+false
+false 191 2147483647
+false 191 2147483647
+false 191 2147483647
+false 191 2147483647
+false 191 2147483647
+false 191 2147483647
+false 191 2147483647
+slicelen v1: 49 [foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v2: false
+slicelen v3: 3 [9223372036854775807 590 128]
+v35: 2147483647
+v37: 191
+v38: 64
+slicelen v4: 1 [32768]
+v5: 191
+v6: 67

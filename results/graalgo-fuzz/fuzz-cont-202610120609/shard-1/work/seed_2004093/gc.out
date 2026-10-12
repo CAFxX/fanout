@@ -1,0 +1,22 @@
+65535 -128 1
+65535 -128 foo bar
+	
+v1: 1
+v14: 0
+v15: 451
+v16: -2147483648
+v17: 32768
+v19: 32768
+v2: foo barfoo bar
+	
+	foo bar
+	foo bar
+	foo bar
+	
+	a
+slicelen v20: 3 [32768 32768 -128]
+v3: 65535
+v4: foo bar
+	
+maplen v5: 0
+v9: -128

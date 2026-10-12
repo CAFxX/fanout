@@ -1,0 +1,10 @@
+true 1e+10 1e+10
+32767 1e+10 true
+v1: 32767
+v17: 
+v2: true
+v3: 100
+v4: 1e+10
+slicelen v5: 4 [hello 
+	 foo bar foo bar]
+slicelen v6: 2 [2147483647 1]

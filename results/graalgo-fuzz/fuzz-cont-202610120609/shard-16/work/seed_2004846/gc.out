@@ -1,0 +1,14 @@
+4294967295 4294967295 -1
+0 -1
+v1: 0
+v12: 136
+v17: -1
+slicelen v2: 4 [foo barhellofoo barahellofoo bar
+	helloafoo bar
+	afoo bar 
+	 foo bar
+	 a]
+v24: 692
+maplen v3: 1
+v4: 0
+v5: 42

@@ -1,0 +1,12 @@
+1 1 foo bar
+foo bar 147 1
+v1: -147
+v10: true
+v11: foo barhellofoo barfoo bar
+	foo bar
+v12: -2147483648
+v2: 1
+maplen v3: 0
+v8: foo bar
+v9: foo barhellofoo barfoo bar
+	

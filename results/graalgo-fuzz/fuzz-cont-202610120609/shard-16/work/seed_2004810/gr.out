@@ -1,0 +1,9 @@
+42
+42 172 172
+slicelen v1: 2 [foo bar foo bar]
+v2: 1
+v3: 0
+maplen v4: 0
+slicelen v5: 3 [  hello]
+v6: 42
+v7: 172

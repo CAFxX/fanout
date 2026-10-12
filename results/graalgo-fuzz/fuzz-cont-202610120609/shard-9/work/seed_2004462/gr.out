@@ -1,0 +1,19 @@
+-127 
+	
+slicelen v1: 0 []
+slicelen v2: 1 [
+	helloa
+	
+	
+	]
+v21: 115
+v24: 
+	
+v27: foo bar
+v29: 501
+v3: 6.28318
+v4: 353
+maplen v5: 0
+slicelen v6: 4 [a foo bar a foo bar]
+v8: -127
+v9: -409

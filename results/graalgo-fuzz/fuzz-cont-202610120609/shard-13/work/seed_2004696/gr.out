@@ -1,0 +1,8 @@
+0
+slicelen v1: 2 [4294967295 658]
+v120: 0
+v124: 1
+slicelen v2: 3 [
+	foo bar
+	 hellofoo bara foo bar]
+slicelen v3: 3 [538 0 4294967295]

@@ -1,0 +1,9 @@
+maplen v1: 0
+slicelen v2: 3 [foo bar 
+	foo bar
+	 ]
+maplen v3: 0
+v4: true
+v7: -559
+v8: 4294967295
+v9: -32768

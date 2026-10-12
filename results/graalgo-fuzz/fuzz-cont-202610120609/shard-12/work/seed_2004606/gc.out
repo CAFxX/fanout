@@ -1,0 +1,8 @@
+v1: false
+v15: false
+v2: 2.000000000628318e+10
+maplen v3: 0
+v4: 2147483647
+slicelen v5: 4 [foo bar 
+	 foo bar hello]
+v6: foo barfoo barhello

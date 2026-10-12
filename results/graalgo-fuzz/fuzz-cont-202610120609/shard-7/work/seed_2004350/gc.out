@@ -1,0 +1,19 @@
+42
+v1: -319
+v2: 630
+v3: 42
+v4: 
+	hello
+	
+v5: -9223372036854775488
+slicelen v6: 2 [hello
+	hello
+	
+	hello
+	a
+	hello
+	foo bar foo bar
+	hello
+	]
+v68: 756
+v7: 42

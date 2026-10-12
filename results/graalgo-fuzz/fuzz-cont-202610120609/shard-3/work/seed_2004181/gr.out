@@ -1,0 +1,9 @@
+foo bar -29
+v1: -29
+v11: -2147483648
+v2: false
+maplen v3: 0
+v4: 32767
+v40: false
+slicelen v5: 1 [1]
+v6: foo barfoo bar

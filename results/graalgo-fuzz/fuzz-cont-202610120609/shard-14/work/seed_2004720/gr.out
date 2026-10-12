@@ -1,0 +1,68 @@
+958 false
+402 0 foo bar
+402 1 foo bar
+402 2 foo bar
+402 3 foo bar
+402 4 foo bar
+402 5 foo bar
+402 6 foo bar
+402 7 foo bar
+402 8 foo bar
+402 9 foo bar
+402 10 foo bar
+402 11 foo bar
+402 12 foo bar
+402 13 foo bar
+402 14 foo bar
+402 15 foo bar
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+402 0 foo bar
+402 1 foo bar
+402 2 foo bar
+402 3 foo bar
+402 4 foo bar
+402 5 foo bar
+402 6 foo bar
+402 7 foo bar
+402 8 foo bar
+402 9 foo bar
+402 10 foo bar
+402 11 foo bar
+402 12 foo bar
+402 13 foo bar
+402 14 foo bar
+402 15 foo bar
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+foo bar foo bar
+v1: false
+slicelen v2: 1 [917764]
+maplen v3: 0
+v4: 958
+v6: 0
+v7: foo bar
+v90: 0
+v91: 1.5
+v92: 2
+v93: 42

@@ -1,0 +1,16 @@
+863 0.1 0
+863 0.1 1
+863 0.1 2
+0.1 863 true
+-1 -1
+true 1.5 foo bar
+v1: -1
+v2: foo bar
+slicelen v3: 1 [0]
+v4: 863
+v5: true
+v52: 0.1
+maplen v6: 0
+v72: 863
+v73: 1.5
+v80: 2

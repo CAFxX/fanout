@@ -1,0 +1,11 @@
+v1: hello
+v2: 59
+maplen v3: 0
+v33: 59
+v34: hello
+v35: 804
+v36: 1
+v4: hellofoo barhello
+v5: -0.6666666666666666
+slicelen v6: 3 [
+	 hello hellofoo barhello]

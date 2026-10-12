@@ -1,0 +1,20 @@
+false false 0
+false false 0
+false false 0
+false false 1
+false false 1
+false false 1
+false false 2
+false false 2
+false false 2
+127
+false
+slicelen v1: 4 [2147483647 636 2 65535]
+slicelen v2: 3 [
+	  ahellofoo bar
+	]
+v26: 1
+v27: 225
+v3: false
+v4: 104
+v5: false

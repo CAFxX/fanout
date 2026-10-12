@@ -1,0 +1,11 @@
+4294967295 -1
+4294967295
+32767 -0.6
+v1: 90
+v2: -1
+v21: 32767
+v23: true
+maplen v3: 1
+v4: 8589934590
+v44: -0.6
+slicelen v5: 1 [foo barfoo barfoo bar]

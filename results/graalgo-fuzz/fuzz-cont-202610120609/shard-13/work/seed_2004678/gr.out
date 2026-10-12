@@ -1,0 +1,15 @@
+2 -2.25 174
+v1: 0
+slicelen v2: 3 [ foo bar a]
+slicelen v3: 1 [helloafoo bar
+	foo bar
+	a
+	foo bara
+	
+	hellofoo bar]
+maplen v4: 0
+v59: 2
+v60: 0
+v61: 174
+v62: false
+v63: -2.25

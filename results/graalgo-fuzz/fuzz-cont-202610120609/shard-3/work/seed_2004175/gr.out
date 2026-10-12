@@ -1,0 +1,28 @@
+41 41
+foo bar 0 0
+foo bar 1 0
+foo bar 2 0
+foo bar 3 0
+foo bar 4 0
+foo bar 5 0
+foo bar 6 0
+foo bar 7 0
+foo bar 8 0
+foo bar 9 0
+foo bar 10 0
+foo bar 11 0
+foo bar 12 0
+foo bar 13 0
+foo bar 14 0
+foo bar 15 0
+foo bar 16 0
+foo bar 17 0
+foo bar 233 41
+v1: foo bar
+v2: 0
+maplen v3: 0
+slicelen v37: 3 [473 833 1]
+v4: 41
+v49: -60
+v52: 233
+v53: 152

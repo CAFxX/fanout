@@ -1,0 +1,58 @@
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+false 41415 foo bar
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+maplen v1: 0
+slicelen v2: 4 [
+	 
+	 foo bar
+	 a]
+maplen v3: 0
+v38: 41415
+v39: foo bar
+maplen v4: 0
+v41: 0
+maplen v5: 0
+v61: 1

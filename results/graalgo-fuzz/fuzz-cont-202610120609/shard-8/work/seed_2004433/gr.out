@@ -1,0 +1,17 @@
+2147483647 -32768 -32768
+65534 hellofoo bar
+	foo bar
+	foo bar
+	 65534
+65533
+v1: 2147483647
+v13: 65534
+v14: 65533
+v15: hellofoo bar
+	foo bar
+	foo bar
+	
+v16: 2
+v2: 65535
+v3: -32768
+slicelen v4: 3 [1 32768 128]
