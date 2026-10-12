@@ -1,0 +1,300 @@
+{"pool_idx": 0, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x408048060280000"], ["MUXD", 5, 51, 54, 30], ["MUXD", 32, 47, 13, 40], ["MUXD", 35, 29, 6, 59]], "seed": 47108}
+{"pool_idx": 1, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x802c00000051a008"], ["MUXD", 27, 56, 9, 62], ["MUXD", 50, 9, 5, 46], ["MUXD", 52, 9, 37, 55]], "seed": 47108}
+{"pool_idx": 2, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x5110900910080410"], ["MUXD", 36, 50, 22, 34], ["MUXD", 39, 54, 11, 5]], "seed": 47108}
+{"pool_idx": 3, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x9200428311500440"], ["MUXD", 23, 14, 30, 26], ["MUXD", 49, 30, 29, 3], ["MUXD", 3, 34, 22, 58]], "seed": 47108}
+{"pool_idx": 4, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0xd084151460100848"], ["MUXD", 20, 5, 18, 4], ["MUXD", 27, 32, 11, 27], ["MUXD", 38, 59, 53, 37]], "seed": 47108}
+{"pool_idx": 5, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0xc806f0006340509"], ["MUXD", 54, 53, 43, 26], ["MUXD", 62, 14, 7, 15]], "seed": 47108}
+{"pool_idx": 6, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x88181048b8cc014b"], ["MUXD", 18, 47, 62, 6], ["MUXD", 29, 7, 48, 12], ["MUXD", 59, 14, 13, 58]], "seed": 47108}
+{"pool_idx": 7, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0xec440e011499344b"], ["MUXD", 6, 2, 28, 49], ["MUXD", 35, 8, 38, 49], ["MUXD", 15, 62, 56, 24]], "seed": 47108}
+{"pool_idx": 8, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x21a33c15088b3aed"], ["MUXD", 57, 21, 38, 50], ["MUXD", 59, 50, 36, 15]], "seed": 47108}
+{"pool_idx": 9, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x962b8a9d3d8b21da"], ["MUXD", 50, 39, 3, 62], ["MUXD", 29, 22, 43, 5], ["MUXD", 5, 22, 57, 23]], "seed": 47108}
+{"pool_idx": 10, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xcd3452e9b8fe31bd"], ["MUXD", 38, 35, 6, 40], ["MUXD", 4, 38, 37, 31], ["MUXD", 32, 27, 37, 6]], "seed": 47108}
+{"pool_idx": 11, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0x3235a9df875feb9f"], ["MUXD", 41, 50, 8, 50], ["MUXD", 46, 61, 45, 1]], "seed": 47108}
+{"pool_idx": 12, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x90003240048000"], ["MUXD", 20, 5, 11, 54], ["MUXD", 61, 8, 28, 9], ["MUXD", 37, 14, 8, 9]], "seed": 47108}
+{"pool_idx": 13, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x21020026180204"], ["MUXD", 35, 22, 11, 3], ["MUXD", 62, 28, 2, 33], ["MUXD", 52, 62, 14, 57]], "seed": 47108}
+{"pool_idx": 14, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x1286044008906000"], ["MUXD", 34, 7, 43, 54], ["MUXD", 43, 60, 31, 26]], "seed": 47108}
+{"pool_idx": 15, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x80ca12a20882400"], ["MUXD", 1, 46, 43, 28], ["MUXD", 8, 63, 25, 30], ["MUXD", 12, 38, 19, 43]], "seed": 47108}
+{"pool_idx": 16, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x904400d40003e098"], ["MUXD", 15, 19, 41, 24], ["MUXD", 21, 31, 46, 53], ["MUXD", 21, 6, 18, 48]], "seed": 47108}
+{"pool_idx": 17, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x8014c80cb141a804"], ["MUXD", 53, 56, 32, 30], ["MUXD", 40, 16, 44, 58]], "seed": 47108}
+{"pool_idx": 18, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x22120404e4c25cd0"], ["MUXD", 52, 13, 6, 59], ["MUXD", 24, 40, 49, 9], ["MUXD", 8, 41, 43, 7]], "seed": 47108}
+{"pool_idx": 19, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x115e228ec088583c"], ["MUXD", 54, 19, 44, 55], ["MUXD", 35, 33, 24, 31], ["MUXD", 61, 54, 8, 4]], "seed": 47108}
+{"pool_idx": 20, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x98682d0323e0f8d3"], ["MUXD", 58, 47, 8, 37], ["MUXD", 6, 26, 49, 63]], "seed": 47108}
+{"pool_idx": 21, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x8b464475dee2af42"], ["MUXD", 22, 56, 51, 19], ["MUXD", 26, 44, 45, 44], ["MUXD", 3, 54, 2, 43]], "seed": 47108}
+{"pool_idx": 22, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xdad9cda914cfb4b5"], ["MUXD", 53, 57, 27, 5], ["MUXD", 0, 13, 33, 52], ["MUXD", 52, 7, 56, 58]], "seed": 47108}
+{"pool_idx": 23, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0x1ddcd2fa7bda796d"], ["MUXD", 8, 52, 58, 57], ["MUXD", 9, 1, 24, 13]], "seed": 47108}
+{"pool_idx": 24, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x4000100280104082"], ["MUXD", 20, 22, 55, 54], ["MUXD", 49, 5, 42, 1], ["MUXD", 13, 43, 25, 3]], "seed": 47108}
+{"pool_idx": 25, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x20480010160a0800"], ["MUXD", 63, 18, 0, 4], ["MUXD", 0, 27, 57, 26], ["MUXD", 19, 8, 4, 34]], "seed": 47108}
+{"pool_idx": 26, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x200a4245200c02"], ["MUXD", 39, 1, 26, 11], ["MUXD", 19, 20, 30, 40]], "seed": 47108}
+{"pool_idx": 27, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x23506400a020411"], ["MUXD", 4, 42, 61, 60], ["MUXD", 21, 45, 49, 48], ["MUXD", 18, 43, 21, 28]], "seed": 47108}
+{"pool_idx": 28, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x494180200d84420a"], ["MUXD", 59, 19, 45, 29], ["MUXD", 46, 63, 5, 19], ["MUXD", 53, 54, 50, 52]], "seed": 47108}
+{"pool_idx": 29, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0xa4c0b10204852150"], ["MUXD", 41, 16, 39, 14], ["MUXD", 19, 61, 29, 10]], "seed": 47108}
+{"pool_idx": 30, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0xe408d04030a47230"], ["MUXD", 36, 37, 60, 47], ["MUXD", 20, 13, 59, 23], ["MUXD", 54, 8, 43, 1]], "seed": 47108}
+{"pool_idx": 31, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x8a1da0058c1d1f1"], ["MUXD", 17, 18, 14, 27], ["MUXD", 2, 6, 3, 49], ["MUXD", 49, 53, 51, 4]], "seed": 47108}
+{"pool_idx": 32, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x3d82805d08f96ca5"], ["MUXD", 10, 38, 39, 25], ["MUXD", 58, 50, 42, 25]], "seed": 47108}
+{"pool_idx": 33, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x20b7cd0f6221cbed"], ["MUXD", 57, 50, 59, 38], ["MUXD", 35, 17, 8, 32], ["MUXD", 8, 45, 28, 61]], "seed": 47108}
+{"pool_idx": 34, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xef135c9f66373b5"], ["MUXD", 50, 43, 46, 29], ["MUXD", 11, 46, 59, 51], ["MUXD", 8, 30, 18, 19]], "seed": 47108}
+{"pool_idx": 35, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0xa6ef3fd49e5e332f"], ["MUXD", 63, 36, 50, 28], ["MUXD", 6, 48, 23, 40]], "seed": 47108}
+{"pool_idx": 36, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x2050100400280200"], ["MUXD", 63, 58, 23, 26], ["MUXD", 56, 62, 44, 55], ["MUXD", 23, 19, 24, 61]], "seed": 47108}
+{"pool_idx": 37, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x304040443020001"], ["MUXD", 53, 37, 3, 26], ["MUXD", 59, 60, 49, 13], ["MUXD", 46, 12, 45, 14]], "seed": 47108}
+{"pool_idx": 38, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x34e000001034410"], ["MUXD", 1, 30, 35, 29], ["MUXD", 52, 56, 43, 20]], "seed": 47108}
+{"pool_idx": 39, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x4430048202298a00"], ["MUXD", 38, 51, 4, 29], ["MUXD", 0, 31, 55, 44], ["MUXD", 52, 3, 16, 13]], "seed": 47108}
+{"pool_idx": 40, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x81034110a028cc40"], ["MUXD", 34, 44, 3, 5], ["MUXD", 36, 56, 10, 59], ["MUXD", 38, 58, 17, 62]], "seed": 47108}
+{"pool_idx": 41, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x8088184f0200d194"], ["MUXD", 63, 32, 4, 11], ["MUXD", 31, 57, 58, 21]], "seed": 47108}
+{"pool_idx": 42, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x21a66010409c7406"], ["MUXD", 55, 33, 26, 10], ["MUXD", 62, 41, 33, 37], ["MUXD", 21, 46, 14, 3]], "seed": 47108}
+{"pool_idx": 43, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0xd86480d3080716b8"], ["MUXD", 4, 16, 3, 63], ["MUXD", 16, 49, 14, 54], ["MUXD", 36, 4, 49, 1]], "seed": 47108}
+{"pool_idx": 44, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x9f7a5eae114426"], ["MUXD", 39, 55, 40, 50], ["MUXD", 16, 60, 4, 59]], "seed": 47108}
+{"pool_idx": 45, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0xdded22ece21194b2"], ["MUXD", 6, 39, 43, 59], ["MUXD", 26, 25, 11, 41], ["MUXD", 18, 13, 54, 5]], "seed": 47108}
+{"pool_idx": 46, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xafc7baca8f0b383d"], ["MUXD", 5, 50, 17, 55], ["MUXD", 54, 52, 21, 3], ["MUXD", 58, 28, 21, 4]], "seed": 47108}
+{"pool_idx": 47, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0x1d78bd3f7bc65e76"], ["MUXD", 0, 28, 18, 63], ["MUXD", 47, 12, 48, 6]], "seed": 47108}
+{"pool_idx": 48, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x40000044069008"], ["MUXD", 55, 29, 57, 22], ["MUXD", 33, 57, 44, 57], ["MUXD", 18, 33, 49, 61]], "seed": 47108}
+{"pool_idx": 49, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x4344300240100000"], ["MUXD", 58, 16, 40, 29], ["MUXD", 48, 49, 58, 21], ["MUXD", 50, 15, 63, 11]], "seed": 47108}
+{"pool_idx": 50, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x200c340225081"], ["MUXD", 5, 19, 47, 28], ["MUXD", 28, 12, 47, 44]], "seed": 47108}
+{"pool_idx": 51, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0xa94301080e004200"], ["MUXD", 3, 49, 43, 30], ["MUXD", 24, 5, 59, 14], ["MUXD", 2, 26, 12, 39]], "seed": 47108}
+{"pool_idx": 52, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x825401190a04208c"], ["MUXD", 28, 14, 22, 50], ["MUXD", 37, 52, 63, 48], ["MUXD", 9, 18, 34, 12]], "seed": 47108}
+{"pool_idx": 53, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0xf800904c20487003"], ["MUXD", 18, 45, 51, 57], ["MUXD", 51, 44, 42, 22]], "seed": 47108}
+{"pool_idx": 54, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x910820bb31070320"], ["MUXD", 25, 50, 36, 9], ["MUXD", 30, 54, 17, 63], ["MUXD", 31, 51, 7, 19]], "seed": 47108}
+{"pool_idx": 55, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0xd34e310820381db"], ["MUXD", 52, 46, 6, 16], ["MUXD", 22, 60, 33, 56], ["MUXD", 25, 48, 55, 11]], "seed": 47108}
+{"pool_idx": 56, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x41f62cb908552a9c"], ["MUXD", 58, 44, 31, 61], ["MUXD", 63, 52, 18, 26]], "seed": 47108}
+{"pool_idx": 57, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x9ff92fb6043470c1"], ["MUXD", 4, 16, 6, 38], ["MUXD", 61, 54, 20, 42], ["MUXD", 15, 41, 28, 6]], "seed": 47108}
+{"pool_idx": 58, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xea97db1f65e321ca"], ["MUXD", 31, 39, 12, 62], ["MUXD", 39, 20, 28, 26], ["MUXD", 45, 53, 42, 1]], "seed": 47108}
+{"pool_idx": 59, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0x9fdc9b728ff8b575"], ["MUXD", 20, 26, 42, 7], ["MUXD", 44, 24, 51, 31]], "seed": 47108}
+{"pool_idx": 60, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x802010002809001"], ["MUXD", 24, 60, 45, 59], ["MUXD", 35, 3, 33, 50], ["MUXD", 5, 32, 19, 7]], "seed": 47108}
+{"pool_idx": 61, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x86282a0000104"], ["MUXD", 21, 57, 6, 8], ["MUXD", 51, 54, 45, 34], ["MUXD", 29, 9, 16, 19]], "seed": 47108}
+{"pool_idx": 62, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0xc805001080442404"], ["MUXD", 63, 28, 22, 46], ["MUXD", 28, 42, 36, 58]], "seed": 47108}
+{"pool_idx": 63, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x41dc401180000284"], ["MUXD", 39, 52, 46, 5], ["MUXD", 54, 13, 14, 22], ["MUXD", 6, 19, 54, 63]], "seed": 47108}
+{"pool_idx": 64, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0xc5e2088106110040"], ["MUXD", 5, 21, 57, 23], ["MUXD", 15, 45, 16, 43], ["MUXD", 20, 7, 46, 18]], "seed": 47108}
+{"pool_idx": 65, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x4881580441012a0f"], ["MUXD", 34, 54, 59, 18], ["MUXD", 5, 19, 42, 30]], "seed": 47108}
+{"pool_idx": 66, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x154dc128500032c1"], ["MUXD", 49, 2, 3, 31], ["MUXD", 25, 29, 55, 30], ["MUXD", 2, 8, 0, 61]], "seed": 47108}
+{"pool_idx": 67, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x220c90e298744db"], ["MUXD", 2, 25, 29, 42], ["MUXD", 23, 0, 5, 11], ["MUXD", 25, 63, 35, 10]], "seed": 47108}
+{"pool_idx": 68, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x7c5c90854ca390ad"], ["MUXD", 60, 16, 44, 48], ["MUXD", 13, 28, 35, 21]], "seed": 47108}
+{"pool_idx": 69, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x7d2eeb660223ac4e"], ["MUXD", 53, 63, 48, 43], ["MUXD", 30, 28, 9, 13], ["MUXD", 57, 19, 13, 27]], "seed": 47108}
+{"pool_idx": 70, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0x7d745df20e38dad3"], ["MUXD", 31, 20, 47, 43], ["MUXD", 43, 34, 20, 0], ["MUXD", 20, 44, 6, 32]], "seed": 47108}
+{"pool_idx": 71, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0xcfc3abb3f84bfc75"], ["MUXD", 25, 18, 24, 33], ["MUXD", 0, 57, 15, 55]], "seed": 47108}
+{"pool_idx": 72, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x50000c000808801"], ["MUXD", 40, 55, 63, 50], ["MUXD", 49, 25, 59, 1], ["MUXD", 16, 5, 11, 46]], "seed": 47108}
+{"pool_idx": 73, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x800041d1001088"], ["MUXD", 45, 52, 41, 45], ["MUXD", 52, 8, 37, 44], ["MUXD", 60, 44, 10, 10]], "seed": 47108}
+{"pool_idx": 74, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x6140020880202510"], ["MUXD", 61, 8, 48, 38], ["MUXD", 21, 13, 59, 47]], "seed": 47108}
+{"pool_idx": 75, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x8d10c4806430000"], ["MUXD", 24, 7, 32, 52], ["MUXD", 38, 7, 6, 33], ["MUXD", 33, 0, 51, 19]], "seed": 47108}
+{"pool_idx": 76, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x5a3041028004398"], ["MUXD", 61, 14, 4, 15], ["MUXD", 56, 1, 29, 63], ["MUXD", 37, 21, 50, 50]], "seed": 47108}
+{"pool_idx": 77, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0xc0690050107270c"], ["MUXD", 44, 28, 10, 37], ["MUXD", 45, 52, 13, 9]], "seed": 47108}
+{"pool_idx": 78, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x184c022285990d0a"], ["MUXD", 42, 63, 7, 7], ["MUXD", 49, 22, 37, 26], ["MUXD", 8, 12, 59, 3]], "seed": 47108}
+{"pool_idx": 79, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x6dd0390a10e83c4"], ["MUXD", 18, 44, 16, 53], ["MUXD", 21, 4, 48, 57], ["MUXD", 39, 33, 63, 63]], "seed": 47108}
+{"pool_idx": 80, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x22d25a6a4a1e6166"], ["MUXD", 17, 41, 56, 29], ["MUXD", 49, 7, 46, 26]], "seed": 47108}
+{"pool_idx": 81, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x6589c8f1a37b4c36"], ["MUXD", 28, 17, 45, 29], ["MUXD", 7, 52, 10, 29], ["MUXD", 58, 39, 23, 31]], "seed": 47108}
+{"pool_idx": 82, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xa9e47bd05962dbf6"], ["MUXD", 34, 8, 56, 45], ["MUXD", 28, 23, 41, 38], ["MUXD", 57, 7, 22, 35]], "seed": 47108}
+{"pool_idx": 83, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0xcfaf569fdac3995d"], ["MUXD", 29, 35, 43, 25], ["MUXD", 8, 3, 46, 45]], "seed": 47108}
+{"pool_idx": 84, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0xa100a024800000"], ["MUXD", 27, 55, 60, 54], ["MUXD", 25, 31, 36, 32], ["MUXD", 23, 59, 36, 29]], "seed": 47108}
+{"pool_idx": 85, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x2084081000001207"], ["MUXD", 43, 14, 49, 16], ["MUXD", 1, 31, 39, 33], ["MUXD", 35, 12, 16, 10]], "seed": 47108}
+{"pool_idx": 86, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x1140008021514041"], ["MUXD", 48, 10, 8, 54], ["MUXD", 31, 58, 35, 55]], "seed": 47108}
+{"pool_idx": 87, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x2000a20e461209"], ["MUXD", 31, 7, 13, 12], ["MUXD", 28, 54, 63, 3], ["MUXD", 27, 43, 12, 14]], "seed": 47108}
+{"pool_idx": 88, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x8d6400404d809080"], ["MUXD", 46, 27, 2, 34], ["MUXD", 25, 9, 58, 49], ["MUXD", 38, 47, 5, 61]], "seed": 47108}
+{"pool_idx": 89, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x9015056808687800"], ["MUXD", 22, 20, 9, 9], ["MUXD", 46, 38, 26, 16]], "seed": 47108}
+{"pool_idx": 90, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0xcc1894d46405009"], ["MUXD", 25, 3, 63, 56], ["MUXD", 24, 47, 21, 43], ["MUXD", 28, 17, 19, 15]], "seed": 47108}
+{"pool_idx": 91, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x98b5168ae1289440"], ["MUXD", 12, 0, 58, 26], ["MUXD", 18, 62, 21, 28], ["MUXD", 22, 7, 35, 23]], "seed": 47108}
+{"pool_idx": 92, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x3c403d9fa421b231"], ["MUXD", 42, 50, 34, 36], ["MUXD", 56, 0, 51, 40]], "seed": 47108}
+{"pool_idx": 93, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0xe48c70957ddb6143"], ["MUXD", 29, 43, 36, 37], ["MUXD", 7, 21, 37, 13], ["MUXD", 19, 13, 55, 41]], "seed": 47108}
+{"pool_idx": 94, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0xcf88ead3d78136e7"], ["MUXD", 33, 3, 53, 33], ["MUXD", 8, 42, 35, 13], ["MUXD", 54, 61, 31, 2]], "seed": 47108}
+{"pool_idx": 95, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0xc5939ef33f73eb8e"], ["MUXD", 61, 5, 0, 0], ["MUXD", 40, 54, 45, 10]], "seed": 47108}
+{"pool_idx": 96, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0xc088040008000018"], ["MUXD", 26, 4, 9, 48], ["MUXD", 53, 25, 44, 35], ["MUXD", 10, 0, 43, 31]], "seed": 47108}
+{"pool_idx": 97, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x82200009010a4800"], ["MUXD", 47, 15, 44, 40], ["MUXD", 0, 38, 1, 22], ["MUXD", 59, 44, 47, 11]], "seed": 47108}
+{"pool_idx": 98, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x1a0000410800b091"], ["MUXD", 46, 44, 32, 0], ["MUXD", 56, 48, 16, 23]], "seed": 47108}
+{"pool_idx": 99, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x2404080420471d"], ["MUXD", 13, 27, 28, 30], ["MUXD", 9, 57, 49, 7], ["MUXD", 58, 27, 49, 29]], "seed": 47108}
+{"pool_idx": 100, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0xf8c034002221204"], ["MUXD", 53, 3, 23, 55], ["MUXD", 1, 28, 31, 7], ["MUXD", 6, 60, 27, 51]], "seed": 47108}
+{"pool_idx": 101, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x960440164344220a"], ["MUXD", 30, 61, 15, 40], ["MUXD", 47, 48, 40, 44]], "seed": 47108}
+{"pool_idx": 102, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x1459e78102a00206"], ["MUXD", 6, 44, 53, 41], ["MUXD", 38, 27, 15, 49], ["MUXD", 59, 1, 2, 33]], "seed": 47108}
+{"pool_idx": 103, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x84c6fd100a2d1448"], ["MUXD", 3, 40, 17, 62], ["MUXD", 11, 31, 19, 41], ["MUXD", 57, 14, 34, 22]], "seed": 47108}
+{"pool_idx": 104, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0xb18e0cd02c874e36"], ["MUXD", 38, 43, 60, 44], ["MUXD", 1, 23, 40, 3]], "seed": 47108}
+{"pool_idx": 105, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x6d91f2da5951b912"], ["MUXD", 4, 52, 8, 62], ["MUXD", 6, 31, 14, 24], ["MUXD", 47, 24, 44, 6]], "seed": 47108}
+{"pool_idx": 106, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0x54307a2b6fb89ff6"], ["MUXD", 13, 54, 11, 23], ["MUXD", 29, 56, 38, 36], ["MUXD", 31, 20, 53, 21]], "seed": 47108}
+{"pool_idx": 107, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0xf4a778f10dcff3bb"], ["MUXD", 0, 5, 52, 60], ["MUXD", 0, 32, 33, 43]], "seed": 47108}
+{"pool_idx": 108, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x9400004004209"], ["MUXD", 47, 23, 38, 6], ["MUXD", 43, 0, 10, 48], ["MUXD", 17, 4, 21, 17]], "seed": 47108}
+{"pool_idx": 109, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0xc00140601b0"], ["MUXD", 2, 61, 5, 29], ["MUXD", 63, 52, 25, 33], ["MUXD", 35, 49, 2, 25]], "seed": 47108}
+{"pool_idx": 110, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x1044804002023c02"], ["MUXD", 52, 21, 28, 47], ["MUXD", 4, 51, 49, 15]], "seed": 47108}
+{"pool_idx": 111, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x226a08860004448"], ["MUXD", 4, 47, 56, 26], ["MUXD", 29, 28, 19, 11], ["MUXD", 26, 21, 8, 24]], "seed": 47108}
+{"pool_idx": 112, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0xe128022610801811"], ["MUXD", 21, 27, 13, 7], ["MUXD", 12, 34, 60, 44], ["MUXD", 31, 35, 28, 0]], "seed": 47108}
+{"pool_idx": 113, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x843480510e40c8a0"], ["MUXD", 60, 59, 4, 61], ["MUXD", 31, 6, 63, 61]], "seed": 47108}
+{"pool_idx": 114, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x461ac8700c451420"], ["MUXD", 7, 39, 34, 18], ["MUXD", 44, 4, 22, 35], ["MUXD", 48, 55, 56, 52]], "seed": 47108}
+{"pool_idx": 115, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x224b0a19e89ba006"], ["MUXD", 10, 49, 26, 43], ["MUXD", 53, 2, 12, 1], ["MUXD", 36, 49, 35, 4]], "seed": 47108}
+{"pool_idx": 116, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x303acd23f9c8c908"], ["MUXD", 30, 20, 7, 59], ["MUXD", 57, 10, 51, 30]], "seed": 47108}
+{"pool_idx": 117, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x3dc927ac135d638a"], ["MUXD", 49, 16, 31, 1], ["MUXD", 27, 5, 24, 29], ["MUXD", 60, 32, 42, 6]], "seed": 47108}
+{"pool_idx": 118, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0x427f51ff9b154c73"], ["MUXD", 50, 7, 1, 51], ["MUXD", 33, 58, 25, 45], ["MUXD", 44, 48, 18, 16]], "seed": 47108}
+{"pool_idx": 119, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0x5bf6ebf1e1e75db"], ["MUXD", 13, 24, 19, 15], ["MUXD", 12, 25, 18, 27]], "seed": 47108}
+{"pool_idx": 120, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x904020010c00080"], ["MUXD", 18, 32, 31, 5], ["MUXD", 11, 48, 8, 31], ["MUXD", 53, 63, 45, 12]], "seed": 47108}
+{"pool_idx": 121, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x112001580010050"], ["MUXD", 32, 34, 22, 10], ["MUXD", 14, 17, 1, 32], ["MUXD", 25, 20, 17, 28]], "seed": 47108}
+{"pool_idx": 122, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x4248484120200204"], ["MUXD", 37, 63, 46, 55], ["MUXD", 56, 15, 17, 56]], "seed": 47108}
+{"pool_idx": 123, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x4904a88440130080"], ["MUXD", 53, 32, 54, 47], ["MUXD", 55, 8, 20, 13], ["MUXD", 60, 62, 56, 48]], "seed": 47108}
+{"pool_idx": 124, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x50400032ba081888"], ["MUXD", 25, 50, 52, 17], ["MUXD", 55, 39, 13, 19], ["MUXD", 17, 8, 7, 55]], "seed": 47108}
+{"pool_idx": 125, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0x240512c04404262e"], ["MUXD", 20, 33, 0, 45], ["MUXD", 60, 44, 38, 2]], "seed": 47108}
+{"pool_idx": 126, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x87242183228c8019"], ["MUXD", 50, 22, 27, 4], ["MUXD", 51, 34, 50, 60], ["MUXD", 13, 21, 28, 20]], "seed": 47108}
+{"pool_idx": 127, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0xa8ea688a229019e0"], ["MUXD", 32, 30, 42, 11], ["MUXD", 41, 60, 35, 42], ["MUXD", 1, 40, 11, 28]], "seed": 47108}
+{"pool_idx": 128, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x7f1452ade4420a2c"], ["MUXD", 31, 60, 37, 56], ["MUXD", 36, 44, 10, 60]], "seed": 47108}
+{"pool_idx": 129, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0xcb096cc93bdba186"], ["MUXD", 30, 13, 24, 34], ["MUXD", 55, 44, 2, 49], ["MUXD", 21, 10, 55, 12]], "seed": 47108}
+{"pool_idx": 130, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0x8d53b7e04fe94dea"], ["MUXD", 6, 27, 54, 31], ["MUXD", 52, 39, 50, 32], ["MUXD", 59, 38, 34, 45]], "seed": 47108}
+{"pool_idx": 131, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0xf26f05f5dfb87af4"], ["MUXD", 4, 62, 42, 18], ["MUXD", 47, 9, 19, 14]], "seed": 47108}
+{"pool_idx": 132, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x3140082008001"], ["MUXD", 30, 21, 9, 29], ["MUXD", 60, 55, 30, 8], ["MUXD", 25, 21, 37, 44]], "seed": 47108}
+{"pool_idx": 133, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x4184082200009002"], ["MUXD", 5, 45, 15, 59], ["MUXD", 18, 15, 13, 46], ["MUXD", 11, 41, 55, 59]], "seed": 47108}
+{"pool_idx": 134, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0xc024408100202980"], ["MUXD", 36, 15, 56, 10], ["MUXD", 30, 48, 15, 33]], "seed": 47108}
+{"pool_idx": 135, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0x6a01920a1200104"], ["MUXD", 40, 17, 51, 41], ["MUXD", 51, 5, 16, 56], ["MUXD", 14, 47, 63, 3]], "seed": 47108}
+{"pool_idx": 136, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0xc183824880424220"], ["MUXD", 55, 4, 26, 21], ["MUXD", 51, 45, 15, 60], ["MUXD", 19, 30, 2, 10]], "seed": 47108}
+{"pool_idx": 137, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0xc00c8e108d104a4"], ["MUXD", 25, 15, 60, 31], ["MUXD", 16, 2, 39, 43]], "seed": 47108}
+{"pool_idx": 138, "kind": "GF", "template": "H3", "pc": 20, "stages": [["GFMUL", "0x5d9960101480054c"], ["MUXD", 19, 49, 61, 54], ["MUXD", 21, 7, 62, 38], ["MUXD", 22, 20, 61, 10]], "seed": 47108}
+{"pool_idx": 139, "kind": "GF", "template": "H3", "pc": 24, "stages": [["GFMUL", "0x826226b631cb8041"], ["MUXD", 56, 22, 4, 17], ["MUXD", 46, 13, 25, 11], ["MUXD", 51, 41, 20, 53]], "seed": 47108}
+{"pool_idx": 140, "kind": "GF", "template": "H1", "pc": 28, "stages": [["GFMUL", "0x8b81ce22db9a625"], ["MUXD", 53, 48, 28, 15], ["MUXD", 46, 55, 20, 63]], "seed": 47108}
+{"pool_idx": 141, "kind": "GF", "template": "H3", "pc": 32, "stages": [["GFMUL", "0x8ea01f3fc07c91da"], ["MUXD", 49, 8, 14, 24], ["MUXD", 9, 59, 51, 7], ["MUXD", 62, 46, 11, 0]], "seed": 47108}
+{"pool_idx": 142, "kind": "GF", "template": "H3", "pc": 36, "stages": [["GFMUL", "0x4e5f638f43d998f6"], ["MUXD", 50, 52, 45, 31], ["MUXD", 52, 35, 37, 27], ["MUXD", 17, 47, 62, 34]], "seed": 47108}
+{"pool_idx": 143, "kind": "GF", "template": "H1", "pc": 40, "stages": [["GFMUL", "0x931bdf6dcd7c73bc"], ["MUXD", 4, 58, 38, 20], ["MUXD", 19, 21, 8, 41]], "seed": 47108}
+{"pool_idx": 144, "kind": "GF", "template": "H3", "pc": 8, "stages": [["GFMUL", "0x60090180000000a"], ["MUXD", 46, 0, 41, 36], ["MUXD", 22, 25, 49, 2], ["MUXD", 16, 3, 32, 8]], "seed": 47108}
+{"pool_idx": 145, "kind": "GF", "template": "H3", "pc": 10, "stages": [["GFMUL", "0x749010202004000"], ["MUXD", 29, 4, 16, 36], ["MUXD", 26, 63, 31, 45], ["MUXD", 18, 50, 7, 32]], "seed": 47108}
+{"pool_idx": 146, "kind": "GF", "template": "H1", "pc": 12, "stages": [["GFMUL", "0x8c0144a101010400"], ["MUXD", 62, 32, 12, 43], ["MUXD", 50, 4, 14, 33]], "seed": 47108}
+{"pool_idx": 147, "kind": "GF", "template": "H3", "pc": 14, "stages": [["GFMUL", "0xc8682086800029"], ["MUXD", 24, 1, 33, 37], ["MUXD", 36, 23, 13, 22], ["MUXD", 47, 22, 61, 36]], "seed": 47108}
+{"pool_idx": 148, "kind": "GF", "template": "H3", "pc": 16, "stages": [["GFMUL", "0x80100c430828852c"], ["MUXD", 6, 19, 15, 58], ["MUXD", 38, 1, 32, 26], ["MUXD", 60, 43, 30, 32]], "seed": 47108}
+{"pool_idx": 149, "kind": "GF", "template": "H1", "pc": 18, "stages": [["GFMUL", "0xa74130240202c888"], ["MUXD", 18, 5, 7, 39], ["MUXD", 36, 30, 55, 47]], "seed": 47108}
+{"pool_idx": 150, "kind": "R5", "template": "R5", "stages": [["CIRC2", 39, 31], ["MUXD", 17, 40, 31, 2], ["MUXD", 32, 7, 19, 56], ["MUXD", 1, 42, 44, 23], ["MUXD", 27, 0, 48, 5]], "seed": 47108}
+{"pool_idx": 151, "kind": "R5", "template": "R5", "stages": [["CIRC2", 47, 18], ["MUXD", 33, 14, 28, 38], ["MUXD", 33, 1, 41, 61], ["MUXD", 32, 51, 2, 2], ["MUXD", 63, 3, 15, 53]], "seed": 47108}
+{"pool_idx": 152, "kind": "R5", "template": "R5", "stages": [["CIRC2", 53, 7], ["MUXD", 57, 9, 4, 24], ["MUXD", 53, 61, 59, 35], ["MUXD", 52, 10, 50, 1], ["MUXD", 39, 54, 28, 63]], "seed": 47108}
+{"pool_idx": 153, "kind": "R5", "template": "R5", "stages": [["CIRC2", 16, 61], ["MUXD", 28, 30, 6, 56], ["MUXD", 49, 7, 45, 37], ["MUXD", 14, 61, 8, 56], ["MUXD", 42, 11, 21, 34]], "seed": 47108}
+{"pool_idx": 154, "kind": "R5", "template": "R5", "stages": [["CIRC2", 29, 16], ["MUXD", 34, 6, 27, 35], ["MUXD", 42, 37, 23, 47], ["MUXD", 47, 53, 23, 3], ["MUXD", 60, 61, 55, 15]], "seed": 47108}
+{"pool_idx": 155, "kind": "R5", "template": "R5", "stages": [["CIRC2", 24, 42], ["MUXD", 61, 29, 19, 55], ["MUXD", 36, 1, 17, 22], ["MUXD", 41, 30, 46, 55], ["MUXD", 49, 43, 11, 38]], "seed": 47108}
+{"pool_idx": 156, "kind": "R5", "template": "R5", "stages": [["CIRC2", 44, 43], ["MUXD", 32, 40, 43, 7], ["MUXD", 5, 1, 34, 8], ["MUXD", 16, 23, 18, 40], ["MUXD", 59, 48, 0, 25]], "seed": 47108}
+{"pool_idx": 157, "kind": "R5", "template": "R5", "stages": [["CIRC2", 27, 43], ["MUXD", 14, 3, 53, 61], ["MUXD", 62, 60, 35, 23], ["MUXD", 16, 24, 5, 15], ["MUXD", 56, 28, 42, 41]], "seed": 47108}
+{"pool_idx": 158, "kind": "R5", "template": "R5", "stages": [["CIRC2", 33, 59], ["MUXD", 1, 54, 21, 26], ["MUXD", 13, 18, 6, 42], ["MUXD", 52, 6, 33, 25], ["MUXD", 3, 42, 32, 56]], "seed": 47108}
+{"pool_idx": 159, "kind": "R5", "template": "R5", "stages": [["CIRC2", 40, 54], ["MUXD", 40, 44, 45, 59], ["MUXD", 30, 62, 13, 42], ["MUXD", 39, 21, 33, 30], ["MUXD", 44, 3, 37, 9]], "seed": 47108}
+{"pool_idx": 160, "kind": "R5", "template": "R5", "stages": [["CIRC2", 9, 8], ["MUXD", 24, 36, 4, 0], ["MUXD", 38, 55, 4, 49], ["MUXD", 31, 25, 44, 9], ["MUXD", 0, 13, 23, 19]], "seed": 47108}
+{"pool_idx": 161, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 42], ["MUXD", 55, 2, 24, 10], ["MUXD", 57, 43, 28, 56], ["MUXD", 28, 27, 52, 61], ["MUXD", 42, 30, 24, 9]], "seed": 47108}
+{"pool_idx": 162, "kind": "R5", "template": "R5", "stages": [["CIRC2", 22, 37], ["MUXD", 61, 55, 27, 21], ["MUXD", 8, 10, 17, 14], ["MUXD", 46, 10, 44, 16], ["MUXD", 24, 50, 30, 25]], "seed": 47108}
+{"pool_idx": 163, "kind": "R5", "template": "R5", "stages": [["CIRC2", 31, 42], ["MUXD", 54, 43, 38, 56], ["MUXD", 62, 60, 24, 3], ["MUXD", 9, 2, 56, 38], ["MUXD", 25, 12, 1, 61]], "seed": 47108}
+{"pool_idx": 164, "kind": "R5", "template": "R5", "stages": [["CIRC2", 12, 50], ["MUXD", 56, 40, 13, 8], ["MUXD", 36, 1, 8, 4], ["MUXD", 12, 27, 9, 23], ["MUXD", 48, 22, 43, 60]], "seed": 47108}
+{"pool_idx": 165, "kind": "R5", "template": "R5", "stages": [["CIRC2", 15, 63], ["MUXD", 46, 52, 32, 3], ["MUXD", 23, 13, 17, 53], ["MUXD", 32, 44, 30, 35], ["MUXD", 55, 22, 21, 5]], "seed": 47108}
+{"pool_idx": 166, "kind": "R5", "template": "R5", "stages": [["CIRC2", 58, 11], ["MUXD", 38, 63, 40, 27], ["MUXD", 35, 0, 40, 4], ["MUXD", 62, 0, 37, 44], ["MUXD", 24, 5, 58, 52]], "seed": 47108}
+{"pool_idx": 167, "kind": "R5", "template": "R5", "stages": [["CIRC2", 19, 2], ["MUXD", 59, 58, 51, 26], ["MUXD", 18, 56, 1, 18], ["MUXD", 41, 57, 21, 20], ["MUXD", 47, 3, 40, 36]], "seed": 47108}
+{"pool_idx": 168, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 54], ["MUXD", 53, 6, 36, 50], ["MUXD", 9, 51, 13, 9], ["MUXD", 21, 32, 19, 26], ["MUXD", 34, 50, 17, 46]], "seed": 47108}
+{"pool_idx": 169, "kind": "R5", "template": "R5", "stages": [["CIRC2", 43, 48], ["MUXD", 7, 12, 42, 49], ["MUXD", 15, 19, 29, 61], ["MUXD", 43, 6, 63, 59], ["MUXD", 6, 32, 22, 34]], "seed": 47108}
+{"pool_idx": 170, "kind": "R5", "template": "R5", "stages": [["CIRC2", 25, 40], ["MUXD", 50, 44, 59, 45], ["MUXD", 15, 39, 3, 63], ["MUXD", 55, 61, 1, 22], ["MUXD", 9, 47, 56, 12]], "seed": 47108}
+{"pool_idx": 171, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 54], ["MUXD", 45, 2, 22, 28], ["MUXD", 11, 40, 44, 48], ["MUXD", 43, 0, 33, 9], ["MUXD", 61, 19, 24, 31]], "seed": 47108}
+{"pool_idx": 172, "kind": "R5", "template": "R5", "stages": [["CIRC2", 52, 3], ["MUXD", 56, 49, 0, 17], ["MUXD", 54, 47, 62, 29], ["MUXD", 25, 34, 9, 20], ["MUXD", 63, 34, 35, 59]], "seed": 47108}
+{"pool_idx": 173, "kind": "R5", "template": "R5", "stages": [["CIRC2", 43, 14], ["MUXD", 46, 54, 50, 35], ["MUXD", 24, 32, 26, 39], ["MUXD", 61, 34, 13, 1], ["MUXD", 58, 18, 54, 17]], "seed": 47108}
+{"pool_idx": 174, "kind": "R5", "template": "R5", "stages": [["CIRC2", 36, 48], ["MUXD", 14, 21, 26, 55], ["MUXD", 29, 9, 1, 54], ["MUXD", 56, 61, 8, 48], ["MUXD", 63, 47, 57, 17]], "seed": 47108}
+{"pool_idx": 175, "kind": "R5", "template": "R5", "stages": [["CIRC2", 36, 55], ["MUXD", 56, 35, 28, 40], ["MUXD", 54, 32, 59, 5], ["MUXD", 12, 59, 61, 33], ["MUXD", 44, 54, 37, 51]], "seed": 47108}
+{"pool_idx": 176, "kind": "R5", "template": "R5", "stages": [["CIRC2", 58, 51], ["MUXD", 32, 50, 4, 28], ["MUXD", 6, 45, 38, 37], ["MUXD", 16, 53, 39, 57], ["MUXD", 36, 55, 51, 46]], "seed": 47108}
+{"pool_idx": 177, "kind": "R5", "template": "R5", "stages": [["CIRC2", 6, 56], ["MUXD", 39, 18, 59, 5], ["MUXD", 25, 54, 57, 59], ["MUXD", 36, 24, 54, 15], ["MUXD", 58, 2, 18, 53]], "seed": 47108}
+{"pool_idx": 178, "kind": "R5", "template": "R5", "stages": [["CIRC2", 48, 7], ["MUXD", 19, 55, 4, 14], ["MUXD", 1, 55, 46, 20], ["MUXD", 49, 63, 52, 60], ["MUXD", 41, 31, 17, 36]], "seed": 47108}
+{"pool_idx": 179, "kind": "R5", "template": "R5", "stages": [["CIRC2", 27, 60], ["MUXD", 51, 62, 36, 38], ["MUXD", 11, 42, 31, 3], ["MUXD", 38, 48, 5, 6], ["MUXD", 22, 26, 21, 52]], "seed": 47108}
+{"pool_idx": 180, "kind": "R5", "template": "R5", "stages": [["CIRC2", 55, 27], ["MUXD", 4, 12, 3, 18], ["MUXD", 51, 22, 2, 13], ["MUXD", 45, 47, 15, 35], ["MUXD", 59, 46, 42, 44]], "seed": 47108}
+{"pool_idx": 181, "kind": "R5", "template": "R5", "stages": [["CIRC2", 6, 33], ["MUXD", 33, 54, 3, 63], ["MUXD", 17, 29, 36, 33], ["MUXD", 2, 34, 1, 18], ["MUXD", 12, 28, 26, 25]], "seed": 47108}
+{"pool_idx": 182, "kind": "R5", "template": "R5", "stages": [["CIRC2", 36, 41], ["MUXD", 62, 0, 13, 0], ["MUXD", 31, 20, 36, 18], ["MUXD", 13, 20, 38, 58], ["MUXD", 22, 13, 52, 36]], "seed": 47108}
+{"pool_idx": 183, "kind": "R5", "template": "R5", "stages": [["CIRC2", 2, 38], ["MUXD", 5, 50, 6, 40], ["MUXD", 12, 16, 27, 55], ["MUXD", 11, 56, 45, 0], ["MUXD", 55, 37, 41, 1]], "seed": 47108}
+{"pool_idx": 184, "kind": "R5", "template": "R5", "stages": [["CIRC2", 28, 2], ["MUXD", 60, 2, 46, 39], ["MUXD", 29, 14, 54, 48], ["MUXD", 24, 40, 61, 47], ["MUXD", 55, 39, 20, 20]], "seed": 47108}
+{"pool_idx": 185, "kind": "R5", "template": "R5", "stages": [["CIRC2", 40, 3], ["MUXD", 63, 2, 45, 21], ["MUXD", 15, 56, 24, 19], ["MUXD", 0, 61, 27, 42], ["MUXD", 59, 32, 52, 61]], "seed": 47108}
+{"pool_idx": 186, "kind": "R5", "template": "R5", "stages": [["CIRC2", 56, 3], ["MUXD", 19, 16, 43, 46], ["MUXD", 17, 44, 59, 14], ["MUXD", 63, 44, 42, 22], ["MUXD", 30, 18, 46, 0]], "seed": 47108}
+{"pool_idx": 187, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 35], ["MUXD", 8, 59, 27, 36], ["MUXD", 39, 18, 19, 0], ["MUXD", 9, 0, 19, 51], ["MUXD", 26, 27, 44, 48]], "seed": 47108}
+{"pool_idx": 188, "kind": "R5", "template": "R5", "stages": [["CIRC2", 33, 23], ["MUXD", 49, 11, 32, 29], ["MUXD", 27, 10, 43, 20], ["MUXD", 58, 2, 12, 6], ["MUXD", 38, 13, 28, 28]], "seed": 47108}
+{"pool_idx": 189, "kind": "R5", "template": "R5", "stages": [["CIRC2", 60, 34], ["MUXD", 41, 10, 51, 9], ["MUXD", 36, 42, 45, 36], ["MUXD", 9, 60, 4, 19], ["MUXD", 35, 16, 52, 8]], "seed": 47108}
+{"pool_idx": 190, "kind": "R5", "template": "R5", "stages": [["CIRC2", 16, 38], ["MUXD", 16, 35, 53, 25], ["MUXD", 31, 43, 62, 6], ["MUXD", 59, 32, 0, 30], ["MUXD", 25, 38, 43, 44]], "seed": 47108}
+{"pool_idx": 191, "kind": "R5", "template": "R5", "stages": [["CIRC2", 41, 47], ["MUXD", 38, 1, 60, 14], ["MUXD", 49, 32, 22, 46], ["MUXD", 1, 45, 18, 7], ["MUXD", 4, 56, 58, 16]], "seed": 47108}
+{"pool_idx": 192, "kind": "R5", "template": "R5", "stages": [["CIRC2", 48, 41], ["MUXD", 58, 23, 2, 15], ["MUXD", 46, 7, 17, 27], ["MUXD", 57, 13, 7, 33], ["MUXD", 4, 27, 39, 47]], "seed": 47108}
+{"pool_idx": 193, "kind": "R5", "template": "R5", "stages": [["CIRC2", 39, 2], ["MUXD", 54, 14, 12, 21], ["MUXD", 31, 35, 59, 27], ["MUXD", 17, 28, 39, 6], ["MUXD", 10, 21, 24, 21]], "seed": 47108}
+{"pool_idx": 194, "kind": "R5", "template": "R5", "stages": [["CIRC2", 11, 39], ["MUXD", 3, 35, 49, 34], ["MUXD", 29, 50, 56, 53], ["MUXD", 39, 52, 59, 55], ["MUXD", 44, 1, 5, 37]], "seed": 47108}
+{"pool_idx": 195, "kind": "R5", "template": "R5", "stages": [["CIRC2", 2, 57], ["MUXD", 35, 41, 61, 56], ["MUXD", 33, 56, 13, 61], ["MUXD", 15, 1, 56, 17], ["MUXD", 40, 17, 10, 13]], "seed": 47108}
+{"pool_idx": 196, "kind": "R5", "template": "R5", "stages": [["CIRC2", 44, 45], ["MUXD", 8, 61, 48, 1], ["MUXD", 20, 16, 59, 60], ["MUXD", 1, 41, 44, 29], ["MUXD", 39, 63, 38, 7]], "seed": 47108}
+{"pool_idx": 197, "kind": "R5", "template": "R5", "stages": [["CIRC2", 37, 28], ["MUXD", 51, 60, 28, 5], ["MUXD", 59, 19, 4, 7], ["MUXD", 0, 16, 45, 49], ["MUXD", 8, 45, 9, 21]], "seed": 47108}
+{"pool_idx": 198, "kind": "R5", "template": "R5", "stages": [["CIRC2", 4, 46], ["MUXD", 15, 41, 32, 47], ["MUXD", 45, 5, 2, 21], ["MUXD", 7, 37, 13, 13], ["MUXD", 18, 54, 32, 14]], "seed": 47108}
+{"pool_idx": 199, "kind": "R5", "template": "R5", "stages": [["CIRC2", 56, 30], ["MUXD", 17, 18, 0, 21], ["MUXD", 58, 19, 8, 56], ["MUXD", 42, 13, 12, 29], ["MUXD", 22, 31, 7, 58]], "seed": 47108}
+{"pool_idx": 200, "kind": "R5", "template": "R5", "stages": [["CIRC2", 12, 40], ["MUXD", 11, 44, 14, 46], ["MUXD", 40, 6, 43, 18], ["MUXD", 26, 30, 16, 13], ["MUXD", 25, 45, 49, 63]], "seed": 47108}
+{"pool_idx": 201, "kind": "R5", "template": "R5", "stages": [["CIRC2", 28, 4], ["MUXD", 53, 63, 57, 11], ["MUXD", 20, 27, 17, 7], ["MUXD", 9, 40, 8, 60], ["MUXD", 17, 1, 59, 25]], "seed": 47108}
+{"pool_idx": 202, "kind": "R5", "template": "R5", "stages": [["CIRC2", 2, 16], ["MUXD", 48, 18, 11, 20], ["MUXD", 15, 46, 53, 33], ["MUXD", 52, 28, 54, 3], ["MUXD", 24, 5, 6, 30]], "seed": 47108}
+{"pool_idx": 203, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 54], ["MUXD", 59, 49, 26, 51], ["MUXD", 50, 13, 3, 50], ["MUXD", 19, 10, 37, 30], ["MUXD", 44, 11, 59, 28]], "seed": 47108}
+{"pool_idx": 204, "kind": "R5", "template": "R5", "stages": [["CIRC2", 59, 29], ["MUXD", 29, 23, 13, 47], ["MUXD", 14, 53, 39, 29], ["MUXD", 24, 6, 61, 15], ["MUXD", 26, 14, 19, 40]], "seed": 47108}
+{"pool_idx": 205, "kind": "R5", "template": "R5", "stages": [["CIRC2", 23, 24], ["MUXD", 29, 33, 10, 14], ["MUXD", 34, 58, 42, 23], ["MUXD", 60, 40, 11, 7], ["MUXD", 14, 9, 0, 52]], "seed": 47108}
+{"pool_idx": 206, "kind": "R5", "template": "R5", "stages": [["CIRC2", 34, 6], ["MUXD", 46, 10, 57, 58], ["MUXD", 57, 22, 62, 24], ["MUXD", 3, 38, 0, 45], ["MUXD", 38, 10, 33, 50]], "seed": 47108}
+{"pool_idx": 207, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 22], ["MUXD", 41, 52, 48, 56], ["MUXD", 2, 7, 36, 1], ["MUXD", 18, 62, 37, 62], ["MUXD", 46, 41, 51, 7]], "seed": 47108}
+{"pool_idx": 208, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 5], ["MUXD", 58, 33, 57, 41], ["MUXD", 28, 38, 37, 39], ["MUXD", 27, 31, 11, 57], ["MUXD", 36, 15, 17, 18]], "seed": 47108}
+{"pool_idx": 209, "kind": "R5", "template": "R5", "stages": [["CIRC2", 44, 50], ["MUXD", 12, 27, 8, 17], ["MUXD", 31, 62, 38, 15], ["MUXD", 51, 57, 23, 6], ["MUXD", 42, 60, 38, 39]], "seed": 47108}
+{"pool_idx": 210, "kind": "R5", "template": "R5", "stages": [["CIRC2", 58, 3], ["MUXD", 57, 21, 54, 24], ["MUXD", 7, 2, 49, 22], ["MUXD", 16, 53, 32, 47], ["MUXD", 42, 17, 25, 0]], "seed": 47108}
+{"pool_idx": 211, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 23], ["MUXD", 34, 21, 1, 45], ["MUXD", 23, 15, 52, 7], ["MUXD", 17, 47, 58, 30], ["MUXD", 35, 18, 12, 61]], "seed": 47108}
+{"pool_idx": 212, "kind": "R5", "template": "R5", "stages": [["CIRC2", 41, 7], ["MUXD", 54, 17, 14, 10], ["MUXD", 13, 32, 54, 16], ["MUXD", 29, 5, 3, 36], ["MUXD", 13, 4, 12, 35]], "seed": 47108}
+{"pool_idx": 213, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 39], ["MUXD", 23, 20, 45, 53], ["MUXD", 53, 28, 19, 25], ["MUXD", 39, 14, 22, 60], ["MUXD", 13, 60, 9, 8]], "seed": 47108}
+{"pool_idx": 214, "kind": "R5", "template": "R5", "stages": [["CIRC2", 25, 18], ["MUXD", 54, 61, 42, 37], ["MUXD", 47, 51, 30, 63], ["MUXD", 53, 57, 63, 44], ["MUXD", 34, 55, 24, 50]], "seed": 47108}
+{"pool_idx": 215, "kind": "R5", "template": "R5", "stages": [["CIRC2", 62, 28], ["MUXD", 25, 15, 56, 9], ["MUXD", 24, 30, 54, 60], ["MUXD", 11, 55, 17, 15], ["MUXD", 40, 54, 39, 35]], "seed": 47108}
+{"pool_idx": 216, "kind": "R5", "template": "R5", "stages": [["CIRC2", 21, 9], ["MUXD", 59, 0, 30, 3], ["MUXD", 45, 27, 58, 13], ["MUXD", 59, 16, 42, 49], ["MUXD", 22, 45, 39, 27]], "seed": 47108}
+{"pool_idx": 217, "kind": "R5", "template": "R5", "stages": [["CIRC2", 58, 31], ["MUXD", 13, 25, 22, 61], ["MUXD", 16, 1, 20, 34], ["MUXD", 55, 45, 29, 51], ["MUXD", 15, 36, 11, 54]], "seed": 47108}
+{"pool_idx": 218, "kind": "R5", "template": "R5", "stages": [["CIRC2", 10, 62], ["MUXD", 48, 46, 26, 62], ["MUXD", 8, 41, 37, 16], ["MUXD", 30, 24, 40, 8], ["MUXD", 53, 7, 43, 7]], "seed": 47108}
+{"pool_idx": 219, "kind": "R5", "template": "R5", "stages": [["CIRC2", 61, 49], ["MUXD", 51, 11, 7, 12], ["MUXD", 7, 35, 23, 31], ["MUXD", 12, 15, 46, 22], ["MUXD", 29, 9, 42, 2]], "seed": 47108}
+{"pool_idx": 220, "kind": "R5", "template": "R5", "stages": [["CIRC2", 38, 42], ["MUXD", 41, 11, 62, 35], ["MUXD", 45, 56, 47, 18], ["MUXD", 13, 59, 53, 35], ["MUXD", 25, 16, 5, 3]], "seed": 47108}
+{"pool_idx": 221, "kind": "R5", "template": "R5", "stages": [["CIRC2", 51, 46], ["MUXD", 53, 51, 63, 41], ["MUXD", 10, 18, 58, 60], ["MUXD", 61, 33, 0, 49], ["MUXD", 35, 17, 4, 38]], "seed": 47108}
+{"pool_idx": 222, "kind": "R5", "template": "R5", "stages": [["CIRC2", 29, 54], ["MUXD", 46, 42, 36, 31], ["MUXD", 37, 4, 34, 2], ["MUXD", 18, 0, 63, 55], ["MUXD", 43, 15, 4, 37]], "seed": 47108}
+{"pool_idx": 223, "kind": "R5", "template": "R5", "stages": [["CIRC2", 40, 43], ["MUXD", 32, 53, 23, 16], ["MUXD", 10, 32, 44, 61], ["MUXD", 20, 49, 18, 54], ["MUXD", 34, 38, 51, 58]], "seed": 47108}
+{"pool_idx": 224, "kind": "R5", "template": "R5", "stages": [["CIRC2", 11, 63], ["MUXD", 46, 58, 57, 43], ["MUXD", 45, 49, 26, 1], ["MUXD", 21, 11, 58, 48], ["MUXD", 53, 9, 17, 49]], "seed": 47108}
+{"pool_idx": 225, "kind": "R5", "template": "R5", "stages": [["CIRC2", 38, 47], ["MUXD", 6, 14, 36, 10], ["MUXD", 31, 46, 11, 2], ["MUXD", 41, 8, 39, 29], ["MUXD", 49, 46, 10, 62]], "seed": 47108}
+{"pool_idx": 226, "kind": "R5", "template": "R5", "stages": [["CIRC2", 43, 56], ["MUXD", 12, 63, 34, 56], ["MUXD", 31, 53, 58, 19], ["MUXD", 38, 32, 63, 42], ["MUXD", 13, 30, 56, 17]], "seed": 47108}
+{"pool_idx": 227, "kind": "R5", "template": "R5", "stages": [["CIRC2", 51, 59], ["MUXD", 57, 46, 24, 32], ["MUXD", 58, 63, 0, 36], ["MUXD", 4, 57, 17, 60], ["MUXD", 53, 6, 13, 30]], "seed": 47108}
+{"pool_idx": 228, "kind": "R5", "template": "R5", "stages": [["CIRC2", 23, 15], ["MUXD", 8, 50, 48, 5], ["MUXD", 13, 4, 28, 53], ["MUXD", 22, 59, 16, 33], ["MUXD", 6, 51, 17, 60]], "seed": 47108}
+{"pool_idx": 229, "kind": "R5", "template": "R5", "stages": [["CIRC2", 61, 18], ["MUXD", 10, 13, 49, 13], ["MUXD", 55, 11, 49, 30], ["MUXD", 56, 51, 18, 28], ["MUXD", 55, 56, 26, 3]], "seed": 47108}
+{"pool_idx": 230, "kind": "R5", "template": "R5", "stages": [["CIRC2", 41, 33], ["MUXD", 58, 9, 41, 2], ["MUXD", 16, 26, 38, 37], ["MUXD", 14, 40, 59, 61], ["MUXD", 23, 37, 46, 53]], "seed": 47108}
+{"pool_idx": 231, "kind": "R5", "template": "R5", "stages": [["CIRC2", 12, 10], ["MUXD", 45, 62, 27, 58], ["MUXD", 35, 45, 31, 24], ["MUXD", 0, 24, 33, 28], ["MUXD", 47, 1, 25, 37]], "seed": 47108}
+{"pool_idx": 232, "kind": "R5", "template": "R5", "stages": [["CIRC2", 9, 31], ["MUXD", 50, 15, 8, 26], ["MUXD", 5, 54, 51, 33], ["MUXD", 61, 19, 14, 61], ["MUXD", 27, 32, 40, 20]], "seed": 47108}
+{"pool_idx": 233, "kind": "R5", "template": "R5", "stages": [["CIRC2", 53, 43], ["MUXD", 7, 6, 4, 51], ["MUXD", 63, 23, 18, 21], ["MUXD", 7, 22, 32, 19], ["MUXD", 59, 10, 12, 40]], "seed": 47108}
+{"pool_idx": 234, "kind": "R5", "template": "R5", "stages": [["CIRC2", 20, 2], ["MUXD", 56, 33, 1, 8], ["MUXD", 6, 4, 17, 11], ["MUXD", 18, 59, 20, 14], ["MUXD", 44, 60, 51, 7]], "seed": 47108}
+{"pool_idx": 235, "kind": "R5", "template": "R5", "stages": [["CIRC2", 3, 13], ["MUXD", 40, 43, 30, 27], ["MUXD", 49, 44, 18, 57], ["MUXD", 55, 60, 61, 51], ["MUXD", 25, 24, 36, 8]], "seed": 47108}
+{"pool_idx": 236, "kind": "R5", "template": "R5", "stages": [["CIRC2", 44, 9], ["MUXD", 31, 15, 3, 37], ["MUXD", 1, 54, 24, 28], ["MUXD", 61, 58, 32, 55], ["MUXD", 8, 37, 21, 33]], "seed": 47108}
+{"pool_idx": 237, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 1], ["MUXD", 31, 49, 7, 33], ["MUXD", 58, 61, 54, 28], ["MUXD", 50, 43, 58, 15], ["MUXD", 12, 38, 18, 33]], "seed": 47108}
+{"pool_idx": 238, "kind": "R5", "template": "R5", "stages": [["CIRC2", 33, 16], ["MUXD", 36, 31, 41, 63], ["MUXD", 29, 50, 20, 3], ["MUXD", 34, 18, 48, 3], ["MUXD", 17, 39, 38, 59]], "seed": 47108}
+{"pool_idx": 239, "kind": "R5", "template": "R5", "stages": [["CIRC2", 11, 31], ["MUXD", 48, 14, 49, 31], ["MUXD", 63, 61, 43, 52], ["MUXD", 19, 52, 4, 26], ["MUXD", 36, 27, 56, 16]], "seed": 47108}
+{"pool_idx": 240, "kind": "R5", "template": "R5", "stages": [["CIRC2", 5, 51], ["MUXD", 61, 10, 41, 16], ["MUXD", 35, 57, 40, 47], ["MUXD", 3, 44, 14, 36], ["MUXD", 16, 60, 45, 44]], "seed": 47108}
+{"pool_idx": 241, "kind": "R5", "template": "R5", "stages": [["CIRC2", 37, 24], ["MUXD", 24, 61, 35, 10], ["MUXD", 19, 32, 63, 59], ["MUXD", 27, 10, 20, 30], ["MUXD", 6, 62, 54, 17]], "seed": 47108}
+{"pool_idx": 242, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 60], ["MUXD", 36, 53, 47, 54], ["MUXD", 10, 54, 20, 3], ["MUXD", 50, 55, 19, 47], ["MUXD", 47, 19, 36, 57]], "seed": 47108}
+{"pool_idx": 243, "kind": "R5", "template": "R5", "stages": [["CIRC2", 54, 15], ["MUXD", 63, 1, 13, 46], ["MUXD", 1, 8, 40, 46], ["MUXD", 0, 9, 63, 40], ["MUXD", 31, 41, 11, 56]], "seed": 47108}
+{"pool_idx": 244, "kind": "R5", "template": "R5", "stages": [["CIRC2", 24, 57], ["MUXD", 44, 35, 49, 40], ["MUXD", 12, 58, 7, 42], ["MUXD", 0, 59, 4, 4], ["MUXD", 52, 11, 13, 24]], "seed": 47108}
+{"pool_idx": 245, "kind": "R5", "template": "R5", "stages": [["CIRC2", 21, 2], ["MUXD", 45, 58, 54, 51], ["MUXD", 59, 32, 6, 27], ["MUXD", 57, 33, 20, 10], ["MUXD", 50, 38, 34, 36]], "seed": 47108}
+{"pool_idx": 246, "kind": "R5", "template": "R5", "stages": [["CIRC2", 14, 45], ["MUXD", 15, 5, 54, 26], ["MUXD", 14, 10, 6, 12], ["MUXD", 43, 26, 36, 4], ["MUXD", 63, 42, 59, 40]], "seed": 47108}
+{"pool_idx": 247, "kind": "R5", "template": "R5", "stages": [["CIRC2", 1, 53], ["MUXD", 28, 22, 33, 59], ["MUXD", 1, 57, 27, 55], ["MUXD", 10, 17, 31, 52], ["MUXD", 52, 60, 39, 53]], "seed": 47108}
+{"pool_idx": 248, "kind": "R5", "template": "R5", "stages": [["CIRC2", 25, 61], ["MUXD", 48, 25, 37, 10], ["MUXD", 48, 37, 13, 20], ["MUXD", 17, 10, 24, 2], ["MUXD", 5, 27, 59, 36]], "seed": 47108}
+{"pool_idx": 249, "kind": "R5", "template": "R5", "stages": [["CIRC2", 37, 16], ["MUXD", 13, 11, 7, 28], ["MUXD", 7, 43, 62, 32], ["MUXD", 56, 16, 60, 7], ["MUXD", 21, 57, 11, 35]], "seed": 47108}
+{"pool_idx": 250, "kind": "R5", "template": "R5", "stages": [["CIRC2", 57, 60], ["MUXD", 39, 55, 18, 25], ["MUXD", 33, 56, 12, 8], ["MUXD", 39, 3, 18, 23], ["MUXD", 33, 62, 10, 25]], "seed": 47108}
+{"pool_idx": 251, "kind": "R5", "template": "R5", "stages": [["CIRC2", 54, 13], ["MUXD", 9, 24, 40, 30], ["MUXD", 54, 36, 8, 47], ["MUXD", 15, 13, 37, 30], ["MUXD", 46, 7, 42, 26]], "seed": 47108}
+{"pool_idx": 252, "kind": "R5", "template": "R5", "stages": [["CIRC2", 9, 50], ["MUXD", 1, 53, 13, 20], ["MUXD", 10, 2, 47, 18], ["MUXD", 32, 24, 35, 47], ["MUXD", 8, 34, 21, 13]], "seed": 47108}
+{"pool_idx": 253, "kind": "R5", "template": "R5", "stages": [["CIRC2", 36, 57], ["MUXD", 43, 35, 10, 15], ["MUXD", 42, 56, 12, 49], ["MUXD", 8, 54, 1, 31], ["MUXD", 10, 37, 33, 14]], "seed": 47108}
+{"pool_idx": 254, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 23], ["MUXD", 34, 11, 36, 46], ["MUXD", 47, 14, 10, 23], ["MUXD", 50, 40, 15, 3], ["MUXD", 44, 4, 17, 42]], "seed": 47108}
+{"pool_idx": 255, "kind": "R5", "template": "R5", "stages": [["CIRC2", 20, 54], ["MUXD", 15, 34, 29, 9], ["MUXD", 57, 3, 61, 44], ["MUXD", 48, 5, 10, 6], ["MUXD", 34, 25, 17, 11]], "seed": 47108}
+{"pool_idx": 256, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 59], ["MUXD", 51, 3, 7, 35], ["MUXD", 31, 24, 0, 56], ["MUXD", 43, 59, 25, 48], ["MUXD", 29, 23, 9, 60]], "seed": 47108}
+{"pool_idx": 257, "kind": "R5", "template": "R5", "stages": [["CIRC2", 40, 18], ["MUXD", 51, 3, 0, 3], ["MUXD", 30, 0, 56, 41], ["MUXD", 62, 60, 39, 51], ["MUXD", 49, 55, 61, 7]], "seed": 47108}
+{"pool_idx": 258, "kind": "R5", "template": "R5", "stages": [["CIRC2", 3, 57], ["MUXD", 7, 20, 32, 12], ["MUXD", 42, 25, 62, 47], ["MUXD", 28, 42, 11, 15], ["MUXD", 40, 11, 1, 16]], "seed": 47108}
+{"pool_idx": 259, "kind": "R5", "template": "R5", "stages": [["CIRC2", 5, 45], ["MUXD", 10, 12, 39, 18], ["MUXD", 45, 16, 4, 12], ["MUXD", 27, 5, 46, 15], ["MUXD", 30, 55, 60, 52]], "seed": 47108}
+{"pool_idx": 260, "kind": "R5", "template": "R5", "stages": [["CIRC2", 14, 56], ["MUXD", 41, 30, 27, 16], ["MUXD", 52, 38, 11, 9], ["MUXD", 5, 50, 15, 61], ["MUXD", 11, 57, 26, 48]], "seed": 47108}
+{"pool_idx": 261, "kind": "R5", "template": "R5", "stages": [["CIRC2", 6, 24], ["MUXD", 39, 26, 20, 38], ["MUXD", 39, 8, 58, 12], ["MUXD", 52, 45, 7, 60], ["MUXD", 57, 20, 60, 22]], "seed": 47108}
+{"pool_idx": 262, "kind": "R5", "template": "R5", "stages": [["CIRC2", 46, 58], ["MUXD", 47, 29, 46, 29], ["MUXD", 37, 13, 61, 62], ["MUXD", 22, 55, 23, 58], ["MUXD", 61, 44, 56, 15]], "seed": 47108}
+{"pool_idx": 263, "kind": "R5", "template": "R5", "stages": [["CIRC2", 55, 38], ["MUXD", 31, 14, 50, 23], ["MUXD", 46, 37, 8, 44], ["MUXD", 20, 16, 22, 35], ["MUXD", 31, 41, 13, 57]], "seed": 47108}
+{"pool_idx": 264, "kind": "R5", "template": "R5", "stages": [["CIRC2", 30, 7], ["MUXD", 23, 26, 31, 29], ["MUXD", 63, 11, 30, 19], ["MUXD", 8, 37, 44, 15], ["MUXD", 48, 4, 42, 43]], "seed": 47108}
+{"pool_idx": 265, "kind": "R5", "template": "R5", "stages": [["CIRC2", 41, 51], ["MUXD", 43, 23, 37, 18], ["MUXD", 30, 22, 47, 8], ["MUXD", 60, 54, 29, 13], ["MUXD", 50, 16, 48, 25]], "seed": 47108}
+{"pool_idx": 266, "kind": "R5", "template": "R5", "stages": [["CIRC2", 40, 37], ["MUXD", 41, 61, 14, 50], ["MUXD", 35, 11, 60, 4], ["MUXD", 17, 46, 19, 21], ["MUXD", 44, 30, 45, 26]], "seed": 47108}
+{"pool_idx": 267, "kind": "R5", "template": "R5", "stages": [["CIRC2", 41, 48], ["MUXD", 6, 24, 12, 0], ["MUXD", 18, 38, 2, 1], ["MUXD", 52, 48, 36, 12], ["MUXD", 7, 26, 32, 8]], "seed": 47108}
+{"pool_idx": 268, "kind": "R5", "template": "R5", "stages": [["CIRC2", 56, 44], ["MUXD", 60, 29, 48, 49], ["MUXD", 27, 50, 20, 57], ["MUXD", 25, 55, 8, 38], ["MUXD", 23, 7, 14, 23]], "seed": 47108}
+{"pool_idx": 269, "kind": "R5", "template": "R5", "stages": [["CIRC2", 18, 58], ["MUXD", 1, 12, 15, 48], ["MUXD", 61, 53, 38, 7], ["MUXD", 30, 17, 58, 10], ["MUXD", 6, 45, 8, 3]], "seed": 47108}
+{"pool_idx": 270, "kind": "R5", "template": "R5", "stages": [["CIRC2", 22, 9], ["MUXD", 39, 14, 49, 56], ["MUXD", 41, 46, 2, 51], ["MUXD", 16, 55, 56, 12], ["MUXD", 4, 33, 52, 44]], "seed": 47108}
+{"pool_idx": 271, "kind": "R5", "template": "R5", "stages": [["CIRC2", 23, 5], ["MUXD", 7, 2, 41, 42], ["MUXD", 57, 47, 51, 52], ["MUXD", 12, 52, 35, 55], ["MUXD", 31, 61, 57, 29]], "seed": 47108}
+{"pool_idx": 272, "kind": "R5", "template": "R5", "stages": [["CIRC2", 44, 33], ["MUXD", 60, 23, 25, 60], ["MUXD", 8, 14, 61, 5], ["MUXD", 18, 12, 38, 15], ["MUXD", 43, 27, 18, 57]], "seed": 47108}
+{"pool_idx": 273, "kind": "R5", "template": "R5", "stages": [["CIRC2", 41, 19], ["MUXD", 57, 17, 6, 44], ["MUXD", 48, 11, 62, 40], ["MUXD", 44, 46, 53, 12], ["MUXD", 36, 39, 26, 50]], "seed": 47108}
+{"pool_idx": 274, "kind": "R5", "template": "R5", "stages": [["CIRC2", 9, 3], ["MUXD", 39, 7, 26, 49], ["MUXD", 30, 34, 0, 23], ["MUXD", 46, 18, 35, 37], ["MUXD", 55, 26, 10, 36]], "seed": 47108}
+{"pool_idx": 275, "kind": "R5", "template": "R5", "stages": [["CIRC2", 18, 13], ["MUXD", 16, 48, 43, 25], ["MUXD", 60, 31, 48, 57], ["MUXD", 61, 13, 21, 59], ["MUXD", 28, 29, 34, 55]], "seed": 47108}
+{"pool_idx": 276, "kind": "R5", "template": "R5", "stages": [["CIRC2", 50, 58], ["MUXD", 29, 35, 27, 44], ["MUXD", 58, 1, 3, 32], ["MUXD", 18, 50, 61, 1], ["MUXD", 53, 45, 37, 33]], "seed": 47108}
+{"pool_idx": 277, "kind": "R5", "template": "R5", "stages": [["CIRC2", 14, 38], ["MUXD", 57, 54, 26, 27], ["MUXD", 54, 56, 48, 43], ["MUXD", 53, 57, 6, 60], ["MUXD", 36, 19, 61, 32]], "seed": 47108}
+{"pool_idx": 278, "kind": "R5", "template": "R5", "stages": [["CIRC2", 54, 50], ["MUXD", 11, 24, 27, 63], ["MUXD", 40, 59, 50, 36], ["MUXD", 35, 55, 50, 34], ["MUXD", 8, 49, 62, 1]], "seed": 47108}
+{"pool_idx": 279, "kind": "R5", "template": "R5", "stages": [["CIRC2", 11, 10], ["MUXD", 47, 15, 1, 27], ["MUXD", 52, 43, 40, 47], ["MUXD", 43, 61, 18, 5], ["MUXD", 61, 60, 25, 7]], "seed": 47108}
+{"pool_idx": 280, "kind": "R5", "template": "R5", "stages": [["CIRC2", 16, 15], ["MUXD", 15, 28, 29, 39], ["MUXD", 37, 39, 18, 47], ["MUXD", 1, 57, 20, 3], ["MUXD", 46, 5, 8, 39]], "seed": 47108}
+{"pool_idx": 281, "kind": "R5", "template": "R5", "stages": [["CIRC2", 23, 47], ["MUXD", 52, 25, 60, 24], ["MUXD", 17, 4, 55, 62], ["MUXD", 27, 50, 2, 25], ["MUXD", 51, 26, 43, 56]], "seed": 47108}
+{"pool_idx": 282, "kind": "R5", "template": "R5", "stages": [["CIRC2", 45, 58], ["MUXD", 6, 3, 43, 17], ["MUXD", 23, 12, 1, 23], ["MUXD", 43, 21, 0, 17], ["MUXD", 0, 45, 25, 33]], "seed": 47108}
+{"pool_idx": 283, "kind": "R5", "template": "R5", "stages": [["CIRC2", 51, 12], ["MUXD", 34, 18, 25, 21], ["MUXD", 55, 45, 0, 33], ["MUXD", 12, 17, 6, 44], ["MUXD", 13, 17, 19, 61]], "seed": 47108}
+{"pool_idx": 284, "kind": "R5", "template": "R5", "stages": [["CIRC2", 23, 33], ["MUXD", 26, 25, 48, 43], ["MUXD", 49, 32, 8, 27], ["MUXD", 52, 40, 32, 56], ["MUXD", 33, 2, 29, 20]], "seed": 47108}
+{"pool_idx": 285, "kind": "R5", "template": "R5", "stages": [["CIRC2", 2, 44], ["MUXD", 47, 31, 6, 49], ["MUXD", 12, 50, 24, 38], ["MUXD", 17, 37, 4, 25], ["MUXD", 11, 56, 29, 59]], "seed": 47108}
+{"pool_idx": 286, "kind": "R5", "template": "R5", "stages": [["CIRC2", 12, 33], ["MUXD", 54, 37, 47, 26], ["MUXD", 24, 48, 19, 51], ["MUXD", 44, 5, 57, 3], ["MUXD", 8, 47, 15, 49]], "seed": 47108}
+{"pool_idx": 287, "kind": "R5", "template": "R5", "stages": [["CIRC2", 49, 45], ["MUXD", 61, 8, 9, 61], ["MUXD", 10, 14, 39, 37], ["MUXD", 28, 32, 40, 47], ["MUXD", 59, 7, 20, 21]], "seed": 47108}
+{"pool_idx": 288, "kind": "R5", "template": "R5", "stages": [["CIRC2", 35, 46], ["MUXD", 40, 31, 11, 50], ["MUXD", 43, 4, 32, 1], ["MUXD", 52, 30, 12, 48], ["MUXD", 57, 62, 11, 54]], "seed": 47108}
+{"pool_idx": 289, "kind": "R5", "template": "R5", "stages": [["CIRC2", 30, 56], ["MUXD", 35, 36, 46, 4], ["MUXD", 27, 17, 4, 12], ["MUXD", 57, 12, 61, 38], ["MUXD", 29, 28, 40, 7]], "seed": 47108}
+{"pool_idx": 290, "kind": "R5", "template": "R5", "stages": [["CIRC2", 15, 19], ["MUXD", 28, 52, 30, 36], ["MUXD", 7, 28, 12, 52], ["MUXD", 18, 20, 10, 33], ["MUXD", 36, 44, 27, 12]], "seed": 47108}
+{"pool_idx": 291, "kind": "R5", "template": "R5", "stages": [["CIRC2", 58, 27], ["MUXD", 18, 29, 40, 31], ["MUXD", 58, 7, 57, 51], ["MUXD", 58, 0, 17, 44], ["MUXD", 27, 23, 48, 17]], "seed": 47108}
+{"pool_idx": 292, "kind": "R5", "template": "R5", "stages": [["CIRC2", 43, 57], ["MUXD", 52, 32, 63, 27], ["MUXD", 60, 39, 54, 14], ["MUXD", 54, 19, 52, 28], ["MUXD", 34, 2, 19, 63]], "seed": 47108}
+{"pool_idx": 293, "kind": "R5", "template": "R5", "stages": [["CIRC2", 8, 48], ["MUXD", 36, 23, 34, 32], ["MUXD", 22, 24, 18, 9], ["MUXD", 26, 49, 16, 58], ["MUXD", 6, 11, 63, 51]], "seed": 47108}
+{"pool_idx": 294, "kind": "R5", "template": "R5", "stages": [["CIRC2", 25, 24], ["MUXD", 10, 42, 34, 56], ["MUXD", 11, 38, 51, 49], ["MUXD", 55, 5, 9, 28], ["MUXD", 12, 15, 9, 9]], "seed": 47108}
+{"pool_idx": 295, "kind": "R5", "template": "R5", "stages": [["CIRC2", 55, 41], ["MUXD", 6, 48, 4, 35], ["MUXD", 55, 52, 24, 2], ["MUXD", 10, 48, 6, 7], ["MUXD", 59, 63, 7, 7]], "seed": 47108}
+{"pool_idx": 296, "kind": "R5", "template": "R5", "stages": [["CIRC2", 24, 7], ["MUXD", 24, 37, 35, 10], ["MUXD", 50, 54, 12, 54], ["MUXD", 6, 52, 38, 7], ["MUXD", 5, 23, 61, 41]], "seed": 47108}
+{"pool_idx": 297, "kind": "R5", "template": "R5", "stages": [["CIRC2", 2, 43], ["MUXD", 9, 7, 3, 62], ["MUXD", 47, 34, 23, 39], ["MUXD", 12, 51, 48, 0], ["MUXD", 0, 15, 37, 54]], "seed": 47108}
+{"pool_idx": 298, "kind": "R5", "template": "R5", "stages": [["CIRC2", 31, 51], ["MUXD", 51, 37, 43, 30], ["MUXD", 2, 30, 21, 12], ["MUXD", 62, 40, 25, 43], ["MUXD", 63, 48, 29, 29]], "seed": 47108}
+{"pool_idx": 299, "kind": "R5", "template": "R5", "stages": [["CIRC2", 35, 18], ["MUXD", 27, 56, 0, 18], ["MUXD", 59, 58, 8, 44], ["MUXD", 32, 45, 51, 41], ["MUXD", 39, 7, 60, 56]], "seed": 47108}
