@@ -1,0 +1,8 @@
+foo bar
+foo bar foo bar 42
+v1: 1624
+maplen v2: 0
+slicelen v3: 3 [foo bar a helloafoo barfoo bar]
+v4: 42
+v5: foo bar
+v6: 4294967115

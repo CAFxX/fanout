@@ -1,0 +1,15 @@
+2
+-4.4444447e+09 -536870912
+-1 -100 -1
+-100 2 1.5
+v1: 2
+v2: 9223372036317904897
+v28: 2
+slicelen v3: 2 [
+	hello foo bar]
+slicelen v4: 0 []
+slicelen v5: 2 [a hellofoo bar]
+v6: -100
+v7: 1.5
+v8: -1
+v9: 2

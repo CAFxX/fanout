@@ -1,0 +1,8 @@
+maplen v1: 0
+slicelen v2: 4 [hello hello a 
+	foo bar]
+v3: 1
+v6: -1
+v7: 1e+10
+v8: 65535
+v9: 9223372036854775807

@@ -1,0 +1,18 @@
+2147483647 afoo barfoo bar
+2147483647 afoo barfoo bar
+2147483647 afoo barfoo bar
+2147483647 afoo barfoo bar
+2147483647 afoo barfoo bar
+719
+35
+0 -256 2
+slicelen v1: 1 [2147483647]
+v17: 2
+v2: 0
+v3: 719
+v37: 2
+v38: 35
+v4: afoo barfoo bar
+v40: 0
+v5: -256
+slicelen v6: 2 [42 65535]

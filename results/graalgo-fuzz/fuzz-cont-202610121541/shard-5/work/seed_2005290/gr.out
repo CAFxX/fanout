@@ -1,0 +1,60 @@
+-92 772
+-128
+foo barfoo barhelloa 65535 0
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+-128
+foo barfoo barhelloa 65535 1
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+-128
+foo barfoo barhelloa 65535 2
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+132
+-128 foo barfoo barhelloa 772
+0 foo barfoo barhelloa 0
+maplen v1: 0
+v10: foo barfoo barhelloa
+v105: 65535
+v17: -128
+maplen v2: 0
+slicelen v22: 4 [957 -145 127 32767]
+v3: 0
+v4: -128
+maplen v5: 1
+maplen v6: 2
+v7: 132
+v8: 65535

@@ -1,0 +1,9 @@
+-301 -301
+v1: 1
+slicelen v2: 3 [a helloafoo bar
+	foo baraahelloahellofoo barfoo barhello
+	foo barhellofoo barfoo bar a]
+v3: -301
+slicelen v4: 4 [65535 839 0 464]
+v5: 0
+v8: -301

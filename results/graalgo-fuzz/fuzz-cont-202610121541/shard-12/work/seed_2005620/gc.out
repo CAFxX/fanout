@@ -1,0 +1,9 @@
+false foo bar
+1 foo bar foo bar
+false 1
+foo bar foo bar 1
+v1: true
+v2: foo bar
+v24: 255
+maplen v3: 0
+v4: 1302

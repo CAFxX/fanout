@@ -1,0 +1,17 @@
+866
+866
+0.1 127 255
+maplen v1: 0
+v11: 127
+v12: 255
+v13: 0.1
+slicelen v2: 4 [foo barhello
+	
+	foo barhello
+	helloahellohello
+	  foo bar
+	 ]
+v3: 1000
+maplen v4: 0
+maplen v5: 0
+v7: 0.1

@@ -1,0 +1,23 @@
+helloaa 0 foo bar
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-Inf
+-1.5
+v1: -1.5
+v10: -Inf
+v2: helloaa
+v3: 65535
+v4: helloaa
+v5: 0
+slicelen v6: 2 [69 32768]

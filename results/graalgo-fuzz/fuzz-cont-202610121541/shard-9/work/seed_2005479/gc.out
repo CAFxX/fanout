@@ -1,0 +1,26 @@
+true foo bar
+0 true
+foo bar foo bar 0
+foo bar foo bar 1
+foo bar foo bar 2
+foo bar foo bar 3
+foo bar foo bar 4
+foo bar foo bar 5
+foo bar foo bar 6
+foo bar foo bar 7
+foo bar foo bar 8
+foo bar foo bar 9
+foo bar foo bar 10
+foo bar foo bar 11
+foo bar foo bar 12
+foo bar foo bar 13
+foo bar foo bar 14
+foo bar foo bar 15
+foo bar foo bar 16
+foo bar foo bar 17
+foo bar foo bar 18
+slicelen v1: 1 [-282]
+maplen v2: 0
+v3: 0
+v4: true
+v5: foo bar

@@ -1,0 +1,10 @@
+false foo barfoo bar
+	hello 42
+slicelen v1: 1 [0]
+v17: 42
+v18: 
+	
+v19: 2
+maplen v2: 0
+v3: false
+slicelen v4: 4 [65535 368 1 1]

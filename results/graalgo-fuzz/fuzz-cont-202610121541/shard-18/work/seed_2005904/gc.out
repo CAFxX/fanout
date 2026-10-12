@@ -1,0 +1,9 @@
+664 
+slicelen v1: 4 [foo bar 
+	  hellohellofoo bara]
+v18: hellofoo bar
+	
+maplen v2: 1
+v24: 42
+v3: 664
+slicelen v4: 1 [foo bar]

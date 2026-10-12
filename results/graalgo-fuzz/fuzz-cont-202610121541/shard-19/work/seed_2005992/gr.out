@@ -1,0 +1,12 @@
+617
+foo barfoo barfoo barfoo bar
+foo barfoo barfoo barfoo bar
+v1: 42
+v101: 
+v102: 42
+v103: foo barfoo barfoo barfoo bar
+maplen v2: 0
+slicelen v3: 1 [hellofoo barafoo bar]
+v4: 2
+slicelen v5: 3 [221 507 4294967295]
+v99: 617

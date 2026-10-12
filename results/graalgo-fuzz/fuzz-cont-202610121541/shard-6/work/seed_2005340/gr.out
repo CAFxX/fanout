@@ -1,0 +1,14 @@
+0.75 -93 32767
+4.44444467215e+09
+v1: -18
+v2: 32767
+v3: 4.44444467215e+09
+maplen v4: 0
+v44: 0
+v45: 128
+slicelen v5: 2 [ahello
+	foo barfoo barfoo barafoo barfoo bar
+	 ahello
+	foo barahello]
+maplen v6: 0
+v81: 

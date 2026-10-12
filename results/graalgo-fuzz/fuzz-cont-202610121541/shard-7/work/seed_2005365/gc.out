@@ -1,0 +1,12 @@
+hello 79 0
+slicelen v1: 3 [hello foo bar ]
+v10: 79
+v14: hello
+slicelen v2: 0 []
+slicelen v3: 4 [ ahelloa
+	foo bar
+	 a foo bar]
+v4: hello
+v5: -9223372036854775808
+v6: 0
+v8: 65535

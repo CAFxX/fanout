@@ -1,0 +1,12 @@
+2
+128
+maplen v1: 0
+v12: 
+v13: 1.5
+v2: false
+v3: 557
+v4: foo bar
+slicelen v5: 3 [a
+	hellofoo bar foo bar 
+	foo bar]
+v6: 128

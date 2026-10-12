@@ -1,0 +1,10 @@
+2 foo bar 42
+2 foo bar
+v1: foo bar
+v14: 2
+slicelen v15: 2 [128 0]
+v19: foo bar
+maplen v2: 0
+v3: 0
+v4: 2
+v5: 2

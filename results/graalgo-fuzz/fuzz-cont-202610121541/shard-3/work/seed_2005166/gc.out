@@ -1,0 +1,9 @@
+0
+true true
+slicelen v1: 3 [foo bar a foo bar]
+maplen v2: 0
+slicelen v3: 2 [a foo bar]
+v39: true
+slicelen v4: 3 [96 128 32768]
+v40: 128
+v7: 0

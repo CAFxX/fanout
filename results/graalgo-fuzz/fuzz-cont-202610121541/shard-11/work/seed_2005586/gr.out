@@ -1,0 +1,8 @@
+42 250
+maplen v1: 0
+v2: foo bar
+slicelen v3: 1 [120]
+v32: true
+v34: foo bar
+v4: -3
+v8: 42

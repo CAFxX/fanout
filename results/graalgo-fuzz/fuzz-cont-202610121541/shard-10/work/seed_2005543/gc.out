@@ -1,0 +1,15 @@
+100
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+32767
+32767 101 101
+v1: 101
+v17: -2
+slicelen v2: 3 [0 895 -2147483648]
+v3: foo bar
+slicelen v4: 4 [42 0 1 2]

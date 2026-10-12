@@ -1,0 +1,9 @@
+18446744073709551615
+2
+slicelen v1: 0 []
+slicelen v2: 1 [foo bar
+	foo bar
+	hello]
+v3: 18446744073709551614
+v4: 253
+v5: 0

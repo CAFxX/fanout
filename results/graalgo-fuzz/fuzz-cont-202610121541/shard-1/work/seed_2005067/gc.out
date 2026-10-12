@@ -1,0 +1,29 @@
+42
+1 foo bara
+	
+	
+42
+foo bara
+	
+	 foo bara
+	
+	 true
+foo bara
+	
+	 foo bara
+	
+	 true
+true 42 true
+v1: true
+v2: foo bara
+	
+	
+maplen v3: 1
+v4: foo bara
+	
+	
+v5: 42
+v6: 0
+slicelen v61: 2 [42 0]
+v7: 0
+v75: -42

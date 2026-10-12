@@ -1,0 +1,13 @@
+hello
+hello
+maplen v1: 0
+v2: foo bar
+	foo barhello
+	hellofoo barhello
+	hello
+slicelen v3: 0 []
+slicelen v4: 4 [142 2147483648 79 2]
+v48: 127
+v50: 1
+v52: 32767
+v53: 179
