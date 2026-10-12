@@ -1,0 +1,22 @@
+{
+ "job_id": "sbox8-screen-20261012-v2b",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json",
+  "shard-0/shard.json",
+  "shard-1/_shard_status.json",
+  "shard-1/shard.json",
+  "shard-2/_shard_status.json",
+  "shard-2/shard.json",
+  "shard-3/_shard_status.json",
+  "shard-3/shard.json",
+  "shard-4/_shard_status.json",
+  "shard-4/shard.json",
+  "shard-5/_shard_status.json",
+  "shard-5/shard.json",
+  "shard-6/_shard_status.json",
+  "shard-6/shard.json",
+  "shard-7/_shard_status.json",
+  "shard-7/shard.json"
+ ]
+}
