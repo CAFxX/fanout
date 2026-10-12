@@ -45,8 +45,15 @@ sys.path.insert(0, FLOW)
 
 import variant_lib as vl
 import validate_sbox as vs
+import validate_sbox8 as vs8
 import gen_sbox
 import liberty_screen
+
+# 8-bit golden canary: AES_SBOX via the 8-bit case emitter, pinned flow.
+# Calibrated locally 2026-10-12 (run_synth.py, yosys 0.69, mini.genlib):
+#   crit=10.7 exactly (cells=4033, area=10492, ref mul64 103.5).
+GOLDEN_CRIT8 = 10.7
+GOLDEN8_NAME = "AES_SBOX"
 
 RUN_SYNTH = os.path.join(FLOW, "run_synth.py")
 SYNTH_TIMEOUT = 600
@@ -105,10 +112,14 @@ def max_fanout(mapped_v):
 
 def synth_table(tab, name, workroot):
     """Synthesize one table via the pinned flow. Returns
-    (crit, cells, area, fanout, err)."""
+    (crit, cells, area, fanout, err). Emitter selected by table width:
+    16 -> 4-bit QM-DNF (write_sbox64); 256 -> 8-bit case (write_sbox64_8)."""
     vp = os.path.join(workroot, f"{name}.v")
     with open(vp, "w") as f:
-        f.write(gen_sbox.write_sbox64(tab, name))
+        if len(tab) == 256:
+            f.write(gen_sbox.write_sbox64_8(tab, name))
+        else:
+            f.write(gen_sbox.write_sbox64(tab, name))
     wd = os.path.join(workroot, f"synth_{name}")
     os.makedirs(wd, exist_ok=True)
     crit = cells = area = fanout = None
@@ -163,10 +174,12 @@ LIBERTY_THRESHOLD_DEFAULT_PS = 333.0  # measured: thf_blink_s0 = 333.2 ps
 
 
 def pr_stage_placeholder(rec, pr_threshold=PR_THRESHOLD_DEFAULT,
-                         liberty_threshold=LIBERTY_THRESHOLD_DEFAULT_PS):
+                         liberty_threshold=LIBERTY_THRESHOLD_DEFAULT_PS,
+                         hard_gates=None):
     v = rec.get("validate") or {}
     g = v.get("gates") or {}
-    gates_ok = all(g.get(k) for k in vs.HARD_GATES)
+    hg = hard_gates or vs.HARD_GATES
+    gates_ok = all(g.get(k) for k in hg)
     unit_ok = (rec.get("status") == "measured"
                and rec.get("crit") is not None
                and rec["crit"] < pr_threshold)
@@ -245,12 +258,36 @@ def main():
                  "canary": None, "records": []}
 
     # ---- canary (quarantine gate) ----
+    # 4-bit flow canary (always): midori_sb0 == 3.0u exactly.
+    # 8-bit emitter canary (pool mode with any 256-entry table): the pool's
+    # AES_SBOX entry == GOLDEN_CRIT8 exactly. Fail-loud if the 8-bit pool
+    # lacks the AES_SBOX reference row.
+    need8 = (a.pool_file is not None and
+             any(len(t) == 256 for _, t in entries))
+    canary8_tab = None
+    if need8:
+        for nm, tb in entries:
+            if nm == GOLDEN8_NAME and len(tb) == 256:
+                canary8_tab = tb
+                break
+        if canary8_tab is None:
+            sys.exit(f"QUARANTINE: 8-bit pool {a.pool_file} has no "
+                     f"{GOLDEN8_NAME} reference row for the 8-bit canary")
     if state["canary"] is None:
         crit, cells, area, fanout, err = synth_table(
             canary_tab, f"{canary_name}_s{a.shard_idx}", workroot)
         ok = (err is None and crit == canary_expect)
         state["canary"] = {"expected": canary_expect, "measured": crit,
                            "cells": cells, "ok": ok, "err": err}
+        if need8:
+            c8, ce8, ar8, fo8, err8 = synth_table(
+                canary8_tab, f"canary8_s{a.shard_idx}", workroot)
+            ok8 = (err8 is None and c8 == GOLDEN_CRIT8)
+            state["canary8"] = {"expected": GOLDEN_CRIT8, "measured": c8,
+                                "cells": ce8, "ok": ok8, "err": err8}
+            ok = ok and ok8
+            print(f"CANARY8 expected={GOLDEN_CRIT8} measured={c8} ok={ok8} "
+                  f"err={err8}", flush=True)
         save_state(a.out, state)
         print(f"CANARY expected={canary_expect} measured={crit} ok={ok} err={err}",
               flush=True)
@@ -264,7 +301,11 @@ def main():
         rkey = str(key)
         if rkey in done_keys:
             continue
-        v = vs.validate(tab)
+        width8 = len(tab) == 256
+        v = vs8.validate8(tab) if width8 else vs.validate(tab)
+        gates_ok = (vs8.hard_gates_pass8(v) if width8
+                    else vs.hard_gates_pass(v))
+        hard_gates = (vs8.HARD_GATES8 if width8 else vs.HARD_GATES)
         rec = {"key": rkey, "table": vl.table_hex(tab), "validate": v,
                "status": None, "crit": None, "cells": None, "area": None,
                "fanout": None, "err": None}
@@ -273,8 +314,8 @@ def main():
             rec.update({"vi": key, "ip": ip, "op": op, "c": c})
         else:
             rec["name"] = key
-        if not vs.hard_gates_pass(v):
-            failed = [k for k in vs.HARD_GATES if not v["gates"][k]]
+        if not gates_ok:
+            failed = [k for k in hard_gates if not v["gates"][k]]
             rec["status"] = "gate_fail"
             rec["err"] = f"hard gates failed: {failed}"
         else:
@@ -299,7 +340,8 @@ def main():
                                     "liberty_err": None})
                     except Exception as e:
                         rec["liberty_err"] = f"{type(e).__name__}: {e}"
-        pr_stage_placeholder(rec, a.pr_threshold, a.liberty_threshold)
+        pr_stage_placeholder(rec, a.pr_threshold, a.liberty_threshold,
+                               hard_gates=hard_gates)
         state["records"].append(rec)
         n += 1
         if n % 25 == 0:

@@ -159,6 +159,31 @@ Per-candidate record: `table`, full `validate` dict, `crit`/`cells`/`area`/
 `fanout` (unit), `liberty_crit_ps`/`liberty_cells`/`liberty_area_um2`,
 `pr` eligibility.
 
+### 8-bit pool (v2, 2026-10-12)
+
+The 4-bit pool (16/16 LE classes, 281 Rasoolzadeh, literature, 28 mined,
+12,288 variants) was TERMINALLY CLOSED 2026-10-10; 4-bit replacement is
+cost-terminal for the frontier (track-3). The v2 pool screens the only
+other natural lane width: **8-bit S-boxes** (31 boxes, all generated —
+see [POOL_DESIGN.md](../../../mix/exploration/sbox_screen/POOL_DESIGN.md)):
+
+- `pools/sbox8_pool.txt` — AES_SBOX / AES_SBOX_INV (GF(2⁸)-generated),
+  13 power maps x^d (DU≤8, NL≥96), 16 affine AES-class variants
+  (seed 0x5B08). Generator: `pools/gen_sbox8_pool.py` (deterministic).
+- `flow/validate_sbox8.py` — numpy 8-bit validate; hard gates
+  bijective ∧ DU≤8 ∧ NL≥96 (`HARD_GATES8`).
+- `flow/gen_sbox.py::write_sbox64_8` — 8-lane case-statement emitter
+  (ABC chokes on flat 8-var ANF: AES 101u → 10.7u via case).
+  8-bit numbers are comparable *within* the pool, not against the 4-bit
+  QM-DNF goldens.
+- `driver/screen.py` — width dispatch (16 → 4-bit path unchanged;
+  256 → 8-bit path); pool mode runs BOTH canaries (midori_sb0 == 3.0u
+  and the pool's AES_SBOX == **10.7u** exactly, calibrated 2026-10-12).
+- `driver/aggregate_screen.py --pool-file` — pool-mode aggregation with
+  the same quarantine rule (either canary failing → no ranking).
+
+Measured tier: AES_SBOX 10.7u / 4033 cells (8 lanes).
+
 ## P&R stage (path B)
 
 Runs **only on `promote.py` picks** (candidates clearing every hurdle:

@@ -123,6 +123,30 @@ def _v_sbox4_stmts(sbox, inp, outp):
     return lines
 
 
+def write_sbox64_8(tab, name):
+    """8-lane 64-bit form for 8-bit S-boxes (tab: 256-list).
+
+    Case-statement emitter (one always block per lane via generate).
+    Yosys+ABC optimizes the 256-entry case well (AES: 10.7u/4033 cells
+    for 8 lanes, vs 101u for a flat ANF which ABC chokes on).
+    Numbers are comparable WITHIN the 8-bit pool (same emitter) but are
+    ABC-from-case results, not directly comparable to the 4-bit QM-DNF
+    goldens. A hand-optimized (composite-field) circuit can only improve
+    on these numbers.
+    """
+    assert len(tab) == 256, f"need 256-entry table, got {len(tab)}"
+    assert len(set(tab)) == 256, "table not bijective"
+    lines = [f"module {name}(input [63:0] x, output [63:0] y);",
+             "genvar g;", "generate",
+             "for (g = 0; g < 8; g = g + 1) begin : lane",
+             "always @(*) begin",
+             "case (x[8*g+7 : 8*g])"]
+    for xv in range(256):
+        lines.append(f"8'h{xv:02x}: y[8*g+7 : 8*g] = 8'h{tab[xv]:02x};")
+    lines += ["endcase", "end", "end", "endgenerate", "endmodule"]
+    return "\n".join(lines) + "\n"
+
+
 def write_sbox64(tab, name):
     """16-lane 64-bit form. MUST match tick.py synth_variant exactly."""
     lines = [f"module {name}(input [63:0] x, output [63:0] y);",

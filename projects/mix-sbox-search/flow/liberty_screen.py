@@ -39,12 +39,16 @@ write_verilog -noattr {mapped}
 
 
 def liberty_screen(tab, name, workdir, liberty, timeout=900):
-    """tab: 16-list. -> {crit_ps, n_cells, area_um2} (raises on failure)."""
+    """tab: 16-list (4-bit) or 256-list (8-bit). -> {crit_ps, n_cells,
+    area_um2} (raises on failure). Emitter selected by table width."""
     workdir = os.path.abspath(workdir)
     os.makedirs(workdir, exist_ok=True)
     vp = os.path.join(workdir, f"{name}.v")
     with open(vp, "w") as f:
-        f.write(gen_sbox.write_sbox64(tab, name))
+        if len(tab) == 256:
+            f.write(gen_sbox.write_sbox64_8(tab, name))
+        else:
+            f.write(gen_sbox.write_sbox64(tab, name))
     mapped = os.path.join(workdir, f"mapped_lib_{name}.v")
     ys = os.path.join(workdir, f"s_lib_{name}.ys")
     with open(ys, "w") as f:

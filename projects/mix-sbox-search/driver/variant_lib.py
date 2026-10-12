@@ -72,7 +72,9 @@ def variant_table(box, vi):
 
 
 def table_hex(tab):
-    return "".join(f"{v:x}" for v in tab)
+    # width-aware: 1 hex char/nibble for 4-bit, 2 chars/byte for 8-bit
+    w = 2 if len(tab) == 256 else 1
+    return "".join(f"{v:0{w}x}" for v in tab)
 
 
 def shard_range(shard_idx, num_shards):
@@ -83,8 +85,9 @@ def shard_range(shard_idx, num_shards):
 
 
 def load_pool(path):
-    """Parse a pool file. Two formats:
-    'NAME 0c 0a ...' rows, or bare '0x0,0x1,...,' CSV rows (one box/line)."""
+    """Parse a pool file. Two formats (each in 4-bit or 8-bit width):
+    'NAME 0c 0a ...' rows (16 or 256 space-separated hex bytes), or bare
+    '0x0,0x1,...,' CSV rows (16 or 256 entries, one box/line)."""
     boxes = []
     with open(path) as f:
         for line in f:
@@ -93,12 +96,12 @@ def load_pool(path):
                 continue
             if "," in line:
                 vals = [int(t, 16) for t in line.replace(",", " ").split()]
-                if len(vals) == 16:
+                if len(vals) in (16, 256):
                     boxes.append((f"pool_{len(boxes)}", vals))
             else:
                 toks = line.split()
-                vals = [int(t, 16) for t in toks[1:17]]
-                if len(vals) == 16:
+                vals = [int(t, 16) for t in toks[1:]]
+                if len(vals) in (16, 256):
                     boxes.append((toks[0], vals))
     return boxes
 
