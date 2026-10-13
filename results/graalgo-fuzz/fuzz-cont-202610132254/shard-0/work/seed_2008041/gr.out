@@ -1,0 +1,10 @@
+a a
+a a a
+2147483647 127 127
+slicelen v1: 4 [a foo barfoo barhello hello helloa]
+v16: 0
+v2: a
+v22: 2147483647
+v26: a
+v3: a
+v4: 127

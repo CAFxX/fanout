@@ -1,0 +1,98 @@
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 1e+10 ahellofoo bar
+	a
+	foo barhello
+0 -1 ahellofoo bar
+	a
+	foo barhello
+1 -1 ahellofoo bar
+	a
+	foo barhello
+2 -1 ahellofoo bar
+	a
+	foo barhello
+3 -1 ahellofoo bar
+	a
+	foo barhello
+4 -1 ahellofoo bar
+	a
+	foo barhello
+5 -1 ahellofoo bar
+	a
+	foo barhello
+6 -1 ahellofoo bar
+	a
+	foo barhello
+7 -1 ahellofoo bar
+	a
+	foo barhello
+8 -1 ahellofoo bar
+	a
+	foo barhello
+9 -1 ahellofoo bar
+	a
+	foo barhello
+10 -1 ahellofoo bar
+	a
+	foo barhello
+11 -1 ahellofoo bar
+	a
+	foo barhello
+12 -1 ahellofoo bar
+	a
+	foo barhello
+13 -1 ahellofoo bar
+	a
+	foo barhello
+14 -1 ahellofoo bar
+	a
+	foo barhello
+15 -1 ahellofoo bar
+	a
+	foo barhello
+1e+10
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+-1 -1 1
+v1: -1
+v135: 1
+v136: 2147483647
+v2: 1
+v3: ahellofoo bar
+	a
+	foo barhello
+maplen v4: 0
+v5: 1e+10

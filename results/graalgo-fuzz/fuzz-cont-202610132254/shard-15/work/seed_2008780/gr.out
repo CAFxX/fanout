@@ -1,0 +1,10 @@
+-989
+255 1.5
+v1: 42
+v15: -989
+v16: 255
+v2: 1.5
+slicelen v3: 2 [foo bar foo bar]
+v4: 1.5
+maplen v5: 1
+slicelen v6: 1 [42]

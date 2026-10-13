@@ -1,0 +1,11 @@
+535
+slicelen v1: 0 []
+v2: 535
+maplen v3: 1
+slicelen v4: 2 [hello 
+	a
+	foo barfoo bar
+	
+	
+	aaafoo bar
+	]

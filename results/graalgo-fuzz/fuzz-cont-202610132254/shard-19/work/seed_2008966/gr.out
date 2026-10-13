@@ -1,0 +1,28 @@
+foo bar foo bar
+0 foo bar
+foo bar
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+foo bar foo bar foo bar
+100 0
+100 0
+100 0
+100 0
+v1: foo bar
+v17: 1
+maplen v2: 0
+slicelen v3: 1 [foo barfoo bar]
+v38: 100
+maplen v4: 0
+v5: 0
+v7: 42
+v8: 0

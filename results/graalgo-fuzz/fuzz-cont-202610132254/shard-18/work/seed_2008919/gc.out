@@ -1,0 +1,10 @@
+32767 0 0
+9223372036854775807 0 false
+v1: 0
+v14: 9223372036854775807
+v18: false
+v2: -2
+maplen v3: 0
+slicelen v4: 2 [foo bar hellofoo bar
+	]
+v5: 0

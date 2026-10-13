@@ -1,0 +1,8 @@
+1 1 hellofoo barfoo bar
+v1: 1
+v2: 33
+slicelen v3: 2 [65535 713]
+v31: 65535
+v4: hellofoo barfoo barahellofoo barfoo barhello
+v5: 1
+slicelen v6: 6 [1 328 65535 2147483647 2147483647 2147483647]

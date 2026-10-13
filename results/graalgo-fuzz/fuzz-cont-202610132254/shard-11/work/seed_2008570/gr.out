@@ -1,0 +1,10 @@
+
+	foo bar 
+	foo bar 825
+v1: hellohellohellohellohellohellohellohellohellohellohellohellohellohellohellofoo bar
+v12: 18446744073709551613
+v13: 
+	foo bar
+v2: 825
+v3: 2
+slicelen v9: 18 [3 42 0 0 1 4 9 16 25 36 49 64 81 100 121 144 169 196]

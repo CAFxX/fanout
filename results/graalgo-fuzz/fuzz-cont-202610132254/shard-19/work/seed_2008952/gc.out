@@ -1,0 +1,9 @@
+0 0 0
+maplen v1: 0
+v2: 
+	ahellofoo barafoo barfoo bar
+	hellofoo bar
+slicelen v3: 1 [1]
+v4: 42
+v5: 18446744073709551615
+v6: -566

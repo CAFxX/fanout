@@ -1,0 +1,19 @@
+0 hello
+1 hello
+2 hello
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+v1: a
+v2: 65537
+maplen v3: 1
+v35: 9223372036854775595
+slicelen v4: 4 [hellohello hello hello foo bara]

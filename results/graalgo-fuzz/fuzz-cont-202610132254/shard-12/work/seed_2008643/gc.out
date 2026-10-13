@@ -1,0 +1,17 @@
+128 1 0
+2 0 2
+2 0 2
+2 0 2
+2 0 2
+2 0 2
+2 0 2
+v1: 1
+v2: 65536
+v20: 0
+v23: 0
+v27: 0
+slicelen v3: 4 [ foo bar a a]
+slicelen v4: 4 [ afoo barhello hello hello]
+v43: true
+v44: 228
+v5: 0

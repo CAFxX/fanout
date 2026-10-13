@@ -1,0 +1,9 @@
+230 -1 0
+-1
+v1: 230
+maplen v2: 0
+v3: 2147483656
+slicelen v4: 10 [hello
+	 a foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v5: 0
+v6: -1

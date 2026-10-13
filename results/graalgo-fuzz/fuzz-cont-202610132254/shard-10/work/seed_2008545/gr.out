@@ -1,0 +1,17 @@
+127 32767 127
+127 2 1
+2 0
+v1: 0
+v12: foo bar
+	foo barhellohellofoo bar
+	
+v14: true
+v2: foo bar
+	foo barhellohellofoo bar
+	
+v3: 3.141590118408203
+v4: 127
+v5: 32767
+v7: 0
+v8: -3.1415902e+10
+slicelen v9: 0 []

@@ -1,0 +1,11 @@
+0 127 182
+-128 0
+maplen v1: 1
+v17: 127
+slicelen v2: 3 [910 42 304]
+v3: foo barhellofoo barfoo barfoo barhellohellohellofoo bar
+v4: 32767
+v5: foo barhellofoo barfoo barfoo barhellohellohellofoo barfoo barhellofoo barfoo barfoo barhellohellohellofoo bar
+v57: 182
+v59: 0
+v60: -128

@@ -1,0 +1,19 @@
+6.8168986e+09 1 hello
+	hellofoo barhello
+	hello
+	hellofoo barfoo bara
+	
+1 1
+v1: 
+	hellofoo barhello
+	hello
+	hellofoo barfoo bara
+	
+v2: 6.8168986e+09
+v21: 1.5
+v3: 1
+v4: 
+	
+v5: 2147483648
+v6: 1
+slicelen v7: 3 [42 -300 -434]

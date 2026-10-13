@@ -1,0 +1,14 @@
+2
+v1: foo bar
+	ahellofoo bar
+	helloa
+	hello
+v10: 0
+v11: -2.25
+v12: true
+v2: 999
+maplen v3: 0
+v4: 13456
+v5: true
+maplen v6: 1
+v7: 2

@@ -1,0 +1,47 @@
+128 128
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+128 false
+false false false
+slicelen v1: 3 [foo bar aafoo bar
+	 aahello]
+slicelen v2: 4 [886 127 2147483647 4294967295]
+v3: 921
+v32: 0
+v33: 1
+v34: 1
+v7: -162
+v8: 128
+v9: true

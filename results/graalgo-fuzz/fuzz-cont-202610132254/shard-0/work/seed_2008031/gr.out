@@ -1,0 +1,17 @@
+false 0
+false 0
+0 1
+-43 3.14159
+v1: 1
+v2: 0
+slicelen v3: 5 [a foo bar
+	a hellohello 
+	 hellohello
+	]
+v4: 0
+v5: 42
+v6: -43
+v75: -308
+v76: 1
+v77: 3.14159
+v86: true

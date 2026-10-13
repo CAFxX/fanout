@@ -1,0 +1,14 @@
+false
+true
+slicelen v1: 3 [
+	
+	foo bar a ahelloa
+	ahello
+	helloafoo barahellofoo bar
+	
+	hello
+	hellohello
+	]
+v2: true
+slicelen v3: 0 []
+maplen v4: 0

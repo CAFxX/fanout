@@ -1,0 +1,5 @@
+slicelen v1: 3 [foo barfoo bar
+	foo bar
+	 foo bar foo bar]
+slicelen v2: 2 [42 348]
+v3: 277

@@ -1,0 +1,52 @@
+-32768 
+	
+65533 65533 0
+
+	foo barfoo bar
+	 65533
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+
+	foo barfoo bar
+	 65535
+slicelen v1: 2 [a a]
+v2: 
+	foo barfoo bar
+	
+v3: 65535
+slicelen v4: 3 [
+	
+	
+	  a]
+v5: 0

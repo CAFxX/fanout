@@ -1,0 +1,14 @@
+slicelen v1: 2 [foo bar hellofoo barhellohello
+	]
+v126: -9223372036854775808
+v127: false
+v128: 127
+v129: 1.5
+v132: 1
+maplen v2: 0
+slicelen v3: 4 [foo barhello hellohello foo barhelloa
+	a foo bar]
+v4: 1e+10
+v5: ahello
+	aaa
+v6: 1

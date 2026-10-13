@@ -1,0 +1,14 @@
+65535 253
+-128 65535
+maplen v1: 0
+v2: 255
+v3: 0
+v30: foo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo barfoo barafoo barfoo bar
+v31: foo barafoo barfoo bar
+v32: true
+v35: 
+v37: 65535
+v38: -128
+v4: 253
+slicelen v5: 19 [-558 32767 32766 32765 32764 32763 32762 32761 32760 32759 32758 32757 32756 32755 32754 32753 32752 32751 32750]
+v70: 2147483647

@@ -1,0 +1,10 @@
+63 foo bar
+63
+1e+10 63
+1e+10 a a
+slicelen v1: 4 [a a a aa]
+v2: a
+v3: 1e+10
+slicelen v4: 1 [foo bar]
+v6: 63
+v70: a

@@ -1,0 +1,14 @@
+false 42
+false 42
+false 42
+false 42
+false 42
+slicelen v1: 4 [foo bar foo barfoo barhello
+	hello
+	 a hello]
+maplen v2: 0
+v24: -2147483648
+v25: false
+v3: true
+v4: 18446744073709550704
+slicelen v5: 1 [639]

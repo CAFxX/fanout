@@ -1,0 +1,11 @@
+42 65535 2
+true
+42 2
+v1: hello
+v2: 18446744073709551615
+v23: 42
+v24: -749
+slicelen v3: 1 [hellohellohello]
+v4: 65535
+v5: 2
+v6: true

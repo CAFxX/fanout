@@ -1,0 +1,16 @@
+a -350
+true afoo barfoo bar -350
+true
+true
+true
+true
+slicelen v1: 1 [
+	]
+v13: 8589803520
+v14: 782
+v18: -2.25
+v2: afoo barfoo bar
+v20: -1
+v3: true
+v4: -350
+maplen v5: 1

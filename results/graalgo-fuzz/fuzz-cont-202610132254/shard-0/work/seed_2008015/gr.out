@@ -1,0 +1,8 @@
+foo barfoo bar -861
+v1: 2
+slicelen v2: 4 [32767 127 32768 4294967295]
+v3: foo barfoo bar
+v4: 0.1
+v6: 2
+v7: -861
+v9: 42

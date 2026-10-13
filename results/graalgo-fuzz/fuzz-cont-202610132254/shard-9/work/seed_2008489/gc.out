@@ -1,0 +1,15 @@
+-128 0
+0 true 0
+18446744073709551615 true 1
+maplen v1: 0
+v13: 65535
+v14: 0
+v15: 0
+v16: 18446744073709551615
+v17: -915
+v2: true
+v3: 42
+slicelen v4: 5 [helloa  hellohello foo bar
+	 a]
+v5: 1
+maplen v6: 0

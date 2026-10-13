@@ -1,0 +1,18 @@
+foo bara 213
+foo bara 42
+foo bara 213
+foo bara 42
+foo bara 213
+foo bara 42
+foo bara 213
+foo bara 42
+foo bara 213
+slicelen v1: 21 [
+	 hellohellofoo bar hello
+	hello                  ]
+v11: foo bara
+v16: 0
+slicelen v2: 1 [42]
+slicelen v3: 0 []
+v4: 18.84954
+v5: 42

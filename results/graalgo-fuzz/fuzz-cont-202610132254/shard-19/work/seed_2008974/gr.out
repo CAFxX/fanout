@@ -1,0 +1,16 @@
+2 0.1
+4294967295 2
+v1: 2
+v11: 4294967295
+v12: 51.2
+v13: 0
+v18: 2
+v19: 4294967295
+slicelen v2: 1 [hello]
+v20: 449
+v3: 51.2
+v32: -372
+slicelen v4: 3 [1 4294967295 0]
+slicelen v5: 4 [hello foo bar foo barfoo barafoo bara foo bar]
+maplen v6: 0
+v7: 2

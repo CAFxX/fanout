@@ -1,0 +1,69 @@
+86
+0
+foo bar
+foo bar
+foo bar
+1
+foo bar
+foo bar
+foo bar
+2
+foo bar
+foo bar
+foo bar
+3
+foo bar
+foo bar
+foo bar
+4
+foo bar
+foo bar
+foo bar
+5
+foo bar
+foo bar
+foo bar
+6
+foo bar
+foo bar
+foo bar
+7
+foo bar
+foo bar
+foo bar
+8
+foo bar
+foo bar
+foo bar
+9
+foo bar
+foo bar
+foo bar
+10
+foo bar
+foo bar
+foo bar
+11
+foo bar
+foo bar
+foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+v1: foo bar
+	
+v101: 0
+v119: 255
+v122: 0
+v123: 2
+v2: 0
+v3: 2
+maplen v4: 0
+slicelen v5: 0 []
+slicelen v6: 3 [-2147483648 2 -1]
+v99: false
