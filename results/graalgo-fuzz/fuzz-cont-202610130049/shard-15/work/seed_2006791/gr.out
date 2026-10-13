@@ -1,0 +1,7 @@
+291.1416 foo bar
+v1: foo bar
+maplen v2: 0
+slicelen v3: 4 [a a a foo bar]
+v4: 291.1416
+maplen v5: 0
+v7: 4294836230

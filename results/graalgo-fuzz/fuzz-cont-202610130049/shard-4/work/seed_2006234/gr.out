@@ -1,0 +1,33 @@
+802 0 foo bar
+802 1 foo bar
+802 2 foo bar
+802 3 foo bar
+802 4 foo bar
+802 5 foo bar
+802 6 foo bar
+802 7 foo bar
+802 8 foo bar
+802 9 foo bar
+802 10 foo bar
+aafoo barafoo bar -643204 128
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+foo bar -643204
+maplen v1: 0
+v2: aafoo barafoo bar
+v21: -644006
+v22: 128
+maplen v3: 0
+v37: 42
+v4: -643204
+v5: foo bar

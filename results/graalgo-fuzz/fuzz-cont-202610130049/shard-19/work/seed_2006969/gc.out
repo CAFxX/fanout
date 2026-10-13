@@ -1,0 +1,15 @@
+-4111840 -4111840 0
+-4111840 257
+v1: 257
+slicelen v2: 3 [foo bara 
+	 hellofoo bar
+	
+	
+	foo barfoo barfoo barfoo barafoo barafoo bar
+	]
+v3: 0
+v4: 9223372036850663967
+v44: 0
+v47: 42
+v5: 68
+slicelen v6: 4 [42 945 2147483647 65535]

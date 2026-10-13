@@ -1,0 +1,10 @@
+2147483647 hello
+-2.25 2147483647
+slicelen v1: 5 [32767 107 -533 128 42]
+v11: hellofoo barhello
+v2: 42
+slicelen v3: 0 []
+v4: hello
+v5: -2.25
+slicelen v6: 3 [  hello]
+v9: 2147483647

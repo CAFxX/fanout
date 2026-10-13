@@ -1,0 +1,34 @@
+false 0 2
+false 1 2
+false 2 2
+false 3 2
+false 4 2
+false 5 2
+false 6 2
+false 7 2
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+-128 0 false
+false -128
+v1: 3.14159
+v2: 0
+v3: false
+v49: -64
+slicelen v50: 3 [127 -146 503]
+v62: 1
+v63: 9223372036854775807

@@ -1,0 +1,13 @@
+v1: 127
+v2: foo barhello
+v3: -1
+v31: 0
+v32: -6.366203111148618e+19
+v33: 1
+v34: -19
+v38: -19
+slicelen v4: 3 [foo barhello hello foo barhello]
+maplen v5: 0
+v7: 1
+v8: -1
+v9: 298

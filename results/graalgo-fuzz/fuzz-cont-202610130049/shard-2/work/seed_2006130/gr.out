@@ -1,0 +1,11 @@
+-122
+144 -122
+144 144
+144 65535 65535
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 2 [aafoo barfoo bar a]
+v35: 65535
+slicelen v4: 3 [foo bar  a]
+v5: 0
+v6: 255

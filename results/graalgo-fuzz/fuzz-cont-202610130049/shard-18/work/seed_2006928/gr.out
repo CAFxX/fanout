@@ -1,0 +1,9 @@
+32767 a
+slicelen v1: 1 [697]
+maplen v2: 1
+v3: a
+slicelen v4: 1 [a
+	foo bar]
+v48: 32767
+v5: false
+v6: 42

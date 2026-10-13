@@ -1,0 +1,10 @@
+66203 66203 foo bar
+foo bar foo bar
+v1: 195
+v2: foo bar
+v20: foo bar
+v21: 18446744073709551420
+maplen v3: 0
+v32: 128
+maplen v4: 0
+slicelen v9: 4 [42 -151 50 127]

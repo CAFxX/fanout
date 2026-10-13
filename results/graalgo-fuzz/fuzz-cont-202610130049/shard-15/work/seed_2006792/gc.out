@@ -1,0 +1,16 @@
+503 503 503
+503 503 503
+503 503 503
+503 503 503
+1006 1006
+-3.375 1006 1006
+slicelen v1: 1 [hellofoo bar]
+v2: 0
+slicelen v3: 4 [hello foo bar foo barfoo bara
+	
+	 foo bar]
+v4: 1006
+v46: 1
+v54: 1
+v55: 
+v56: -3.375

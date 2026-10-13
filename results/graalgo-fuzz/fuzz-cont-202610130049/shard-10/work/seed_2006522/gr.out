@@ -1,0 +1,16 @@
+0 1.5
+1.5 0 
+	hello
+	hellohello
+	foo barfoo bar
+maplen v1: 0
+v12: 982
+v13: 0
+v15: 
+	hello
+	hellohello
+	foo barfoo bar
+v2: 1e+10
+v3: 65535
+v4: -9.99999999685841e+09
+slicelen v61: 3 [0 0 0]

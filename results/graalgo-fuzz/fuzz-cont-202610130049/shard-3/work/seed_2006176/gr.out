@@ -1,0 +1,12 @@
+true -9223372036854775808 true
+true true true
+v1: -9223372036854775808
+v19: 0
+maplen v2: 1
+v20: 923
+v22: true
+v23: 128
+v3: true
+v4: 3
+slicelen v5: 1 [-152]
+v6: 100

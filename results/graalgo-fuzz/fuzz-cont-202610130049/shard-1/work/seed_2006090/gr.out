@@ -1,0 +1,7 @@
+slicelen v1: 3 [
+	 a hello]
+slicelen v2: 2 [hello a]
+maplen v3: 1
+v4: -1
+v43: 81
+v44: 81

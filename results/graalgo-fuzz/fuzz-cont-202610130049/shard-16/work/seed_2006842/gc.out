@@ -1,0 +1,22 @@
+3.14159
+42 true 0
+42 true 1
+42 true 2
+42 true 3
+42 true 4
+42 true 5
+42 true 6
+42 true 7
+42 true 8
+42 true 9
+42 true 10
+v1: 255
+v16: -1
+slicelen v2: 2 [65535 22]
+v21: 42
+v27: 0
+v28: 4294967295
+v3: true
+v4: 0
+slicelen v5: 4 [2 0 42 4294967295]
+maplen v6: 0

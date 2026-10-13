@@ -1,0 +1,19 @@
+-1.614389737240394e-11 577 -1.614389737240394e-11
+false
+foo bar
+	 false
+false foo bar
+302 foo bar 2
+foo bar 302 false
+maplen v1: 0
+v2: -1.614389737240394e-11
+maplen v3: 1
+v37: 577
+v38: 2
+v39: false
+v4: foo bar
+	
+v40: 42
+v41: foo bar
+v68: 302
+slicelen v69: 4 [577 -577 577 -1]

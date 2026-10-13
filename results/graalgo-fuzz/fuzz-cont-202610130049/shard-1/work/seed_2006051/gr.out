@@ -1,0 +1,14 @@
+0.1
+1e+10 -9223372036854775808
+1e+10
+0 0.1
+slicelen v1: 5 [foo bar hello 
+	 ahello a]
+v15: 0
+slicelen v2: 2 [-2147483648 128]
+maplen v3: 0
+v4: -1.4
+v45: 0
+v5: 1e+10
+maplen v6: 0
+v7: 9223372036854775807

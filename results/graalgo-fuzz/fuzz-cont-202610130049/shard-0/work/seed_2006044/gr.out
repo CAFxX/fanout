@@ -1,0 +1,19 @@
+true
+42 42
+true
+42 true
+42
+42
+42
+42
+42
+maplen v1: 0
+v11: 42
+v17: 3.14159
+maplen v2: 0
+slicelen v3: 2 [42 42]
+maplen v4: 0
+v45: 65535
+slicelen v5: 1 [a]
+maplen v6: 0
+v7: false

@@ -1,0 +1,40 @@
+2
+0 
+0
+ 0 1
+1 
+0
+ 0 2
+2 
+0
+ 0 3
+3 
+0
+ 0 4
+4 
+0
+ 0 5
+5 
+0
+ 0 6
+6 
+0
+ 0 7
+7 
+v1: 
+	
+v2: 0
+v3: 3.1831015514887653e+10
+maplen v4: 1
+slicelen v5: 4 [
+	 ahellohello
+	foo barfoo barfoo barhellohellofoo bar
+	 ahellohello
+	foo barfoo barfoo barhellohellofoo bar
+	 a]
+v56: 510
+v57: -1
+v59: true
+v6: 0
+v60: 2147483647
+v65: 510

@@ -1,0 +1,17 @@
+255
+v1: 255
+maplen v2: 0
+v3: 127
+maplen v4: 1
+v5: 127
+v72: hellofoo barhello
+	a
+	hellofoo bar
+	ahellohello
+	hellohellohellofoo bara
+	
+	foo bar
+	
+	
+v73: 127
+slicelen v74: 0 []

@@ -1,0 +1,9 @@
+foo barfoo bar
+true foo barfoo barfoo barfoo bar
+maplen v1: 2
+v17: foo barfoo barfoo barfoo bar
+v2: foo barfoo bar
+slicelen v3: 4 [850 -920 9223372036854775807 32768]
+v39: 2
+v40: true
+v41: 18446744073709551614

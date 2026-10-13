@@ -1,0 +1,34 @@
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 -257 0
+0 -257 0
+0 -257 0
+0 -257 0
+0 -257 0
+0 -257 0
+1 -257 1
+1 -257 1
+1 -257 1
+1 -257 1
+1 -257 1
+1 -257 1
+v1: -257
+v17: 0
+v18: 0
+slicelen v2: 4 [
+	
+	hellohellofoo barhello
+	 aaafoo bar  
+	]
+v3: 0
+slicelen v4: 3 [hello ahellohello foo bar]

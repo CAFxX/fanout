@@ -1,0 +1,5 @@
+v1: 1
+slicelen v2: 4 [a hello foo bara hello]
+v3: 3.14159
+v44: -2.25e-10
+v5: true

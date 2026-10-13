@@ -1,0 +1,12 @@
+0
+maplen v1: 0
+v16: foo bar
+	
+maplen v2: 0
+slicelen v3: 1 [
+	hello]
+v30: foo bar
+	
+v31: -128
+maplen v4: 0
+maplen v5: 0

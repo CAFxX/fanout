@@ -1,0 +1,14 @@
+454 454 foo bar
+	hello
+maplen v1: 0
+v14: foo bar
+	hello
+v17: 0
+v18: 1.5
+maplen v2: 0
+v3: 1.5
+v4: foo bar
+	hello
+slicelen v5: 3 [351 -793 0]
+maplen v6: 0
+v7: 454

@@ -1,0 +1,29 @@
+0 2
+foo barfoo barhello
+	
+	foo barfoo barhello
+	aafoo barfoo barhello
+	a
+	
+	foo barfoo barhello
+	
+v1: 0
+v15: 9223372036854775807
+slicelen v16: 4 [0 0 754 0]
+v17: foo barfoo barhello
+	
+	foo barfoo barhello
+	aafoo barfoo barhello
+	a
+	
+	foo barfoo barhello
+	
+v18: -4
+v19: 2
+v2: 65535
+v20: 32767
+v3: -1
+maplen v4: 0
+v5: foo barfoo barhello
+	
+maplen v6: 0

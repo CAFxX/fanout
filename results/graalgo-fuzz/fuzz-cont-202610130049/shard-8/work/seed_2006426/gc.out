@@ -1,0 +1,92 @@
+true -2.25 -2.25
+0 -2.25 true
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+0 false false
+1 -2.25 false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+1 false false
+2 -2.25 false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+2 false false
+-2.25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+v1: -2.25
+maplen v2: 0
+v23: ahellofoo bar
+v28: 0
+v3: a
+v30: 4
+v37: true
+v4: true
+slicelen v5: 3 [128 -578 2147483647]

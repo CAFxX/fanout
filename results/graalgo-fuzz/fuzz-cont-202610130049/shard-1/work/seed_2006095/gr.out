@@ -1,0 +1,13 @@
+255 -2
+-2 0 -2
+-2
+slicelen v1: 3 [ a 
+	foo barhello
+	foo bar
+	hellofoo bar]
+slicelen v2: 4 [807 2 65535 285]
+v3: -2
+maplen v4: 0
+v5: 0
+maplen v6: 0
+v7: -2
