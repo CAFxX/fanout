@@ -1,0 +1,15 @@
+foo barfoo barfoo barafoo barhelloahelloaaaa
+v1: 916
+v100: false
+slicelen v2: 3 [hello foo bar 
+	]
+v3: 9223372036854775807
+slicelen v4: 0 []
+v5: 128
+v6: 0
+v64: -38430
+v65: 0
+v66: -2.25
+v69: 916
+v96: 0
+v99: foo barfoo barfoo barafoo barhelloahelloaaaa

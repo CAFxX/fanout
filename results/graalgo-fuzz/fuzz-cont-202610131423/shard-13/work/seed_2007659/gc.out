@@ -1,0 +1,13 @@
+0.89159 -58 1
+0.89159 false -58
+1 false 0.89159
+false 1e+10
+maplen v1: 1
+v11: false
+v2: 0.89159
+v23: 1e+10
+v3: -58
+v4: 1
+maplen v5: 0
+slicelen v6: 4 [hello hello  hello
+	hellohellohelloa]

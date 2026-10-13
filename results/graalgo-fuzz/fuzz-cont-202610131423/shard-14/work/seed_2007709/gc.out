@@ -1,0 +1,46 @@
+3.14159 foo bar 3
+3 42 42
+foo bar 1
+v1: 1
+slicelen v2: 16 [foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	 foo barfoo bar
+	foo barfoo bar
+	]
+v20: 42
+v24: 30
+v3: foo barafoo bar
+v4: 42
+v45: true
+v5: 85899345903
+v6: 3.14159
+v7: 0
+v8: foo bar

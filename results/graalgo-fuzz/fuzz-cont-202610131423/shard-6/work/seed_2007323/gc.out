@@ -1,0 +1,15 @@
+ 75 -2147483648
+75
+v1: 
+v143: 255
+v19: 75
+maplen v2: 0
+v20: -2147481616
+v24: -1
+slicelen v3: 2 [1 681]
+slicelen v4: 3 [-1 1 -1]
+slicelen v5: 4 [
+	 foo bar 
+	 
+	]
+v6: 0

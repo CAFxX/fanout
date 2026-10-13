@@ -1,0 +1,29 @@
+true
+0
+1
+2
+3
+true 0 0.1
+true 1 0.1
+true 2 0.1
+true 3 0.1
+true 4 0.1
+true 5 0.1
+true 6 0.1
+true 7 0.1
+true 8 0.1
+true 9 0.1
+true 10 0.1
+true 11 0.1
+true 12 0.1
+maplen v1: 0
+v19: 65535
+v2: -0.1
+v23: 72
+v24: 2147483648
+maplen v3: 0
+v4: true
+slicelen v5: 4 [
+	 a 
+	 
+	]

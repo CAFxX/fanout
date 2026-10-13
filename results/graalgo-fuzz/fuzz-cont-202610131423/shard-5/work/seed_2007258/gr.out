@@ -1,0 +1,9 @@
+42 42
+v1: 42
+v15: false
+v18: 42
+v19: 1
+slicelen v2: 2 [
+	 foo bar]
+maplen v3: 0
+v5: 9223372036854775365

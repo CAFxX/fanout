@@ -1,0 +1,9 @@
+false -1
+false
+v1: -1
+slicelen v2: 3 [hello  hellofoo bar]
+maplen v3: 0
+slicelen v4: 4 [a foo bar
+	a foo bar foo bar]
+v5: false
+v7: 

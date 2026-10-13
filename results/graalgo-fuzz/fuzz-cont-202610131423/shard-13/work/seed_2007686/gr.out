@@ -1,0 +1,30 @@
+1.5 459 459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+459
+slicelen v1: 4 [ aa 
+	 foo barfoo bara]
+v14: 0
+v2: 0
+v23: 86
+v24: -2
+v25: 1
+slicelen v3: 2 [
+	 ]
+slicelen v4: 3 [
+	foo barfoo barfoo barfoo bar hellofoo bara 
+	]
+maplen v5: 0
+v6: -32.25

@@ -1,0 +1,10 @@
+afoo barhello 2 afoo barhello
+1 32768 42
+v1: 1
+v13: 32768
+v2: a
+v20: 1
+v3: 0
+slicelen v4: 3 [ a afoo barhello]
+v5: 42
+maplen v6: 1

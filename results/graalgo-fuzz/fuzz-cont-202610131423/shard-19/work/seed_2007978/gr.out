@@ -1,0 +1,10 @@
+384 foo bar false
+v1: foo bar
+v2: false
+v3: 384
+v4: 18446744073709551615
+v5: 1.5
+v6: foo barfoo bar
+slicelen v7: 2 [537 823]
+v8: false
+v9: -648

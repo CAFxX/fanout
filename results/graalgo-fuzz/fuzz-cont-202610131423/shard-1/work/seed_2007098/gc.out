@@ -1,0 +1,13 @@
+4294967295 4294967295
+4294967295 -70
+-70 18446744048109551616 4294967295
+v1: 0
+v18: false
+v19: ahello
+maplen v2: 1
+v20: 38
+v3: 4294967295
+v4: -70
+slicelen v5: 3 [a a a
+	helloahellohelloaafoo barhello
+	hello]

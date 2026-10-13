@@ -1,0 +1,13 @@
+630 2
+slicelen v1: 3 [foo bar foo bar hello]
+v12: 2
+v13: 0
+v15: 985
+v17: 401
+v18: 482
+v2: 0
+slicelen v3: 0 []
+slicelen v4: 4 [349 65535 194 630]
+v5: true
+v6: hello
+v8: 630

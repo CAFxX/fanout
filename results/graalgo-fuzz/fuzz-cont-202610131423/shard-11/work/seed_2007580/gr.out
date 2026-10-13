@@ -1,0 +1,21 @@
+1 1
+v1: 789
+v122: 1
+v123: 1
+v124: hello
+v128: 128
+slicelen v2: 13 [ foo bar hello
+	 hello
+	 hello
+	 hello
+	 hello
+	 hello
+	 hello
+	 hello
+	 hello
+	 hello
+	 hello
+	]
+v3: 128
+v4: 1.65
+v5: 18446744073709551606

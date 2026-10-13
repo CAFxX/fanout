@@ -1,0 +1,12 @@
+foo bar
+foo bar 0 0
+0 0 0
+maplen v1: 0
+v12: 9223372036854775807
+v2: foo bar
+maplen v3: 0
+slicelen v4: 1 [foo bar]
+slicelen v5: 3 [-272 -957 -892]
+v6: 0
+v7: 1e+10
+v9: 0

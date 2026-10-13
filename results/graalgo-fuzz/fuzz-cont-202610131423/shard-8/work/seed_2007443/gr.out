@@ -1,0 +1,10 @@
+-210 1
+2
+2 -210 2
+hello -210 hello
+v1: 2
+v2: -210
+maplen v3: 0
+slicelen v4: 1 []
+v5: hello
+v6: 18446744073709551584

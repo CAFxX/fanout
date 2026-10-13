@@ -1,0 +1,13 @@
+true foo bar
+1.5
+foo bar 379 -1024
+true
+v1: 379
+v13: foo bar
+v14: -1024
+v15: 49
+v16: 1.5
+v19: true
+v2: true
+slicelen v23: 3 [127 -840 421]
+maplen v3: 0
