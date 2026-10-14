@@ -1,0 +1,8 @@
+1000 253 -1
+253 0
+v1: 32768
+v2: 0
+slicelen v3: 4 [a foo bar 
+	 foo barfoo bar]
+v4: 253
+v7: 1000

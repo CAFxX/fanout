@@ -1,0 +1,268 @@
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32767
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32768
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32770
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32773
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32777
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32782
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32788
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32795
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32803
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 32812
+slicelen v1: 10 [
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a 
+	
+	foo barafoo barahello
+	a]
+v2: 0
+slicelen v3: 3 [a hello afoo bar]
+slicelen v4: 3 [2147483648 2147483647 109]
+v42: 32812
+v43: 
+	
+	foo barafoo barahello
+	a
+v46: true
+v47: 
+	
+	foo barafoo barahello
+	a
+maplen v5: 0
+maplen v6: 0
+v75: 0

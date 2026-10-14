@@ -1,0 +1,11 @@
+-2.25
+v1: 65534
+v2: 127
+slicelen v3: 1 [foo barfoo barhello]
+v31: 1
+slicelen v4: 4 [4294967295 903 1 42]
+v46: -2.25
+v47: 
+	
+v86: 127
+v87: 0

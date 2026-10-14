@@ -1,0 +1,13 @@
+slicelen v1: 4 [hello foo barhello 
+	 foo barhello]
+v2: 2147483648
+maplen v3: 0
+v4: 1.5e-10
+slicelen v5: 4 [hello a 
+	 foo bara
+	
+	a]
+v56: -4.4444447e+09
+v6: -117
+v8: 2
+v9: 0

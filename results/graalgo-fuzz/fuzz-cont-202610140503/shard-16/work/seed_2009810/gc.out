@@ -1,0 +1,13 @@
+0 ahellofoo barfoo barhello
+1 ahellofoo barfoo barhello
+32767 18446744073709551615 ahellofoo barfoo barhelloahellofoo barfoo barhello
+18446744073709551615 true true
+v1: ahellofoo barfoo barhelloahellofoo barfoo barhellofoo bar
+slicelen v10: 3 [-9223372036854775808 84 127]
+v14: 18446744073709551615
+v16: 445
+v17: true
+v18: 32767
+v2: 0
+maplen v3: 0
+v4: 32767

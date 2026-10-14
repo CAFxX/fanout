@@ -1,0 +1,15 @@
+128 false
+128 576 2
+-757
+-757
+-480
+-480
+slicelen v1: 4 [474 1 801 350]
+v15: -9223372036854775808
+slicelen v2: 4 [hello hello ahello a]
+v3: 1
+v4: 2
+v5: false
+slicelen v6: 5 [hello foo bar foo bar 
+	 a]
+v8: 576

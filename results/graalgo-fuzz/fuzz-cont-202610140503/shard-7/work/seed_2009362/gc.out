@@ -1,0 +1,38 @@
+
+	ahellofoo barahello
+	foo bar
+	hellohello
+	foo bar
+	 42 42
+false 42
+false 42
+false 42
+false 42
+false 42
+
+	
+	
+	
+	
+	
+	ahellofoo barahello
+	foo bar
+	hellohello
+	foo bar
+	
+v1: false
+v2: 42
+v3: 32768
+slicelen v4: 1 [32768]
+slicelen v5: 3 [443 133 2147483647]
+v6: 
+	
+	
+	
+	
+	
+	ahellofoo barahello
+	foo bar
+	hellohello
+	foo bar
+	

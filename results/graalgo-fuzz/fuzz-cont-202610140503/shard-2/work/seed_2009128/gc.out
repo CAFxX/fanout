@@ -1,0 +1,15 @@
+
+v1: 131070
+v11: 0
+v13: 
+v14: 65535
+slicelen v2: 3 [foo bar
+	 
+	 a
+	hellofoo bar
+	ahellohellohello
+	
+	a
+	
+	]
+v3: 0

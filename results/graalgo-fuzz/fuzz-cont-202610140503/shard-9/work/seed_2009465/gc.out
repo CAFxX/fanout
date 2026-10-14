@@ -1,0 +1,14 @@
+0 42 0
+1 42 1
+2 42 2
+3 42 3
+4 42 4
+5 42 5
+6 42 6
+7 42 7
+v1: 65220
+v2: hello
+slicelen v3: 4 [hellohellohellohellohellohello hellohello
+	hellohellohellohellohellohellohellohello hello hellohellohello]
+maplen v4: 0
+v5: 2.25

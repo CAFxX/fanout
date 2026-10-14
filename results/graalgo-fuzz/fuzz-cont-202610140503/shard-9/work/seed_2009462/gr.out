@@ -1,0 +1,30 @@
+0 -525
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+-9223372036854775808 foo barhello
+0 foo barhello
+3.14159 foo barhello
+v1: -9223372036854775808
+v10: foo barhello
+slicelen v13: 3 [-53 127 32768]
+v2: 3.14159
+maplen v3: 0
+maplen v4: 18
+v5: -639
+v8: -9223372036854775808
+v9: 0

@@ -1,0 +1,13 @@
+slicelen v1: 3 [ 
+	foo barhello foo baraa]
+slicelen v2: 1 [127]
+v22: -1
+slicelen v3: 3 [ foo barafoo barhello
+	hello
+	
+	ahellofoo bar
+	afoo bar
+	helloafoo bar
+	a
+	 a]
+v4: true

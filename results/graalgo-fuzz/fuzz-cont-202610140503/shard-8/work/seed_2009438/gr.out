@@ -1,0 +1,10 @@
+true 984 0
+true 984 1
+foo bar false
+v1: foo bar
+slicelen v11: 1 [-9223372036854775808]
+v2: 853
+v3: 65535
+v4: false
+v5: 984
+v50: 3.14159

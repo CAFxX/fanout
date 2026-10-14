@@ -1,0 +1,18 @@
+true
+0 -1073741824
+32767 -128
+-128 -128 false
+-128 -128 false
+-128 -128 false
+-128 -128 false
+-128 -128 false
+v1: -128
+v12: -1073741824
+maplen v2: 0
+v21: 32767
+slicelen v3: 5 [589 468 0 4294967295 4294967295]
+slicelen v4: 4 [foo barfoo bar a 
+	 ]
+v5: false
+v6: 42
+v66: 1073741823

@@ -1,0 +1,9 @@
+maplen v1: 0
+v11: foo bar
+v16: 233
+maplen v2: 0
+maplen v3: 2
+v4: 661
+slicelen v5: 3 [hellofoo barfoo bar hello foo bar]
+v6: -1.4147117380648152e-63
+v7: 5287

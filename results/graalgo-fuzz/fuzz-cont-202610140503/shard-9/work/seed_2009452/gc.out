@@ -1,0 +1,15 @@
+1
+1 0
+1 1
+1 2
+1 -889 hello
+maplen v1: 1
+v2: 
+	
+v26: -889
+v28: 1
+slicelen v3: 3 [
+	  hello]
+v32: -1
+v33: 895
+slicelen v4: 3 [hello hello ]

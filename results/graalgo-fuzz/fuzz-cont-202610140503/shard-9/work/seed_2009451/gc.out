@@ -1,0 +1,15 @@
+128 false
+0 128
+2
+v1: 18446744073709551615
+slicelen v2: 4 [hellofoo bar
+	 
+	aa helloa
+	 foo bar]
+slicelen v3: 2 [
+	foo bar ]
+v4: false
+v46: -1
+v47: 42
+v5: -2147483775
+v6: 0

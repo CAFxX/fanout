@@ -1,0 +1,27 @@
+false
+false false
+2
+true 0
+true 1
+true 2
+true 3
+true 4
+true 5
+true 6
+true 7
+true 8
+true 9
+true 10
+true 11
+true
+slicelen v1: 4 [0 32767 102 -1]
+v12: false
+v13: foo bar
+v16: false
+v17: 2
+maplen v2: 0
+slicelen v3: 3 [415 2147483648 0]
+slicelen v4: 1 [32768]
+v46: -2.25
+v47: -1
+maplen v5: 0

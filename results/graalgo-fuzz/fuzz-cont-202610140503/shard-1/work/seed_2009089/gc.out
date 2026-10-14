@@ -1,0 +1,14 @@
+false
+false
+slicelen v1: 3 [-222 -99 -9223372036854775808]
+maplen v2: 0
+slicelen v3: 2 [1 2147483648]
+maplen v4: 0
+slicelen v5: 3 [a 
+	 
+	
+	foo barfoo barfoo bar]
+v53: false
+v55: 128
+v56: 2
+slicelen v6: 1 [135]

@@ -1,0 +1,9 @@
+foo barfoo bar
+foo barfoo bar -128
+v1: foo barfoo bar
+v18: foo barfoo bar
+v19: 4294967295
+maplen v2: 0
+slicelen v3: 1 [-9223372036854775808]
+slicelen v4: 4 [-1 273 9223372036854775807 2147483647]
+v5: -128

@@ -1,0 +1,8 @@
+v1: 0
+v2: true
+v3: true
+v34: -9223372036854775808
+v38: 2
+slicelen v4: 5 [a foo barhello 
+	 foo barfoo bar afoo bar]
+v45: 65535

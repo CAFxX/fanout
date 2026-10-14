@@ -1,0 +1,8 @@
+true
+maplen v1: 0
+v2: 0
+slicelen v3: 3 [foo bar ahello 
+	a]
+v4: true
+v5: -1
+v8: -2.25
