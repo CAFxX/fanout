@@ -1,0 +1,13 @@
+foo bar
++Inf
++Inf false +Inf
+-2.25
+v1: foo bar
+maplen v2: 0
+v3: +Inf
+v35: true
+v37: 999
+v38: -2.25
+maplen v4: 0
+maplen v5: 0
+maplen v6: 0

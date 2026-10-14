@@ -1,0 +1,9 @@
+true true
+-42 true
+true -42 true
+v1: true
+v106: 228
+maplen v2: 1
+maplen v3: 2
+slicelen v4: 3 [922 1 0]
+v80: -42

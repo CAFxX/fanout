@@ -1,0 +1,14 @@
+1 1
+-32768 
+	
+v1: -490
+maplen v2: 0
+slicelen v3: 4 [32768 32768 1 361]
+v4: -32768
+v5: 
+	
+slicelen v6: 4 [ 
+	
+	a 
+	foo bar foo bar]
+v8: 1

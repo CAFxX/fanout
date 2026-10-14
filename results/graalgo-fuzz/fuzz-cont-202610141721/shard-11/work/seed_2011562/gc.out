@@ -1,0 +1,20 @@
+0 0 127
+127 0 0
+127 0 0
+127 0 0
+127 0 0
+127 0 0
+127 0 0
+127 0 0
+127 0 0
+v1: 127
+maplen v2: 0
+v26: -9223372036854775808
+v27: 64
+v3: 0
+slicelen v4: 4 [foo bar 
+	foo barhellofoo barfoo bar
+	hellohello ahello a]
+v5: 0
+maplen v6: 0
+v7: 0

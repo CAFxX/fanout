@@ -1,0 +1,7 @@
+809
+foo bar 3.14159 3.14159
+slicelen v1: 0 []
+v2: 809
+slicelen v3: 2 [a foo bar]
+v4: foo bar
+v71: 12.56636

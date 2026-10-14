@@ -1,0 +1,16 @@
+afoo bar
+	 31.4159
+31.4159 afoo bar
+	 31.4159
+afoo bar
+	 afoo bar
+	
+slicelen v1: 2 [9223372036854775807 -980]
+v10: 127
+v2: afoo bar
+	
+v3: 31.4159
+v4: 1e+10
+maplen v5: 0
+v6: 29
+v9: false

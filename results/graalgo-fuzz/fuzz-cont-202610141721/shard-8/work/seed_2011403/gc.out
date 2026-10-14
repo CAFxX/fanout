@@ -1,0 +1,10 @@
+0
+0 65535
+slicelen v1: 5 [foo bar hello hello a hellofoo barhellohello]
+v19: 0
+v2: 0
+v20: 65535
+v3: 42
+slicelen v4: 3 [42 1 1]
+v5: 0
+v7: 0

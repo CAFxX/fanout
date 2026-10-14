@@ -1,0 +1,37 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+13 13
+14 14
+15 15
+3 0
+3 0
+3 0
+3 0
+3 0
+3 0
+3 0
+3 0
+3 0
+3 0
+3 0
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 4 [
+	 foo bar
+	
+	foo barfoo barafoo barfoo barfoo bar 
+	
+	foo barhello hello]
+v37: 3
+v40: 0

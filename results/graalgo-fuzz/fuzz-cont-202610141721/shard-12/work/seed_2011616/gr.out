@@ -1,0 +1,15 @@
+0 42 255
+1 42 255
+2 42 255
+3 42 255
+4 42 255
+0
+1
+slicelen v1: 1 [foo bar]
+v10: false
+v2: 255
+slicelen v3: 2 [hello ]
+v31: 2
+v4: 42
+v5: 0
+v9: 1

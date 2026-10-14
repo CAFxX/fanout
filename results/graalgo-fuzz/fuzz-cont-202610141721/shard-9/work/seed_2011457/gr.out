@@ -1,0 +1,11 @@
+v1: true
+slicelen v2: 5 [hellohelloa 
+	 foo bar a hello]
+v24: hello
+slicelen v3: 2 [a a
+	hellohellohello]
+maplen v4: 0
+maplen v5: 0
+v6: 200
+v8: 9223372036854775807
+v9: 0

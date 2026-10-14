@@ -1,0 +1,39 @@
+-1 -1
+-1
+-1 1
+-1 -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+1e+10 
+	foo bar -1
+slicelen v1: 3 [hello hello hello]
+v10: 402
+v17: 0
+v18: 1e+10
+v2: -1
+v3: 
+	foo bar
+v32: -1
+maplen v4: 0

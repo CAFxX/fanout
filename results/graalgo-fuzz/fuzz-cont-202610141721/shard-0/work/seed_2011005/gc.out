@@ -1,0 +1,7 @@
+1000 1000
+1000
+v1: -307
+v2: 0
+slicelen v3: 6 [hello hello hello hello hello hello]
+v4: false
+slicelen v5: 7 [-1 220 220 220 220 220 220]

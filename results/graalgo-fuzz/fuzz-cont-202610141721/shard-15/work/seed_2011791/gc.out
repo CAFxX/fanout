@@ -1,0 +1,13 @@
+-9223372036854743041 -9223372036854743041
+1 
+	foo barfoo barfoo barfoo barfoo baraafoo bar
+v1: 0
+v142: 1
+v2: 
+	foo barfoo barfoo barfoo barfoo baraafoo bar
+slicelen v3: 4 [
+	foo barfoo barfoo barfoo barfoo baraafoo bar foo bar 
+	foo barfoo barfoo barfoo barfoo baraafoo bar 
+	foo barfoo barfoo barfoo barfoo baraafoo bar]
+maplen v4: 1
+v43: -101

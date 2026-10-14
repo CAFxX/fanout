@@ -1,0 +1,13 @@
+v1: 3.14159
+v16: 1
+v17: 1e+10
+v2: 1.5
+slicelen v3: 2 [hello helloahellohello
+	aa
+	a]
+v4: 521
+v5: 1
+slicelen v6: 3 [522 522 272484]
+v64: 1
+v65: -2.25
+v66: foo bar

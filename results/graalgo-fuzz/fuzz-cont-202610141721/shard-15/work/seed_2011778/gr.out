@@ -1,0 +1,11 @@
+495 -930
+-197160 -930
+slicelen v1: 2 [foo bar foo bar]
+v2: 127
+maplen v3: 1
+v4: 495
+v5: -197160
+v50: 990
+v51: true
+v52: foo barfoo barfoo bar
+v6: -930

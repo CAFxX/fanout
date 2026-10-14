@@ -1,0 +1,38 @@
+65535
+3.14159
+65535
+3.14159
+65535
+3.14159
+65535
+3.14159
+65535
+3.14159
+65535
+slicelen v1: 2 [hello foo barahello
+	
+	
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo barfoo barahello
+	
+	
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar]
+v2: 3.14159
+v3: -571
+v4: foo barahello
+	
+	
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+slicelen v5: 3 [1 314 724]
+v6: 65534

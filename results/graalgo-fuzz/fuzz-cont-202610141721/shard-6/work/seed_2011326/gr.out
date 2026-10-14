@@ -1,0 +1,10 @@
+slicelen v1: 1 [foo barhellofoo bar]
+v2: 478
+v21: 42
+slicelen v3: 2 [1 501]
+v4: 32767
+v5: foo bar
+	
+v6: 478
+v7: -1
+v8: 478

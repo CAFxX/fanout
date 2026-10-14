@@ -1,0 +1,8 @@
+330 330
+foo barhello foo barhello 330
+foo barhello 42 false
+v1: foo barhello
+v2: 65493
+v3: false
+maplen v4: 0
+slicelen v9: 1 [32767]

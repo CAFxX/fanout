@@ -1,0 +1,43 @@
+-1 false
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+-1 0 foo barhellohellohello
+0 true
+1 true
+2 true
+3 true
+0 true
+1 true
+2 true
+3 true
+0 true
+1 true
+2 true
+3 true
+0 true
+1 true
+2 true
+3 true
+0 true
+1 true
+2 true
+3 true
+0 true
+1 true
+2 true
+3 true
+v1: -1
+v14: true
+slicelen v2: 1 [hello]
+v3: 0
+v4: foo barhellohellohello
+maplen v5: 1
+maplen v6: 0

@@ -1,0 +1,13 @@
+233 foo barhellofoo bar
+foo barhellofoo bar 0 0
+255 foo barhellofoo bar foo barhellofoo bar
+v1: foo barhellofoo bar
+v2: 111
+v20: 255
+maplen v3: 1
+v38: 3.14159
+v4: foo bar
+v5: 0
+v52: 
+	foo barfoo barfoo bar
+slicelen v54: 3 [9223372036854775807 -806 1]

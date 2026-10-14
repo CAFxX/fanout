@@ -1,0 +1,71 @@
+package main
+
+import (
+    "fmt"
+)
+
+type GenS1 struct { F0 uint32 }
+
+func main() {
+    v1 := make(map[uint32]int)
+    var v2 float64 = (3.14159 / 3.14159)
+    var v3 uint64 = 42
+    var v4 uint = 2
+    var v5 float32 = 0.1
+    var v6 int32 = 2147483647
+    v1[644] = 127
+    for fi7 := 0; fi7 < 20; fi7++ {
+        v8 := []int{fi7, fi7, 9223372036854775807, int(v4)}
+        var v9 uint64 = (v3 << (((v4 | v4)) & 63))
+        v10 := GenS1{F0: 985}
+        _ = fi7
+        _ = v10
+        _ = v8
+        _ = v9
+    }
+    for fi11 := 0; fi11 < 20; fi11++ {
+        v6 = -1
+        for fi12 := 0; fi12 < 20; fi12++ {
+            var v13 bool = ((true && true) || true)
+            _ = fi12
+            _ = v13
+        }
+        _ = fi11
+    }
+    v6 = v6
+    v14 := v1[0]
+    v2 = -2.25
+    if ((v6 == v6) && false) {
+        if true {
+            var v15 float32 = 1e10
+            _ = v15
+        }
+        for fi16 := 0; fi16 < 1; fi16++ {
+            var v17 uint8 = 95
+            v18 := GenS1{F0: 65535}
+            _ = fi16
+            _ = v17
+            _ = v18
+        }
+    }
+    v1[1] = (v14 & (v14 * v14))
+    v14 = 9223372036854775807
+    v19 := []int{v14, v14, v14, v14}
+    v14 = (v14 | (v14 & (v14 % ((v14) | 1))))
+    fmt.Println("maplen v1:", len(v1))
+    fmt.Println("v14:", v14)
+    fmt.Println("slicelen v19:", len(v19), v19)
+    fmt.Println("v2:", v2)
+    fmt.Println("v3:", v3)
+    fmt.Println("v4:", v4)
+    fmt.Println("v5:", v5)
+    fmt.Println("v6:", v6)
+    _ = v1
+    _ = v14
+    _ = v19
+    _ = v2
+    _ = v3
+    _ = v4
+    _ = v5
+    _ = v6
+}

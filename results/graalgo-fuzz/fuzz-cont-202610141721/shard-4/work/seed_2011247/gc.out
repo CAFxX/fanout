@@ -1,0 +1,25 @@
+
+	hello
+	a
+	
+
+	hello
+	a
+	 
+	hello
+	a
+	
+slicelen v1: 3 [hello
+	 a foo bar]
+v2: 
+	hello
+	a
+	
+v3: 
+	hello
+	a
+	
+maplen v4: 0
+v47: 255
+v48: 
+v68: 4294967295
