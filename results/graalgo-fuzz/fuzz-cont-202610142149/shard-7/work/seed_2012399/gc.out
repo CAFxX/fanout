@@ -1,0 +1,13 @@
+1000 0 1000
+slicelen v1: 3 [hello foo barafoo bar
+	a
+	
+	
+	foo barhellofoo barfoo baraafoo barhellofoo bar foo bar
+	a]
+v12: 1
+maplen v2: 0
+v3: 311
+slicelen v4: 0 []
+maplen v5: 0
+v6: 0

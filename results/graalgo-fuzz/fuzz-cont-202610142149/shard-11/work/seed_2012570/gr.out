@@ -1,0 +1,15 @@
+1e+10
+1e+10 4294967295 true
+1e+10 1e+10 false
+slicelen v1: 2 [
+	a foo bar
+	hello]
+maplen v2: 6
+slicelen v3: 2 [a foo bar]
+v34: 1e+10
+v35: false
+v36: 0
+v41: 0
+v42: 0
+v60: 0
+v62: 2

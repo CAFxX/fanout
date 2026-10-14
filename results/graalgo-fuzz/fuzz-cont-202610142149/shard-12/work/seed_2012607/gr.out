@@ -1,0 +1,6 @@
+hello 2147483775
+v1: hello
+v2: 0
+slicelen v3: 4 [hellohellohelloa hellohellohello aaa hello]
+slicelen v4: 4 [2 0 2147483648 664]
+v86: 0

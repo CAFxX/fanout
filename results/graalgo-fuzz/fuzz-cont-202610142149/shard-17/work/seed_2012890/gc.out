@@ -1,0 +1,10 @@
+-2.25
+v1: -2.25
+v17: 0
+v2: false
+maplen v3: 0
+slicelen v4: 4 [a 
+	foo barfoo bar foo barfoo barhellofoo barhelloa
+	 hellofoo bar]
+v5: 127
+maplen v6: 1

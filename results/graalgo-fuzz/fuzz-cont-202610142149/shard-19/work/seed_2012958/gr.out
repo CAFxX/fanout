@@ -1,0 +1,16 @@
+679
+679 32767 true
+slicelen v1: 1 [-86]
+slicelen v2: 5 [76 32767 -9223372036854775808 -1 -65534]
+v20: true
+v21: 271
+v22: 679
+v24: 65534
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 5 [
+	 
+	hellohello
+	
+	foo bar 
+	 foo bar ]

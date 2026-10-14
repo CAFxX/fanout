@@ -1,0 +1,14 @@
+true 0 hellofoo bar
+slicelen v1: 0 []
+maplen v2: 1
+slicelen v3: 3 [
+	 hello hello]
+v4: true
+v5: hellofoo bar
+slicelen v6: 0 []
+v63: 0
+v68: 209
+v72: 100
+v77: 0
+v80: 405
+v81: 0.1

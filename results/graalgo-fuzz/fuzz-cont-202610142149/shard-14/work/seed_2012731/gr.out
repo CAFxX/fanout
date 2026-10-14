@@ -1,0 +1,17 @@
+false -1 aahelloa
+	ahellofoo barahelloafoo bar
+	helloa
+255 aahelloa
+	ahellofoo barahelloafoo bar
+	helloa
+maplen v1: 0
+slicelen v2: 2 [hello 
+	]
+v22: 32767
+slicelen v3: 1 [4294967295]
+v36: aahelloa
+	ahellofoo barahelloafoo bar
+	helloa
+v37: -1
+v4: false
+v51: 255

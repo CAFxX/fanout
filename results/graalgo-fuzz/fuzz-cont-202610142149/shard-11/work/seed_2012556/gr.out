@@ -1,0 +1,12 @@
+-1
+-416
+-416 false -416
+slicelen v1: 4 [foo bar foo bar foo bar foo bar]
+v19: -416
+slicelen v2: 2 [
+	 
+	]
+v20: false
+v21: 88
+v22: 255
+v3: 0

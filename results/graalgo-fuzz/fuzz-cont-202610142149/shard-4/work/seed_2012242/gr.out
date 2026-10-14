@@ -1,0 +1,34 @@
+-1
+-1 -1 false
+-1 -1 false
+-1 -1 false
+-1 -1 false
+-1 -1 false
+-1 -1 false
+-1 -1 false
+-1 -1 false
+-1 -1 false
+0 0 false
+0 1 false
+0 2 false
+0 3 false
+0 4 false
+0 5 false
+0 6 false
+0 7 false
+0 8 false
+0 9 false
+0
+6
+6
+6
+6
+slicelen v1: 3 [ hello hellofoo barfoo bar
+	]
+slicelen v2: 4 [2147483647 42 42 131]
+maplen v3: 0
+v4: true
+v5: 6
+v6: 0
+v88: 0
+v89: true

@@ -1,0 +1,12 @@
+243 768 243
+foo bar 1e+10 1e+10
+foo bar 243 243
+slicelen v1: 0 []
+v10: 243
+v11: 1e+10
+v12: 243
+maplen v2: 1
+v3: foo bar
+slicelen v4: 4 [0 128 1 1]
+slicelen v5: 2 [-202 -9223372036854775808]
+v6: 768

@@ -1,0 +1,13 @@
+ahello
+	foo barahello true true
+-128 -128 1e+10
+42 -128 1e+10
+-128 -128
+slicelen v1: 2 [127 -1]
+v2: -128
+v22: 954
+maplen v3: 0
+v4: 1e+20
+slicelen v5: 1 [foo bar]
+v6: 42
+v8: true

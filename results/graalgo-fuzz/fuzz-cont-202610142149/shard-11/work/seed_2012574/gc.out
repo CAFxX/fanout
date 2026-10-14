@@ -1,0 +1,9 @@
+foo bar
+3.14159 3.14159
+v1: foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+v102: false
+slicelen v2: 0 []
+maplen v3: 1
+v89: 3.14159
+v95: 2147483647

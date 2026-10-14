@@ -1,0 +1,15 @@
+42 1
+maplen v1: 0
+v13: false
+v14: 0.1
+v15: 1
+slicelen v2: 4 [hello hello hello foo bar]
+v23: -128
+slicelen v3: 3 [a helloa
+	hello hellofoo bar
+	foo barfoo bara
+	
+	]
+v4: -2147483648
+v5: 65535
+v8: 42

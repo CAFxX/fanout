@@ -1,0 +1,19 @@
+-537 42 42
+-Inf
+42 42 -537
++Inf
++Inf
++Inf
++Inf
++Inf
++Inf
++Inf
+-537 112 112
+v1: -537
+v2: 112
+v3: +Inf
+v4: -Inf
+v5: a
+	foo bar
+	
+maplen v6: 0

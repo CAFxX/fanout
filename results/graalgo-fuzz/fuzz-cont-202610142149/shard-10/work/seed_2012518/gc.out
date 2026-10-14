@@ -1,0 +1,15 @@
+755
+755 755 -30
+755 755 -30
+-7493989779746586624
+maplen v1: 1
+slicelen v2: 3 [266 1 2147483647]
+v3: -7493989779746586624
+v4: 
+	foo barfoo barfoo barhellofoo barhellofoo bar
+	afoo barhellohellofoo barfoo barfoo bar
+	foo barfoo barfoo barfoo barfoo barfoo barfoo bar
+	hellofoo barfoo barfoo barfoo bar
+v42: 0
+v46: 152
+v49: 18446744073709551615

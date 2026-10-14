@@ -1,0 +1,21 @@
+42
+42 42 -212
+0 0 afoo bar
+1 1 afoo bar
+2 2 afoo bar
+3 3 afoo bar
+4 4 afoo bar
+-212 42 -212
+-212 42 -212
+-212 42 -212
+v1: 
+	afoo barafoo bar
+	afoo barafoo barafoo barafoo barafoo barafoo bar
+v2: 42
+slicelen v3: 1 []
+v36: -212
+v37: 42
+v38: 0
+maplen v4: 0
+v5: -212
+maplen v6: 0

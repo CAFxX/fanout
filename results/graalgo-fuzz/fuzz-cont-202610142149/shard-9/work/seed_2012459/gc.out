@@ -1,0 +1,14 @@
+260 foo bar
+260 foo bar
+260 foo bar
+260 foo bar
+260 foo bar
+260 260 0
+0 foo bar foo bar
+maplen v1: 0
+v2: 0
+v3: 260
+v36: 311
+v37: 260
+v4: foo bar
+slicelen v43: 4 [0 -2147483648 128 9223372036854775807]

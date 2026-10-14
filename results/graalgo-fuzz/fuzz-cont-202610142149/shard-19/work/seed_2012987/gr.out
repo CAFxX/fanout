@@ -1,0 +1,12 @@
+1e+10 1 1
+1 1 1
+slicelen v1: 0 []
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 4 [hello foo bar hellofoo bar
+	 a]
+v52: 0
+v53: 1
+v54: 1
+v59: 0

@@ -1,0 +1,20 @@
+0 18446744073709551615
+hello
+137438954496
+hello
+137438954496
+hello
+137438954496
+hello
+137438954496
+maplen v1: 0
+v13: 137438954496
+v18: 137438954496
+v19: 
+	
+	
+maplen v2: 0
+slicelen v3: 2 [a foo barfoo bar]
+maplen v4: 1
+v5: 0
+slicelen v6: 2 [hello a]

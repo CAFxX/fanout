@@ -1,0 +1,11 @@
+maplen v1: 0
+v10: 2
+slicelen v2: 24 [hello hello 
+	 hellohellohello
+	a a a a a a a a a a a a a a a a a a a a a]
+v3: 18446744073709551219
+v31: -1
+v32: -1
+v34: false
+maplen v4: 0
+v9: true

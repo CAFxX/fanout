@@ -1,0 +1,9 @@
+foo bar foo bar 42
+maplen v1: 0
+maplen v2: 0
+v3: 65535
+v46: foo bar
+v47: 42
+v56: false
+v6: true
+slicelen v7: 2 [659 9223372036854775807]

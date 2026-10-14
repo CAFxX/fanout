@@ -1,0 +1,58 @@
+true true
+helloa
+	a 0 -611
+helloa
+	a 1 -611
+helloa
+	a 2 -611
+helloa
+	a 3 -611
+helloa
+	a 4 -611
+helloa
+	a 5 -611
+helloa
+	a 6 -611
+helloa
+	a 7 -611
+helloa
+	a 8 -611
+helloa
+	a 9 -611
+helloa
+	a 10 -611
+helloa
+	a 11 -611
+helloa
+	a 12 -611
+helloa
+	a 13 -611
+helloa
+	a 14 -611
+helloa
+	a 15 -611
+helloa
+	a 16 -611
+true true true
+-1e+10 127 449
+maplen v1: 0
+maplen v2: 0
+v28: -610
+v29: -611
+maplen v3: 1
+slicelen v4: 14 [303 303 303 303 303 303 303 303 303 303 303 303 303 303]
+v42: 449
+v45: 127
+v47: -1e+10
+v48: 42
+v5: true
+v6: helloa
+	ahelloa
+	afoo barhelloa
+	ahelloa
+	ahelloa
+	ahelloa
+	ahelloa
+	ahelloa
+	ahelloa
+	a

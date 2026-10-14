@@ -1,0 +1,34 @@
+slicelen v1: 12 [
+	ahello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello foo bar
+	foo bar
+	hello]
+v2: 1.5
+v24: 
+	foo barafoo barfoo barafoo bar
+v25: 7
+v3: 0
+v31: 0
+v4: 707
+v5: 5
+v6: 86
+v7: 0

@@ -1,0 +1,9 @@
+1 a 1
+maplen v1: 1
+v10: a
+maplen v2: 0
+slicelen v3: 2 [a a]
+slicelen v4: 0 []
+slicelen v5: 2 [2147483647 42]
+v6: 1
+v9: -9223372036854775808

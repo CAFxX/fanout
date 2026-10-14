@@ -1,0 +1,16 @@
+
+	foo bar
+
+	foo bar 
+	foo bar 65535
+0 
+	foo bar
+v1: 
+	foo bar
+v10: 2147483647
+v14: 151
+maplen v2: 0
+v25: 
+	foo bar
+v3: 0
+v9: -9223372036854775808
