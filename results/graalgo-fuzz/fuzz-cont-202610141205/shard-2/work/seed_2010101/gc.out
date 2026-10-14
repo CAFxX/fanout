@@ -1,0 +1,10 @@
+1.5 42
+v1: 1.5
+v11: 18446744073709551615
+v13: 42
+slicelen v2: 2 [foo barhellohelloahello
+	
+	hello
+	 hello]
+v3: 42
+slicelen v4: 1 [4294967295]

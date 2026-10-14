@@ -1,0 +1,196 @@
+0 hello
+0
+false 0 0
+0 hello
+1
+false 0 0
+0 hello
+2
+false 0 0
+0 hello
+3
+false 0 0
+0 hello
+4
+false 0 0
+1 hello
+0
+false 0 0
+1 hello
+1
+false 0 0
+1 hello
+2
+false 0 0
+1 hello
+3
+false 0 0
+1 hello
+4
+false 0 0
+2 hello
+0
+false 0 0
+2 hello
+1
+false 0 0
+2 hello
+2
+false 0 0
+2 hello
+3
+false 0 0
+2 hello
+4
+false 0 0
+3 hello
+0
+false 0 0
+3 hello
+1
+false 0 0
+3 hello
+2
+false 0 0
+3 hello
+3
+false 0 0
+3 hello
+4
+false 0 0
+4 hello
+0
+false 0 0
+4 hello
+1
+false 0 0
+4 hello
+2
+false 0 0
+4 hello
+3
+false 0 0
+4 hello
+4
+false 0 0
+5 hello
+0
+false 0 0
+5 hello
+1
+false 0 0
+5 hello
+2
+false 0 0
+5 hello
+3
+false 0 0
+5 hello
+4
+false 0 0
+6 hello
+0
+false 0 0
+6 hello
+1
+false 0 0
+6 hello
+2
+false 0 0
+6 hello
+3
+false 0 0
+6 hello
+4
+false 0 0
+7 hello
+0
+false 0 0
+7 hello
+1
+false 0 0
+7 hello
+2
+false 0 0
+7 hello
+3
+false 0 0
+7 hello
+4
+false 0 0
+8 hello
+0
+false 0 0
+8 hello
+1
+false 0 0
+8 hello
+2
+false 0 0
+8 hello
+3
+false 0 0
+8 hello
+4
+false 0 0
+9 hello
+0
+false 0 0
+9 hello
+1
+false 0 0
+9 hello
+2
+false 0 0
+9 hello
+3
+false 0 0
+9 hello
+4
+false 0 0
+10 hello
+0
+false 0 0
+10 hello
+1
+false 0 0
+10 hello
+2
+false 0 0
+10 hello
+3
+false 0 0
+10 hello
+4
+false 0 0
+11 hello
+0
+false 0 0
+11 hello
+1
+false 0 0
+11 hello
+2
+false 0 0
+11 hello
+3
+false 0 0
+11 hello
+4
+false 0 0
+v1: 1
+slicelen v2: 3 [-187 -9223372036854775808 2147483647]
+maplen v3: 0
+v38: 1
+v4: hellofoo barhelloahello
+v40: 
+v41: 2
+v42: 4294967295
+maplen v5: 0
+slicelen v6: 4 [hello
+	 hello
+	 hello
+	hello
+	hello
+	 hello
+	]

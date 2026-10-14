@@ -1,0 +1,8 @@
+9.9999999985e+09 9.9999999985e+09
+slicelen v1: 2 [hello 
+	]
+v2: 222
+v25: 222
+slicelen v3: 3 [foo barfoo bar foo bar a]
+slicelen v4: 4 [-557 4294967295 -244 9223372036854775807]
+v5: NaN

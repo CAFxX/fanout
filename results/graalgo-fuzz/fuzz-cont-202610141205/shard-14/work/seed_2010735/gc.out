@@ -1,0 +1,11 @@
+false afoo baraafoo bar
+1e+10 true
+488 488 true
+maplen v1: 0
+v2: 1e+10
+v25: true
+v29: 4294967295
+v3: afoo baraafoo bar
+v4: false
+maplen v5: 0
+v6: 488

@@ -1,0 +1,33 @@
+true
+true
+true
+true
+true
+true
+true
+true
+true
+a 1 true
+a
+3 0 foo barfoo bar
+3 1 foo barfoo bar
+3 2 foo barfoo bar
+3 3 foo barfoo bar
+3 4 foo barfoo bar
+3 5 foo barfoo bar
+3 6 foo barfoo bar
+3 7 foo barfoo bar
+3 8 foo barfoo bar
+3 9 foo barfoo bar
+3 10 foo barfoo bar
+3 11 foo barfoo bar
+3 12 foo barfoo bar
+3 13 foo barfoo bar
+v1: -15.607950000000002
+v13: 682
+v2: 3
+v3: 1.5
+v4: 1
+v5: true
+v59: foo barfoo bar
+slicelen v74: 3 [3 3 -2147483648]

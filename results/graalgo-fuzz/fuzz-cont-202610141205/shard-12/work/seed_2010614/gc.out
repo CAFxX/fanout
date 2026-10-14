@@ -1,0 +1,14 @@
+false 742
+389 742 389
+742 false 1
+false false
+maplen v1: 0
+v10: 389
+v11: 0.1
+v13: 1
+v14: false
+v2: false
+v3: 742
+maplen v4: 0
+slicelen v5: 1 [hello]
+slicelen v6: 0 []

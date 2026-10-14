@@ -1,0 +1,9 @@
+0 1e+20 2147483647
+v1: 1e+20
+maplen v2: 0
+maplen v3: 0
+v36: foo barafoo barhelloaahello
+v4: 0
+maplen v5: 12
+v6: 2147483647
+slicelen v7: 4 [32768 -2147483648 2147483647 -2147483648]

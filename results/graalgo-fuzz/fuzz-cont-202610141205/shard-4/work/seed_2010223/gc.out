@@ -1,0 +1,12 @@
+0
+0 afoo bar
+65535 1e+10 0
+v1: 0
+v12: afoo bar
+v15: 65535
+v16: 41
+slicelen v2: 1 [65535]
+v3: 1e+10
+slicelen v4: 2 [
+	 
+	]

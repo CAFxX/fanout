@@ -1,0 +1,12 @@
+3.14159
+true -576444 true
+maplen v1: 0
+v100: 255
+v12: true
+v13: -9223372036854775808
+v15: 0
+maplen v2: 0
+v3: 3.14159
+v4: -576444
+slicelen v5: 2 [foo barhello ]
+slicelen v6: 1 [127]

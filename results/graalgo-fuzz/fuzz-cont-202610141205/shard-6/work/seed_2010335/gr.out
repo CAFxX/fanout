@@ -1,0 +1,11 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+0 foo barfoo bar
+slicelen v1: 4 [-102 52 -2147483648 669]
+maplen v2: 0
+v3: 0
+v60: foo barfoo bar
+v75: 0.1

@@ -1,0 +1,11 @@
+1 0
+186 false
+0 0
+v1: 1
+maplen v2: 1
+maplen v3: 1
+slicelen v32: 2 [127 -1]
+v35: foo bar
+v4: true
+v5: 186
+v6: 0

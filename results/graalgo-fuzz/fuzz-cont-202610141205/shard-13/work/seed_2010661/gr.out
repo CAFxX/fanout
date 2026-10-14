@@ -1,0 +1,32 @@
+-2.25 true
+42 true -2147483648
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+1 -1
+slicelen v1: 4 [hello 
+	 hello
+	hellohellofoo bar
+	 a]
+v15: true
+v2: 0
+v25: 0
+v26: false
+v27: 127
+v29: 1
+slicelen v3: 1 [hello]
+v4: -245758.5
+maplen v5: 0
+maplen v6: 0

@@ -1,0 +1,16 @@
+true hellohello
+	hello
+true hellohello
+	hello
+hellohello
+	hello hellohello
+	hello
+maplen v1: 1
+v2: 1
+slicelen v3: 2 [4294967294 1]
+v4: hellohello
+	hello
+v5: true
+v59: 1
+slicelen v6: 2 [ hellohello
+	hello]

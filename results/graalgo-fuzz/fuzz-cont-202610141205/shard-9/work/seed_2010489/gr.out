@@ -1,0 +1,16 @@
+102 42 102
+0 1000 1000
+0 1000 1000
+0 1000 1000
+0 1000 1000
+0 1000 1000
+maplen v1: 0
+v10: 1000
+v11: foo bar
+v2: 102
+v3: 65535
+v4: 42
+v5: 42
+v6: foo barhellohellohellohellohello
+slicelen v7: 1 [127]
+v8: 0

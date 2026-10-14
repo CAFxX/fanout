@@ -1,0 +1,9 @@
+foo bar
+v1: foo bar
+v12: 18446744073709551615
+v14: 0
+v16: false
+v2: 255
+maplen v3: 0
+slicelen v4: 1 [249]
+v5: 319

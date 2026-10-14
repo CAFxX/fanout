@@ -1,0 +1,37 @@
+32767
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+-660 0
+maplen v1: 0
+v2: 18446744073709551615
+maplen v3: 0
+v4: 32767
+slicelen v5: 1 [984]
+v6: 0
+v75: foo bar
+	aafoo baraa
+	
+	foo barhellofoo barfoo barhello
+	hello
+v76: 0
+v80: foo bar
+	aafoo baraa
+	
+	foo barhellofoo barfoo barhello
+	hello
+v82: foo bar
+	aafoo baraa
+	
+	foo barhellofoo barfoo barhello
+	hello

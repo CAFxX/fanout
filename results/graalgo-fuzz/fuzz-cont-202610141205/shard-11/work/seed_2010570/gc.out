@@ -1,0 +1,6 @@
+foo bar -2.25
+-1 -2.25 foo bar
+slicelen v1: 2 [472 42]
+v2: -2.25
+v3: foo bar
+v32: -1

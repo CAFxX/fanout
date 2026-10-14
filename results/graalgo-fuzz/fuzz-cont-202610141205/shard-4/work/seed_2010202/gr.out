@@ -1,0 +1,13 @@
+65535 true true
+65535 hello
+	hello
+	
+v1: hello
+	hello
+	
+v16: true
+slicelen v2: 4 [9223372036854775807 32767 32767 -276]
+v3: -276
+v5: hello
+v6: 821
+v7: 65535

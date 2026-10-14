@@ -1,0 +1,8 @@
+afoo bar 32767
+0 afoo barafoo barafoo bar -9223372036854775808
+v1: 0
+v2: afoo barafoo barafoo bar
+v3: 0
+v4: 32767
+v5: -9223372036854775808
+slicelen v9: 3 [-9223372036854775808 42 -2147483648]

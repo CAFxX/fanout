@@ -1,0 +1,9 @@
+false 0 false
+2147483702 2147483702 false
+maplen v1: 0
+slicelen v2: 2 [ foo bar]
+v3: 1.5
+maplen v4: 1
+v5: false
+v64: 2147483702
+v73: -565

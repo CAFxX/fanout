@@ -1,0 +1,17 @@
+430 430
+430 430
+32767 0 0
+maplen v1: 1
+v2: 0
+v26: 741
+maplen v3: 0
+v4: 32767
+slicelen v5: 3 [
+	 
+	 hello
+	a
+	hello
+	
+	hellofoo bar]
+v52: 1
+v53: 127

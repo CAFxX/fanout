@@ -1,0 +1,21 @@
+485
+aa
+aa
+0
+255
+1
+255
+2
+255
+255
+slicelen v1: 4 [foo bar foo bar foo bar a]
+v119: 255
+v121: 1
+v123: 485
+v124: 293.25
+v127: 2
+v136: 42
+slicelen v2: 2 [337 2]
+v3: 485
+v4: false
+slicelen v5: 1 [952]

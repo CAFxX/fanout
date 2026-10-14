@@ -1,0 +1,14 @@
+42 foo bar
+slicelen v1: 5 [
+	a a
+	foo bar
+	foo bara foo barhellofoo barfoo bar
+	afoo barfoo barfoo barfoo barhellohellofoo barfoo barfoo barfoo barfoo bar foo barhellofoo barfoo bar
+	afoo barfoo barfoo barfoo barhellohellofoo barfoo barfoo barfoo barfoo bar 
+	]
+v2: foo bar
+v3: 42
+v4: -136
+v48: 136
+maplen v5: 0
+v50: false

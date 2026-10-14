@@ -1,0 +1,11 @@
+42 2 2
+463
+slicelen v1: 2 [a hellofoo barhellofoo bar
+	hello]
+v2: 463
+v29: 546
+v3: 2
+v4: 2
+slicelen v5: 2 [-9223372036854775808 725]
+v52: 42
+v6: -1

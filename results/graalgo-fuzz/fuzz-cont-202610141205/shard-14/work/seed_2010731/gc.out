@@ -1,0 +1,8 @@
+-2147483648 -2147483648
+slicelen v1: 3 [a foo bar hello]
+slicelen v2: 1 [ahello]
+v26: 0
+v27: 2147483647
+v28: 2
+v29: -2147483648
+v3: 186

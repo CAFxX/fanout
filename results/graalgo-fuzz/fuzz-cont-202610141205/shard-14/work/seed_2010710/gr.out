@@ -1,0 +1,12 @@
+1 true
+0.1 foo bar true
+-1.4 foo bar
+maplen v1: 1
+v11: -1.4
+v19: foo bar
+v2: foo bar
+slicelen v3: 0 []
+v30: 6.2222217e+10
+slicelen v4: 1 [foo barhellofoo barhellofoo barfoo barfoo bar]
+v5: true
+v6: 1

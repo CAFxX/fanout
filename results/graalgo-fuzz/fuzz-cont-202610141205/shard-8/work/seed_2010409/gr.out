@@ -1,0 +1,22 @@
+-7.068578 false 
+	foo bar
+	foo bar
+afoo bar
+	foo bar
+	foo bar
+	 afoo bar
+	foo bar
+	foo bar
+	
+65536 65536 -7.068578
+maplen v1: 0
+v2: -7.068578
+maplen v3: 0
+v31: 4294967295
+v4: afoo bar
+	foo bar
+	foo bar
+	
+v5: 65536
+v7: false
+slicelen v8: 2 [32768 -32768]

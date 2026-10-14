@@ -1,0 +1,28 @@
+0
+foo bar
+1
+foo bar
+2
+foo bar
+3
+foo bar
+4
+foo bar
+5
+foo bar
+6
+foo bar
+7
+foo bar
+8
+foo bar
+-7.0685773 0 afoo barfoo barfoo barafoo barfoo barafoo barfoo barafoo barfoo bar
+maplen v1: 12
+maplen v2: 0
+slicelen v25: 19 [-9223372036854775808 -287 -1 -1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+v29: 2
+v3: -9223372036854775808
+v39: 0
+v4: foo bar
+v40: -7.0685773
+v9: foo bar

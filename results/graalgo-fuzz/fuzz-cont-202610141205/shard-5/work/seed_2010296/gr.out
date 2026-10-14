@@ -1,0 +1,12 @@
+855 42
+slicelen v1: 1 [
+	]
+slicelen v2: 0 []
+v22: 3.14159
+v26: 2
+v28: 855
+slicelen v3: 3 [a foo barhello a]
+v6: 42
+v7: 42
+v8: 855
+v9: true

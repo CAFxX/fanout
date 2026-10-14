@@ -1,0 +1,37 @@
+1e+10 false
+42
+false foo bar
+	foo barfoo bar
+	foo bar
+	
+	foo barhelloafoo barahelloaahellofoo bara
+	
+	
+	hellohellohello
+	 foo bar
+	foo barfoo bar
+	foo bar
+	
+	foo barhelloafoo barahelloaahellofoo bara
+	
+	
+	hellohellohello
+	
+42 42
+v1: 42
+slicelen v2: 0 []
+v23: 32767
+slicelen v3: 2 [foo bar a
+	foo barafoo bar
+	]
+v4: foo bar
+	foo barfoo bar
+	foo bar
+	
+	foo barhelloafoo barahelloaahellofoo bara
+	
+	
+	hellohellohello
+	aa
+v5: 0
+v6: true

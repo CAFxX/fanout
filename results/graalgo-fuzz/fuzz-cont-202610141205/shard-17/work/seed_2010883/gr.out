@@ -1,0 +1,34 @@
+423 1e+10 37
+423
+true
+slicelen v1: 1 [2147483647]
+v2: 1e+10
+v24: 37
+v27: 1
+v28: -124
+v29: 
+	foo bar
+	hello
+	foo bar
+	
+	foo bar
+	
+	foo bar
+	a
+	foo bar
+	
+	foo bar
+	
+	foo bar
+	
+	
+	foo bar
+	
+	foo bar
+	
+slicelen v3: 4 [0 1 2147483647 402]
+v30: 831
+v31: 32767
+v37: 1
+slicelen v4: 1 [4294967295]
+v5: 2

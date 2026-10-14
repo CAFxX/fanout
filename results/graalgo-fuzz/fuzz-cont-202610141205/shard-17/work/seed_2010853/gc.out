@@ -1,0 +1,12 @@
+afoo bar
+	 42
+42
+v1: afoo bar
+	
+slicelen v2: 1 [2]
+v23: 255
+v24: 42
+maplen v3: 0
+v4: 42
+maplen v5: 0
+maplen v6: 0

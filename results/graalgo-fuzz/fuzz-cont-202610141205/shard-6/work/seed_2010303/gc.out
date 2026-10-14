@@ -1,0 +1,19 @@
+-1
+-1
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello -1
+0 -1 32767
+slicelen v1: 4 [-1 128 -9223372036854775808 -188]
+v18: 967
+v2: 0
+v3: 15462
+v4: hello
+v5: 32767

@@ -1,0 +1,17 @@
+1.5
+-32768 1.5
+0
+1
+2
+1.5 -111
+65535 65535
+slicelen v1: 3 [foo bar foo bar foo bar
+	afoo barfoo barhellofoo bar
+	]
+v10: 0
+v16: 65535
+v2: -32768
+slicelen v3: 3 [4294967295 588 2147483647]
+v4: 0
+v5: 127
+v6: -111
