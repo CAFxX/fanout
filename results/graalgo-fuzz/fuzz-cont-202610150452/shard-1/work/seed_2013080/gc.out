@@ -1,0 +1,14 @@
+foo bar foo bar 42
+42 -20 -20
+-20 -20
+maplen v1: 0
+v2: 42
+maplen v3: 0
+v37: 96
+v38: -1
+v4: foo bar
+maplen v5: 0
+v54: hello
+slicelen v55: 3 [42 -1 -1]
+v6: -1
+v69: 0

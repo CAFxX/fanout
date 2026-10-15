@@ -1,0 +1,53 @@
+2147483647 ahello
+	foo bar 42
+42 ahello
+	foo bar 0
+42 ahello
+	foo bar 1
+42 ahello
+	foo bar 2
+42 ahello
+	foo bar 3
+42 ahello
+	foo bar 4
+42 ahello
+	foo bar 5
+42 ahello
+	foo bar 6
+42 ahello
+	foo bar 7
+42 ahello
+	foo bar 8
+-2147483271 ahello
+	foo bar
+-2147483271 2 -2147483271
+42 0 ahello
+	foo bar
+42 1 ahello
+	foo bar
+42 2 ahello
+	foo bar
+42 3 ahello
+	foo bar
+42 4 ahello
+	foo bar
+42 5 ahello
+	foo bar
+42 6 ahello
+	foo bar
+42 7 ahello
+	foo bar
+42 8 ahello
+	foo bar
+42 9 ahello
+	foo bar
+42 10 ahello
+	foo bar
+42 11 ahello
+	foo bar
+v1: 42
+v115: 0
+slicelen v16: 217 [128 128 128 128 128 128 128 128 128 128 128 128 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+v2: ahello
+	foo bar
+v3: 0

@@ -1,0 +1,15 @@
+false 2
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+v1: false
+v16: 3
+v17: foo bar
+v2: 2147483647
+v20: -9223372036854775808
+maplen v3: 0
+v4: 2147482799
+v5: 2
+slicelen v6: 1 [890]

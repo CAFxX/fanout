@@ -1,0 +1,12 @@
+hello -1 0
+v1: 0
+v14: hello
+v15: 4294967295
+v2: 0
+v3: -1
+v4: 1
+slicelen v5: 3 [
+	foo bar  hello]
+v50: 42
+v51: 100
+v52: -34

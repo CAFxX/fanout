@@ -1,0 +1,27 @@
+1 0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+v1: -2.25
+v2: 0
+v3: 1
+v37: 1
+slicelen v4: 2 [hello foo barhello]
+slicelen v5: 2 [a helloa
+	foo barhellohelloa
+	hellohelloafoo barhello]
+maplen v6: 0

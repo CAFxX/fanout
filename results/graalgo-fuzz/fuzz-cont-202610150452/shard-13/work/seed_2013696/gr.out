@@ -1,0 +1,13 @@
+1.5 9223372036854775807 9223372036854775807
+v1: -9223372036854775808
+v15: 0
+v18: 649
+v2: 84
+v3: 9223372036854775807
+v33: 
+v34: 999
+maplen v4: 0
+slicelen v5: 3 [foo bara foo barhellohellohello
+	ahellofoo barfoo bar 
+	]
+v6: 1.5

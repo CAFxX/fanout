@@ -1,0 +1,11 @@
+0 false -103
+v1: 0
+v10: 1000
+v2: -103
+v3: 102
+v31: 1
+maplen v4: 0
+v5: 1
+slicelen v6: 2 [
+	 hello
+	]

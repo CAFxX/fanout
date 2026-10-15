@@ -1,0 +1,12 @@
+1.5 1.5
+slicelen v1: 3 [0 284 -53]
+v12: 1846
+v13: 361
+v15: 361
+slicelen v2: 4 [
+	foo bar foo bar hellohellohelloahello a]
+slicelen v3: 0 []
+v30: 1.5
+slicelen v4: 3 [127 -745 32767]
+v5: 0
+slicelen v6: 1 [127]

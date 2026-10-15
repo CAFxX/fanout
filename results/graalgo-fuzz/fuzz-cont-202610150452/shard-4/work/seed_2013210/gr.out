@@ -1,0 +1,10 @@
+hellofoo bar
+2147483647
+v1: -2.25
+v12: 2147483647
+v13: 712
+slicelen v2: 3 [2147483648 2 2147483648]
+v3: hellofoo bar
+maplen v4: 2
+slicelen v5: 1 [hellofoo barhellohellofoo bar]
+v6: foo bar

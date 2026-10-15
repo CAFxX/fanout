@@ -1,0 +1,6 @@
+foo barfoo barfoo barfoo bar -2.25 foo barfoo barfoo barfoo bar
+v1: -2.25
+v2: foo bar
+v3: foo barfoo barfoo barfoo bar
+slicelen v4: 2 [foo barfoo barfoo barfoo bar
+	 foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barahellofoo bar]

@@ -1,0 +1,12 @@
+-12 42
+0 42
+v1: -12
+v2: 42
+v3: foo barfoo bar
+v31: 0
+v32: 0
+slicelen v33: 4 [-1 2147483647 136 -329]
+v38: 0
+maplen v4: 0
+maplen v5: 1
+v6: 0

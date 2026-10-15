@@ -1,0 +1,11 @@
+-522
+-522 3.75
+false
+false false
+3.25 false foo barfoo barhellofoo bar
+slicelen v1: 1 [128]
+v2: -522
+v29: false
+v3: 3.25
+v33: foo barfoo barhellofoo bar
+v58: false

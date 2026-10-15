@@ -1,0 +1,12 @@
+true
+false
+true
+true
+true
+65535 65535 65535
+v1: true
+slicelen v2: 5 [a foo bar foo bar
+	 hellofoo bar hello]
+v218: 4
+maplen v3: 1
+maplen v4: 0

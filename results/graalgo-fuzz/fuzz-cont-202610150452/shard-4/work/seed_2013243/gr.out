@@ -1,0 +1,48 @@
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+-0.75 0 -0.75
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+true foo bar true
+v1: foo bar
+v19: 1
+slicelen v2: 1 [2]
+v20: 0
+v21: ahello
+v22: 65535
+v23: 0
+v24: 1e+10
+v25: false
+v3: -0.75
+v4: false
+v5: 0
+slicelen v6: 1 [749]

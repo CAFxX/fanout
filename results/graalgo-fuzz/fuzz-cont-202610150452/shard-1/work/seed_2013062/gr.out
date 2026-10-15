@@ -1,0 +1,9 @@
+2
+v1: 2
+slicelen v2: 3 [ 
+	foo bar 
+	]
+v22: -100
+slicelen v3: 21 [a a a foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v4: 0
+v5: 100

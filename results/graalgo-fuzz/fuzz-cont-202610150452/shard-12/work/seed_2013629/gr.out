@@ -1,0 +1,7 @@
+2
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 4 [foo bar hello 
+	 foo bar]
+v4: 191
+slicelen v5: 0 []

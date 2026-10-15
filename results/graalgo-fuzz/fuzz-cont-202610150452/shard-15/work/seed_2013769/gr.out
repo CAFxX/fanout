@@ -1,0 +1,7 @@
+-80 false
+slicelen v1: 2 [
+	 foo bar]
+v2: 2
+v3: false
+v48: 32767
+v49: -80

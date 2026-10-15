@@ -1,0 +1,28 @@
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
+1e+10 0.1
++Inf foo barhellohello
+1e+10 1e+10
++Inf 1e+10
+foo barhellohello foo barhellohello +Inf
+-2147483648
+foo barhellohello foo barhellohello -2147483648
+v1: foo barhellohello
+slicelen v2: 4 [foo barhellohellofoo barhellohello foo barhellohellofoo bar foo barhellohello 
+	]
+v3: foo barhellohello
+slicelen v4: 2 [0 -9223372036854775808]
+v5: +Inf
+maplen v6: 0
+v76: -2147483648
+v77: 2e+10

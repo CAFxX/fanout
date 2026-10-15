@@ -1,0 +1,13 @@
+false false false
+v1: true
+v11: 0
+v12: 131
+v2: false
+v3: 
+	foo barfoo bar
+	helloa
+	foo barfoo bar
+	
+v4: 18446744073709551615
+slicelen v5: 0 []
+maplen v6: 0

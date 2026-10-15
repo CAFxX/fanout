@@ -1,0 +1,12 @@
+foo bar foo bar
+foo bar foo bar
+maplen v1: 0
+slicelen v2: 2 [ a]
+v3: foo bar
+maplen v4: 0
+slicelen v5: 16 [foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v6: foo bar
+v85: 65260
+v94: 
+	hello
+v95: 42

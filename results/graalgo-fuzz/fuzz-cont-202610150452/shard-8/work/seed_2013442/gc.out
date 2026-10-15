@@ -1,0 +1,14 @@
+2
+v1: -1873
+v2: 32768
+v21: 233
+v22: 0
+maplen v3: 1
+v38: 1e+10
+v39: 2
+slicelen v4: 2 [2147483647 0]
+v40: 0
+v41: -128
+v5: -128
+slicelen v6: 2 [a
+	foo bar foo bar]

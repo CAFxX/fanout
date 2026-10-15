@@ -1,0 +1,9 @@
+a true 0
+true a a
+v1: true
+v10: a
+v13: -9223372036854775808
+maplen v2: 0
+slicelen v3: 4 [
+	 a foo bar afoo bar]
+v4: 0

@@ -1,0 +1,10 @@
+helloafoo bar helloafoo bar
+ helloafoo bar
+foo bar
+maplen v1: 0
+v2: helloafoo bar
+v3: 65535
+v4: -549
+v5: 0
+slicelen v6: 4 [549 -549 -1242 -549]
+v9: foo bar

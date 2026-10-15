@@ -1,0 +1,9 @@
+42 true 128
+0 hello
+v1: 128
+v2: true
+v3: 0
+v4: 1e+10
+v5: 42
+v6: hello
+slicelen v7: 3 [9223372036854775807 1 -273]
