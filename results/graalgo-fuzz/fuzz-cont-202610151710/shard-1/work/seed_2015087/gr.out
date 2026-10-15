@@ -1,0 +1,14 @@
+-1 
+	
+	foo barfoo barfoo barfoo barfoo barfoo bar
+maplen v1: 1
+v12: 
+	
+	foo barfoo barfoo barfoo barfoo barfoo bar
+v13: -1
+v14: 3.14159
+v2: 
+	
+	foo barfoo barfoo barfoo bar
+maplen v3: 0
+slicelen v4: 0 []

@@ -1,0 +1,26 @@
+18446744073709551615 foo bar
+	hellohello
+	
+	aafoo barhellofoo bara true
+18446744073709551615 foo bar
+	hellohello
+	
+	aafoo barhellofoo bara true
+18446744073709551615 foo bar
+	hellohello
+	
+	aafoo barhellofoo bara true
+-112 32768 32768
+18446744073709551615 true true
+v1: foo bar
+	hellohello
+	
+	aafoo barhellofoo bara
+v12: 18446744073709551615
+v2: -112
+maplen v3: 0
+v33: true
+v34: 32768
+v35: -1
+v4: 1.5
+v5: 18446744073709551615

@@ -1,0 +1,30 @@
+0 foo bar
+	foo bar
+	
+foo bar
+	 1
+foo bar
+	 1
+foo bar
+	 1
+foo bar
+	 1
+foo bar
+	 1
+foo bar
+	 1
+foo bar
+	 1
+foo bar
+	
+v1: 1
+v17: foo bar
+	a
+v19: 1
+slicelen v2: 3 [-9223372036854775808 -9223372036854775808 1]
+v3: foo bar
+	
+v38: 0
+v4: -464
+v44: 1.5
+v5: 0

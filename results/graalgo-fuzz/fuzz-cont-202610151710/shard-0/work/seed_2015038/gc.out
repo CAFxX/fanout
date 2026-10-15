@@ -1,0 +1,7 @@
+true
+false
+slicelen v1: 3 [hello foo barfoo bar foo bar
+	]
+slicelen v2: 1 [foo barfoo barfoo bar]
+slicelen v3: 2 [-9223372036854775808 421]
+v6: true

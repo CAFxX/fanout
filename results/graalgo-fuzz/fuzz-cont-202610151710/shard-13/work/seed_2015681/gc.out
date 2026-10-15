@@ -1,0 +1,13 @@
+true
+18 18
+true
+maplen v1: 0
+v16: 18
+v19: 42
+slicelen v2: 3 [1 756 428]
+slicelen v3: 0 []
+maplen v4: 0
+v5: 0
+slicelen v6: 3 [foo barfoo bar
+	hellofoo bar 
+	foo bara a]

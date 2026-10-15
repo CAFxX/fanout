@@ -1,0 +1,22 @@
+0 0 true
+1 1 true
+2 2 true
+3 3 true
+4 4 true
+5 5 true
+6 6 true
+7 7 true
+8 8 true
+9 9 true
+10 10 true
+11 11 true
+12 12 true
+13 13 true
+14 14 true
+15 15 true
+slicelen v1: 3 [foo bar hello ahello]
+v2: true
+v3: -9223372036854775773
+v67: -46
+v68: 3057
+v73: -9223372036854775773

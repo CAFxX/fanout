@@ -1,0 +1,82 @@
+a a
+2147483647 true 0
+-2 true 1
+-4 true 2
+-8 true 3
+-16 true 0
+-32 true 1
+-64 true 2
+-128 true 3
+-256 true 0
+-512 true 1
+-1024 true 2
+-2048 true 3
+-4096 true 0
+-8192 true 1
+-16384 true 2
+-32768 true 3
+-65536 true 0
+-131072 true 1
+-262144 true 2
+-524288 true 3
+-1048576 true 0
+-2097152 true 1
+-4194304 true 2
+-8388608 true 3
+-16777216 true 0
+-33554432 true 1
+-67108864 true 2
+-134217728 true 3
+-268435456 true 0
+-536870912 true 1
+-1073741824 true 2
+-2147483648 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+true a
+v1: a
+v2: 4294967295
+v3: 65535
+v4: true
+v5: a
+slicelen v6: 0 []
+v64: 0
+v73: 1

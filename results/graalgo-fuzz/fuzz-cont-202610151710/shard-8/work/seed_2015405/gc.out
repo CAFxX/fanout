@@ -1,0 +1,55 @@
+false 79 false
+false 79 false
+false 79 false
+false 79 false
+false 79 false
+false 79 false
+false 79 false
+false 79 false
+-164
+hello
+	foo bar false 0
+hello
+	foo bar false 1
+hello
+	foo bar false 2
+hello
+	foo bar false 3
+hello
+	foo bar false 4
+hello
+	foo bar false 5
+hello
+	foo bar false 6
+hello
+	foo bar false 7
+hello
+	foo bar false 8
+hello
+	foo bar false 9
+hello
+	foo bar false 10
+hello
+	foo bar false 11
+hello
+	foo bar false 12
+hello
+	foo bar false 13
+hello
+	foo bar false 14
+hello
+	foo bar false 15
+hello
+	foo bar false 16
+v1: -1
+slicelen v18: 3 [9223372036854775807 163 -2147483648]
+v2: 79
+v26: 91
+v27: 255
+v3: hello
+	foo bar
+v31: 2147483648
+v33: -1
+v4: -2147483648
+maplen v5: 0
+v6: false

@@ -1,0 +1,21 @@
+-1 891 891
+891 true 0
+891 true 1
+891 true 2
+891 true 3
+891 true 4
+891 true 5
+891 true 6
+891 true 7
+891 true 8
+891 true 9
+v1: 891
+v10: true
+maplen v2: 0
+v3: 255
+v4: 1
+slicelen v5: 4 [hellohello 
+	 a a]
+v6: 1000
+v7: a
+v8: hello

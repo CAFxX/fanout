@@ -1,0 +1,8 @@
+1.5 1.5
+maplen v1: 0
+slicelen v2: 1 [a]
+v23: 32768
+v26: 1.5
+maplen v3: 0
+v31: 18446744073709551615
+slicelen v4: 3 [foo bar a a]

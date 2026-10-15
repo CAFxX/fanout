@@ -1,0 +1,35 @@
+-124 -124
+-124 -124
+0
+-124 -124
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+0 520
+176 0 520
+v1: 1
+slicelen v2: 8 [ 
+	foo bar 
+	foo bar 
+	foo bar 
+	foo bar 
+	foo bar 
+	foo bar 
+	foo bar]
+v3: -124
+v36: 0
+v37: 520
+slicelen v4: 5 [a  a hello foo barfoo bar
+	]
+v59: 2.462385
+v66: 176
+v67: 520
+v68: foo bar

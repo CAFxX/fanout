@@ -1,0 +1,11 @@
+0 205
+maplen v1: 0
+v15: 0
+v19: 1000
+v2: 
+	
+v3: 205
+v4: false
+slicelen v5: 3 [0 9223372036854775807 0]
+slicelen v6: 2 [hello hello]
+v86: 0

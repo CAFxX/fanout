@@ -1,0 +1,10 @@
+0 true
+v1: 255
+v10: 29988
+v13: -1
+v2: true
+slicelen v3: 6 [foo barfoo bar   hellofoo barfoo barfoo barfoo barhellofoo barfoo barfoo barhellofoo barfoo barfoo barhellofoo barfoo barfoo barhellofoo barfoo barfoo barhellofoo barfoo barfoo bar hellofoo barfoo barfoo bar hellofoo barfoo barfoo bar]
+v4: hellofoo barfoo barfoo bar
+maplen v5: 0
+v6: -9223372036854775808
+v9: 238

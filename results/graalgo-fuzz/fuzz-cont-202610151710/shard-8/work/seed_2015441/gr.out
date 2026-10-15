@@ -1,0 +1,33 @@
+foo barfoo barfoo bara
+	a
+	
+	foo bara
+	a
+	
+	hello 0 0
+0 955 foo barfoo barfoo bara
+	a
+	
+	foo bara
+	a
+	
+	hello
+v1: 0
+maplen v2: 1
+v3: 0
+v4: 955
+v44: foo bara
+	a
+	
+	
+v45: foo barfoo barfoo bara
+	a
+	
+	foo bara
+	a
+	
+	hello
+v61: 1236
+v62: 955
+slicelen v63: 1 [1268]
+v64: -1

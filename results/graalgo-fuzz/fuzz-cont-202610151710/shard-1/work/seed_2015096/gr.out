@@ -1,0 +1,27 @@
+
+	hello 679
+0 a a
+0 a a
+0 a a
+0 a a
+0 a a
+0 a a
+0 a a
+0 a a
+65535 370
+65535 32767
+v1: 65535
+v183: -2.25
+v2: 42
+v24: 1
+v25: 0
+v29: a
+v3: -4.5
+v32: 32767
+v4: 370
+slicelen v5: 2 [
+	helloa a
+	helloahello
+	]
+v8: 
+	

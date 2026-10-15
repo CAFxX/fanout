@@ -1,0 +1,23 @@
+18446744073709551615 false false
+18446744073709551615 1 false
+1 false
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+foo bar 0
+v1: 18446744073709551615
+v2: 369
+v3: 1
+slicelen v31: 3 [9223372036854775807 -9223372036854775808 761]
+maplen v4: 0
+v42: foo bar
+v43: 42
+maplen v5: 0
+v51: 127
+v6: false

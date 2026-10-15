@@ -1,0 +1,13 @@
+v1: 65535
+slicelen v2: 5 [-9223372036854775808 4294967295 -9223372036854775808 -84 -84]
+v24: hello
+v25: 100
+v26: 743
+v28: 128
+v29: hello
+v3: 2
+slicelen v4: 3 [2147483648 65535 0]
+v5: -84
+slicelen v6: 2 [foo bar
+	helloaafoo barfoo bar
+	aahello hello]

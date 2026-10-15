@@ -1,0 +1,13 @@
+42 42
+-1 -1
+maplen v1: 1
+v2: -787
+v3: -1
+slicelen v4: 3 [foo bar ahello 
+	]
+slicelen v5: 1 [65535]
+v59: 8
+maplen v6: 0
+v72: a
+v74: 787
+v75: 255

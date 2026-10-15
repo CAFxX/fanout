@@ -1,0 +1,11 @@
+698 true 1e+20
+maplen v1: 0
+maplen v2: 0
+v3: false
+v30: -1
+v4: 0
+v5: 1e+20
+slicelen v6: 1 [
+	
+	hello
+	]

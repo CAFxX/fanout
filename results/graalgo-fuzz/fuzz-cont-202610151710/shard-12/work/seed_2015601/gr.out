@@ -1,0 +1,8 @@
+-32048
+maplen v1: 0
+v186: -32048
+v196: 0
+slicelen v2: 4 [hello  foo bar
+	hello
+	 hello]
+slicelen v3: 3 [-1 -695 32767]

@@ -1,0 +1,9 @@
+-248
+-248
+slicelen v1: 4 [foo barhellofoo barfoo barhello  helloaahello
+	foo bar a]
+v16: 2147483647
+maplen v2: 1
+slicelen v3: 0 []
+slicelen v4: 2 [2147483647 1]
+v50: false

@@ -1,0 +1,12 @@
+foo bar foo bar
+foo bar -563
+563 563 0
+-563 -563 0
+maplen v1: 0
+v13: -563
+v15: 0
+v18: 0
+slicelen v2: 1 [4294967295]
+maplen v3: 0
+v4: foo bar
+v5: 563

@@ -1,0 +1,28 @@
+4294967254
+4294967254
+4294967254
+4294967254
+4294967254
+4294967254
+4294967254 0 4294967254
+v1: 0
+maplen v2: 1
+v27: 
+slicelen v3: 3 [32767 40 2147483647]
+v35: -28
+v4: 0
+v5: 168
+slicelen v6: 15 [ 
+	foo barhello hello 
+	foo bar
+	 foo bar 
+	foo bar
+	 foo bar 
+	foo bar
+	 foo bar 
+	foo bar
+	 foo bar 
+	foo bar
+	 foo bar 
+	foo bar
+	 foo bar]

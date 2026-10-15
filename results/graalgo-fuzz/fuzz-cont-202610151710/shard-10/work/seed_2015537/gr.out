@@ -1,0 +1,13 @@
+foo bar hello 4294967295
+4294967295 foo bar foo bar
+4294967295 foo bar foo bar
+4294967295 foo bar foo bar
+4294967295 foo bar foo bar
+4294967295 foo bar foo bar
+4294967295 foo bar foo bar
+v1: 4294705155
+v184: 1
+slicelen v2: 3 [hello 
+	a hello]
+v3: helloahelloafoo baraa
+v4: hello

@@ -1,0 +1,18 @@
+foo bar
+	ahello
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+slicelen v1: 3 [foo bar hello foo bar]
+v2: foo bar
+	foo bar
+	ahellofoo barafoo bar
+	ahellohelloa
+slicelen v3: 3 [4294967295 -879 4294967295]
