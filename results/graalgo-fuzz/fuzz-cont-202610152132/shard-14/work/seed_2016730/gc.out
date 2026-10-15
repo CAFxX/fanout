@@ -1,0 +1,52 @@
+foo barhello false
+false foo barhello
+0
+foo barhello false
+false foo barhello
+1
+foo barhello false
+false foo barhello
+2
+foo barhello false
+false foo barhello
+3
+foo barhello false
+false foo barhello
+4
+foo barhello false
+false foo barhello
+5
+foo barhello false
+false foo barhello
+6
+foo barhello false
+false foo barhello
+7
+foo barhello false
+false foo barhello
+8
+foo barhello false
+false foo barhello
+9
+foo barhello false
+false foo barhello
+10
+foo barhello false
+false foo barhello
+11
+foo barhello false
+false foo barhello
+12
+foo barhello false
+false foo barhello
+13
+0 151 0.99159
+0 151 1.4999999e+10
+0 151 2.9999999e+10
+v1: -3.15
+maplen v2: 1
+maplen v3: 0
+slicelen v4: 0 []
+v42: 0
+v5: 151
+v6: 2.0943933

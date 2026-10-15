@@ -1,0 +1,10 @@
+-1
+slicelen v1: 2 [-1 127]
+v14: -128
+v2: -1
+maplen v3: 0
+slicelen v4: 3 [-2147483648 127 -582]
+slicelen v5: 3 [hello hellohello
+	 
+	hello]
+slicelen v6: 4 [-409 -1 -9223372036854775808 582]

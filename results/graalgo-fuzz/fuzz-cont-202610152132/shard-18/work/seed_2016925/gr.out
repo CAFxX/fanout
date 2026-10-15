@@ -1,0 +1,23 @@
+-424 107
+424
+0 false false
+1 false false
+2 false false
+3 false false
+4 false false
+5 false false
+6 false false
+7 false false
+8 false false
+9 false false
+10 false false
+11 false false
+v1: 99
+v2: 424
+maplen v3: 0
+maplen v4: 0
+maplen v5: 0
+v59: false
+slicelen v6: 3 [hellofoo barfoo bar hello
+	 hello]
+v60: -3.53428875

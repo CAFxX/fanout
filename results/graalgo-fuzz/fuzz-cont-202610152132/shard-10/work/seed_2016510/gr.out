@@ -1,0 +1,13 @@
+false
+535 0
+v1: 1e+10
+v16: 654
+v17: -32768
+v2: false
+v23: -2.25
+v25: 1
+v26: a
+maplen v3: 0
+slicelen v4: 4 [a a
+	aa foo bar 
+	]

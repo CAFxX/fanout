@@ -1,0 +1,12 @@
+hellohellohelloahelloaahellohellohellohellohellofoo bar hellohellohelloahelloaahellohellohellohellohellofoo bar -2.25
+2147483647 -9223372036854775808 -2.25
+-2.25 -2.25 2147483647
+-2.25 -9223372036854775808
+v1: 0
+maplen v2: 0
+v3: -2.25
+v4: 
+	
+v56: -9223372036854775808
+slicelen v59: 2 [-9223372036854775808 -9223372036854775808]
+v68: -2.25

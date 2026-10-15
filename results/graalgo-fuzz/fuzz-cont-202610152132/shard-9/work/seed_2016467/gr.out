@@ -1,0 +1,19 @@
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+slicelen v1: 7 [
+	
+	
+	 foo bar 
+	 
+	 
+	 
+	 
+	]
+v2: true
+v22: 0
+slicelen v3: 2 [ foo barfoo barhello]
+v4: 0

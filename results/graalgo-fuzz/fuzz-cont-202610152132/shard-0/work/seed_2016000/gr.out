@@ -1,0 +1,9 @@
+3.14159
+0 0 foo bar
+slicelen v1: 0 []
+slicelen v2: 4 [158 65535 42 363]
+v21: foo bar
+v24: 42
+v25: 0
+v3: 3.14159
+v41: true

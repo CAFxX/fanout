@@ -1,0 +1,16 @@
+true -77 4294967295
+0 true
+1 true
+2 true
+3 true
+4 true
+5 true
+v1: 4294967295
+maplen v2: 1
+slicelen v3: 1 [foo bar
+	foo barahello]
+v4: true
+v5: true
+v56: 0
+v58: true
+maplen v6: 0

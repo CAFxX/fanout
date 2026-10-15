@@ -1,0 +1,13 @@
+957 256 957
+-1 957 -257
+v1: 957
+slicelen v2: 4 [foo bar 
+	afoo bar
+	hellohelloahellohelloa
+	a
+	foo baraafoo bar
+	a  a]
+v29: -257
+v3: 256
+v4: 0
+v5: -1

@@ -1,0 +1,29 @@
+84 0
+84 0
+84 1
+84 1
+84 2
+84 2
+84 3
+84 3
+84 4
+84 4
+84 5
+84 5
+84
+84 84
+0 NaN
+0 NaN
+0 NaN
+1 NaN
+1 NaN
+1 NaN
+2 NaN
+2 NaN
+2 NaN
+slicelen v1: 1 [4294967295]
+slicelen v2: 5 [
+	 a a a foo bar]
+v23: NaN
+v3: 84
+maplen v4: 0

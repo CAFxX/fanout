@@ -1,0 +1,12 @@
+64512
+64512 ahello
+42
+slicelen v1: 3 [-445 -650 40]
+v10: ahello
+v11: 0
+v13: 42
+v2: 64512
+slicelen v3: 2 [ foo bar]
+maplen v4: 0
+slicelen v5: 3 [foo bar
+	 foo bar ]

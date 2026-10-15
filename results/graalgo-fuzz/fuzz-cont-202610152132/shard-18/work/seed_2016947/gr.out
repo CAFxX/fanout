@@ -1,0 +1,13 @@
+v1: 
+	afoo bara
+	aa
+	hellofoo bar
+	foo barfoo barhello
+	
+v2: -128
+v3: 292
+v34: 143
+v4: 0
+v6: 0
+slicelen v7: 1 [-9223372036854775808]
+v8: -2147482919

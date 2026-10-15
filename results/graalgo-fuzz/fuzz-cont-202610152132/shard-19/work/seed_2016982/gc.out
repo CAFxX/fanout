@@ -1,0 +1,15 @@
+18446744073709551573 42
+42 -707
+15.31525125 42 42
+slicelen v1: 4 [ a
+	aa foo bar foo bar]
+maplen v2: 0
+v3: 15.31525125
+slicelen v4: 4 [
+	 hellohello foo barhelloafoo bara
+	afoo barahello foo barhello]
+v40: -707
+v41: 18446744073709551573
+v5: 0
+v64: 255
+v65: 15.31525125

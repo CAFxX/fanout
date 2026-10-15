@@ -1,0 +1,14 @@
+4294967295 foo bar
+	afoo bar
+false
+-1 4294967295
+maplen v1: 0
+v10: -1
+v11: -1
+slicelen v15: 3 [1 -1 -1]
+v2: 4294967295
+v3: 100
+v4: foo bar
+	afoo bar
+v8: false
+v9: 0

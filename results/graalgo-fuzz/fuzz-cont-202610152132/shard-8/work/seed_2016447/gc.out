@@ -1,0 +1,14 @@
+-32768 -32768
+255 -32768 255
+foo bar false false
+255
+maplen v1: 0
+maplen v2: 0
+v24: 255
+v29: 0
+v3: 0
+slicelen v30: 2 [9223372036854775807 417]
+v31: foo bar
+v32: 255
+maplen v4: 1
+v5: false

@@ -1,0 +1,15 @@
+0 foo bar 42
+1 foo bar 42
+2 foo bar 42
+3 foo bar 42
+0 foo bar 42
+1 foo bar 42
+2 foo bar 42
+3 foo bar 42
+maplen v1: 0
+v12: foo bar
+v13: 42
+slicelen v2: 1 [afoo bar]
+v3: 42
+v32: 42
+v33: 405

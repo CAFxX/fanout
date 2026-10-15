@@ -1,0 +1,9 @@
+foo bar 196
+3.14159 1e+10 3.14159
+v1: 196
+v2: a
+slicelen v3: 0 []
+maplen v4: 1
+v5: 42
+v8: 3.14159
+v9: NaN

@@ -1,0 +1,7 @@
+908 42
+v1: 908
+v2: true
+maplen v3: 0
+slicelen v4: 2 [foo barfoo barfoo barfoo bar foo bar]
+v51: 42
+v52: -1

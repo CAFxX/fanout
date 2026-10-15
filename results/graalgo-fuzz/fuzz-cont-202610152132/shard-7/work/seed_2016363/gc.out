@@ -1,0 +1,22 @@
+1 0 0
+1 1 1
+1 2 2
+1 3 3
+1 4 4
+1 5 5
+1 6 6
+1 7 7
+1 8 8
+1 9 9
+1 10 10
+maplen v1: 1
+slicelen v2: 5 [foo barfoo bara
+	 hellofoo barhelloa
+	hellohellofoo barhellofoo barfoo barhellofoo barfoo bara 
+	 hello foo bar]
+v3: 1
+v35: foo barhelloahelloafoo bar
+	aa
+v4: -2
+maplen v5: 1
+v6: 1

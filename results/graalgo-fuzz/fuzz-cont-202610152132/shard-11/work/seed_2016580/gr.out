@@ -1,0 +1,78 @@
+foo bar 24 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+foo bar 0 foo bar
+4294967295 0.314159
+-1 65535
+1000 65535
+1000 65535
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+0 1000
+slicelen v1: 13 [65535 8191 8191 8191 8191 0 0 0 0 0 0 0 0]
+v119: true
+v2: -2
+v22: 1
+v3: 0
+maplen v4: 3
+slicelen v5: 0 []

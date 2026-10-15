@@ -1,0 +1,25 @@
+0 false
+1 false
+2 false
+3 false
+4 false
+5 false
+6 false
+7 false
+8 false
+9 false
+10 false
+11 false
+65535
+0 65535
+1 65535
+2 65535
+false false 0
+v1: 65535
+v134: -128
+v148: -128
+v2: 0
+maplen v3: 0
+v4: false
+slicelen v5: 3 [hello foo bar foo bar]
+slicelen v6: 1 [128]

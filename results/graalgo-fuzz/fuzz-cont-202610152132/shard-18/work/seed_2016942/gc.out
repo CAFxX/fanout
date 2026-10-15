@@ -1,0 +1,9 @@
+936 936 
+v1: 
+v144: 2
+v2: 127
+v3: 255
+slicelen v4: 0 []
+slicelen v5: 2 [127 -2147483648]
+slicelen v6: 4 [
+	 foo barfoo bar  foo bar]

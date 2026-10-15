@@ -1,0 +1,22 @@
+a
+	hello 171
+1.5 -17 -17
+a
+	hello 127
+v1: 1.5
+slicelen v13: 1 [0]
+v2: 1
+v23: 127
+v27: -17
+v29: 1
+v3: a
+	hello
+v32: 65535
+v33: 380
+v34: a
+	helloa
+	helloa
+	hello
+maplen v4: 0
+maplen v5: 0
+v6: 338
