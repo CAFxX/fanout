@@ -1,0 +1,21 @@
+1162 1162
+-128 true true
+-128 true true
+-128
+560 0
+-128
+560 1
+-128
+560 2
+-128
+560 3
+560
+slicelen v1: 4 [876 -2147483648 32767 128]
+maplen v2: 0
+maplen v3: 0
+v38: 876
+slicelen v4: 4 [
+	 a 
+	hellofoo barhellofoo bar foo bar]
+v5: 560
+v6: 0

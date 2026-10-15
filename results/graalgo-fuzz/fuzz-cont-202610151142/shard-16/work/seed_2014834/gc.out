@@ -1,0 +1,7 @@
+42 42
+v1: 42
+v2: 127
+v3: 1
+slicelen v4: 2 [hello hello
+	]
+slicelen v5: 1 [-9223372036854775808]

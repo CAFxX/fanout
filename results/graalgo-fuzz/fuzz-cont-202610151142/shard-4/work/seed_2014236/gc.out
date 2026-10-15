@@ -1,0 +1,16 @@
+true
+false true
+false true
+false true
+false true
+false true
+false true
+false true
+true
+40 40 40
+false false
+v1: true
+v18: false
+slicelen v2: 2 [hello a]
+v25: 40
+slicelen v3: 3 [0 42 2147483648]

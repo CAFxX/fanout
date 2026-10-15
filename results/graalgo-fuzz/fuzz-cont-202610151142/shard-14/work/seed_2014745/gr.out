@@ -1,0 +1,23 @@
+656
+foo bar 656 0
+foo bar 656 1
+foo bar 656 2
+foo bar 656 3
+foo bar 656 4
+foo bar 656 5
+foo bar 656 6
+foo bar 656 7
+foo bar 656 8
+foo bar 656 9
+foo bar 656 10
+foo bar 656 11
+-2147483648
+-2147483648 -2147483648 1.6
+slicelen v1: 2 [4294967295 0]
+v12: foo bar
+maplen v2: 0
+v3: 1.6
+v4: 0
+v47: 2
+maplen v5: 0
+v6: 656

@@ -1,0 +1,15 @@
+foo bar
+	
+	foo barfoo barhello foo bar
+	
+	foo barfoo barhello
+maplen v1: 0
+v12: 841
+v2: -869
+v3: foo barafoo bar
+	
+	foo barfoo barhello
+v35: 
+v4: 18446744073709551615
+slicelen v5: 1 [0]
+slicelen v6: 4 [-987 9223372036854775807 42 127]

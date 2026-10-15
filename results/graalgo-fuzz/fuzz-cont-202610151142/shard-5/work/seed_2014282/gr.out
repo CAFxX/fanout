@@ -1,0 +1,19 @@
+1 foo bar
+	
+foo bar
+	 1 272
+42 -1.570795 foo bar
+	
+maplen v1: 0
+v100: 0
+v2: 42
+v20: foo bar
+	
+v21: 272
+v22: foo bar
+	
+slicelen v3: 2 [74 1]
+v32: -1.570795
+v33: 272
+v35: -1.570795
+v4: 1

@@ -1,0 +1,10 @@
+1.5 1.5 1.5
+3
+slicelen v1: 2 [aa
+	foo barahelloafoo barfoo barfoo barfoo barfoo barfoo barafoo bar hello]
+v13: 42
+v2: true
+maplen v3: 0
+v4: 3
+slicelen v5: 4 [helloa ahello foo bar hellofoo bar]
+maplen v6: 0

@@ -1,0 +1,22 @@
+42
+foo bar 0 -1
+foo bar 1 -1
+foo bar 2 -1
+foo bar 3 -1
+foo bar 4 -1
+foo bar 5 -1
+foo bar 6 -1
+foo bar 7 -1
+foo bar 8 -1
+foo bar
+maplen v1: 9
+slicelen v10: 2 [9223372036854775807 32767]
+v11: 42
+v17: 0
+v18: 0
+v19: 0
+v2: 4294967295
+maplen v3: 0
+v4: foo bar
+v7: 42
+v9: 0

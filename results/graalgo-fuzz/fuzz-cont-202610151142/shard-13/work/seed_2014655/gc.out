@@ -1,0 +1,36 @@
+0 hello
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+foo bar 0
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+0 foo bar 127
+maplen v1: 0
+slicelen v2: 1 [hello]
+v23: 127
+v24: 0
+v25: 42
+v3: foo bar
+maplen v4: 0
+v43: 0
+v5: 0

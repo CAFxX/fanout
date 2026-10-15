@@ -1,0 +1,8 @@
+true 730
+maplen v1: 2
+v12: 632
+v13: false
+slicelen v2: 2 [afoo barhellofoo bar helloa]
+v20: 0.1
+slicelen v3: 1 [
+	hellofoo barhellohello]

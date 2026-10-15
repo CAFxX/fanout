@@ -1,0 +1,16 @@
+false false 9223372036854775807
+false false 0
+false 0 0
+0
+1884 127
+maplen v1: 0
+maplen v2: 0
+maplen v3: 0
+v4: 1884
+v47: 127
+slicelen v5: 3 [foo barahellofoo barfoo barfoo bara
+	afoo barhello
+	 
+	 hello]
+v50: 896
+slicelen v6: 1 [foo bar]

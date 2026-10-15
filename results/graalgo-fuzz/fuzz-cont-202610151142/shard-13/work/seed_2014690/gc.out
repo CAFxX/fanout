@@ -1,0 +1,10 @@
+afoo bar
+	hello -1 42
+-1
+v1: -594
+slicelen v13: 2 [9223372036854775807 -462]
+v2: afoo bar
+	hello
+v3: 42
+v4: -1
+v5: -1

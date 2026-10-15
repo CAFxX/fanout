@@ -1,0 +1,13 @@
+0 0 0
+maplen v1: 0
+maplen v2: 0
+maplen v3: 0
+v31: 3.14159
+v32: 32767
+v36: 0
+v4: 0
+v5: 0
+slicelen v6: 3 [a a
+	foo bar 
+	a
+	]

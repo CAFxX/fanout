@@ -1,0 +1,11 @@
+maplen v1: 0
+v16: 9223372036854775807
+v19: 168
+v2: 42
+v20: 136
+v24: 1e+10
+v3: 1
+v4: true
+slicelen v5: 2 [hellofoo bar
+	foo bar 
+	]

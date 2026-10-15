@@ -1,0 +1,11 @@
+foo barfoo barhelloa
+	foo barhelloafoo barhelloafoo barhelloa 0 foo barfoo barhelloa
+	foo barhelloafoo barhelloafoo barhelloa
+maplen v1: 0
+v2: foo barfoo barhelloa
+	foo barhelloafoo barhelloafoo barhelloafoo barfoo barhelloa
+	foo barhelloafoo barhelloafoo barhelloa
+v3: -1
+maplen v4: 0
+slicelen v52: 4 [2147483647 -1 9223372036854775807 -1]
+v58: false

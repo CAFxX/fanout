@@ -1,0 +1,10 @@
+-102 -102 1
+-102 true true
+maplen v1: 1
+slicelen v2: 4 [afoo barfoo bar
+	foo bar foo bar foo bar hellofoo bara]
+v3: 545
+v4: -102
+v5: -128
+v89: 1
+v90: true

@@ -1,0 +1,15 @@
+3
+1572864 1572864 -1
+a -33 -1
+-33
+slicelen v1: 3 [-9223372036854775808 -62 42]
+v11: -33
+slicelen v2: 2 [ aa
+	foo bar
+	foo bara
+	]
+v24: 18446744073709551615
+slicelen v3: 4 [ foo bar  foo bar]
+v4: 1572864
+v5: -1
+v60: a

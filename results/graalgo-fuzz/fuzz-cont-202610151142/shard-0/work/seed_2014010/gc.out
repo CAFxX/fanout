@@ -1,0 +1,33 @@
+true 1 128
+0 1.5 true
+1 1.5 true
+2 1.5 true
+3 1.5 true
+4 1.5 true
+5 1.5 true
+6 1.5 true
+7 1.5 true
+8 1.5 true
+9 1.5 true
+10 1.5 true
+11 1.5 true
+12 1.5 true
+13 1.5 true
+128 1e+10 -2e+10
+128 0 -2e+10
+128 0 -2e+10
+128 0 -2e+10
+128 0 -2e+10
+128 0 -2e+10
+-2e+10 1 true
+true 1
+maplen v1: 0
+v11: 65535
+v12: true
+v14: -2e+10
+v15: false
+v2: 128
+v3: 0
+v4: 123
+v5: 1
+v6: 4294967295

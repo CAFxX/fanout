@@ -1,0 +1,13 @@
+false
+0 9223372036854775807
+v1: 9223372036854775807
+v10: 2147483649
+slicelen v2: 20 [foo bar hellofoo bar hello 
+	 foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v3: foo bar
+maplen v4: 1
+v41: false
+v49: 0
+v5: foo bar
+v50: 1.8327297
+v6: 0

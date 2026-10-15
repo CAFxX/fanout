@@ -1,0 +1,13 @@
+0.1 65535
+65535 65535
+true 164 0.1
+maplen v1: 0
+v110: -1
+v111: 164
+maplen v2: 0
+slicelen v3: 3 [afoo bar  ]
+v4: 65759
+maplen v5: 0
+v56: true
+maplen v6: 0
+v8: 0.1

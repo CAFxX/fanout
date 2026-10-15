@@ -1,0 +1,14 @@
+-80 3.14159
+-80 -80
+maplen v1: 0
+v17: -80
+slicelen v2: 4 [ a foo barhellofoo bar 
+	]
+v20: 615
+v21: -1
+v24: -1
+v25: 0
+v3: 3.14159
+slicelen v4: 3 [
+	 foo bar foo bar]
+maplen v5: 1

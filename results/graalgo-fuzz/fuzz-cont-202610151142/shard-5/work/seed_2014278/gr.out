@@ -1,0 +1,9 @@
+-97 2147483648 -97
+-97 2147483648 -97
+v1: 2147483648
+slicelen v2: 4 [2147483648 0 415 0]
+v3: -97
+maplen v4: 1
+slicelen v5: 4 [foo bar   hellohellohello]
+slicelen v6: 0 []
+v9: 0

@@ -1,0 +1,14 @@
+0 0
+3.14159 a
+maplen v1: 0
+v162: 
+	a
+v163: 1e+10
+slicelen v2: 2 [42 935]
+v3: 0
+v4: 255
+v44: 3.14159
+slicelen v5: 2 [hello
+	foo barfoo barhellohello foo barhellofoo bar]
+v6: 
+	a

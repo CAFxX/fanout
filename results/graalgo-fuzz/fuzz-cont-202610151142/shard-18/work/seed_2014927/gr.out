@@ -1,0 +1,15 @@
+false 0 false
+0 32767
+maplen v1: 0
+v10: 32767
+v12: false
+v13: 900
+v14: 0
+v15: 3.14159
+slicelen v2: 3 [
+	
+	a foo bar a]
+v27: 0
+v28: 1000
+slicelen v3: 2 [ ]
+maplen v4: 0

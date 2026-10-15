@@ -1,0 +1,11 @@
+1e+10 1
+foo bar
+foo bar
+v1: 1e+10
+v2: foo bar
+v29: 1.5
+v3: -859
+slicelen v4: 5 [a foo barfoo barafoo bar foo bar hello foo bar]
+maplen v5: 0
+v6: 1
+v81: 2147483647

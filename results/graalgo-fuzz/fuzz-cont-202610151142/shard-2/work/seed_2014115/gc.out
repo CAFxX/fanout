@@ -1,0 +1,13 @@
+145 255
+373
+slicelen v1: 3 [2 490 2]
+v10: true
+slicelen v2: 2 [9223372036854775807 -377]
+v3: NaN
+v4: 255
+v5: 145
+slicelen v6: 4 [a foo bara
+	
+	
+	hello foo bar foo bar]
+v7: 2147483554

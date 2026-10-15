@@ -1,0 +1,13 @@
+foo bar
+foo bar 825
+foo bar foo bar
+foo bar foo bar
+foo bar foo bar
+foo bar foo bar
+v1: foo bar
+v2: foo bar
+v23: -2147483648
+v3: 1
+slicelen v4: 7 [32767 -9223372036854775808 -9223372036854775808 -9223372036854775808 -9223372036854775808 -9223372036854775808 689]
+v77: 825
+v80: 696
