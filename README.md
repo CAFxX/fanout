@@ -1,3 +1,11 @@
+> # ⚠️ EXPERIMENTAL — DO NOT USE ⚠️
+>
+> **This is experimental, pre-alpha software, written by AI agents.**
+> It is unfinished, unreviewed, and may be broken in ways that are not obvious.
+> **Do not use it yet.**
+
+---
+
 # fanout — general-purpose GitHub-Actions compute fanout
 
 Run CPU-heavy, embarrassingly-parallel batch work on GitHub Actions
