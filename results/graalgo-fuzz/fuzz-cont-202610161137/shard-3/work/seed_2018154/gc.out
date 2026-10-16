@@ -1,0 +1,19 @@
+false
+0 0 0
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+false 4294967294
+slicelen v1: 4 [foo barhello a  
+	]
+v2: true
+slicelen v3: 0 []
+v4: 4294967294
+maplen v5: 0
+slicelen v6: 1 [
+	hello]
+v84: -26
+v86: true
+v87: 6.666666668916667e+09

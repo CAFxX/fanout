@@ -1,0 +1,12 @@
+40
+40 hello
+false 40
+v1: false
+v12: 0.1
+v14: 0
+v2: 40
+v3: hellohello
+slicelen v4: 4 [hellohellohello
+	 hello hello hellohellohellohellohellofoo barhellohellohellohellohello]
+v5: 4294967295
+slicelen v6: 3 [2147483647 1 0]

@@ -1,0 +1,26 @@
+84 84
+v1: 1
+v10: 84
+v11: 
+	hello
+slicelen v2: 3 [4294967295 4294967295 209]
+v3: 1
+v34: 
+	hello
+	hello
+v35: -2.25
+v4: 0
+v43: 2
+v44: 84
+v45: 716
+v46: 
+	hello
+	hello
+slicelen v5: 2 [
+	 a
+	
+	]
+maplen v6: 0
+v8: -1
+v9: 
+	hello

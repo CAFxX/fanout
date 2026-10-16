@@ -1,0 +1,11 @@
+v1: 0
+slicelen v2: 4 [ 
+	 aa hellofoo barhellohellofoo baraahelloahello
+	
+	foo barahellohellohelloa]
+v25: false
+v3: a
+	foo bar
+v30: 0
+v4: 1
+slicelen v5: 1 [9223372036854775807]

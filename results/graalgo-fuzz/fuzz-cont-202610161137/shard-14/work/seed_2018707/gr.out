@@ -1,0 +1,5 @@
+v1: 0
+slicelen v2: 4 [foo bar
+	hello hello a a]
+v260: 1e+10
+slicelen v3: 1 [5]

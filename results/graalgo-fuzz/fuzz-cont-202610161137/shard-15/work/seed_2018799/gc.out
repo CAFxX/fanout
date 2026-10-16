@@ -1,0 +1,11 @@
+-477 true foo bar
+	foo barfoo barfoo bara
+v1: 100
+slicelen v12: 4 [470 -996 2147483647 -9223372036854775808]
+v13: foo bar
+	foo barfoo barfoo barafoo bar
+	foo barfoo barfoo bara
+v14: -477
+v2: true
+v3: true
+v4: 597

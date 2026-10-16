@@ -1,0 +1,16 @@
+false
+0.1
+slicelen v1: 4 [  
+	helloa
+	
+	 foo bar
+	aa
+	hello]
+v10: 4294967295
+v11: 65535
+v12: 1e+10
+v2: false
+v3: 4294967295
+v4: 246
+v5: 0.1
+v6: 0.1

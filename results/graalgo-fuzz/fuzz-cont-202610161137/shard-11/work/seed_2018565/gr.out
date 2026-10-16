@@ -1,0 +1,12 @@
+0 -98
+1
+0 2 2
+v1: 1
+v2: 0
+slicelen v3: 18 [hellofoo barhellohellohellofoo barafoo barfoo baraa
+	foo bar
+	foo bar a 
+	 foo bara              ]
+slicelen v4: 0 []
+v5: -97
+v6: 2

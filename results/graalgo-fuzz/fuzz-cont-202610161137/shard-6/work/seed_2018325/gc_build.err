@@ -1,0 +1,2 @@
+# command-line-arguments
+out/programs/fuzz_2018325.go:51:23: 1e10 * (float32((1e10 / 1.0)) * ((1.5 - (0.0 + 0.0)) + (((-2.25 - (1.5 / 3.14159)) - 0.1) + (((1e10 / 1.5) * 1e10) + 0.0)))) (constant 6.66667e+39 of type float32) overflows float32

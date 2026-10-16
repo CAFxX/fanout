@@ -1,0 +1,40 @@
+0 0 false
+hello false 3.14159
+0 1 false
+hello false 3.14159
+0 2 false
+hello false 3.14159
+0 3 false
+hello false 3.14159
+0 4 false
+hello false 3.14159
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+1 false -5.399999999999997e-08
+slicelen v1: 4 [
+	foo bar 
+	  ]
+v19: hello
+v2: -5.399999999999997e-08
+v3: 3.14159
+v4: false
+v41: 387
+v5: 1
+v54: 994
+v55: 0.1
+slicelen v6: 24 [hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]

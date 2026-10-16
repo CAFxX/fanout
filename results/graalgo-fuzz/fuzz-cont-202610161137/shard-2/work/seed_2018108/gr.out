@@ -1,0 +1,9 @@
+v1: -421
+v16: 2000
+v17: 3
+maplen v2: 0
+slicelen v3: 2 [42 0]
+slicelen v4: 3 [a foo barfoo bar 
+	]
+v5: -812
+v72: 1.6

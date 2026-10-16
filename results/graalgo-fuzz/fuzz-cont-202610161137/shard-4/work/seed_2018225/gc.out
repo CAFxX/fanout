@@ -1,0 +1,16 @@
+255 255
+-2.25 2147483647
+-2.25
+-227 hello
+	a
+-2147483607
+v1: 255
+v2: 0.8915901
+v3: -2147483607
+v33: -227
+v34: hello
+	a
+v36: 1000
+slicelen v4: 0 []
+slicelen v5: 3 [ foo barfoo barhelloaa
+	 a]

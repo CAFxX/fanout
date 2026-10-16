@@ -1,0 +1,8 @@
+207 207 2
+v1: 2
+v2: 207
+v3: true
+maplen v4: 0
+slicelen v5: 4 [foo bar foo barfoo bar foo bar hello]
+v77: 1
+v78: true

@@ -1,0 +1,8 @@
+-39 -39
+a 2 2
+v1: foo bar
+maplen v2: 0
+v20: -39
+slicelen v3: 1 [foo barhello]
+v4: 2
+v85: 2147483647

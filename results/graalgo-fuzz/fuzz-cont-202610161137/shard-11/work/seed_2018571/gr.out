@@ -1,0 +1,15 @@
+true 255 255
+true
+3.75 255 true
+true 3.75
+3.75
+v1: 255
+slicelen v2: 5 [foo bar a foo bar foo barfoo bar
+	 
+	]
+v3: 2.25
+maplen v4: 1
+v5: true
+v52: 132
+v53: 132
+v62: -2147483648

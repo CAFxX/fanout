@@ -1,0 +1,81 @@
+-9223372036854775808
+-9223372036854775808 0 foo barfoo bar
+	
+-9223372036854775808 1 foo barfoo bar
+	
+-9223372036854775808 2 foo barfoo bar
+	
+-9223372036854775808 3 foo barfoo bar
+	
+-9223372036854775808 4 foo barfoo bar
+	
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+foo barfoo bar
+	
+0 290 0
+slicelen v1: 0 []
+v15: 0
+v2: -9223372036854775808
+v29: 290
+v3: foo barfoo bar
+	
+v30: 290
+v31: true
+v33: 0.1
+slicelen v4: 4 [ foo bar  foo barfoo barfoo bar]

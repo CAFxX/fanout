@@ -1,0 +1,14 @@
+slicelen v1: 4 [
+	a hello foo bar ]
+v16: 6.283180236816406
+slicelen v2: 0 []
+v20: 1
+v21: true
+v22: -9223372036854775808
+v23: 3.14159
+v3: 3.1415902e+10
+slicelen v4: 4 [aa 
+	foo bar a 
+	]
+v5: -117
+maplen v6: 0

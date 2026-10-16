@@ -1,0 +1,18 @@
+0 hello
+1 hello
+2 hello
+3 hello
+4 hello
+5 hello
+v1: 0
+v14: 2
+slicelen v2: 9 [foo bar 
+	aahellohello
+	 hello hellohello hellohello hellohello hellohello hellohello hellohello]
+v3: true
+maplen v4: 0
+v5: 0
+v6: hello
+v62: 1
+v63: 0
+v7: false

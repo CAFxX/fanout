@@ -1,0 +1,18 @@
+640 1
+maplen v1: 0
+v11: false
+slicelen v13: 2 [-205 686]
+v14: a
+	foo barahello
+	foo bara
+	foo barahello
+	foo bar
+v2: 640
+v3: a
+	foo barahello
+	foo bar
+v4: 1
+maplen v5: 0
+v59: 0
+v60: 255
+v9: 42

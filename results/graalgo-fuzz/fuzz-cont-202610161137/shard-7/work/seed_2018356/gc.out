@@ -1,0 +1,12 @@
+v1: 575
+v103: -43.5
+v104: 255
+v108: 445
+v109: 255
+slicelen v2: 1 [foo barhello]
+v22: 574
+v23: -2147483648
+v24: -32768
+slicelen v3: 2 [494 -1]
+v4: -1
+v5: foo barhello

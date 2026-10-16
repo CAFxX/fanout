@@ -1,0 +1,13 @@
+true 18446744073709551574 foo barhellofoo bar
+18446744073709551574
+maplen v1: 1
+v14: 18446744073709551574
+v2: true
+v25: 0.1
+v26: foo barhellofoo baraafoo barhellofoo bara
+slicelen v3: 144 [4294967295 4294967295 -869 32767 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9]
+v31: 4294967253
+v32: 
+slicelen v4: 3 [93 0 42]
+maplen v5: 0
+v6: foo barhellofoo baraafoo barhellofoo bara

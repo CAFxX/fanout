@@ -1,0 +1,9 @@
+true true foo bar
+1 foo bar true
+maplen v1: 0
+v14: 9223372041149743103
+v2: 1
+v3: true
+slicelen v4: 3 [410 4294967295 4294967295]
+v5: foo bar
+v6: -32768

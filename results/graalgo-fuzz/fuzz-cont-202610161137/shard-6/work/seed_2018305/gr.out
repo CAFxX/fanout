@@ -1,0 +1,9 @@
+true
+v1: 32767
+maplen v2: 0
+v22: 127
+v23: 42
+v24: foo bar
+v3: true
+slicelen v4: 1 [0]
+slicelen v5: 0 []

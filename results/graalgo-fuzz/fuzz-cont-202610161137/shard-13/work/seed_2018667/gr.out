@@ -1,0 +1,9 @@
+v1: 369
+slicelen v2: 2 [foo barfoo bar 
+	]
+v236: 42
+v237: 2688
+v257: 94
+v267: 3.14159
+slicelen v3: 1 [a]
+v304: 1.5

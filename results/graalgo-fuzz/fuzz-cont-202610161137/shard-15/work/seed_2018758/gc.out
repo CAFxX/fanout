@@ -1,0 +1,8 @@
+false false 32767
+slicelen v1: 3 [127 32767 -1]
+v15: false
+v2: hellohellohellofoo barhellohellohellohellohellohello
+	hellofoo bar
+v3: true
+v4: 32767
+slicelen v5: 2 [32767 42]

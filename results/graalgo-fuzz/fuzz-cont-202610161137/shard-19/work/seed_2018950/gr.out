@@ -1,0 +1,12 @@
+true 0
+true 1
+true 2
+maplen v1: 1
+v16: foo bar
+v2: true
+v22: 0
+v27: -924
+slicelen v3: 0 []
+v4: -1
+slicelen v5: 3 [foo bar hello 
+	]

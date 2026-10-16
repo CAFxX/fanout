@@ -1,0 +1,14 @@
+true
+
+	foo bar true
+true 
+	foo bar
+v1: true
+v18: 
+	foo bar
+v19: 2
+slicelen v2: 2 [128 127]
+slicelen v3: 4 [-286 121 -540 450]
+slicelen v4: 1 [65535]
+maplen v5: 0
+slicelen v6: 3 [936 2147483647 966]

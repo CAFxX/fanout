@@ -1,0 +1,9 @@
+true
+0 2147483648 true
+v1: 2147483648
+v12: 201
+v13: -1
+maplen v2: 0
+slicelen v3: 4 [ foo barhello hello hello]
+v4: 0
+v7: true

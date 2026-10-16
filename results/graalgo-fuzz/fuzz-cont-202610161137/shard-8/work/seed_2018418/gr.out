@@ -1,0 +1,41 @@
+hello
+	foo bar
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar false 0
+hello
+	foo bar hello
+	foo bar
+v1: 5.0625
+v2: 0
+v3: 1
+v4: 3.14159
+v40: hello
+	foo bar
+v41: 5.0625
+v5: hello
+	foo bar
+v6: false

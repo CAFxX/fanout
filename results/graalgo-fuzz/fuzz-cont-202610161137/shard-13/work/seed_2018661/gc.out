@@ -1,0 +1,10 @@
+4294967209 18446744073709551615 18446744073709551615
+v1: 18446744073709551615
+v11: 1
+slicelen v2: 0 []
+v21: 0.1
+v27: a
+slicelen v3: 4 [hellofoo bar foo bar hello ahello
+	foo barafoo barfoo barfoo barfoo barhello]
+v4: 18446744073709551615
+maplen v5: 0

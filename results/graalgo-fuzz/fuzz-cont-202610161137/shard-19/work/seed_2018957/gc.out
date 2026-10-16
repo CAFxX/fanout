@@ -1,0 +1,17 @@
+42 42 42
+-2.25 false false
+1
+false
+v1: 687
+v11: 42
+v111: -2.25
+v12: 1
+slicelen v2: 3 [
+	 foo bar hello]
+v21: false
+v3: 65535
+maplen v4: 0
+v5: 42
+slicelen v6: 4 [
+	 
+	hello hellohello foo bar]

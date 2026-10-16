@@ -1,0 +1,17 @@
+2
+0 0 foo bar
+1 0 foo barfoo bar
+2 0 foo barfoo barfoo barfoo bar
+3 0 foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+4 0 foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+5 0 foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+101 101
+2147483647 975 975
+v1: foo bar
+v2: 975
+v28: 872
+maplen v3: 0
+v31: 32767
+v32: 975
+v4: 2147483647
+v5: 42

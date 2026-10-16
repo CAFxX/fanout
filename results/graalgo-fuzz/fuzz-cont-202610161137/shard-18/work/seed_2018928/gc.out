@@ -1,0 +1,52 @@
+true 0.1
+0 0.1 18446744073709551615
+1 0.1 18446744073709551615
+2 0.1 18446744073709551615
+3 0.1 18446744073709551615
+4 0.1 18446744073709551615
+5 0.1 18446744073709551615
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+true 0.1
+0 afoo barhello 42
+1 afoo barhello 42
+2 afoo barhello 42
+3 afoo barhello 42
+4 afoo barhello 42
+5 afoo barhello 42
+6 afoo barhello 42
+7 afoo barhello 42
+8 afoo barhello 42
+9 afoo barhello 42
+10 afoo barhello 42
+11 afoo barhello 42
+12 afoo barhello 42
+13 afoo barhello 42
+14 afoo barhello 42
+15 afoo barhello 42
+16 afoo barhello 42
+17 afoo barhello 42
+-1 42
+v1: 18446744073709551615
+v2: true
+v3: 42
+v4: 0.1
+v5: afoo barhello
+v55: -1
+slicelen v6: 0 []

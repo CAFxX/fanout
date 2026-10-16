@@ -1,0 +1,10 @@
+-1 a 414
+0
+slicelen v1: 3 [2147483647 2147483648 2147483648]
+v2: 414
+slicelen v3: 2 [a foo bar]
+v4: -1
+slicelen v5: 1 [aa]
+v56: 0
+v58: false
+v6: a

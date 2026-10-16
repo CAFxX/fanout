@@ -1,0 +1,50 @@
+127 0.1 127
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+0 0 foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+0
+slicelen v1: 14 [ 
+	 hello a foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo barfoo bar]
+v11: 0
+v12: 0
+maplen v2: 0
+v3: -109
+v4: foo bar
+v5: 0.1
+slicelen v6: 0 []
+v61: 32767

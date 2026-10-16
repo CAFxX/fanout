@@ -1,0 +1,10 @@
+maplen v1: 0
+v11: -0.75
+v17: 65535
+maplen v2: 0
+slicelen v3: 3 [foo bar
+	hellohelloahello
+	aa hello 
+	]
+v4: -2
+maplen v5: 1

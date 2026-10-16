@@ -1,0 +1,11 @@
+255 0 0
+255 1 1
+255 2 2
+255 3 3
+255 4 4
+255 5 5
+v1: 253
+v2: true
+slicelen v3: 5 [hello a a foo bar 
+	a]
+maplen v4: 0

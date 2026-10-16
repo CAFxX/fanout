@@ -1,0 +1,8 @@
+820 820
+maplen v1: 0
+maplen v2: 0
+v24: 820
+slicelen v3: 3 [foo bar a 
+	]
+v4: 820
+slicelen v5: 2 [-9223372036854775808 107]

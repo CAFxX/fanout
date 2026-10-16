@@ -1,0 +1,16 @@
+2147483647
+580
+580
+580
+580
+maplen v1: 1
+slicelen v2: 1 [foo bara
+	
+	foo bar
+	]
+slicelen v3: 1 [2147483648]
+slicelen v4: 4 [ hello 
+	 ]
+v64: 580
+v71: 4294967295
+v74: 2

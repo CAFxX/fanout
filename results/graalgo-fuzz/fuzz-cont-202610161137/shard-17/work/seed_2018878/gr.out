@@ -1,0 +1,12 @@
+2147483648 2147483648
+32767 0 true
+slicelen v1: 2 [2147483648 42]
+maplen v2: 1
+maplen v3: 0
+v4: 0
+slicelen v5: 2 [
+	 hello
+	]
+v6: -6930
+v78: true
+v90: 32767
