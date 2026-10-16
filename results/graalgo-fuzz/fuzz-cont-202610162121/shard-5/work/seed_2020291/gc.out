@@ -1,0 +1,33 @@
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 0
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 1
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 2
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 3
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 4
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 5
+foo bara
+	foo barafoo bar 32767 32767
+32767 32768 6
+32767
+433 32578
+v1: foo bara
+	foo barafoo bar
+v12: 32767
+maplen v2: 0
+slicelen v3: 2 [foo bara
+	foo barafoo bar foo bara
+	foo barafoo bar]
+v4: 433
+v5: 65156
+v6: 32767

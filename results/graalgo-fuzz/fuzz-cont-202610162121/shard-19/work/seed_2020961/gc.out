@@ -1,0 +1,7 @@
+v1: 0.1
+v19: 0
+v2: 0
+v21: 255
+slicelen v3: 3 [
+	 a foo bara]
+slicelen v4: 1 [128]

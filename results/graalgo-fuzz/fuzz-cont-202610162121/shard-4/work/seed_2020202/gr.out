@@ -1,0 +1,13 @@
+foo bar
+v1: -1
+v2: 255
+v3: 255
+v30: 65534
+v31: 0
+v34: -1
+slicelen v4: 3 [hellohello 
+	hellofoo bar foo barfoo barfoo barfoo barfoo barfoo bar
+	foo barfoo barfoo barafoo bar
+	afoo bar]
+v5: foo bar
+v6: 32767

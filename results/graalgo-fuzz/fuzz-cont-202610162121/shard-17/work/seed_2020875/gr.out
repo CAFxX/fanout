@@ -1,0 +1,8 @@
+1e+10 100 203
+slicelen v1: 1 [2]
+v15: 100
+slicelen v2: 2 [-2147483648 32768]
+v20: 1e+10
+v3: 203
+v4: 0
+slicelen v5: 1 [foo bar]

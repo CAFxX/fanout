@@ -1,0 +1,7 @@
+v1: 32767
+v2: 32767
+v3: 893
+v4: helloa
+slicelen v5: 3 [foo barfoo bar
+	foo barfoo barfoo barfoo barfoo barfoo bar foo bar helloa]
+v6: 1000

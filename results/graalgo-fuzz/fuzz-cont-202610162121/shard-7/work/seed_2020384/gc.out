@@ -1,0 +1,10 @@
+1e+10 1e+10
+42 0 4294901992
+slicelen v1: 3 [ 
+	 foo bar]
+v11: 0
+slicelen v2: 9 [foo bar foo bar
+	 hello hello ahello ahello ahello ahello ahello]
+v3: 231
+v4: 4294901992
+v5: 0

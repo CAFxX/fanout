@@ -1,0 +1,15 @@
+a
+4294967294 0 aafoo bar
+4294967294 1 aafoo bar
+4294967294 2 aafoo bar
+4294967294 3 aafoo bar
+4294967294 4 aafoo bar
+4294967294 5 aafoo bar
+maplen v1: 0
+v2: aafoo baraafoo baraafoo bar
+slicelen v3: 3 [
+	a a a]
+v32: 4294967294
+v33: 1
+v38: 127
+v41: 65535

@@ -1,0 +1,13 @@
+foo bar 0 0
+foo bar 1 0
+foo bar 2 0
+foo bar 3 0
+foo bar 4 0
+v1: 
+v12: 127
+v17: -1e+10
+slicelen v18: 2 [-2147483648 128]
+v2: 0
+v21: 4.4444445e+08
+maplen v3: 0
+v4: 65535

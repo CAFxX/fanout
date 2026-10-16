@@ -1,0 +1,11 @@
+643
+0 false foo bar
+643
+v1: 642
+v2: 0
+v3: false
+maplen v4: 0
+v5: 643
+v6: foo bar
+v7: 1
+slicelen v8: 4 [-893 128 127 -9223372036854775808]

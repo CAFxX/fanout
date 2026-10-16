@@ -1,0 +1,9 @@
+true foo bar true
+v1: foo bar
+v100: -128
+v124: 42
+maplen v2: 0
+maplen v3: 2
+v4: 127
+slicelen v98: 0 []
+v99: false

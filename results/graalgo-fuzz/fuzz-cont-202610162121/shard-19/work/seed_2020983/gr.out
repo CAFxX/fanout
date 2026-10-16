@@ -1,0 +1,8 @@
+false false
+false false
+v1: false
+maplen v2: 0
+slicelen v3: 2 [
+	afoo bar a
+	]
+v4: false

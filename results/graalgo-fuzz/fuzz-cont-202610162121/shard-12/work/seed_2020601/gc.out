@@ -1,0 +1,50 @@
+32767
+2
+2147483648 0 -409
+2147483648 1 -409
+2147483648 2 -409
+2147483648 3 -409
+2147483648 4 -409
+2147483648 5 -409
+2147483648 6 -409
+2147483648 7 -409
+2147483648 8 -409
+2147483648 9 -409
+2147483648 10 -409
+2147483648 11 -409
+2147483648 12 -409
+2147483648 13 -409
+2147483648 14 -409
+2147483648 15 -409
+2147483648 16 -409
+2147483648 17 -409
+1 4294967295 -409
+v1: 32766
+v103: 65535
+maplen v2: 0
+slicelen v3: 20 [hellohelloaaahello
+	hellohello foo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar 
+	aafoo barfoo bar]
+v4: -32768
+maplen v5: 1
+v6: 2
+v86: -409
+v93: 4294967295
+v94: 1

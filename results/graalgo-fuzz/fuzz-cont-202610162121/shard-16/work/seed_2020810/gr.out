@@ -1,0 +1,35 @@
+478 0 hello
+478 1 hello
+478 2 hello
+478 3 hello
+478 4 hello
+478 5 hello
+478 6 hello
+478 7 hello
+478 8 hello
+478 9 hello
+478 10 hello
+478 11 hello
+478 12 hello
+478 13 hello
+478 14 hello
+478 2 hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+maplen v1: 0
+v10: hello
+v11: 524288
+v12: 478
+v13: 2
+slicelen v2: 4 [ foo barfoo bar
+	 foo barfoo bar hello]
+v3: hello
+maplen v4: 0
+maplen v5: 0

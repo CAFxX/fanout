@@ -1,0 +1,12 @@
+1 foo bar
+0 foo bar
+v1: foo bar
+v2: 4294967295
+maplen v3: 9
+v32: 1
+v4: 
+	foo bar
+v5: false
+v52: 32767
+v54: 186
+v6: -1

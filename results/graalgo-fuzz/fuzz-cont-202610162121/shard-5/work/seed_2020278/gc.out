@@ -1,0 +1,28 @@
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+true 1e+10 foo bar
+42 1e+10
+true
+18446744073709551615 true foo bar
+v1: 1e+10
+v2: foo bar
+v29: 18446744073709550654
+v3: true
+v30: 
+v31: foo barfoo barhellofoo barfoo bar
+v35: 151
+maplen v4: 1
+slicelen v5: 2 [foo bar foo bar]
+maplen v6: 0

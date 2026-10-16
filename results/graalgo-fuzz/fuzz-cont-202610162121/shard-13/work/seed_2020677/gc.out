@@ -1,0 +1,14 @@
+-2.25 false 3.14159
+0.1
+v1: 3.14159
+v16: 0.1
+v2: false
+maplen v3: 0
+v4: 1.5
+slicelen v5: 4 [
+	foo barfoo bar
+	 foo bar 
+	 
+	]
+v51: 32767
+v52: 451

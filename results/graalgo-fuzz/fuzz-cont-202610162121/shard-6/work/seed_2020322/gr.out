@@ -1,0 +1,12 @@
+1000 1000 2.25
+true 0
+1000 0 true
+maplen v1: 1
+v2: true
+v3: true
+slicelen v4: 1 [hello]
+v65: 42
+v66: 2.25
+v83: 0
+v85: 1000
+v90: 0

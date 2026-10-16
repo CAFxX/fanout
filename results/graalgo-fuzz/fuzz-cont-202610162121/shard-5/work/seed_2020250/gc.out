@@ -1,0 +1,9 @@
++Inf 165
+v1: 1
+v2: foo bar
+v3: +Inf
+v35: 165
+slicelen v4: 1 [foo bar]
+v5: 127
+v55: 518
+maplen v6: 0

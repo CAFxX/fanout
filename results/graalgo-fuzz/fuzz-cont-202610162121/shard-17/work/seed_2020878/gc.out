@@ -1,0 +1,19 @@
+0.1 119
+0 0.1
+0.1 119
+1 0.1
+0.1 119
+2 0.1
+0.1 0
+0 0.1 0.1
+slicelen v1: 1 [helloa]
+v15: 119
+slicelen v2: 2 [2147483647 128]
+v27: 0
+v3: 0.1
+v31: 2
+v34: 255
+slicelen v4: 4 [hello hello 
+	
+	a
+	foo barfoo barfoo barhellofoo barahello ]

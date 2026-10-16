@@ -1,0 +1,13 @@
+66 66 66
+698 0 -136
+698
+maplen v1: 0
+maplen v2: 0
+v22: 0
+v29: 698
+v3: -136
+v30: 2147483648
+slicelen v4: 0 []
+v5: 0
+slicelen v6: 4 [ foo barhello 
+	 hello]

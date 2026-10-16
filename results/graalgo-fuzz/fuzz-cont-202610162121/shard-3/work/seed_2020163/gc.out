@@ -1,0 +1,17 @@
+5
+0 5
+1 5
+2 5
+3 5
+4 5
+5 5
+v1: 155
+maplen v2: 1
+slicelen v3: 3 [
+	foo barhello  foo bar]
+v34: 255
+v35: hello
+v39: -246
+slicelen v4: 1 [ahello]
+slicelen v5: 4 [hello hello a a]
+v6: 5
