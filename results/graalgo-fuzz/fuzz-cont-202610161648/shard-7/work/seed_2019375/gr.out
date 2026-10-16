@@ -1,0 +1,5 @@
+maplen v1: 0
+v2: 0
+v3: hellohellofoo bar
+slicelen v4: 10 [foo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar hellohellofoo barhellohellofoo bar]
+v44: 18446744073709551615

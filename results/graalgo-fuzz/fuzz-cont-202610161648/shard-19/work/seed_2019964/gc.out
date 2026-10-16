@@ -1,0 +1,13 @@
+0 2
+1 2
+2 -1
+v1: -42
+slicelen v2: 3 [hellofoo bar
+	a foo bar foo bar]
+v3: 2
+v30: 1e+10
+v31: -544
+v32: 0
+v34: 472
+v4: -1
+v8: 2

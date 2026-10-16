@@ -1,0 +1,12 @@
+5 2
+21 2
+777 true -2147483648
+255 255
+v1: -2147483648
+v2: 777
+v3: -2147483477
+v30: 255
+v4: true
+v5: 6.28318
+slicelen v6: 20 [ 
+	 foo bar hello a a a a a a a a a a a a a a a a]

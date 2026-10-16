@@ -1,0 +1,14 @@
+32768 32768
+slicelen v1: 0 []
+v14: 0
+v15: 42
+v16: 352
+v17: 208
+maplen v2: 1
+v3: 2
+v4: 128
+slicelen v5: 2 [foo bar
+	a 
+	]
+slicelen v6: 3 [hello foo bar
+	 hello]

@@ -1,0 +1,10 @@
+42 65535
+v1: 0
+v17: 100
+slicelen v2: 4 [
+	hellohello 
+	foo barhello
+	hellohelloa hello foo bar]
+v20: 655
+maplen v3: 0
+v4: 42

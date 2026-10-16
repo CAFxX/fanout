@@ -1,0 +1,14 @@
+-2.25 false
+42 42 42
+v1: -2.25
+v12: 42
+v13: 1.00000000015e+10
+v15: 65535
+v16: 0
+v18: 42
+maplen v2: 0
+v3: false
+slicelen v4: 2 [a 
+	foo barafoo bar
+	a]
+maplen v5: 0

@@ -1,0 +1,10 @@
+slicelen v1: 4 [
+	foo barfoo bar
+	hellohello
+	  
+	 hello]
+v16: hellofoo bar
+maplen v2: 0
+v3: 0
+v7: -101
+v8: 128

@@ -1,0 +1,12 @@
+0 true -1e+10
+-9223372036854775808 hello -9223372036854775808
+v1: true
+v14: -9223372036854775808
+v2: 2147483647
+maplen v3: 0
+v4: -1e+10
+maplen v5: 0
+v6: hello
+v7: hellohello
+	foo bar
+v8: 0

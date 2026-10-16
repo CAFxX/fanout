@@ -1,0 +1,17 @@
+true
+true
+-1 0
+3.14159 360 3.14159
+maplen v1: 0
+v10: 360
+v11: 3.14159
+v12: 0
+v14: -128
+maplen v2: 0
+v3: true
+slicelen v4: 4 [foo bar hellohelloafoo barhelloa
+	 hello a
+	afoo bara]
+slicelen v5: 2 [-666 -836]
+maplen v6: 0
+v8: 360

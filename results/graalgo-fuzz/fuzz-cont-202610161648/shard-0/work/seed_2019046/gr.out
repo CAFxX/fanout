@@ -1,0 +1,10 @@
+1 116 116
+v1: -610
+v15: 37
+maplen v2: 0
+v3: hello
+v4: 1
+v48: false
+v49: 37
+slicelen v5: 17 [
+	 foo bar hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]

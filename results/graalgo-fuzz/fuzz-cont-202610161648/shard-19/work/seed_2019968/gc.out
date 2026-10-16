@@ -1,0 +1,16 @@
+foo bar
+	
+	
+	 24
+maplen v1: 0
+slicelen v2: 3 [2147483648 2147483647 2147483647]
+maplen v3: 0
+v4: 0
+v5: foo bar
+	
+	
+	
+v52: 504
+v53: 24
+v54: 4294967295
+slicelen v6: 4 [2 0 42 173]

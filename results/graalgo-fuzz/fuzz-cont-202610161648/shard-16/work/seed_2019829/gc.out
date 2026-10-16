@@ -1,0 +1,16 @@
+255 626 false
+626
+v1: 84
+v2: false
+maplen v3: 0
+v39: 0
+slicelen v4: 4 [foo bar hello a 
+	]
+v44: 626
+v45: -41
+v46: 255
+slicelen v5: 4 [ foo bar a
+	
+	
+	aa foo barfoo baraafoo barhellofoo barfoo bar]
+v6: 626

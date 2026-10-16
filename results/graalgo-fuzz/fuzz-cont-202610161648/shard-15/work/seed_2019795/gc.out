@@ -1,0 +1,8 @@
+v1: 3
+v106: 621
+v107: 0
+slicelen v2: 0 []
+v3: 9223372036854775807
+v4: 32767
+v5: afoo bar
+slicelen v6: 2 [helloa afoo barfoo barhelloafoo barafoo barafoo bar]

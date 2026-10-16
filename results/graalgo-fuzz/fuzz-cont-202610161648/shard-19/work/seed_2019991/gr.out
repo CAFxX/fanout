@@ -1,0 +1,7 @@
+true true 572
+v1: true
+slicelen v2: 5 [foo barfoo barfoo bar hello a foo bar 
+	]
+v20: true
+v3: 572
+v4: 3.14159

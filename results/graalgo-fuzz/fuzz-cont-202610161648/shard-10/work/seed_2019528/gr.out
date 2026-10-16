@@ -1,0 +1,59 @@
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+468
+-1 foo bar 1
+874 0
+874 1
+874 2
+874 3
+874 4
+874 5
+874 6
+874 7
+874 8
+874 9
+874 10
+874 11
+874 12
+874 13
+874 14
+1749 1749 hello
+-1 hello 4294967295
+-1
+v1: 1749
+maplen v2: 0
+slicelen v3: 1 [404]
+v36: -2147483648
+maplen v4: 0
+v41: hello
+v44: -1
+maplen v5: 0
+maplen v6: 0

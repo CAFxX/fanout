@@ -1,0 +1,7 @@
+maplen v1: 1
+slicelen v2: 1 [hello]
+v23: true
+v3: 10
+maplen v4: 0
+v40: 4294967295
+v5: 18446744073709551615

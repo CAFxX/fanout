@@ -1,0 +1,10 @@
+hello hello hello
+v1: hello
+slicelen v2: 3 [-1 2147483647 127]
+maplen v3: 0
+v4: hello
+v5: 4294967295
+v6: hello
+v7: 9223372036854775807
+v8: 3.14159
+v9: 1e+10

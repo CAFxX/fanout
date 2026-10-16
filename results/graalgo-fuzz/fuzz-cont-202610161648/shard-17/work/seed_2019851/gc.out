@@ -1,0 +1,10 @@
+0 foo barhello foo barhello
+foo barhello 0 1
+foo barhello foo barhello
+v1: 1
+v2: -1
+v3: foo barhello
+v4: foo barhello
+maplen v5: 0
+v65: foo barhello
+slicelen v98: 3 [4294967295 4294967295 2147483647]

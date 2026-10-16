@@ -1,0 +1,14 @@
+foo bar 127
+127 foo bar
+-128 127 31.4159
+-128 -2
+v1: foo barfoo bar
+	
+v12: 46
+v13: foo barfoo bar
+	
+maplen v2: 0
+slicelen v3: 2 [foo bar hello]
+v4: -2
+v6: 31.4159
+v7: -128

@@ -1,0 +1,49 @@
+60 
+	hellofoo baraahellofoo bar
+128 42
+84 2147483647
+84 2147483647
+84 2147483647
+84 2147483647
+84 2147483647
+84 2147483647
+84 2147483647
+84 2147483647
+
+	hellofoo baraahellofoo bar 0 0
+
+	hellofoo baraahellofoo bar 1 1
+
+	hellofoo baraahellofoo bar 2 2
+
+	hellofoo baraahellofoo bar 3 3
+
+	hellofoo baraahellofoo bar 4 4
+
+	hellofoo baraahellofoo bar 5 5
+
+	hellofoo baraahellofoo bar 0 0
+
+	hellofoo baraahellofoo bar 1 1
+
+	hellofoo baraahellofoo bar 2 2
+
+	hellofoo baraahellofoo bar 3 3
+
+	hellofoo baraahellofoo bar 4 4
+
+	hellofoo baraahellofoo bar 5 5
+9223372036854775807
+v1: 84
+v10: 2147483647
+v18: -1
+v2: 
+	hellofoo baraahellofoo bar
+v3: 127
+v4: 60
+v42: 3.14159
+v43: 3.14159
+v5: 128
+maplen v6: 1
+v8: 906
+v9: 9223372036854775807

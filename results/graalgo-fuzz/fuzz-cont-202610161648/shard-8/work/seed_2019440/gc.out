@@ -1,0 +1,16 @@
+255 1
+1 1 255
+1 1 255
+1 1 255
+1 1 255
+1 1 255
+v1: 1
+v11: 1
+slicelen v2: 3 [
+	hello foo bar foo bara
+	hello]
+v3: 42
+slicelen v4: 3 [ foo bar 
+	]
+v5: 255
+v6: 1

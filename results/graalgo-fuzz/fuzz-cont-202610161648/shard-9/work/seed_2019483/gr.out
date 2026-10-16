@@ -1,0 +1,14 @@
+3.14159 3.14159
+foo barhelloahello 3.14159
+foo barhelloahello
+3.14159 foo barhelloahello
+slicelen v1: 1 [foo barhello
+	foo bar]
+maplen v2: 0
+maplen v3: 0
+v4: foo barhelloahello
+v5: 1e+10
+maplen v6: 0
+v69: 3.14159
+v83: 1
+v84: 2

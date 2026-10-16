@@ -1,0 +1,14 @@
+-2147483648 127
+true
+v1: -2147483648
+v11: -1e+20
+v17: true
+v2: 0
+v21: 255
+v25: -2147483648
+slicelen v3: 2 [afoo bar
+	hellofoo barhello
+	
+	foo barhellofoo barfoo bar ]
+maplen v4: 0
+v50: 532

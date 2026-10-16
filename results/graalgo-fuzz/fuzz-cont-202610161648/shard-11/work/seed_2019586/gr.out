@@ -1,0 +1,16 @@
+-588 3.14159
+hellofoo barfoo bara
+v1: -588
+v16: hellofoo barfoo bara
+slicelen v2: 3 [ 
+	hello foo bar]
+v25: 3.14159
+v26: true
+v27: 3.1415900010761177e+10
+v28: 255
+v29: 255
+maplen v3: 0
+v30: 255
+maplen v4: 1
+v5: 42
+v6: foo bar

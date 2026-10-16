@@ -1,0 +1,12 @@
+false 1000 1000
+false
+127
+slicelen v1: 2 [foo bar 
+	]
+v2: 127
+v3: false
+v30: 3.14159
+v31: 127
+v4: false
+v42: 1e+10
+v43: 943

@@ -1,0 +1,14 @@
+0 false false
+v1: 65535
+v13: false
+v14: 42
+v15: 0
+v2: 65535
+v3: 42
+v4: 9223372036854775807
+slicelen v5: 1 [
+	foo barhellohelloahellofoo barafoo bar
+	
+	hellohello]
+v6: -996
+v7: -39

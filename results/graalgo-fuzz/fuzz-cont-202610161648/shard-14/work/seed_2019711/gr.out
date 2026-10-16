@@ -1,0 +1,9 @@
+1.5 0
+42 1.5
+maplen v1: 0
+v2: 1.5
+slicelen v3: 3 [hello a a]
+v32: ahellohelloa
+maplen v4: 0
+v5: 42
+maplen v6: 0

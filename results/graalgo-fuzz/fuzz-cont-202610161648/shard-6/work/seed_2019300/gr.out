@@ -1,0 +1,7 @@
+2 1
+slicelen v1: 4 [2 2147483647 2147483648 2147483647]
+maplen v2: 1
+slicelen v3: 3 [ 
+	foo bar ]
+v41: 1
+v42: 4

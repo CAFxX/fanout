@@ -1,0 +1,9 @@
+slicelen v1: 5 [a foo bar hello hello a
+	ahello]
+v12: 0
+v18: false
+v2: 1e+10
+v3: -3.1415902e+10
+slicelen v4: 5 [0 441 0 151 2]
+v5: 4294967294
+v6: 2147483648

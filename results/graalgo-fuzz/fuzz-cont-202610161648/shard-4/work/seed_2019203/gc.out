@@ -1,0 +1,6 @@
+true foo bar
+v1: 568
+v2: foo bar
+maplen v3: 0
+slicelen v4: 0 []
+v57: true

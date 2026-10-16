@@ -1,0 +1,35 @@
+0 42
+1 42
+2 42
+3 42
+4 42
+5 42
+6 42
+7 42
+42 -9223372036854775808
+2 false 0
+5 false 0
+11 false 1
+23 false 1
+47 false 2
+95 false 2
+191 false 3
+127 false 3
+255 false 4
+255 false 4
+255 false 5
+255 false 5
+255 false 6
+255 false 6
+255 false 7
+255 false 7
+v1: false
+v17: 9223372036854775807
+maplen v2: 1
+v3: 4294967295
+v4: 42
+v5: 32767
+maplen v6: 3
+slicelen v72: 0 []
+v80: 65535
+v81: 255

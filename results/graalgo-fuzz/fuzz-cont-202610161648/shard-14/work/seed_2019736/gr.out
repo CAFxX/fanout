@@ -1,0 +1,12 @@
+1 -9223372036854775808
+afoo barfoo bara
+	foo barahello
+v1: -9223372036854775808
+v10: afoo barfoo bara
+	foo barahello
+v11: 42
+v2: -9223372036854775808
+v3: 1
+v4: 42
+v5: 1
+slicelen v6: 2 [127 127]
