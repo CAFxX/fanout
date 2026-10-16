@@ -1,0 +1,21 @@
+1
+v1: 
+	foo bar
+	hello
+	
+	
+v2: 18446744073709551615
+v3: 2
+v4: -1
+v45: 1
+slicelen v46: 4 [0 -934 32767 32767]
+v49: 
+	foo bar
+	hello
+	
+	
+	foo bar
+	hello
+	
+	
+v5: 0

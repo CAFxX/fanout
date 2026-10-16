@@ -1,0 +1,89 @@
+42 0 0
+0
+1
+2
+3
+4
+5
+6
+helloa 0
+helloa 0
+helloa 0
+helloa 0
+helloa 0
+42 1 1
+helloa 1
+helloa 1
+helloa 1
+helloa 1
+helloa 1
+42 2 2
+helloa 2
+helloa 2
+helloa 2
+helloa 2
+helloa 2
+42 3 3
+helloa 3
+helloa 3
+helloa 3
+helloa 3
+helloa 3
+42 4 4
+helloa 4
+helloa 4
+helloa 4
+helloa 4
+helloa 4
+42 5 5
+helloa 5
+helloa 5
+helloa 5
+helloa 5
+helloa 5
+42 6 6
+helloa 6
+helloa 6
+helloa 6
+helloa 6
+helloa 6
+42 7 7
+helloa 7
+helloa 7
+helloa 7
+helloa 7
+helloa 7
+42 8 8
+helloa 8
+helloa 8
+helloa 8
+helloa 8
+helloa 8
+42 9 9
+helloa 9
+helloa 9
+helloa 9
+helloa 9
+helloa 9
+42 10 10
+helloa 10
+helloa 10
+helloa 10
+helloa 10
+helloa 10
+42 11 11
+helloa 11
+helloa 11
+helloa 11
+helloa 11
+helloa 11
+0 helloa
+maplen v1: 0
+slicelen v2: 1 [
+	]
+v28: helloa
+slicelen v3: 6 [2147483647 4294967295 4294967295 4294967295 4294967295 2]
+v33: 0
+maplen v4: 0
+v5: foo bar
+v6: 42

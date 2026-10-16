@@ -1,0 +1,10 @@
+-2147483648 0 -2147483648
+true
+v1: true
+v2: 2
+v20: 0
+slicelen v3: 1 [2147483647]
+v4: -2147483648
+maplen v5: 0
+slicelen v6: 4 [afoo barhello foo bar
+	  foo bar]

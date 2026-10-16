@@ -1,0 +1,16 @@
+0 204
+0 0 0.1
+0 0 0.1
+0 0 0.1
+0 0 0.1
+0 0 0.1
+0 0 0.1
+204 204 0.1
+v1: 0
+maplen v2: 0
+v20: 642
+maplen v3: 0
+slicelen v4: 4 [hello 
+	hello
+	 a foo bar]
+v5: 0.1

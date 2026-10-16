@@ -1,0 +1,9 @@
+-4.5 9223372036854775807
+maplen v1: 1
+v10: foo barhello
+maplen v2: 0
+maplen v3: 0
+v4: -4.5
+v5: 32767
+slicelen v6: 5 [128 -32767 1 32767 32767]
+v7: 0

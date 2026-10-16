@@ -1,0 +1,38 @@
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
+hello 32767
++Inf 32767 foo bar
++Inf 32767 foo bar
++Inf 32767 foo bar
++Inf 32767 foo bar
++Inf 32767 foo bar
++Inf 32767 foo bar
++Inf 32767 foo bar
++Inf 32767 foo bar
+1
+v1: foo bar
+v2: 32407
+v3: 259
+v36: 0.1
+v37: true
+v38: 4294967295
+v39: 1
+slicelen v4: 13 [337 4294967295 0 385 1528 1528 1528 1528 1528 1528 1528 1528 382]
+v5: NaN

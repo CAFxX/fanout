@@ -1,0 +1,66 @@
+maplen v1: 0
+v16: 
+	hellohello
+v17: 1
+v18: 2147483647
+v19: 255
+slicelen v2: 3 [2147483648 4294967295 605]
+v20: 18446744073709551353
+v21: 0
+maplen v3: 0
+slicelen v4: 51 [helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello helloafoo bar
+	foo barafoo barhellohello]
+maplen v5: 0
+v6: -562
+v68: 3.14159
+v69: 2147483647

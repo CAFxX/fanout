@@ -1,0 +1,19 @@
+foo bar
+	hello 3.14159 3.14159
+-35
+4294967295
+v1: 1
+slicelen v11: 2 [9223372036854775807 -1]
+v12: foo barfoo bar
+v13: -35
+v14: foo bar
+	hellofoo barfoo bar
+v15: 3.14159
+v16: 1
+v18: 4294967295
+v2: foo bar
+	hello
+v3: 3.14159
+v4: 9223372036854775807
+maplen v5: 0
+maplen v6: 0

@@ -1,0 +1,17 @@
+4294967295 foo barfoo barfoo bar
+	 foo barfoo barfoo bar
+	
+foo barfoo barfoo bar
+	 272
+18446744069414584320 4294967295
+v1: 4294967295
+v10: foo barfoo barfoo bar
+	
+slicelen v11: 1 [-111]
+v13: 0
+v15: 315
+maplen v2: 0
+v3: 18446744069414584320
+v4: 272
+v5: 14.25
+maplen v6: 0

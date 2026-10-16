@@ -1,0 +1,11 @@
+42 -43 -43
+-43 -43 -43
+42 42 970
+v1: 42
+v15: foo bar
+slicelen v2: 3 [32767 42 -146]
+v3: -43
+slicelen v4: 2 [foo bar 
+	foo barhellofoo bar
+	foo bar]
+v7: 970

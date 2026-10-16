@@ -1,0 +1,15 @@
+foo barhellofoo bar
+	
+maplen v1: 0
+slicelen v2: 3 [a  foo barhellofoo bar
+	]
+v3: foo barhellofoo bar
+	
+v65: foo barhellofoo bar
+	
+v66: foo barhellofoo bar
+	
+v67: 255
+v68: -42
+v69: 751
+v70: 0

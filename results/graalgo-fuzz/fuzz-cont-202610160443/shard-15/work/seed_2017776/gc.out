@@ -1,0 +1,13 @@
+584 65535 65535
+584 65535
+v1: 584
+v12: hello
+v13: foo bar
+v14: 0
+v15: 0
+v17: 
+maplen v2: 0
+v3: 65535
+v4: 0
+slicelen v5: 4 [hello
+	 afoo bar a a]

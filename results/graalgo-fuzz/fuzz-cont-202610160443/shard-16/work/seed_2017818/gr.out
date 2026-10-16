@@ -1,0 +1,20 @@
+true -2.25 -2.25
+true -2.25 0
+true -2.25 1
+true -2.25 2
+true -2.25 3
+true -2.25 4
+true -2.25 5
+true -2.25 6
+true -2.25 7
+true -1 -2.25
+27.552197 42 true
+maplen v1: 0
+v15: 42
+v17: -3.375
+slicelen v2: 1 [hello]
+v3: -1
+v4: true
+maplen v5: 0
+maplen v6: 0
+v7: 27.552197

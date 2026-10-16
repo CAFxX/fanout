@@ -1,0 +1,12 @@
+-2147483648 4294967295
+slicelen v1: 4 [hello 
+	helloaafoo barfoo bar
+	
+	 hellofoo bar 
+	]
+v2: -2147483648
+v23: 4294967295
+maplen v3: 0
+maplen v4: 0
+v65: a
+v66: 0

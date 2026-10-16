@@ -1,0 +1,14 @@
+foo bar foo bar 42
+foo bar 3.14159 hello
+42
+v1: foo bar
+v13: hello
+v14: 42
+v15: -2.25
+v16: 308
+maplen v2: 0
+v20: -9.9999999985e+09
+v21: 3.14159
+v28: foo bar
+v3: 42
+v4: foo bar

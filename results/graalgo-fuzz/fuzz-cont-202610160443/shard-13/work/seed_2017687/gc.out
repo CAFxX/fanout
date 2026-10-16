@@ -1,0 +1,10 @@
+0.1 a
+741 741
+slicelen v1: 4 [a 
+	foo bar foo bar a]
+slicelen v2: 0 []
+v3: 741
+v4: a
+v5: 0.1
+v6: -1
+v7: 0

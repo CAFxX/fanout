@@ -1,0 +1,11 @@
+foo barfoo bar 42
+0 foo barfoo bar
+1 foo barfoo bar
+2 foo barfoo bar
+3 foo barfoo bar
+4 foo barfoo bar
+slicelen v1: 2 [-240 -9223372036854775808]
+v2: foo barfoo bar
+v3: 42
+v5: 4294967295
+v9: 1e+10

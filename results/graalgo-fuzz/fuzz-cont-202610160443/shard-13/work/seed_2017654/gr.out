@@ -1,0 +1,16 @@
+v1: a
+slicelen v2: 3 [
+	 
+	foo bara
+	foo barfoo bar
+	foo bara
+	foo barfoo barhello
+	foo bara
+	foo barfoo bar 
+	]
+v26: 1
+v3: a
+maplen v4: 0
+v5: 0
+slicelen v6: 2 [hello ]
+v9: a

@@ -1,0 +1,12 @@
+1e+10
+1e+10 1e+10 1
+128 1 1
+v1: 1
+v11: 128
+slicelen v2: 2 [foo bar hello]
+v27: 2
+v28: 1
+v3: 1e+10
+v4: 1
+v5: 100
+slicelen v6: 1 [16]

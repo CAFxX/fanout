@@ -1,0 +1,10 @@
+true 32767
+slicelen v1: 3 [a foo bar foo bar]
+v2: 32767
+v3: 1
+v45: true
+v62: 0
+v68: true
+v75: false
+v76: 108
+v81: -9.9999999999e+09

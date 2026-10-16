@@ -1,0 +1,15 @@
+9223372036854775807 32767
+slicelen v1: 5 [a 
+	 
+	 hello aaaaaaa]
+v10: 0
+v2: foo baraafoo baraafoo baraaaaaa
+	aaaaaaaaaaaaaaaaafoo baraaaa
+v3: 9223372036854775807
+maplen v4: 0
+v5: aa
+v6: 32767
+v7: 578
+v8: aaaaaaa
+v9: foo baraafoo baraafoo baraaaaaa
+	aaaaaaaaaaaaaaaaafoo baraaa

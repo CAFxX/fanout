@@ -1,0 +1,11 @@
+29 29
+foo barfoo barfoo bara
+	foo barfoo bara 0
+v1: 1
+v2: foo bar
+v3: 0
+slicelen v4: 22 [hello foo barhellofoo barfoo barfoo bar
+	foo barfoo barfoo barfoo barafoo bar a foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar]
+v7: 29
+v8: foo barfoo barfoo bara
+	foo barfoo bara
