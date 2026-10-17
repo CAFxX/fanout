@@ -1,0 +1,12 @@
+1 1 23
+v1: 3
+v19: a
+slicelen v2: 3 [aa
+	 
+	hellohello a
+	foo bara
+	helloahellofoo barhello]
+slicelen v3: 1 [0]
+v4: 23
+slicelen v5: 4 [1 1 1 57]
+v6: 1

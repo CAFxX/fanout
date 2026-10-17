@@ -1,0 +1,10 @@
+0
+1000
+65223 1000
+slicelen v1: 1 [
+	
+	hellohellofoo barfoo bar]
+v2: 1000
+v3: 65223
+slicelen v4: 1 [foo bar]
+v5: 0

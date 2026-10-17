@@ -1,0 +1,17 @@
+-194 0
+-194 1
+-194 2
+-194 3
+-194 4
+-194 5
+
+	 
+	 
+	
+slicelen v1: 3 [
+	hellohellohellofoo barfoo bar
+	 helloafoo bar a]
+v12: -194
+v2: 0
+v22: a
+slicelen v3: 8 [-370 4294967295 32767 0 1 2 3 4]

@@ -1,0 +1,11 @@
+slicelen v1: 4 [hello hello afoo bar hello]
+v18: 1e+10
+slicelen v2: 2 [2147483647 2147483647]
+v28: -170
+v29: 170
+maplen v3: 0
+v38: 924
+v39: 54
+maplen v4: 20
+v41: 0
+v43: false

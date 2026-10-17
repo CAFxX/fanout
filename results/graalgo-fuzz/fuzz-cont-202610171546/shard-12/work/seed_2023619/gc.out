@@ -1,0 +1,8 @@
+false
+slicelen v1: 0 []
+slicelen v2: 2 [foo barfoo bar
+	 hellohello
+	]
+maplen v3: 0
+v4: false
+maplen v5: 0

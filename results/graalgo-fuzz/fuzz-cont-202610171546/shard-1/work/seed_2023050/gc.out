@@ -1,0 +1,14 @@
+59 761 761
+1000 59
+4294967236 foo bar foo bar
+maplen v1: 0
+slicelen v2: 2 [138 326]
+v21: 32767
+v22: 59
+v25: 1000
+v26: foo bar
+v27: 1000
+v3: 4294967236
+slicelen v4: 2 [4294966534 761]
+slicelen v5: 1 [1522]
+maplen v6: 0

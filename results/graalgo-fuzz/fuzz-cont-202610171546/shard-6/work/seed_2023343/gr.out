@@ -1,0 +1,9 @@
+3.14159
+1000 0
+slicelen v1: 0 []
+slicelen v2: 2 [foo bar foo bar]
+v3: 3.14159
+v32: 0
+slicelen v4: 3 [103 840 42]
+v5: 0
+v80: false

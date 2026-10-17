@@ -1,0 +1,10 @@
+-29
+maplen v1: 1
+v14: 233
+v2: hellohelloa
+	
+	foo barfoo bar
+v3: -29
+v4: 96
+v7: 65535
+slicelen v9: 4 [-9223372036854775808 232 -1 32768]

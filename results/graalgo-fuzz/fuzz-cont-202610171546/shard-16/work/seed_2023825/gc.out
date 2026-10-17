@@ -1,0 +1,14 @@
+119
+foo bar 1470 false
+-2147483648 foo bar
+1470 -2147483648
+0 96
+0 96
+v1: foo bar
+maplen v2: 1
+v3: 0
+v4: 96
+v5: false
+v6: 0
+v83: 327
+v84: 42

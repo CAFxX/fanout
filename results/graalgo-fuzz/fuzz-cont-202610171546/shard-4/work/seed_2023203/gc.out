@@ -1,0 +1,14 @@
+0 128
+slicelen v1: 1 [ahellofoo barhello
+	
+	hello
+	
+	a
+	a]
+v2: 128
+slicelen v3: 8 [2147483647 2 2 2 2 2 2 2]
+v4: 0
+v5: 0.1
+v6: 0
+v7: 1.5431422
+v8: 0

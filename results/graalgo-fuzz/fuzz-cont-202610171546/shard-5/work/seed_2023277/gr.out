@@ -1,0 +1,13 @@
+127
+65493
+slicelen v1: 4 [
+	 
+	 foo bar ]
+slicelen v2: 3 [foo bar  hello]
+v27: 65493
+v28: 127
+maplen v3: 2
+v30: 42
+maplen v4: 0
+v5: true
+v6: false

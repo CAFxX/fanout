@@ -1,0 +1,51 @@
+42 -473
+1 -473 -14
+42 1 42
+-14
+1 1
+1 1
+1 1
+1 1
+-14
+1 1
+1 1
+1 1
+1 1
+-14
+1 1
+1 1
+1 1
+1 1
+-14
+1 1
+1 1
+1 1
+1 1
+-14
+1 1
+1 1
+1 1
+1 1
+-14
+1 1
+1 1
+1 1
+1 1
+-14
+1 1
+1 1
+1 1
+1 1
+v1: 
+	foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+v2: 42
+v3: -473
+maplen v4: 16
+v43: 472
+v45: -14
+v5: 1
+v50: 1.5
+slicelen v51: 2 [32768 834]
+v54: false
+v57: 1
+v70: 0

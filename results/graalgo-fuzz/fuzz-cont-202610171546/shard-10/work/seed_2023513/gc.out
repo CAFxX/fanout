@@ -1,0 +1,11 @@
+12 foo bar foo bar
+32767
+v1: 32767
+slicelen v2: 2 [32767 332]
+v3: 151
+maplen v4: 2
+v5: 12
+v6: foo barfoo bar
+v68: -182
+v69: 1
+v70: 127

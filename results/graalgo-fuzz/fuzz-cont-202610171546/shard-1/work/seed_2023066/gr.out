@@ -1,0 +1,13 @@
+117 -128 117
+v1: 117
+v10: 3201
+v12: 42
+v13: 875
+maplen v2: 1
+slicelen v3: 3 [
+	 
+	foo baraa foo bar
+	a]
+v4: -128
+v5: true
+v9: 447

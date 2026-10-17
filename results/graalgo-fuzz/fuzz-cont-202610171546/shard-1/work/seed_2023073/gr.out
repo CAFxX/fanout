@@ -1,0 +1,11 @@
+4 32767 192
+32767 -74 -74
+maplen v1: 4
+v19: 2
+v2: 32767
+v24: -74
+v26: 192
+slicelen v3: 4 [ aahellohello
+	 a ]
+v4: 4
+v5: true

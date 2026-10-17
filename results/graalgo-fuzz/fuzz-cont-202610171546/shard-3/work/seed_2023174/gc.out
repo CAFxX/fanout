@@ -1,0 +1,11 @@
+maplen v1: 1
+v15: 4398046511105
+v16: -936
+slicelen v2: 3 [foo bar foo bar hellofoo barfoo bara]
+v22: 4398046511105
+v23: 1
+v24: 2
+v3: true
+v4: -936
+v5: -2147483648
+v6: 2147483647

@@ -1,0 +1,22 @@
+2 42
+255 2 0
+255 2 1
+255 2 2
+255 2 3
+255 2 4
+255 2 5
+255 2 6
+255 2 7
+255 2 8
+255 102 2
+v1: 102
+v13: 2
+v2: 18446744073709547748
+v3: 255
+slicelen v4: 21 [ 
+	ahello
+	 hellohello foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo bar foo bar]
+v46: foo bar
+v5: 18446744073709551262
+v59: 65533
+v67: 1000

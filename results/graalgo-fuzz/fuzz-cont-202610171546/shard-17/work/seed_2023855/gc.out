@@ -1,0 +1,35 @@
+5 foo bar -32768
+foo barfoo barhello
+	foo bar
+1 foo barfoo barhello
+	foo bar a
+54833 foo barfoo barhello
+	foo bar a
+62817 foo barfoo barhello
+	foo bar a
+3473 foo barfoo barhello
+	foo bar a
+52929 foo barfoo barhello
+	foo bar a
+59633 foo barfoo barhello
+	foo bar a
+3105 foo barfoo barhello
+	foo bar a
+59473 foo barfoo barhello
+	foo bar a
+11649 foo barfoo barhello
+	foo bar a
+35761 foo barfoo barhello
+	foo bar a
+45793 foo barfoo barhello
+	foo bar a
+v1: 5
+v10: 0
+v12: foo barfoo barhello
+	foo bar
+v2: -32767
+maplen v3: 0
+v4: -32767
+v5: hellohello
+v82: 1.8000003
+v83: 9

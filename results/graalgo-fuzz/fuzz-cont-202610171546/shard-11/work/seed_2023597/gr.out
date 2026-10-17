@@ -1,0 +1,10 @@
+58 58
+0 0
+slicelen v1: 3 [hello a hello]
+slicelen v2: 1 [foo bar]
+slicelen v3: 4 [4294967295 0 4294967295 42]
+v4: -1
+v5: 58
+v50: 100
+v51: false
+slicelen v6: 3 [42 0 2147483647]

@@ -1,0 +1,10 @@
+42 hellofoo bar
+65534
+42 42
+v1: 42
+v18: 65534
+slicelen v2: 1 []
+v3: hellofoo bar
+maplen v4: 2
+v5: 65535
+v7: 4294967294

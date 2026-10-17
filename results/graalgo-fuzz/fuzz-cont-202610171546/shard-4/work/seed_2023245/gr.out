@@ -1,0 +1,14 @@
+1e+10
+slicelen v1: 4 [foo bar hello a ]
+v16: 
+	
+maplen v2: 0
+maplen v3: 0
+v4: true
+slicelen v5: 2 [foo bar afoo barfoo bara
+	foo bar
+	foo baraahello
+	]
+maplen v6: 0
+v8: 1e+10
+v95: false

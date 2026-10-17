@@ -1,0 +1,9 @@
+65535 2147483647
+slicelen v1: 3 [hello helloa hello
+	foo bar]
+v15: 0
+v16: 2147483647
+v17: 0
+v2: 2
+v3: false
+maplen v4: 1

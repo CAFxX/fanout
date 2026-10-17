@@ -1,0 +1,12 @@
+1 255
+255 afoo bar 255
+foo bar foo bar
+42
+255
+slicelen v1: 0 []
+maplen v2: 0
+v3: 1
+v36: 42
+v4: 255
+slicelen v5: 3 [736 1 128]
+v6: foo bar

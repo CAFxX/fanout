@@ -1,0 +1,29 @@
+ 0 42
+hello 1 42
+hello 2 42
+hello 3 42
+hello 4 42
+hello 5 42
+hello 6 42
+hello 7 42
+hello 8 42
+hello 9 42
+hello 10 42
+hello 11 42
+42 42 173
+32768
+32768
+32768
+32768
+1.5 42
+v1: 42
+v12: 32768
+maplen v2: 0
+v21: 173
+v22: hello
+v23: false
+slicelen v25: 1 [32768]
+v3: hello
+v4: 15834
+maplen v5: 0
+v6: 1.5

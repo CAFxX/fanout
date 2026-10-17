@@ -1,0 +1,14 @@
+521 521
+521 foo bar 521
+foo bar 0 1.5
+maplen v1: 0
+v2: 521
+slicelen v3: 3 [32767 -650 2147483647]
+v30: true
+v32: 31
+v33: 65535
+v4: -1
+maplen v5: 0
+v6: 0
+v7: foo bar
+v8: 1.5

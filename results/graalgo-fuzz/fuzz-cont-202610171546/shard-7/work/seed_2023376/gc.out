@@ -1,0 +1,10 @@
+true true
+true
+v1: true
+maplen v2: 0
+v3: 65535
+maplen v4: 0
+slicelen v5: 3 [
+	 foo barfoo bar 
+	ahelloafoo bara]
+v90: 127

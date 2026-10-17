@@ -1,0 +1,11 @@
+foo barfoo barfoo bar
+132
+maplen v1: 0
+maplen v2: 0
+v3: foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+v35: 132
+v38: 0
+slicelen v4: 4 [0 1 42 4294967295]
+v40: foo barfoo barfoo barfoo barfoo barfoo bar
+v41: 0
+maplen v5: 0
