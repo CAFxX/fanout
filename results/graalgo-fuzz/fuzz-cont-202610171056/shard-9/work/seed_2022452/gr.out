@@ -1,0 +1,72 @@
+42
+hello
+	foo bar
+	 hello
+	foo bar
+	 42
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+0
+hello
+	foo bar
+	 hello
+	foo bar
+	 0
+hello
+	foo bar
+	 hello
+	foo bar
+	
+0 hello
+	foo bar
+	 0
+0 hello
+	foo bar
+	
+1 1 0
+maplen v1: 0
+v103: 1
+slicelen v2: 2 [-210 131]
+v3: hello
+maplen v4: 0
+v5: -1

@@ -1,0 +1,28 @@
+164 0
+730 127
+maplen v1: 0
+v2: 65534
+v3: 127
+v31: 730
+v32: true
+v33: a
+	hello
+	hello
+	foo barhellohelloaahello
+	a
+	hello
+	hello
+	foo barhellohelloaahello
+	a
+v37: 1
+v38: 127
+v39: true
+v4: 
+	hello
+	hello
+	foo barhellohelloaahello
+	a
+v40: true
+v41: 1
+v5: 1
+v6: true

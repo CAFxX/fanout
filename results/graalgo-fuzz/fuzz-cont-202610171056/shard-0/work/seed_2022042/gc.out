@@ -1,0 +1,14 @@
+255
+v1: 255
+slicelen v2: 3 [foo bar a 
+	]
+maplen v3: 0
+slicelen v4: 6 [foo bar 
+	 
+	 a foo bar ]
+v87: true
+v88: foo bar
+v89: 0
+v93: true
+v97: false
+v99: 373

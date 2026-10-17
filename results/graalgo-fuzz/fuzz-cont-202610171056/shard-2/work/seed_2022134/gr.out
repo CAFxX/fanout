@@ -1,0 +1,19 @@
+false 32767 false
+-30 2 0
+-30 2 1
+-30 2 2
+-30 2 3
+-30 2 4
+-30 -30
+-30 false false
+-2 false
+false false
+-44 -30
+maplen v1: 0
+v2: true
+maplen v3: 0
+v4: -2
+v5: -30
+slicelen v58: 4 [-1 0 142 -415]
+maplen v6: 1
+v7: -44

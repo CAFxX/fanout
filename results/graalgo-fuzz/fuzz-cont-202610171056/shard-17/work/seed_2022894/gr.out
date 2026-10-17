@@ -1,0 +1,8 @@
+v1: -8
+slicelen v2: 2 [2147483648 42]
+slicelen v3: 5 [helloahellohello 
+	  a foo barfoo barhellohelloafoo bar
+	a]
+v4: -913
+v5: 242
+v7: -2147483644

@@ -1,0 +1,8 @@
+slicelen v1: 0 []
+v2: 0
+v23: 690
+v27: 2
+v28: 0
+v3: -2
+slicelen v4: 3 [ hello foo bar]
+slicelen v5: 1 [2147483648]

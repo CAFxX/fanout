@@ -1,0 +1,12 @@
+false 0
+slicelen v1: 4 [4294967294 2147483647 965 704]
+v16: 4294967294
+v17: false
+slicelen v2: 5 [6 2147483647 356 2147483648 1]
+v21: 42
+slicelen v3: 4 [
+	hellofoo bara a 
+	 hello]
+v4: true
+maplen v5: 0
+v6: 0

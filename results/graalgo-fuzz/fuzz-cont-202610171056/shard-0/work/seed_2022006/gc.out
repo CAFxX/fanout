@@ -1,0 +1,9 @@
+foo bara 42
+foo bara
+42
+-9223372036854775808
+v1: 1
+v12: 2147483647
+v2: 42
+v3: foo bara
+slicelen v4: 1 [65535]

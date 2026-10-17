@@ -1,0 +1,18 @@
+false a -2147483648
+false hello -2147483648
+false hello -2147483648
+false hello -2147483648
+hello 0.1
+0
+1
+2
+3
+4
+5
+0.1 0 false
+v1: a
+v2: 0.1
+slicelen v3: 1 [aaa]
+v4: -2147483648
+v5: false
+v9: 0

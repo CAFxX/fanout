@@ -1,0 +1,12 @@
+42 3.14159 9223372036854775807
+1
+9223372036854775807 882 3.14159
+v1: 3.14159
+v2: 2
+v3: 9223372036854775807
+slicelen v4: 15 [ foo bar hello
+	hello
+	 hello hello hello hello hello hello hello hello hello hello hello foo bar]
+slicelen v5: 3 [foo bar foo bar 
+	]
+v6: 882

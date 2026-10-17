@@ -1,0 +1,11 @@
+-785 65535 -785
+65535 -785
+2147483647 65535 65535
+slicelen v1: 3 [hellohellohellofoo bar hello foo bar]
+v10: 2147483647
+v2: 65535
+v3: -1607680
+slicelen v4: 3 [4294967295 32768 127]
+maplen v5: 0
+v6: 1
+v9: hello

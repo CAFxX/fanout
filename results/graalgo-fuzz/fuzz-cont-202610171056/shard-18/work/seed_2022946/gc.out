@@ -1,0 +1,26 @@
+-90 84
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+v1: -90
+maplen v2: 20
+v3: 1
+v31: 4294967295
+v32: 1
+slicelen v4: 1 [4294967295]
+v5: 0
+slicelen v6: 4 [foo bar  a
+	foo bara 
+	ahello
+	ahello]

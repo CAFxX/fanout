@@ -1,0 +1,67 @@
+true 2.8010102281 2.8010102281
+true 0 true
+true 0 0
+true 0 0
+true 0 0
+true 1 0
+true 1 0
+true 1 0
+true 2 0
+true 2 0
+true 2 0
+true 3 0
+true 3 0
+true 3 0
+true 4 0
+true 4 0
+true 4 0
+true 5 0
+true 5 0
+true 5 0
+true 6 0
+true 6 0
+true 6 0
+true 7 0
+true 7 0
+true 7 0
+true 8 0
+true 8 0
+true 8 0
+true 9 0
+true 9 0
+true 9 0
+true 10 0
+true 10 0
+true 10 0
+true 11 0
+true 11 0
+true 11 0
+true 12 0
+true 12 0
+true 12 0
+slicelen v1: 9 [hello
+	
+	foo bar
+	
+	a hello
+	
+	foo bar
+	
+	a hello
+	
+	foo bar
+	
+	a 
+	 
+	 
+	 
+	 
+	 
+	]
+v13: 2.8010102281
+slicelen v2: 0 []
+v3: true
+v4: 0
+v5: 127
+v50: 0
+v6: true

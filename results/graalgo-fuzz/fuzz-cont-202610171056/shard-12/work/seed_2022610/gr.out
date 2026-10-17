@@ -1,0 +1,12 @@
+10 10 10
+127
+v1: 
+	hello
+	foo bar
+slicelen v2: 0 []
+v27: 127
+v3: 10
+v32: 2147483647
+maplen v4: 1
+slicelen v5: 0 []
+v6: 10

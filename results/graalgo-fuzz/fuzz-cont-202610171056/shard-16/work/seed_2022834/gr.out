@@ -1,0 +1,58 @@
+-128 -128
+foo bar 0 -128
+foo bar 1 -128
+foo bar 2 -128
+foo bar 3 -128
+foo bar 4 -128
+foo bar 5 -128
+foo bar 6 -128
+foo bar 7 -128
+foo bar 8 -128
+foo bar 9 -128
+foo bar 10 -128
+foo bar 11 -128
+foo bar 0 -128
+foo bar 1 -128
+foo bar 2 -128
+foo bar 3 -128
+foo bar 4 -128
+foo bar 5 -128
+foo bar 6 -128
+foo bar 7 -128
+foo bar 8 -128
+foo bar 9 -128
+foo bar 10 -128
+foo bar 11 -128
+foo bar 0 -128
+foo bar 1 -128
+foo bar 2 -128
+foo bar 3 -128
+foo bar 4 -128
+foo bar 5 -128
+foo bar 6 -128
+foo bar 7 -128
+foo bar 8 -128
+foo bar 9 -128
+foo bar 10 -128
+foo bar 11 -128
+65535 42
+65535 42
+65535 42
+65535 42
+65535 42
+65535 42
+65535 42
+42 -60
+v1: foo bar
+v18: +Inf
+v19: 42
+v2: -60
+v25: 42
+slicelen v3: 0 []
+v30: true
+v31: 42
+v34: 489
+v35: NaN
+v36: 489
+v4: 0
+maplen v5: 1

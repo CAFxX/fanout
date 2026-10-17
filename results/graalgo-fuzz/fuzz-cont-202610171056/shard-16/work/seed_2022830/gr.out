@@ -1,0 +1,9 @@
+hello 1
+1000 1000
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 9 [hello 
+	 hellohello foo bar hellohello hellohello hellohello hellohello hellohello]
+v4: 0
+v45: 1000
+v5: hello

@@ -1,0 +1,16 @@
+127
+127
+127
+127
+127
+127
+127
+v1: 4294967295
+v10: 0
+v11: 43
+maplen v2: 0
+v3: 127
+slicelen v4: 4 [
+	  hello hellofoo bar]
+maplen v5: 0
+slicelen v6: 1 [2147483647]

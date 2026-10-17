@@ -1,0 +1,23 @@
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+-112 -112 -112
+v1: -112
+slicelen v2: 5 [
+	hello hello foo bar
+	hello 
+	 foo barhello]
+v26: 0
+v27: 1
+v29: 0.1
+v3: -112
+v4: 58
+slicelen v5: 0 []
+v6: 2

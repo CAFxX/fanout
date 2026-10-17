@@ -1,0 +1,20 @@
+
+	foo bar 1 -1
+625 -1 -1
+
+	foo bar
+
+	foo bar
+625 2
+111
+slicelen v1: 3 [32768 -689 61]
+v2: 111
+v28: 741
+v3: 625
+v33: 
+	foo bar
+maplen v4: 0
+v5: 1
+slicelen v6: 2 [0 111]
+v76: 2
+v79: true

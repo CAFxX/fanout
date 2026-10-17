@@ -1,0 +1,9 @@
+slicelen v1: 3 [1 1 2]
+v15: 1
+v16: foo barhellohellohellohellohello
+	hello
+v2: hello
+slicelen v3: 1 [-2147483648]
+maplen v4: 0
+maplen v5: 0
+slicelen v6: 0 []

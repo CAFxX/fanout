@@ -1,0 +1,9 @@
+foo bar
+-8.888889e+09 foo bar foo bar
+slicelen v1: 2 [foo bar a]
+v19: false
+maplen v2: 0
+v20: 18446744073709551615
+slicelen v3: 3 [1 -688 127]
+v4: -8.888889e+09
+v5: foo bar

@@ -1,0 +1,7 @@
+true true false
+v1: true
+v10: false
+v11: 42
+slicelen v2: 1 [hello]
+maplen v3: 0
+v9: 0

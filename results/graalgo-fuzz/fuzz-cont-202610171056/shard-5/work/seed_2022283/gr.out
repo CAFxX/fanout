@@ -1,0 +1,11 @@
+foo barfoo bar 32767 false
+v1: 32767
+v12: 
+v14: 1.49999999979e-10
+v2: foo bar
+slicelen v3: 1 [
+	foo bar]
+v4: false
+v5: foo barfoo bar
+v6: 0
+v7: 584

@@ -1,0 +1,17 @@
+746
+0 0
+1 1
+2 2
+maplen v1: 0
+v103: 0
+v104: 42
+v105: 18446744073709551573
+v107: 9223372036854775807
+maplen v2: 0
+slicelen v3: 5 [
+	helloafoo bar foo bar hello hellofoo bar a
+	foo bara
+	]
+maplen v4: 0
+v5: 18446744073709551615
+v97: 42

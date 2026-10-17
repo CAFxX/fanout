@@ -1,0 +1,12 @@
+594 0
+18446744073709551571 true 665
+65535 true 0
+v1: 0
+maplen v2: 1
+v21: 65535
+slicelen v3: 1 [hello]
+v38: 18446744073709551571
+v4: true
+v43: 0
+slicelen v5: 3 [foo bar
+	  hello]

@@ -1,0 +1,18 @@
+42
+42
+slicelen v1: 4 [68 32768 32767 128]
+v11: 
+	hellofoo barhellohellohello
+	
+maplen v2: 0
+v21: 
+	
+	hellofoo barhellohellohello
+	
+	hellofoo barhellohellohello
+	foo bar
+	hellofoo barhellohellohello
+	foo bar
+v25: 2147483645
+maplen v3: 1
+v4: 84
