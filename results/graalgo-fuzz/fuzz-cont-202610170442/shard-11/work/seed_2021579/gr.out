@@ -1,0 +1,14 @@
+0 0
+0
+0 0
+foo bar
+slicelen v1: 2 [aafoo bar foo bar]
+v2: 522
+v27: 0
+slicelen v3: 3 [a hello
+	 foo bar]
+v35: 522
+v4: 0
+v47: 128
+v5: 0
+v8: foo bar

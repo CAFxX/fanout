@@ -1,0 +1,14 @@
+32767 false
+v1: 105
+v14: 32767
+v2: a
+	
+v3: 32767
+v4: 431
+slicelen v5: 3 [foo barfoo bara
+	a
+	a
+	foo bar a
+	a
+	 hello]
+v9: true

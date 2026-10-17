@@ -1,0 +1,12 @@
+maplen v1: 1
+v14: hello
+	
+	a
+	
+	
+	foo bar
+	
+v15: 100
+slicelen v2: 3 [42 2 42]
+v3: 0.1
+v4: 4294966833

@@ -1,0 +1,9 @@
+2 false 42
+2 2 false
+v1: 0
+slicelen v2: 4 [ foo bar hello hello]
+v3: 42
+maplen v4: 1
+v41: false
+v5: 2
+v57: 788

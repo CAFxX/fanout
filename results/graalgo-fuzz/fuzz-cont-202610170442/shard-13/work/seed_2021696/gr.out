@@ -1,0 +1,17 @@
+-9223372036854775808
+v1: -9223372036854775808
+v2: 
+slicelen v3: 4 [afoo bar 
+	hello
+	aahello
+	
+	hellohelloahellohelloahellofoo barfoo barhellofoo barhello 
+	hello
+	aahello
+	
+	hellohelloahellohelloahellofoo barfoo barhellofoo bar 
+	helloa]
+v34: 
+	
+v35: true
+v36: -892

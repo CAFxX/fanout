@@ -1,0 +1,10 @@
+slicelen v1: 4 [
+	 
+	foo barfoo baraafoo barhelloa 
+	 aa]
+v2: aa
+maplen v3: 0
+v4: -124
+v8: -32767
+v91: 2147483648
+v92: 1

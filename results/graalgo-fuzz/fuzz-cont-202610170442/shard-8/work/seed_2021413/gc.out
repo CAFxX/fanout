@@ -1,0 +1,13 @@
+v1: -889
+v14: 1.5
+v15: 228
+v17: foo bar
+v18: 1000
+slicelen v2: 0 []
+v20: 
+v21: 0
+v22: true
+maplen v3: 1
+v4: 0
+v5: 234
+slicelen v6: 1 [foo bar]

@@ -1,0 +1,13 @@
+-9223372036854775808 0
+0
+582 0
+v1: -9223372036854775808
+v2: 0
+v21: foo bar
+v23: 582
+slicelen v3: 4 [foo bar hellohelloahelloaafoo bar 
+	 a
+	
+	afoo bar]
+v4: 0
+maplen v5: 0

@@ -1,0 +1,12 @@
+v1: 3.14159
+v14: -1
+v15: 1
+v16: 0
+maplen v2: 0
+slicelen v3: 9 [afoo barfoo barahellohellohello foo bar 
+	 a hello hellohello hellohello hellohello hellohello]
+v4: true
+slicelen v5: 9 [969 2147483647 2147483648 4294967295 1 1 1 1 1]
+v59: false
+maplen v6: 0
+v60: hello

@@ -1,0 +1,40 @@
+-569
+0 674
+v1: 674
+v10: 176
+v11: 674
+v13: hellohellofoo barhello
+	foo bara
+	
+v2: -1e+10
+v22: 16
+slicelen v3: 3 [
+	 hellofoo bar hellohellofoo barhello
+	foo bara
+	hellohellofoo barhello
+	foo bara
+	hellohellofoo barhello
+	foo bara
+	
+	hellohellofoo barhello
+	foo bara
+	hellohellofoo barhello
+	foo bara
+	
+	ahellohellofoo barhello
+	foo bara
+	hellohellofoo barhello
+	foo bara
+	
+	hellohellohellofoo barhello
+	foo bara
+	foo barhellohellofoo barhello
+	foo bara
+	]
+v4: hellohellofoo barhello
+	foo bara
+	
+maplen v5: 0
+v7: 0
+v8: -8437
+v9: 16

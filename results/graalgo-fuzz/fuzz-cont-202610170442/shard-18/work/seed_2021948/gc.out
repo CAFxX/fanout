@@ -1,0 +1,15 @@
+0 hello
+1 hello
+2 hello
+3 hello
+4 hello
+5 hello
+hello foo bar
+maplen v1: 0
+v11: hello
+v15: 491
+v2: hello
+v21: 4294967295
+v22: 0
+slicelen v3: 22 [hello hello hello a a a a a a a a a a a a a a a a a a a]
+v4: 22020096

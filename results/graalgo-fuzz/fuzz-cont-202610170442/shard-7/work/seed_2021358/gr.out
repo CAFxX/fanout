@@ -1,0 +1,23 @@
+foo bar foo bar false
+foo bar foo bar false
+foo bar foo bar false
+foo bar foo bar false
+false 1e+10 -128
+32767
+foo bar foo bar false
+foo bar foo bar false
+foo bar foo bar false
+foo bar foo bar false
+false 1e+10 -128
+32767
+32767 1681 1681
+v1: -128
+v2: 32767
+v3: false
+v4: 1681
+v54: foo bar
+v55: 1e+10
+v95: -937
+v96: 1
+v97: 42
+slicelen v98: 0 []

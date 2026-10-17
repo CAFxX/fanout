@@ -1,0 +1,17 @@
+aaafoo bar
+0 513 aaafoo bar
+1 513 aaafoo bar
+2 513 aaafoo bar
+3 513 aaafoo bar
+4 513 aaafoo bar
+0
+0
+0
+0
+slicelen v1: 3 [foo bar a foo bar]
+maplen v2: 1
+v25: 0
+maplen v3: 0
+slicelen v4: 4 [-90 -2147483648 -9223372036854775808 1]
+v5: aaafoo bar
+v6: 513

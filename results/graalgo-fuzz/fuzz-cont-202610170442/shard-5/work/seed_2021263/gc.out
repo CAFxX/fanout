@@ -1,0 +1,23 @@
+42 hello
+	
+	afoo barfoo barfoo bar
+	
+	foo bar 0
+4294967295 2147483647 42
+v1: 0
+v101: 2147482810
+v102: 255
+v104: 1
+v107: 18446744073709551614
+slicelen v2: 3 [42 857 935]
+v3: hello
+	
+	afoo barfoo barfoo bar
+	
+	foo bar
+v4: 0
+v5: 0
+v6: -124928
+v94: 17
+v95: 4294967295
+v96: 2147483647

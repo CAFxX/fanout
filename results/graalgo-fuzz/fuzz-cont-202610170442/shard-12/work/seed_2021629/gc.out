@@ -1,0 +1,13 @@
+2147483648 true
+479 479 479
+true 65535
+maplen v1: 0
+maplen v2: 0
+v21: 65535
+v22: a
+v24: -1
+v25: 42
+v3: true
+slicelen v4: 2 [hello a]
+v5: 479
+v8: true

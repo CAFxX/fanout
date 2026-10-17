@@ -1,0 +1,8 @@
+-2.25 false
+v1: 0.1
+maplen v2: 0
+slicelen v3: 4 [723 0 4294967295 0]
+maplen v4: 0
+slicelen v5: 2 [foo bar hello]
+slicelen v6: 1 [foo bar]
+v7: false

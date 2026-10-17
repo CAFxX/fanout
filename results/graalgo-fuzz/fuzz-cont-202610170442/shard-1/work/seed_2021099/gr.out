@@ -1,0 +1,14 @@
+1 2
+2
+8 1 1
+1
+v1: hello
+v16: 8
+v17: 2
+v18: 42
+v2: 1
+v28: 2
+slicelen v3: 2 [hello
+	 foo barfoo barhello]
+v4: 1
+v5: 65533

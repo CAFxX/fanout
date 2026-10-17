@@ -1,0 +1,22 @@
+-2.25 0
+128 42
+128 2
+128 2
+128 2
+128 2
+128 2
+128 2
+128 2
+128 2
+4294967295 4294967295
+v1: -9e+10
+v2: 0
+slicelen v3: 4 [afoo bar
+	 hello hello ahello
+	foo barhello
+	helloa]
+v34: 4294967295
+slicelen v4: 2 [0 32768]
+v5: 127
+v61: 1e+10
+v63: false

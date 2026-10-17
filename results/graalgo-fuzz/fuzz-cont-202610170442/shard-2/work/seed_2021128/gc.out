@@ -1,0 +1,12 @@
+0 0
+false
+v1: 0
+v2: false
+v22: foo bar
+	
+slicelen v3: 1 [-717]
+slicelen v4: 3 [ foo bar ]
+slicelen v5: 3 [foo bar 
+	 helloa]
+v57: 1
+v9: 24

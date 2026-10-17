@@ -1,0 +1,19 @@
+false
+0 127 false
+1 127 false
+2 127 false
+3 127 false
+slicelen v1: 2 [afoo bar 
+	foo barfoo barfoo bar
+	foo barfoo barfoo barfoo barfoo barfoo bar]
+v18: 376
+slicelen v2: 2 [941 2147483648]
+v23: foo bar
+v24: 1e+10
+v25: 100
+v26: 100
+v27: -1
+v3: false
+v4: 0
+maplen v5: 0
+v6: 127

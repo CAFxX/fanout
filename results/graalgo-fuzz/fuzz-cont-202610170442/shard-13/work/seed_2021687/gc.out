@@ -1,0 +1,10 @@
+v1: a
+v10: helloaa
+slicelen v2: 1 [-2147483648]
+v20: 42
+maplen v3: 0
+slicelen v4: 4 [foo bara
+	a a a aafoo bara]
+v5: 42
+v6: 2
+v7: -66

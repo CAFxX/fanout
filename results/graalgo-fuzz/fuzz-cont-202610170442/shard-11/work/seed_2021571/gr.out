@@ -1,0 +1,10 @@
+1 -2.25
+v1: foo bar
+v12: -2.25
+v2: 130
+maplen v3: 0
+v30: 1
+slicelen v31: 1 [42]
+maplen v4: 0
+v40: 266
+v41: 1

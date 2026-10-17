@@ -1,0 +1,33 @@
+5 
+	hello 0
+13 
+	hello 1
+21 
+	hello 2
+29 
+	hello 3
+37 
+	hello 4
+45 
+	hello 5
+53 
+	hello 6
+61 
+	hello 7
+69 
+	hello 8
+77 
+	hello 9
+85 
+	hello 10
+93 
+	hello 11
+101 
+	hello 12
+v1: true
+v2: 364
+maplen v3: 0
+v4: 
+	hello
+v56: 101
+slicelen v57: 3 [343 4294967295 -9223372036854775808]

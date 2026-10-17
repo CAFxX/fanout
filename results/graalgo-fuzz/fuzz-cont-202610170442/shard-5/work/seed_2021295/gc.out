@@ -1,0 +1,13 @@
+-808
+-1 -808
+v1: 127
+v2: aaaa
+	hellofoo bar
+v27: aaaa
+	hellofoo baraaaa
+	hellofoo bar
+v3: 65535
+v4: 0
+v5: 1
+v6: -808
+slicelen v7: 8 [9223372036854775807 0 1 2 3 4 5 6]

@@ -1,0 +1,344 @@
+
+	
+0 foo bar
+	
+1 hellofoo bar
+	
+	
+2 hellohellofoo bar
+	
+	
+	
+3 hellohellohellofoo bar
+	
+	
+	
+	
+4 hellohellohellohellofoo bar
+	
+	
+	
+	
+	
+5 hellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+6 hellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+7 hellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+8 hellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+9 hellohellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+10 hellohellohellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+11 hellohellohellohellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+12 hellohellohellohellohellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+13 hellohellohellohellohellohellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+hellohellohellohellohellohellohellohellohellohellohellohellohellohellofoo bar
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+-328
+-328 0 
+	
+-328 0 
+	
+-328 0 
+	
+-328 0 
+	
+-328 0 
+	
+-328 0 
+	
+-328 0 
+	
+-328 1 
+	
+-328 1 
+	
+-328 1 
+	
+-328 1 
+	
+-328 1 
+	
+-328 1 
+	
+-328 1 
+	
+-328 2 
+	
+-328 2 
+	
+-328 2 
+	
+-328 2 
+	
+-328 2 
+	
+-328 2 
+	
+-328 2 
+	
+-328 3 
+	
+-328 3 
+	
+-328 3 
+	
+-328 3 
+	
+-328 3 
+	
+-328 3 
+	
+-328 3 
+	
+-328 4 
+	
+-328 4 
+	
+-328 4 
+	
+-328 4 
+	
+-328 4 
+	
+-328 4 
+	
+-328 4 
+	
+-328 5 
+	
+-328 5 
+	
+-328 5 
+	
+-328 5 
+	
+-328 5 
+	
+-328 5 
+	
+-328 5 
+	
+-328 6 
+	
+-328 6 
+	
+-328 6 
+	
+-328 6 
+	
+-328 6 
+	
+-328 6 
+	
+-328 6 
+	
+-328 7 
+	
+-328 7 
+	
+-328 7 
+	
+-328 7 
+	
+-328 7 
+	
+-328 7 
+	
+-328 7 
+	
+-328 8 
+	
+-328 8 
+	
+-328 8 
+	
+-328 8 
+	
+-328 8 
+	
+-328 8 
+	
+-328 8 
+	
+-328 9 
+	
+-328 9 
+	
+-328 9 
+	
+-328 9 
+	
+-328 9 
+	
+-328 9 
+	
+-328 9 
+	
+-328 10 
+	
+-328 10 
+	
+-328 10 
+	
+-328 10 
+	
+-328 10 
+	
+-328 10 
+	
+-328 10 
+	
+-328 11 
+	
+-328 11 
+	
+-328 11 
+	
+-328 11 
+	
+-328 11 
+	
+-328 11 
+	
+-328 11 
+	
+-328 12 
+	
+-328 12 
+	
+-328 12 
+	
+-328 12 
+	
+-328 12 
+	
+-328 12 
+	
+-328 12 
+	
+-328 13 
+	
+-328 13 
+	
+-328 13 
+	
+-328 13 
+	
+-328 13 
+	
+-328 13 
+	
+-328 13 
+	
+v1: 
+	
+slicelen v2: 3 [1 4294967295 2147483647]
+maplen v3: 0
+slicelen v4: 10 [111 32768 32768 938 938 938 938 938 938 938]
+slicelen v5: 98 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+v6: foo bar
+v65: -656
+v68: -4.398226
+v86: 2

@@ -1,0 +1,10 @@
+2
+74 74 -2147483647
+afoo barfoo bar 74 afoo barfoo bar
+afoo barfoo bar 0 afoo barfoo bar
+afoo barfoo bar
+v1: -2147483647
+slicelen v13: 0 []
+v157: 0
+v2: afoo barfoo bar
+v3: 74
