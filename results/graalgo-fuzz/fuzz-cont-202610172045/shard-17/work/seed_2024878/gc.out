@@ -1,0 +1,5 @@
+maplen v1: 0
+v2: 65535
+v3: foo bar
+slicelen v4: 4 [foo bar foo bar foo barfoo barfoo bar 
+	]

@@ -1,0 +1,19 @@
+4294967295 4294967295
+v1: 65535
+v14: 0
+v15: a
+	
+	foo barhello
+	
+	foo barhello
+	
+	foo barhello
+v16: false
+v17: 0.1
+maplen v2: 0
+slicelen v3: 3 [helloahello 
+	
+	hello helloa]
+v4: 4294967295
+v5: 0
+maplen v6: 0

@@ -1,0 +1,15 @@
+4294967295
+foo bar
+v1: 65535
+v11: 255
+v17: 0.1
+v2: foo bar
+v21: 4294967295
+v22: 4294967295
+v28: 0
+v29: false
+v3: 0
+v32: 0
+maplen v4: 0
+slicelen v5: 1 [hellofoo bar]
+v6: 4294967295

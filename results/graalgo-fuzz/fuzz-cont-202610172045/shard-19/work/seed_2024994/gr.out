@@ -1,0 +1,43 @@
+false 1487
+false 2461
+false 4377
+false 8209
+false 16385
+false 32769
+false 65537
+false 131073
+false 262145
+false 524289
+false 1048577
+false 2097153
+false 4194305
+false 8388609
+false 16777217
+false 33554433
+false 67108865
+false 134217729
+false 268435457
+false 536870913
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 0 0
+v1: 0
+v118: 0
+v119: 
+	
+slicelen v2: 3 [a foo barhello foo bar]
+v3: 0
+v4: 0
+v5: foo bara
+v6: -1

@@ -1,0 +1,11 @@
+
+
+0 hellohello
+-1 -1 -1
+maplen v1: 0
+v15: -1.5
+slicelen v2: 3 [hello 
+	foo bar hello]
+v22: -1
+maplen v3: 0
+v6: hellohellohellohellofoo barhellohello

@@ -1,0 +1,9 @@
+865 865
+v1: 865
+slicelen v2: 1 [foo bar]
+maplen v3: 0
+maplen v4: 0
+maplen v5: 0
+v6: 0
+v7: hellofoo barafoo barfoo bar
+	foo barhello

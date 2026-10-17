@@ -1,0 +1,11 @@
+maplen v1: 0
+slicelen v2: 4 [-9223372036854775808 42 32767 852]
+v29: 71
+v3: 34
+v30: false
+v37: 2147483648
+v4: -35
+slicelen v5: 4 [
+	 hello foo barafoo barfoo barhellohello
+	foo barfoo barhello ]
+v6: hello

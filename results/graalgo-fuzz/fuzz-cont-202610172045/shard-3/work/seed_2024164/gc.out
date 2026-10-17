@@ -1,0 +1,12 @@
+42
+-32768 hellofoo barfoo barahello
+v1: hello
+	ahellofoo barfoo barahellofoo bar
+	
+v17: 42
+v2: 42
+v20: 1
+slicelen v3: 19 [3528 2147483647 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 42]
+v4: 9223372036854775808
+v5: false
+v7: -32768

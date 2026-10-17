@@ -1,0 +1,31 @@
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+-2
+hello
+v1: -2
+v2: hello
+v25: 1
+v26: 0
+v27: -1
+slicelen v3: 25 [hello hello foo bar a hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v37: 2
+v4: false
+v5: 2
+v9: 0.1

@@ -1,0 +1,14 @@
+1 -34 1
+-34
+slicelen v1: 4 [
+	 a hello 
+	]
+v2: 42
+v21: 4294967295
+v22: 1
+v3: foo bar
+v33: 130
+maplen v4: 0
+v5: -34
+v56: 1
+v57: false

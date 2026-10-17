@@ -1,0 +1,9 @@
+294 0 294
+v1: 294
+v2: 0
+maplen v3: 1
+v36: 210
+v37: 0
+slicelen v4: 1 [32768]
+maplen v5: 0
+slicelen v6: 3 [foo barhello foo barfoo bar a]

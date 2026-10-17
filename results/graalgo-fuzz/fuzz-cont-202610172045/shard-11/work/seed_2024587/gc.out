@@ -1,0 +1,12 @@
+slicelen v1: 25 [ a 
+	hello
+	foo barfoo bar 
+	hello
+	foo barfoo bar 
+	hello
+	foo barfoo bar 
+	hello
+	foo barfoo bar hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v2: 1.5
+v3: 0.08408449284742013
+v4: false

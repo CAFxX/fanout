@@ -1,0 +1,13 @@
+true
+-197 1 0
+true -197 0
+maplen v1: 0
+v19: 1
+v2: -197
+v20: -197
+slicelen v26: 4 [-961 788 1 9223372036854775807]
+v3: 255
+v31: foo bar
+v4: 0
+v5: true
+v6: true

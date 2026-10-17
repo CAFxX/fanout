@@ -1,0 +1,10 @@
+false
+false 2.0943933333333336 883
+maplen v1: 0
+slicelen v2: 2 [foo bar a]
+slicelen v3: 0 []
+v4: false
+slicelen v5: 2 [-2147483648 42]
+v6: 883
+v7: 0.2676259953004865
+v8: 1.470795

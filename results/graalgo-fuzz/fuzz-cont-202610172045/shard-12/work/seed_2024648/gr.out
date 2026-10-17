@@ -1,0 +1,8 @@
+0.1
+0.1
+v1: 0.1
+slicelen v2: 4 [
+	 foo bar foo bar ]
+slicelen v3: 1 [a
+	
+	]

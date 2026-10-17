@@ -1,0 +1,20 @@
+0
+0
+0
+0
+0
+0
+0
+v1: -9223372036854775808
+maplen v2: 0
+v29: NaN
+v3: 0
+v30: 0
+v31: foo bar
+slicelen v4: 2 [hello 
+	hello]
+v41: 2147483647
+v42: foo bar
+v43: 18446744073709551615
+slicelen v5: 4 [0 654 42 4294967295]
+maplen v6: 0

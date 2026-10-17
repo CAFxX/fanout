@@ -1,0 +1,15 @@
+0
+1
+2
+3
+-4e+10 65535
+slicelen v1: 3 [467 1 42]
+v10: -5e+10
+v12: 374
+maplen v2: 0
+v3: 65535
+v4: -4e+10
+slicelen v5: 2 [afoo barhello
+	foo barfoo bar
+	 
+	]

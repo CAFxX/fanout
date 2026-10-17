@@ -1,0 +1,13 @@
+3 42
+3
+slicelen v1: 3 [0 4294967295 4294967295]
+v2: 42
+slicelen v3: 13 [ foo bar hello 
+	a foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v33: foo bar
+v34: 8.53318
+v4: 3
+v5: 63
+v57: 3
+v58: 2
+v6: 0

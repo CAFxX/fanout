@@ -1,0 +1,12 @@
+1000 1000
+true
+maplen v1: 0
+v10: true
+v13: 2
+slicelen v2: 4 [2147483648 0 2 65535]
+v3: 42
+slicelen v4: 1 [hello]
+v5: 1000
+maplen v6: 0
+v7: 9223372036854775807
+v8: 127

@@ -1,0 +1,13 @@
+2147483647
+v1: 2147483647
+maplen v2: 3
+slicelen v3: 15 [
+	
+	 hello
+	hello
+	foo barhelloa
+	hello
+	helloaafoo barfoo bar helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara helloafoo bara]
+v68: -2147483658
+v69: -2.25
+v76: -32768

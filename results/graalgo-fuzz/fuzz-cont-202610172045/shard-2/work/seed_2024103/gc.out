@@ -1,0 +1,18 @@
+-1 106 -1
+302 0 -2147483648
+302 1 -2147483647
+302 2 -2147483645
+302 3 -2147483642
+v1: -2147483641
+v2: 302
+v3: ahellofoo barafoo barhello
+	ahellofoo barafoo barhello
+	
+v4: ahellofoo barafoo barhello
+	ahellofoo barafoo barhello
+	
+v44: 32767
+v45: 0
+slicelen v47: 0 []
+v5: -1
+v6: 106

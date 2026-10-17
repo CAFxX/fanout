@@ -1,0 +1,13 @@
+-3.14159e+10 true
+-3.14159e+10 1
+v1: 1
+v15: foo bar
+	
+v16: foo bar
+	afoo bar
+v2: 3
+v3: true
+slicelen v31: 2 [32768 -400]
+v32: 128
+v4: 32768
+v5: -3.14159e+10

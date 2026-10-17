@@ -1,0 +1,13 @@
+v1: true
+v13: true
+slicelen v2: 7 [hello
+	a
+	 a a a a a a]
+v3: 0
+v32: 0
+v34: true
+v35: 1
+slicelen v4: 2 [-466 32768]
+slicelen v5: 1 [854]
+v6: 3.14159
+v8: -1896

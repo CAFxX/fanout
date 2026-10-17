@@ -1,0 +1,16 @@
+127
+6 hello 6
+127 hello hello
+127 hello hello
+127 hello hello
+6 6
+slicelen v1: 2 [1 0]
+slicelen v2: 3 [
+	 foo barhello 
+	]
+v24: hello
+maplen v3: 0
+slicelen v4: 0 []
+v5: 127
+v6: 66330
+v7: -122

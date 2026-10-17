@@ -1,0 +1,28 @@
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+v1: 6245
+v2: 6245
+v26: 1.5
+v29: 127
+slicelen v3: 4 [
+	 a hello a
+	foo bar
+	hellohelloahelloa
+	]
+v30: 0
+v35: -32768
+v4: 0
+slicelen v5: 2 [994 2]
+maplen v6: 0

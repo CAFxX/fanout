@@ -1,0 +1,8 @@
+4294967295
+slicelen v1: 3 [aa hello
+	 
+	]
+slicelen v2: 4 [
+	 foo bar  hello]
+v3: 17592186040320
+maplen v4: 0
