@@ -1,0 +1,33 @@
+{
+ "job_id": "vet-printf-red-20261018a",
+ "project": "graalgo-vet",
+ "status": "failed",
+ "shards": 1,
+ "n_ok": 0,
+ "n_failed": 1,
+ "shard_status": [
+  {
+   "idx": 0,
+   "artifact": true,
+   "driver": "error",
+   "detail": "rc=2"
+  }
+ ],
+ "spec": {
+  "project": "graalgo-vet",
+  "job_id": "vet-printf-red-20261018a",
+  "image": "golang:1.27",
+  "command": "git init -q /tmp/gg && cd /tmp/gg && git remote add origin https://github.com/CAFxX/graalgo.git && git fetch --depth 1 origin 5a8281d9bf4aede583214930fc2ff888d82d399e && git checkout -q FETCH_HEAD && go version && mkdir -p $OUT_DIR && go test ./internal/vet/ -run \"TestPrintf\" -v > $OUT_DIR/test.log 2>&1; RC=$?; echo \"exit=$RC\" >> $OUT_DIR/test.log; exit $RC",
+  "shards": 1,
+  "timeout_minutes": 20,
+  "env": "",
+  "cache_key": "",
+  "cache_paths": "",
+  "registry_user": "",
+  "registry_password": "",
+  "priority": "graalgo-vet",
+  "est_min": 5,
+  "per_shard_min": 5
+ },
+ "finished_at": "2026-10-18T20:04:43.688075+00:00"
+}
