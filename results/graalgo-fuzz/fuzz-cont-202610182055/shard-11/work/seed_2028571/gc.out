@@ -1,0 +1,13 @@
+-66 255
+-65 255
+510 -33
+maplen v1: 0
+v14: -33
+slicelen v2: 1 [32767]
+v24: 510
+maplen v3: 1
+slicelen v4: 3 [10 -2147483648 127]
+slicelen v5: 1 [foo bar]
+v55: 89
+v57: false
+maplen v6: 0

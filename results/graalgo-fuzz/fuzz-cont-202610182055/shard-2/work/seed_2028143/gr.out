@@ -1,0 +1,9 @@
+178 -70
+v1: -70
+v2: 686
+v3: hello
+maplen v4: 1
+slicelen v5: 4 [1507 686 4294966609 65535]
+slicelen v6: 4 [hello hello hellofoo barhello hello]
+v7: 116
+v8: 178

@@ -1,0 +1,8 @@
+true -321 foo bar
+v1: foo bar
+v2: 0
+slicelen v3: 2 [328 1]
+slicelen v4: 3 [-9223372036854775808 562 32767]
+v5: 0
+v55: -9223372036854775808
+v8: true

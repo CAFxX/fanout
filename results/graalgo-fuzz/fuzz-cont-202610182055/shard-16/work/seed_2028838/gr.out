@@ -1,0 +1,12 @@
+v1: true
+v12: a
+v13: 42
+v18: 192
+v19: 255
+maplen v2: 0
+v3: -9223372036854775808
+slicelen v4: 3 [a
+	
+	foo bar 
+	hellofoo bar afoo bar]
+v5: 0

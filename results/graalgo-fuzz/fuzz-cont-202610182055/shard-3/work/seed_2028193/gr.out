@@ -1,0 +1,8 @@
+true
+slicelen v1: 5 [foo bar a hello hello foo bara]
+v2: 1.5
+v21: 30198
+v3: 176
+slicelen v4: 4 [806 1 2147483648 2147483648]
+v5: -974
+v6: true

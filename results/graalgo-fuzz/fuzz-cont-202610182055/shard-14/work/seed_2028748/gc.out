@@ -1,0 +1,12 @@
+false false 0
+false false 1
+false false 2
+false false 3
+false false 4
+false false 5
+v1: 255
+v2: 0.1
+v3: 9223372036854775806
+v4: -9223372036854775808
+v7: false
+slicelen v8: 3 [4294967295 -4 -9223372036854775808]

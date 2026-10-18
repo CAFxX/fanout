@@ -1,0 +1,28 @@
+0
+1
+2
+3
+4
+5
+foo bar foo bar foo bar
+foo bar foo bar
+1 1 foo bar
+0 hello hello
+1 hello hello
+2 hello hello
+1 hello
+1 hello
+1 hello
+1 hello
+1 hello
+1 hello
+1 hello
+1 hello
+1 hello
+v1: hellohellohellofoo barfoo bar
+	
+v2: 8
+slicelen v29: 1 [127]
+v3: hello
+v4: 1044
+v49: 42

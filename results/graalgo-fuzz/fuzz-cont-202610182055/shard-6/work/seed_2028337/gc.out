@@ -1,0 +1,25 @@
+4294967295 false
+4294967295 4294967295 false
+false hellohellohello
+	hellohellohellohello
+	hellofoo barhellohellohello
+	hellohellohellohello
+	hello 4294967295
+v1: 128
+v2: hellohellohello
+	hellohellohellohello
+	hellofoo barhellohellohello
+	hellohellohellohello
+	hello
+v3: 4294967295
+slicelen v4: 5 [hellohellohello
+	hello hellohellohello
+	hellohellohellohello
+	hello hello hellohellohello
+	hello hellohellohellohellohello
+	hellohellohellohello
+	hellohellohellohello
+	hello
+	]
+v5: 4294967295
+v6: false

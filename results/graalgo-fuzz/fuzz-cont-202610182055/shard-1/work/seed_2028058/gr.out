@@ -1,0 +1,16 @@
+slicelen v1: 1 [hellohello
+	hello
+	
+	]
+v10: 1
+v11: 3.1860346e+11
+v13: 124
+v14: -456
+v15: 733
+v16: 124
+slicelen v2: 3 [ helloafoo barfoo bar ]
+v3: 
+	
+v4: +Inf
+maplen v5: 2
+v6: 0

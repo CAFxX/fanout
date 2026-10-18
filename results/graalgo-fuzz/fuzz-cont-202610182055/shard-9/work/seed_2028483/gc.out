@@ -1,0 +1,11 @@
+false false
+slicelen v1: 2 [aa 
+	foo barfoo barfoo bar]
+maplen v2: 0
+v22: false
+v27: 1.5
+v28: 0
+maplen v3: 0
+v30: 9223372036854775807
+slicelen v4: 4 [0 2 65535 1]
+v5: 0

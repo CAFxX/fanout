@@ -1,0 +1,14 @@
+0.10000000149011612 true
+true 0.10000000149011612
+foo bar
+	aa false 0.10000000149011612
+v1: 0.10000000149011612
+slicelen v2: 4 [643 995 1 369]
+maplen v3: 0
+maplen v4: 0
+v40: 42
+v42: foo bar
+	aa
+v46: 255
+v5: false
+slicelen v6: 0 []

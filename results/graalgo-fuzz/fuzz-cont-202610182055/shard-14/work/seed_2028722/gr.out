@@ -1,0 +1,14 @@
+0
+v1: a
+	foo baraaa
+slicelen v2: 3 [
+	foo baraaa
+	foo baraaa 
+	foo baraaa
+	hello foo bar
+	foo baraaa
+	
+	foo baraaa]
+v3: -1270
+v7: 0
+v8: 0

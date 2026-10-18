@@ -1,0 +1,7 @@
+-32768 42
+v1: 25795
+maplen v2: 0
+slicelen v3: 3 [foo bar helloa hello]
+v4: 0
+maplen v5: 0
+slicelen v6: 3 [42 626 42]

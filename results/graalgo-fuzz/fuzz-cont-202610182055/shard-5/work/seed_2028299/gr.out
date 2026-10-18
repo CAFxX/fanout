@@ -1,0 +1,8 @@
+-959
+maplen v1: 1
+v2: -959
+v3: 0
+slicelen v4: 4 [foo bar hello hello foo bar]
+v40: 0
+slicelen v5: 4 [-959 -121 -37706921 -959]
+v68: -1

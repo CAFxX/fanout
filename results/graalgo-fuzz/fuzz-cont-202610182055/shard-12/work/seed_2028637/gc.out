@@ -1,0 +1,9 @@
+0
+slicelen v1: 4 [hello hello 
+	ahello
+	foo bara foo bar]
+maplen v2: 1
+slicelen v3: 4 [243 324 4294967295 65535]
+v6: 0
+v65: 0
+v7: 216

@@ -1,0 +1,9 @@
+253 -2.25 -2.25
+253 -2.25 -2.25
+-2.25 253 253
+maplen v1: 0
+slicelen v2: 4 [foo bar hello hello ahello]
+v3: -2.25
+v45: -2.25
+v46: 253
+v47: 0

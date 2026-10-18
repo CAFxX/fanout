@@ -1,0 +1,10 @@
+2 foo bara
+maplen v1: 1
+v12: 1.5
+v18: 2
+v19: foo bara
+slicelen v2: 3 [65535 2147483647 404]
+slicelen v3: 1 [-559]
+v4: foo bara
+maplen v5: 0
+v6: 2

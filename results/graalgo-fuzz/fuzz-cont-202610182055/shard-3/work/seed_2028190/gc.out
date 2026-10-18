@@ -1,0 +1,13 @@
+NaN 0 42
+NaN 42 -382
+42
+v1: 42
+v2: NaN
+maplen v3: 0
+v31: 65535
+v32: -382
+v33: foo bar
+slicelen v35: 4 [2147483647 161 127 0]
+v4: -382
+maplen v5: 0
+v6: NaN

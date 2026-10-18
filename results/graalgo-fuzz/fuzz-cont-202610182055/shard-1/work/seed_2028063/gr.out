@@ -1,0 +1,11 @@
+127 127 -9223372036854775808
+v1: 0
+v2: false
+slicelen v3: 1 [hello]
+v37: 558
+slicelen v4: 4 [hello helloa
+	hello
+	hello foo bar 
+	]
+v5: -9223372036854775808
+v6: 127

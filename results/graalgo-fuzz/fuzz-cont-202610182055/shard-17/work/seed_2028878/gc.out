@@ -1,0 +1,11 @@
+NaN
+0 120
+NaN
+v1: 1.5
+v18: 120
+slicelen v2: 3 [foo barhellofoo bar hello a]
+v20: +Inf
+v3: 0
+v4: false
+slicelen v5: 2 [98 4294967295]
+v6: NaN

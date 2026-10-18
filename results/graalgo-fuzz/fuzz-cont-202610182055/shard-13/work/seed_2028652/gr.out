@@ -1,0 +1,72 @@
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true true 0
+true 0 false
+880 true 880
+v1: true
+v112: 0
+v133: false
+v146: 880
+v147: false
+slicelen v2: 3 [ afoo bar a
+	
+	foo barfoo barhello]
+maplen v3: 2
+slicelen v4: 22 [foo bar 
+	 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello 
+	hellohellohello]

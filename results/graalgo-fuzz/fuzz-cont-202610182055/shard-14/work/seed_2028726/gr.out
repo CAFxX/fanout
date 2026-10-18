@@ -1,0 +1,9 @@
+v1: 1
+v10: foo bar
+	foo barhello
+slicelen v13: 2 [2147483647 127]
+v2: 0
+maplen v3: 0
+v4: -32767
+v5: -295
+v9: true

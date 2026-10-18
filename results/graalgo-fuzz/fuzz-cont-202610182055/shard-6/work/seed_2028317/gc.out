@@ -1,0 +1,25 @@
+32767 0 42
+32767 1 42
+32767 2 42
+32767 3 42
+32767 4 42
+32767 5 42
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+42 foo bar 44031
+v1: 160
+v13: 63488
+v17: 44031
+slicelen v2: 2 [a 
+	]
+v23: foo bar
+v24: 44031
+v3: 42

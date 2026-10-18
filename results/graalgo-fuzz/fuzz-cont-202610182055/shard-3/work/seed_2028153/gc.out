@@ -1,0 +1,16 @@
+42
+42
+42
+42
+42
+42
+slicelen v1: 3 [afoo bar
+	 hellofoo bar foo bar]
+v13: 18446744073709551549
+slicelen v2: 0 []
+v3: -1
+v4: 1
+slicelen v5: 2 [foo bar
+	 a
+	
+	hellohello]

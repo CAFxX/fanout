@@ -1,0 +1,7 @@
+slicelen v1: 2 [
+	hello hello]
+v11: 0
+v12: true
+maplen v2: 0
+slicelen v3: 1 [2147483647]
+slicelen v4: 0 []

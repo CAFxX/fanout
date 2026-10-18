@@ -1,0 +1,11 @@
+-2.25 true
+true 42 850
+v1: true
+v2: 850
+v29: foo bar
+	foo bar
+slicelen v3: 4 [2 2 5 4294967295]
+v35: 42
+v4: -10.78318
+maplen v5: 1
+v6: true
