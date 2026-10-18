@@ -1,0 +1,32 @@
+0 0 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+29 foo barfoo barhello
+	hellofoo barfoo bar
+maplen v1: 0
+v17: foo barfoo barhello
+	hellofoo barfoo bar
+slicelen v18: 1 [127]
+v19: afoo barfoo barhello
+	hellofoo barfoo barfoo barfoo barhello
+	hellofoo barfoo barfoo barfoo barhello
+	hellofoo barfoo bar
+v2: 0
+v27: 29
+v3: 43
+v30: 1e+10
+v4: 0
+v45: 1
+v5: 1.5
+maplen v6: 0

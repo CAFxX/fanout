@@ -1,0 +1,11 @@
+false foo barfoo barhellohellofoo barfoo barfoo barhellofoo bar
+v1: foo bar
+v18: false
+slicelen v19: 2 [-1 4294967295]
+maplen v2: 0
+v3: 18446744073709551615
+v31: 593
+maplen v4: 0
+v40: 593
+v5: false
+maplen v6: 1

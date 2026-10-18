@@ -1,0 +1,13 @@
+446 446
+slicelen v1: 2 [451 2147483647]
+slicelen v2: 4 [foo barhello hello foo bar 
+	]
+slicelen v3: 4 [
+	 hello a 
+	hellohellofoo bar
+	aa]
+v4: 127
+v5: 32767
+v6: 892
+v7: 31
+v8: 32767

@@ -1,0 +1,11 @@
+0 a 0
+18446744069414584831
+v1: a
+v10: 1e+10
+v11: 65535
+v2: 18446744069414584831
+slicelen v3: 2 [foo barfoo barfoo bar
+	foo barfoo barfoo bar hello]
+maplen v4: 0
+v5: 0
+v6: 1.5

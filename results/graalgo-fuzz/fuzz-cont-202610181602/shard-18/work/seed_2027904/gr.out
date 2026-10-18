@@ -1,0 +1,10 @@
+1 1 179
+slicelen v1: 3 [42 4294967295 -1]
+v113: 32768
+v18: 4294967294
+maplen v2: 0
+v3: 1
+v4: 179
+slicelen v5: 1 [foo bar]
+slicelen v6: 2 [32767 128]
+v7: 1

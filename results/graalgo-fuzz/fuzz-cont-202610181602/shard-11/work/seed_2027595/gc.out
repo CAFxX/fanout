@@ -1,0 +1,12 @@
+false 65970697666560 true
+foo barfoo bar true 65970697666560
+maplen v1: 0
+v14: false
+v15: foo barfoo bar
+slicelen v2: 1 [65535]
+v23: 65970697666560
+v28: true
+slicelen v3: 2 [42 65535]
+v30: 1.5
+v55: foo barfoo bar
+v56: 65970697666560

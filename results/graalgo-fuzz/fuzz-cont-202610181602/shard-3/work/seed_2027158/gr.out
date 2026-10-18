@@ -1,0 +1,12 @@
+hello
+true true
+4344 4344 hello
+v1: 4344
+v2: true
+v3: foo bar
+slicelen v31: 3 [-179 128 -9223372036854775808]
+v32: hello
+maplen v4: 0
+v68: foo bar
+v82: false
+v84: 4294967295

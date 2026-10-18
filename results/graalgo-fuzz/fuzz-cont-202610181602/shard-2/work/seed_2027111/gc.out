@@ -1,0 +1,19 @@
+v1: -65536
+slicelen v2: 12 [foo bar 
+	 
+	 hellofoo bar 
+	afoo barhelloafoo bar 
+	
+	 
+	afoo barhelloafoo bar 
+	
+	 
+	afoo barhelloafoo bar 
+	
+	 
+	afoo barhelloafoo bar 
+	
+	]
+v23: false
+v3: 1e+10
+v4: true

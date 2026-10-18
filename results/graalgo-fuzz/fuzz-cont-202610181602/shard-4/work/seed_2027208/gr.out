@@ -1,0 +1,13 @@
+foo bar
+	a
+	foo barhelloafoo bar
+	a
+	foo barhelloafoo bar 587
+v1: 587
+v2: foo bar
+	a
+	foo barhelloafoo bar
+	a
+	foo barhelloafoo bar
+v25: true
+slicelen v3: 3 [415 2147483648 4294967295]

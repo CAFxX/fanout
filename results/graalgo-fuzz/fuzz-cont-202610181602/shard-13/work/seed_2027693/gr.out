@@ -1,0 +1,12 @@
+32767 9223372036854775807
+463 463 463
+slicelen v1: 2 [ ahelloahellofoo bara
+	foo barafoo barfoo bara]
+v14: 32766
+v18: 0
+maplen v2: 1
+slicelen v3: 3 [
+	hello a foo bar]
+slicelen v4: 2 [hello foo barhellohello]
+v5: 463
+v6: 9223372036854775807

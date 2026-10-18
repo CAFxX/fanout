@@ -1,0 +1,10 @@
+slicelen v1: 1 [helloa
+	]
+slicelen v2: 0 []
+slicelen v3: 3 [foo bar a a]
+v4: 85
+v41: 127
+v5: 32767
+v56: 1e+10
+v57: 4294967295
+v6: 0

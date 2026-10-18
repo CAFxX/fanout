@@ -1,0 +1,17 @@
+0 0
+0 -1 -1
+0
+slicelen v1: 4 [
+	 hello foo bar 
+	hellohello]
+v2: 0
+v3: -1e+10
+maplen v4: 0
+v42: false
+v43: -1
+v47: 0
+v48: 0
+maplen v5: 0
+v55: 4294967295
+v56: 0
+v6: 0

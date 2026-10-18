@@ -1,0 +1,7 @@
+maplen v1: 0
+v15: -0.7838021511400278
+v16: 15
+v17: -0.7838021511400278
+v2: false
+slicelen v3: 3 [afoo bar hello hello]
+slicelen v4: 1 [ahello]

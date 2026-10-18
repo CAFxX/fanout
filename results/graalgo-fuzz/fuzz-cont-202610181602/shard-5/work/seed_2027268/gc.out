@@ -1,0 +1,4 @@
+v1: -128
+v10: 2
+slicelen v2: 2 [foo barfoo bar aa]
+v3: 65535

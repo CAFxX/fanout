@@ -1,0 +1,12 @@
+62 42
+true foo barfoo bar
+foo barfoo bar
+v1: foo barfoo bar
+v10: 42
+slicelen v11: 1 [127]
+v15: 127
+v2: true
+v28: 84
+v3: 0
+v4: -62
+v69: hello

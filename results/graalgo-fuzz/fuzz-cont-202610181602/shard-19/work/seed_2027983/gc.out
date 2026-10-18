@@ -1,0 +1,16 @@
+-2147483648 false
+false -2147483648
+-2147483648 -43
+-43
+maplen v1: 0
+v14: 42
+maplen v2: 0
+v23: -43
+v24: 
+	hello
+v28: a
+slicelen v3: 2 [a 
+	hello]
+maplen v4: 0
+v5: -2147483648
+v6: false

@@ -1,0 +1,39 @@
+aahello true aahello
+true aahello 0
+aahello 1 aahello
+true aahello 0
+aahello 2 aahello
+true aahello 0
+aahello 4 aahello
+true aahello 0
+aahello 8 aahello
+true aahello 0
+aahello 16 aahello
+0 0 aahello
+1 1 aahello
+2 2 aahello
+3 3 aahello
+4 4 aahello
+5 5 aahello
+6 6 aahello
+7 7 aahello
+8 8 aahello
+9 9 aahello
+10 10 aahello
+11 11 aahello
+12 12 aahello
+13 13 aahello
+14 14 aahello
+15 15 aahello
+v1: true
+v2: false
+v24: 32
+v25: 0
+v26: 0
+v3: aahello
+v37: false
+v38: 
+	
+v39: 18446744073709551615
+slicelen v4: 1 [2147483647]
+v40: -3.14159

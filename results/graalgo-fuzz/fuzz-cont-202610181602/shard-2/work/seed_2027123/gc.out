@@ -1,0 +1,7 @@
+42 hello 18446744073709551615
+v1: 42
+maplen v2: 0
+v3: hello
+slicelen v4: 2 [hello helloa]
+v5: 2
+v66: 18446744073709551615

@@ -1,0 +1,12 @@
+177 4 177
+177 177 0
+4
+maplen v1: 1
+maplen v2: 0
+v3: 4
+v31: 177
+slicelen v4: 4 [
+	hello  
+	a ]
+v65: 0
+v66: 0

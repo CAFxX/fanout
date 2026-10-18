@@ -1,0 +1,15 @@
+v1: -59
+v10: 0
+v12: hello
+	aa
+	aahello
+v14: +Inf
+v15: 3.14159
+slicelen v2: 3 [-2147483648 -2147483648 32768]
+maplen v3: 0
+maplen v4: 0
+v5: 1
+slicelen v6: 2 [a helloafoo barfoo bar
+	
+	hello]
+v9: 42

@@ -1,0 +1,13 @@
+255 1 1
+344
+v1: 1
+v11: 344
+v12: 3.14159
+v13: hello
+v2: 255
+v3: 0
+slicelen v4: 1 [foo bar
+	]
+slicelen v5: 0 []
+slicelen v6: 1 [
+	]

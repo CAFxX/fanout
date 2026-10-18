@@ -1,0 +1,12 @@
+-575 hello
+hello -575
+maplen v1: 0
+maplen v2: 0
+v212: 
+	
+maplen v3: 1
+v4: 
+	
+v5: -575
+slicelen v6: 4 [hello hello hello 
+	]

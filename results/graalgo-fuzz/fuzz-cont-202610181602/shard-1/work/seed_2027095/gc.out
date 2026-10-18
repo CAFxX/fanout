@@ -1,0 +1,11 @@
+false false 0
+v1: false
+v10: -342
+v2: foo barhello
+	aafoo barhellofoo barhello
+	a
+v3: 0
+slicelen v4: 4 [0 127 4294967295 -9223372036854775808]
+v8: foo barhello
+	aafoo barhellofoo barhello
+	a

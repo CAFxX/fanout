@@ -1,0 +1,25 @@
+aafoo bar
+	
+	hellofoo baraahellohellofoo barfoo bar -1 0
+aafoo bar
+	
+	hellofoo baraahellohellofoo barfoo bar
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+v1: aafoo bar
+	
+	hellofoo baraahellohellofoo barfoo bar
+v2: aafoo bar
+	
+	hellofoo baraahellohellofoo barfoo bar
+v23: 1e+10
+v24: 127
+v26: 255
+slicelen v28: 3 [41 -2147483648 963]
+v3: 0
+v6: -1

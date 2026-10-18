@@ -1,0 +1,8 @@
+100 1
+foo bar
+-1e+10 true -1e+10
+v1: hellofoo bar
+v2: 2
+v24: 423
+maplen v3: 1
+v4: 100

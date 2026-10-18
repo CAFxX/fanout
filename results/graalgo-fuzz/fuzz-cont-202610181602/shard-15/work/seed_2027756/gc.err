@@ -1,0 +1,153 @@
+fatal error: runtime: out of memory
+
+runtime stack:
+runtime.throw({0x49e1bd?, 0x2355?})
+	/usr/local/go/src/runtime/panic.go:1243 +0x48 fp=0xd5567d17dd0 sp=0xd5567d17da0 pc=0x4795e8
+runtime.sysMapOS(0xd57aa000000, 0x906400000, {0x49b129, 0x4})
+	/usr/local/go/src/runtime/mem_linux.go:175 +0x13b fp=0xd5567d17e10 sp=0xd5567d17dd0 pc=0x424fdb
+runtime.sysMap(0xd57aa000000, 0x906400000, 0x58c4a8?, {0x49b129, 0x4})
+	/usr/local/go/src/runtime/mem.go:275 +0x45 fp=0xd5567d17e40 sp=0xd5567d17e10 pc=0x424865
+runtime.(*mheap).grow(0x57c2a0?, 0x4830ef?)
+	/usr/local/go/src/runtime/mheap.go:1625 +0x2be fp=0xd5567d17ed0 sp=0xd5567d17e40 pc=0x4384be
+runtime.(*mheap).allocSpan(0x57c2a0, 0x4830ef, 0x0, 0x1)
+	/usr/local/go/src/runtime/mheap.go:1290 +0x1b3 fp=0xd5567d17f80 sp=0xd5567d17ed0 pc=0x437a53
+runtime.(*mheap).alloc.func1()
+	/usr/local/go/src/runtime/mheap.go:1008 +0x5c fp=0xd5567d17fc8 sp=0xd5567d17f80 pc=0x47351c
+runtime.systemstack(0x0)
+	/usr/local/go/src/runtime/asm_amd64.s:531 +0x4a fp=0xd5567d17fd8 sp=0xd5567d17fc8 pc=0x47d1aa
+
+goroutine 1 gp=0xd5567c901e0 m=4 mp=0xd5567d00008 [running]:
+runtime.systemstack_switch()
+	/usr/local/go/src/runtime/asm_amd64.s:481 +0x8 fp=0xd5567ceea88 sp=0xd5567ceea78 pc=0x47d148
+runtime.(*mheap).alloc(0x9061de000?, 0x4830ef?, 0x18?)
+	/usr/local/go/src/runtime/mheap.go:1002 +0x57 fp=0xd5567ceead0 sp=0xd5567ceea88 pc=0x4374f7
+runtime.(*mcache).allocLarge(0xd5567c901e0?, 0x9061dd5b9, 0x1)
+	/usr/local/go/src/runtime/mcache.go:257 +0x7f fp=0xd5567ceeb20 sp=0xd5567ceead0 pc=0x42273f
+runtime.mallocgcLarge(0x483c7d?, 0x0, 0x0)
+	/usr/local/go/src/runtime/malloc.go:1709 +0x79 fp=0xd5567ceeb78 sp=0xd5567ceeb20 pc=0x41c3b9
+runtime.mallocgc(0x9061dd5b9, 0x0, 0x0)
+	/usr/local/go/src/runtime/malloc.go:1137 +0x11a fp=0xd5567ceeba8 sp=0xd5567ceeb78 pc=0x47831a
+runtime.rawstring(...)
+	/usr/local/go/src/runtime/string.go:326
+runtime.rawstringtmp(0x549e00?, 0x9061dd5b9)
+	/usr/local/go/src/runtime/string.go:190 +0x3e fp=0xd5567ceebd0 sp=0xd5567ceeba8 pc=0x4605be
+runtime.concatstrings(0x567f70?, {0xd5567ceee20?, 0x6, 0x2?})
+	/usr/local/go/src/runtime/string.go:55 +0xe5 fp=0xd5567ceec40 sp=0xd5567ceebd0 pc=0x460025
+main.main()
+	/work/out/programs/fuzz_2027756.go:514 +0x331 fp=0xd5567ceeeb8 sp=0xd5567ceec40 pc=0x49a951
+runtime.main()
+	/usr/local/go/src/runtime/proc.go:302 +0x427 fp=0xd5567ceefe0 sp=0xd5567ceeeb8 pc=0x448047
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567ceefe8 sp=0xd5567ceefe0 pc=0x47eb21
+
+goroutine 2 gp=0xd5567c90780 m=nil [force gc (idle)]:
+runtime.gopark(0x0?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc8fa8 sp=0xd5567cc8f88 pc=0x4796ca
+runtime.goparkunlock(...)
+	/usr/local/go/src/runtime/proc.go:480
+runtime.forcegchelper()
+	/usr/local/go/src/runtime/proc.go:387 +0xb3 fp=0xd5567cc8fe0 sp=0xd5567cc8fa8 pc=0x448313
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc8fe8 sp=0xd5567cc8fe0 pc=0x47eb21
+created by runtime.init.7 in goroutine 1
+	/usr/local/go/src/runtime/proc.go:375 +0x1a
+
+goroutine 3 gp=0xd5567c90d20 m=nil [GC sweep wait]:
+runtime.gopark(0x573001?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc9788 sp=0xd5567cc9768 pc=0x4796ca
+runtime.goparkunlock(...)
+	/usr/local/go/src/runtime/proc.go:480
+runtime.bgsweep(0xd5567ca8080)
+	/usr/local/go/src/runtime/mgcsweep.go:324 +0x151 fp=0xd5567cc97c8 sp=0xd5567cc9788 pc=0x434171
+runtime.gcenable.gowrap1()
+	/usr/local/go/src/runtime/mgc.go:214 +0x17 fp=0xd5567cc97e0 sp=0xd5567cc97c8 pc=0x472837
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc97e8 sp=0xd5567cc97e0 pc=0x47eb21
+created by runtime.gcenable in goroutine 1
+	/usr/local/go/src/runtime/mgc.go:214 +0x66
+
+goroutine 4 gp=0xd5567c90f00 m=nil [GC scavenge wait]:
+runtime.gopark(0x10000?, 0x4a4468?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc9f78 sp=0xd5567cc9f58 pc=0x4796ca
+runtime.goparkunlock(...)
+	/usr/local/go/src/runtime/proc.go:480
+runtime.(*scavengerState).park(0x573240)
+	/usr/local/go/src/runtime/mgcscavenge.go:425 +0x49 fp=0xd5567cc9fa8 sp=0xd5567cc9f78 pc=0x431c89
+runtime.bgscavenge(0xd5567ca8080)
+	/usr/local/go/src/runtime/mgcscavenge.go:658 +0x59 fp=0xd5567cc9fc8 sp=0xd5567cc9fa8 pc=0x4321f9
+runtime.gcenable.gowrap2()
+	/usr/local/go/src/runtime/mgc.go:215 +0x17 fp=0xd5567cc9fe0 sp=0xd5567cc9fc8 pc=0x4727f7
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc9fe8 sp=0xd5567cc9fe0 pc=0x47eb21
+created by runtime.gcenable in goroutine 1
+	/usr/local/go/src/runtime/mgc.go:215 +0xa5
+
+goroutine 17 gp=0xd5567d043c0 m=nil [GOMAXPROCS updater (idle)]:
+runtime.gopark(0x0?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc4788 sp=0xd5567cc4768 pc=0x4796ca
+runtime.goparkunlock(...)
+	/usr/local/go/src/runtime/proc.go:480
+runtime.updateMaxProcsGoroutine()
+	/usr/local/go/src/runtime/proc.go:7146 +0xe7 fp=0xd5567cc47e0 sp=0xd5567cc4788 pc=0x455687
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc47e8 sp=0xd5567cc47e0 pc=0x47eb21
+created by runtime.defaultGOMAXPROCSUpdateEnable in goroutine 1
+	/usr/local/go/src/runtime/proc.go:7134 +0x37
+
+goroutine 18 gp=0xd5567d045a0 m=nil [finalizer wait]:
+runtime.gopark(0x0?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc4e20 sp=0xd5567cc4e00 pc=0x4796ca
+runtime.runFinalizers()
+	/usr/local/go/src/runtime/mfinal.go:210 +0x107 fp=0xd5567cc4fe0 sp=0xd5567cc4e20 pc=0x425487
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc4fe8 sp=0xd5567cc4fe0 pc=0x47eb21
+created by runtime.createfing in goroutine 1
+	/usr/local/go/src/runtime/mfinal.go:172 +0x3d
+
+goroutine 19 gp=0xd5567d04780 m=nil [GC worker (idle)]:
+runtime.gopark(0x0?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc5740 sp=0xd5567cc5720 pc=0x4796ca
+runtime.gcBgMarkWorker(0xd5567d1a070)
+	/usr/local/go/src/runtime/mgc.go:1807 +0xeb fp=0xd5567cc57c8 sp=0xd5567cc5740 pc=0x42862b
+runtime.gcBgMarkStartWorkers.gowrap1()
+	/usr/local/go/src/runtime/mgc.go:1711 +0x17 fp=0xd5567cc57e0 sp=0xd5567cc57c8 pc=0x472d37
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc57e8 sp=0xd5567cc57e0 pc=0x47eb21
+created by runtime.gcBgMarkStartWorkers in goroutine 1
+	/usr/local/go/src/runtime/mgc.go:1711 +0xfc
+
+goroutine 20 gp=0xd5567d04960 m=nil [GC worker (idle)]:
+runtime.gopark(0x3c6fbc84a6?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc5f40 sp=0xd5567cc5f20 pc=0x4796ca
+runtime.gcBgMarkWorker(0xd5567d1a070)
+	/usr/local/go/src/runtime/mgc.go:1807 +0xeb fp=0xd5567cc5fc8 sp=0xd5567cc5f40 pc=0x42862b
+runtime.gcBgMarkStartWorkers.gowrap1()
+	/usr/local/go/src/runtime/mgc.go:1711 +0x17 fp=0xd5567cc5fe0 sp=0xd5567cc5fc8 pc=0x472d37
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc5fe8 sp=0xd5567cc5fe0 pc=0x47eb21
+created by runtime.gcBgMarkStartWorkers in goroutine 1
+	/usr/local/go/src/runtime/mgc.go:1711 +0xfc
+
+goroutine 21 gp=0xd5567d04b40 m=nil [GC worker (idle)]:
+runtime.gopark(0x3c6fb5a1ee?, 0x1?, 0x5b?, 0x8e?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc6740 sp=0xd5567cc6720 pc=0x4796ca
+runtime.gcBgMarkWorker(0xd5567d1a070)
+	/usr/local/go/src/runtime/mgc.go:1807 +0xeb fp=0xd5567cc67c8 sp=0xd5567cc6740 pc=0x42862b
+runtime.gcBgMarkStartWorkers.gowrap1()
+	/usr/local/go/src/runtime/mgc.go:1711 +0x17 fp=0xd5567cc67e0 sp=0xd5567cc67c8 pc=0x472d37
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc67e8 sp=0xd5567cc67e0 pc=0x47eb21
+created by runtime.gcBgMarkStartWorkers in goroutine 1
+	/usr/local/go/src/runtime/mgc.go:1711 +0xfc
+
+goroutine 22 gp=0xd5567d04d20 m=nil [GC worker (idle)]:
+runtime.gopark(0x3c6fb5a2ce?, 0x0?, 0x0?, 0x0?, 0x0?)
+	/usr/local/go/src/runtime/proc.go:474 +0xca fp=0xd5567cc6f40 sp=0xd5567cc6f20 pc=0x4796ca
+runtime.gcBgMarkWorker(0xd5567d1a070)
+	/usr/local/go/src/runtime/mgc.go:1807 +0xeb fp=0xd5567cc6fc8 sp=0xd5567cc6f40 pc=0x42862b
+runtime.gcBgMarkStartWorkers.gowrap1()
+	/usr/local/go/src/runtime/mgc.go:1711 +0x17 fp=0xd5567cc6fe0 sp=0xd5567cc6fc8 pc=0x472d37
+runtime.goexit({})
+	/usr/local/go/src/runtime/asm_amd64.s:1264 +0x1 fp=0xd5567cc6fe8 sp=0xd5567cc6fe0 pc=0x47eb21
+created by runtime.gcBgMarkStartWorkers in goroutine 1
+	/usr/local/go/src/runtime/mgc.go:1711 +0xfc

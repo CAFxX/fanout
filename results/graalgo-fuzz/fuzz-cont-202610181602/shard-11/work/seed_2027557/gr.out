@@ -1,0 +1,18 @@
+0 32767
+1 32767
+2 32767
+3 32767
+4 32767
+255
+slicelen v1: 5 [afoo bar
+	hello afoo bar
+	hello afoo bar
+	hello afoo bar
+	hello afoo bar
+	hello]
+v10: 1e+10
+v2: 255
+v3: 0
+v4: -331
+v5: 30287
+v6: 32767

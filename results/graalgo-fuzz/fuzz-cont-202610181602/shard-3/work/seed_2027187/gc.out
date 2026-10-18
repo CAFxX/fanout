@@ -1,0 +1,9 @@
+65535
+2
+v1: 2
+maplen v2: 1
+v27: 357
+slicelen v3: 3 [
+	 foo barhello hello]
+maplen v4: 0
+maplen v5: 0

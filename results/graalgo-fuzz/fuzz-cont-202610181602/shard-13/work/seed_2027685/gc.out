@@ -1,0 +1,9 @@
+v1: 1
+slicelen v2: 3 [a
+	 a
+	a hello]
+slicelen v3: 1 [0]
+v30: 2
+v4: 0
+v5: -102
+v6: -16.382736

@@ -1,0 +1,14 @@
+slicelen v1: 2 [hello
+	foo bar
+	foo barhello 
+	]
+v2: false
+v25: 64
+v26: 1
+maplen v3: 0
+v4: 7
+v5: 65
+v6: 65
+v7: -2.25
+v8: 18446744073709551615
+v9: true
