@@ -1,0 +1,18 @@
+0 0
+1 NaN
+2 NaN
+0 NaN
+1 NaN
+2 NaN
+0 NaN
+1 NaN
+2 NaN
+slicelen v1: 1 [a
+	foo baraa]
+v2: NaN
+v23: -73
+v25: 0
+v29: -9223372036854775808
+slicelen v3: 3 [hello foo bar foo bar]
+v34: -73
+v4: -566

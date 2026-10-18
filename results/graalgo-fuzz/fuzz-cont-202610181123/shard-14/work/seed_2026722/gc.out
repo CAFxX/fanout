@@ -1,0 +1,12 @@
+247
+247
+maplen v1: 0
+slicelen v2: 1 [a
+	
+	foo bar
+	]
+v3: 247
+maplen v4: 0
+v42: -247
+v43: foo bar
+slicelen v5: 2 [65535 1]

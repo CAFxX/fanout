@@ -1,0 +1,16 @@
+-1 false -2
+-1
+-1
+false
+v1: -2
+v2: 756
+v3: false
+v33: 411
+v4: hello
+v45: -3.75
+v46: -106
+v47: 2
+slicelen v5: 5 [
+	foo bar a 
+	foo bar 
+	foo bar hello]

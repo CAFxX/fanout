@@ -1,0 +1,21 @@
+128
+32 true true
+0 true
+1 true
+2 true
+3 true
+4 true
+5 true
+true 0 true
+true ahellofoo bar
+	a
+	
+v1: 0
+v16: 1
+v17: ahellofoo bar
+	a
+	
+slicelen v18: 3 [42 -1 32767]
+v19: 1e+09
+v2: 32
+v3: true

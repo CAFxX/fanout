@@ -1,0 +1,23 @@
+0 0
+0 1
+0 2
+0 3
+1 0
+1 1
+1 2
+1 3
+0 false
+1 false
+2 false
+3 false
+4 false
+slicelen v1: 40 [foo bar foo bar a 
+	helloa
+	
+	 hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v2: -2.25
+v3: true
+slicelen v4: 4 [982 4294967295 65535 969]
+v5: -9223372036854775808
+v54: 42
+v55: 100

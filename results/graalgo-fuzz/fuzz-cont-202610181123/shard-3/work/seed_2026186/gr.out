@@ -1,0 +1,32 @@
+127
+127 42
+0 -773
+42
+1 -773
+42
+2 -773
+42
+3 -773
+42
+4 -773
+42
+5 -773
+42
+6 -773
+42
+-773 128 false
+-773
+slicelen v1: 3 [
+	
+	foo bar
+	 a foo barhello
+	
+	afoo barhelloafoo barfoo barafoo bar]
+maplen v2: 0
+v3: 128
+v35: 42
+v36: -773
+maplen v4: 0
+v42: -773
+v43: false
+v56: false

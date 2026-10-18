@@ -1,0 +1,53 @@
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 -9223372036854775808 -2147483648
+v1: hello
+	ahellofoo bar
+v17: 0
+slicelen v2: 0 []
+v3: -9223372036854775808
+v36: -2147483648
+v4: 0
+slicelen v5: 1 [hello
+	ahellofoo barhello
+	ahellofoo barhello
+	ahellofoo barahello
+	ahellofoo barhello
+	ahellofoo bar]

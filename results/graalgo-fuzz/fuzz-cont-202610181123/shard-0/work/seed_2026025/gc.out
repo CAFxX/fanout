@@ -1,0 +1,17 @@
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+2 2
+1 1
+true
+maplen v1: 0
+slicelen v2: 2 [9223372036854775807 -963]
+v3: foo barfoo barfoo bar
+slicelen v4: 3 [foo barfoo barfoo barfoo bar afoo barfoo barfoo bar foo barfoo barfoo bar]
+v47: 9223372036854775807
+v48: 2
+maplen v5: 0
+v50: true

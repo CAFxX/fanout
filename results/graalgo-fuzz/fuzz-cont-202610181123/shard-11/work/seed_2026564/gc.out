@@ -1,0 +1,13 @@
+42 foo bar
+-938
+42 foo bar -938
+ -938 -938
+maplen v1: 1
+maplen v2: 0
+maplen v3: 0
+v32: foo bar
+v33: -1
+slicelen v38: 7 [-2147483648 127 127 -938 -938 -938 -938]
+v39: -938
+v46: 
+v47: 128

@@ -1,0 +1,7 @@
+slicelen v1: 1 [1]
+v17: 0
+v18: -668
+slicelen v2: 4 [a hello foo bar
+	foo bar hellohello]
+maplen v3: 0
+slicelen v4: 2 [-774 42]

@@ -1,0 +1,12 @@
+afoo barhellohelloa 42 42
+0
+v1: afoo barhellohelloa
+v11: 207
+v15: 0
+v16: 1
+slicelen v2: 0 []
+slicelen v3: 3 [afoo barhellohelloa afoo barhellohelloaafoo barhellohelloa ]
+slicelen v4: 1 [afoo barhellohelloa]
+maplen v5: 0
+v6: 0
+v7: 42

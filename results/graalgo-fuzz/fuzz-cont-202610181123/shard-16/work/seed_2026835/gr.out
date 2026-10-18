@@ -1,0 +1,20 @@
+-1
+maplen v1: 0
+v12: 0
+slicelen v2: 3 [1 128 4294967295]
+v26: 317
+maplen v3: 0
+v31: 
+v32: 35
+slicelen v4: 3 [hellohellohello
+	
+	 
+	ahello
+	foo bar
+	helloahellohellohello
+	a
+	a 
+	]
+maplen v5: 1
+v6: hello
+v9: 42

@@ -1,0 +1,15 @@
+slicelen v1: 3 [foo bar foo bar
+	foo bar
+	
+	foo bar
+	helloaaahellofoo barfoo bar a]
+v10: 2147483647
+v113: 0
+v114: 593
+slicelen v2: 2 [a foo bar]
+v3: 9.999999960041972e-12
+v4: 0
+v5: 0
+slicelen v6: 2 [2147483648 42]
+v8: 265
+v9: 884

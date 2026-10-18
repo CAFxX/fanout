@@ -1,0 +1,14 @@
+133
+slicelen v1: 3 [1 127 529]
+maplen v2: 0
+slicelen v3: 3 [foo barfoo bara
+	 foo bar foo bar]
+maplen v4: 0
+v43: 128
+v44: 3.14159
+v45: 133
+v46: 3.14159
+v47: 133
+v48: 1
+slicelen v5: 4 [127 128 -1 -9223372036854775808]
+v6: 6.1831803

@@ -1,0 +1,15 @@
+65535 foo bar
+	 128
+v1: 128
+v11: 65535
+v19: foo bar
+	foo bar
+	foo bar
+	foo bar
+	
+v2: 127
+v20: 0
+v21: 0
+v22: 0.1
+v3: 2
+slicelen v8: 1 [-2147483648]

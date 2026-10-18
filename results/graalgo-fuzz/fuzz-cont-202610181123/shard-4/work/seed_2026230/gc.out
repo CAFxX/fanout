@@ -1,0 +1,53 @@
+0 241 241
+1 241 241
+733
+733
+733
+733
+733
+733
+733
+733
+733
+733
+733
+733
+733
+733 241
+733
+1e+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+v1: 241
+v196: true
+v2: 
+	afoo bar
+	a
+v22: 0
+slicelen v3: 2 [
+	 
+	afoo bar
+	a
+	afoo bar
+	ahello
+	afoo bar
+	ahello
+	afoo bar
+	ahello]
+maplen v4: 0
+v5: 966
+maplen v6: 0

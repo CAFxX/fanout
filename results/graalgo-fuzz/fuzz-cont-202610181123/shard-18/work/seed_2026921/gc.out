@@ -1,0 +1,14 @@
+0 hellohello
+v1: 0
+v12: 0
+v13: 18446744073709551614
+v14: 
+v16: 0
+maplen v2: 1
+v23: 127
+v24: 18446744073709551615
+slicelen v3: 1 [foo bar]
+slicelen v4: 4 [foo bar 
+	 hellohello hellohello]
+v5: hellohello
+v6: 2147483647

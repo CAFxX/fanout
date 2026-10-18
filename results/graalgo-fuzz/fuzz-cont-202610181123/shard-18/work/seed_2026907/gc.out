@@ -1,0 +1,12 @@
+a a
+0 a -867
+maplen v1: 1
+v17: -867
+v18: 0
+slicelen v2: 4 [foo bar ahello 
+	 hellohello]
+v3: 100
+maplen v4: 0
+maplen v5: 0
+slicelen v6: 3 [foo bar a hello]
+v9: a

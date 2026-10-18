@@ -1,0 +1,12 @@
+6.14159
+136 136 136
+42 127
+slicelen v1: 3 [1 717 2147483647]
+v16: 232
+v17: 42
+v19: 0
+slicelen v2: 1 [
+	]
+slicelen v3: 4 [foo bar
+	 foo bar  hello]
+v4: 6.14159

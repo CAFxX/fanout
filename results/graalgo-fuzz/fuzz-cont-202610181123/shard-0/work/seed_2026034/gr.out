@@ -1,0 +1,14 @@
+-493
+-32768 foo bar
+-32768 foo bar
+-32768 foo bar
+-32768 foo bar
+foo bar -32768
+maplen v1: 0
+v13: 0
+v14: 0
+maplen v2: 0
+v28: 42
+v3: foo bar
+v4: -32768
+maplen v5: 0

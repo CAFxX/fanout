@@ -1,0 +1,11 @@
+423 423
+1000 423
+maplen v1: 1
+v19: 846
+slicelen v2: 10 [
+	 hello hello hello hello hello hello hello hello a]
+v28: 1000
+v29: 1
+slicelen v3: 4 [-1 225 2147483647 42]
+v39: -128
+v40: -1

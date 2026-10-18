@@ -1,0 +1,19 @@
+-769 0 255
+-769 1 255
+-769 2 255
+hellofoo bar 255
+42
+255
+255
+255
+255
+255
+v1: hellofoo bar
+v17: 255
+slicelen v2: 1 [374]
+v21: -32768
+v3: 1e+10
+v4: 255
+slicelen v5: 2 [hellofoo barhellofoo bar hellofoo barhello]
+v8: hellofoo bara
+v9: 42

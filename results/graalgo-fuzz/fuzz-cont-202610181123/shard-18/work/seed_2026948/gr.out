@@ -1,0 +1,12 @@
+255 foo barfoo bar
+1
+1
+maplen v1: 0
+v16: 1
+maplen v2: 0
+maplen v3: 1
+v46: foo bar
+	helloafoo barfoo barfoo barhellofoo barfoo bar
+v47: 255
+v83: 1
+v86: 1

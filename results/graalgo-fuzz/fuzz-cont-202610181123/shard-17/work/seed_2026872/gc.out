@@ -1,0 +1,22 @@
+1
+-1 foo barfoo barhello 0
+-1 foo barfoo barhello 1
+-1 foo barfoo barhello 2
+-1 foo barfoo barhello 3
+-1 foo barfoo barhello 4
+-1 foo barfoo barhello 5
+-1 foo barfoo barhello 6
+-1 foo barfoo barhello 7
+-1 foo barfoo barhello 8
+-1 foo barfoo barhello 9
+-1 foo barfoo barhello 10
+-1 foo barfoo barhello 11
+-1 foo barfoo barhello 12
+-1 foo barfoo barhello 13
+-1 foo barfoo barhello 14
+v1: 1
+slicelen v2: 2 [2 2147483648]
+v25: foo barfoo barhello
+v26: 0
+maplen v3: 0
+v45: -1

@@ -1,0 +1,9 @@
+26 -1
+v1: 26
+maplen v2: 0
+v3: -1
+slicelen v4: 3 [hello a 
+	foo bara]
+maplen v5: 0
+slicelen v6: 2 [ a
+	]

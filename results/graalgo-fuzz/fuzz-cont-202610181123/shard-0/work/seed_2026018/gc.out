@@ -1,0 +1,30 @@
+50.625
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+helloahello 1
+v1: foo barfoo barhelloahelloahelloahellohelloahello
+	helloahelloafoo barhelloahelloahelloahellohelloahello
+	helloahellofoo barhelloahelloahelloahellohelloahello
+	helloahello
+	foo barhelloahelloahelloahellohelloahello
+	helloahello
+v2: 1
+v3: 1.5
+v31: 341
+v32: 337
+v37: 0
+maplen v4: 0
+v42: 1.5
+v5: -32726
+slicelen v6: 1 [foo barhelloahellohelloahello]
