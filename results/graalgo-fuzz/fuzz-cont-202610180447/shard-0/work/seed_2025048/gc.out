@@ -1,0 +1,11 @@
+-65 -65
+v1: 1.5
+slicelen v2: 4 [2147483647 42 127 -540]
+v22: 1
+v23: -9223372036854775808
+v3: true
+v34: 255
+maplen v4: 1
+slicelen v5: 4 [hello a foo bar
+	 a]
+v6: -65

@@ -1,0 +1,25 @@
+18446744073709551614 2000 2000
+2000 2000 2000
+18446744073709551614
+-3160 -3160 2304
+0 2304
+-3160 -3160 2304
+1 2304
+-3160 -3160 2304
+2 2304
+-3160 -3160 2304
+3 2304
+maplen v1: 0
+v124: 2304
+maplen v2: 0
+slicelen v3: 0 []
+v4: foo barhello
+	foo barafoo bar
+	
+slicelen v5: 3 [ foo barhello
+	foo barafoo bar
+	foo barhello
+	foo barafoo bar
+	 foo bar]
+v6: 18446744073709551614
+v90: -3160

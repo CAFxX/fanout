@@ -1,0 +1,10 @@
+maplen v1: 0
+v2: 3.14159
+slicelen v3: 4 [a foo bara
+	
+	
+	foo barhellohello
+	 hello a]
+v37: 2
+v4: 2
+slicelen v5: 4 [313 4294967295 42 2147483647]

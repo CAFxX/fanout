@@ -1,0 +1,21 @@
+foo bar
+	hellohellohellohelloa
+	hellohellohellohello
+	aahellofoo barhello foo bar
+	hellohellohellohelloa
+	hellohellohellohello
+	aahellofoo barhello
+true 1
+v1: true
+slicelen v2: 3 [2147483647 935 0]
+v3: 1
+v4: foo bar
+	hellohellohellohelloa
+	hellohellohellohello
+	aahellofoo barhellofoo bar
+	hellohellohellohelloa
+	hellohellohellohello
+	aahellofoo barhellofoo bar
+	hellohellohellohelloa
+	hellohellohellohello
+	aahellofoo barhello

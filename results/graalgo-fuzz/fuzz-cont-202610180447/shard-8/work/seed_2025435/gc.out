@@ -1,0 +1,10 @@
+slicelen v1: 2 [128 42]
+slicelen v2: 4 [2 2 42 65535]
+slicelen v3: 4 [42 0 0 42]
+v36: -128
+v37: -1
+v38: 1e+09
+v4: 131071
+v40: 42
+slicelen v5: 3 [a a ]
+v6: 42

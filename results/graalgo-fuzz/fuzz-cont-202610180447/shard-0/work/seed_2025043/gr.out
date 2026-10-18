@@ -1,0 +1,11 @@
+true -305 -305
+true -304
+-305
+maplen v1: 0
+v12: -305
+v13: -304
+v2: -304
+slicelen v3: 2 [
+	ahello
+	 ]
+v4: true

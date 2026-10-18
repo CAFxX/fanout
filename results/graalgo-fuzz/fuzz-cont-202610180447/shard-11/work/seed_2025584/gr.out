@@ -1,0 +1,11 @@
+false -3.45e+09
+false -3.45e+09 -3.45e+09
+127
+slicelen v1: 2 [
+	 hello]
+slicelen v2: 3 [-658 704 1]
+v3: -3.45e+09
+maplen v4: 0
+v5: false
+v6: foo barfoo bar
+v9: 127

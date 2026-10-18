@@ -1,0 +1,8 @@
+2 0
+0 0
+v1: 2
+v2: 0
+slicelen v3: 3 [4 2 2]
+slicelen v4: 3 [a hello
+	 foo barfoo bara]
+v5: hello

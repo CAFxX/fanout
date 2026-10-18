@@ -1,0 +1,29 @@
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+foo barhello 671 671
+v1: -2.25
+v16: 0
+v17: foo barhello
+v18: -1
+slicelen v2: 4 [
+	
+	 hello a foo barfoo bara
+	
+	]
+v27: 671
+v28: 235
+slicelen v3: 4 [
+	foo bar foo bar hello a]
+slicelen v4: 2 [128 0]
+slicelen v5: 1 [2147483647]

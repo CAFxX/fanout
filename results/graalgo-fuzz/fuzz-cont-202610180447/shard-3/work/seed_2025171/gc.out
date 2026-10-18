@@ -1,0 +1,28 @@
+32 0 505
+0 1 505
+224 2 505
+192 3 505
+160 4 505
+128 5 505
+96 6 505
+64 7 505
+
+505 840
+v1: 0
+v13: 505
+v17: 
+	
+	afoo barfoo barhello
+	
+	afoo barfoo bar
+	
+	afoo barfoo bar
+	
+	afoo barfoo bar
+	
+	afoo barfoo bar
+maplen v2: 0
+v3: 
+v4: 64
+v47: 840
+slicelen v48: 3 [64 42 32768]

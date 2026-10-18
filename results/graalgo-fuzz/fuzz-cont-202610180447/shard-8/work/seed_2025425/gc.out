@@ -1,0 +1,7 @@
+100 0
+v1: true
+v2: 0
+v3: 18446744073709551615
+v4: foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+slicelen v5: 3 [42 -652 4294967295]
+v6: 100

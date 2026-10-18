@@ -1,0 +1,12 @@
+2 1.00000000001e+11 1.00000000001e+11
+maplen v1: 1
+v10: 2
+v11: 2147483647
+v14: 2
+slicelen v2: 3 [foo bar 
+	 ]
+v3: 1.00000000001e+11
+maplen v4: 0
+slicelen v5: 4 [foo barfoo barfoo bara hello hello 
+	]
+v7: 1.00000000001e+11

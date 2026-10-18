@@ -1,0 +1,10 @@
+-Inf 305
+slicelen v1: 0 []
+maplen v2: 0
+v3: 305
+v4: 1e+10
+slicelen v5: 4 [
+	 foo bar 
+	 hello]
+v7: 1
+v8: 1

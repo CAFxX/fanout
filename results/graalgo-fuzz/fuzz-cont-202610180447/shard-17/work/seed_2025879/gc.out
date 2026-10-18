@@ -1,0 +1,12 @@
+0 255
+v1: 127
+v139: -425
+v2: -336
+v3: 65535
+v4: -22.5
+v46: 255
+v47: 0
+slicelen v5: 6 [foo bar
+	hellofoo barhellofoo barhellofoo barhellohello a  a foo bar 
+	]
+v52: 0

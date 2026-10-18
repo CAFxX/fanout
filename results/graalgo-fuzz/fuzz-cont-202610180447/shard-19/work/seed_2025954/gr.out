@@ -1,0 +1,11 @@
+100
+true 0 true
+v1: -56
+v15: 0
+v19: true
+slicelen v2: 1 []
+slicelen v3: 1 [127]
+slicelen v4: 2 [a
+	helloa 
+	]
+maplen v5: 1

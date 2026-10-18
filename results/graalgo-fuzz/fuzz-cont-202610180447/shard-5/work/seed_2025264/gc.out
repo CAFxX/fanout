@@ -1,0 +1,12 @@
+9223372036854775807 9223372036854775807 12
+slicelen v1: 13 [a foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar]
+maplen v2: 0
+v3: 12
+v30: 9223372036854775807
+v39: 1.999999999685841e+10
+slicelen v4: 3 [ 
+	 foo bar]
+v40: 42
+v41: 356
+v42: -300
+v5: 18446744073709550129

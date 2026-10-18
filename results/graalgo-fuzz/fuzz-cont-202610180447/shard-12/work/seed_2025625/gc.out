@@ -1,0 +1,15 @@
+-9223372036854775808
+
+	
+a
+slicelen v1: 2 [
+	 foo bar
+	]
+v13: 
+	
+v14: -9223372036854775808
+v16: a
+slicelen v2: 2 [foo bar foo bar]
+v24: false
+maplen v3: 0
+slicelen v4: 2 [ foo bar]

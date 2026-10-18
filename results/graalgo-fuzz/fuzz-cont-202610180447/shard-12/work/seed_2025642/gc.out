@@ -1,0 +1,18 @@
+44
+slicelen v1: 4 [a foo bar foo bar
+	 afoo bar
+	helloa
+	a]
+v2: 128
+v27: 18446744073709551615
+v28: 0
+v29: -128
+slicelen v3: 3 [2 2147483647 0]
+v30: 1
+v32: false
+v33: false
+v34: 0
+v36: 2147483648
+v37: false
+v4: -2.25
+v5: -586

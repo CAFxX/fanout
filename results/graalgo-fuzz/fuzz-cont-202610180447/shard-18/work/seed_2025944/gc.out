@@ -1,0 +1,17 @@
+false 1
+true
+46 true
+slicelen v1: 3 [
+	  
+	]
+v14: 46
+v15: -1
+slicelen v2: 3 [2147483648 286 0]
+v3: true
+v4: 1
+maplen v5: 0
+v53: hellohello
+slicelen v6: 4 [a 
+	 foo barhellohello 
+	a
+	a]

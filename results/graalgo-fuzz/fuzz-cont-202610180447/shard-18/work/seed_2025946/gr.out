@@ -1,0 +1,23 @@
+slicelen v1: 5 [2147483647 2147483648 427 541 164]
+v2: hellohello
+	
+	foo barhellohello
+	
+	hellohello
+	
+	foo barhellohello
+	
+	a
+	
+maplen v3: 0
+v38: hellohello
+	
+	foo barhellohello
+	
+	a
+	
+v39: 18446744073709547520
+v4: 18446744073709551615
+v5: 18446744073709547520
+maplen v6: 0
+v7: 4294967295

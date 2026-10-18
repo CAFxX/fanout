@@ -1,0 +1,7 @@
+v1: foo bar
+v12: false
+v13: 0
+v15: 3.14159
+v2: 0
+maplen v3: 0
+slicelen v4: 2 [2147483647 -971]

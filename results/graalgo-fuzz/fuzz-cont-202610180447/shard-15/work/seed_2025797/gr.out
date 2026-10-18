@@ -1,0 +1,9 @@
+v1: 128
+v10: 1.5
+maplen v2: 0
+slicelen v3: 3 [ hello hellofoo bar
+	]
+v6: -947
+v7: -428
+v8: 9223372036854775807
+v9: 333

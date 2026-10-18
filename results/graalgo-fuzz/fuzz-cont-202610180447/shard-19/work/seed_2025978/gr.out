@@ -1,0 +1,14 @@
+-32768
+v1: -0.75
+v2: -806
+slicelen v3: 2 [foo barfoo barfoo barfoo bar
+	hellofoo bara
+	a 
+	afoo bar
+	]
+maplen v4: 4
+v5: 42
+v6: hello
+v89: -0.75
+v90: 42
+v96: 255

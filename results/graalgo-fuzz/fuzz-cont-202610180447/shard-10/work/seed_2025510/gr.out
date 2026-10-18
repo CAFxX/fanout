@@ -1,0 +1,9 @@
+32767 false
+false 32767
+false false
+v1: -128
+v19: 31
+v2: false
+slicelen v3: 4 [foo barhellohelloa foo bar foo bar a
+	]
+v4: -283

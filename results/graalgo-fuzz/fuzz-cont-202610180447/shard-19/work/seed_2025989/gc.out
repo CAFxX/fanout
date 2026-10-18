@@ -1,0 +1,12 @@
+v1: 4.74159
+v10: 0
+v15: -711
+v2: 0
+maplen v3: 0
+slicelen v4: 2 [hello foo barhello
+	foo bar]
+v5: 9223372036854775806
+v6: 0
+v7: false
+v8: foo barhello
+	foo bar

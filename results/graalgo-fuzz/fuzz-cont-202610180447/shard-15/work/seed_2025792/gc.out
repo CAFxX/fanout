@@ -1,0 +1,10 @@
+v1: 2147483647
+v2: hello
+v21: 918
+slicelen v3: 3 [hello hellohello hellohello]
+v30: 0
+v31: 42
+v32: 42
+v4: 716
+v5: -2.25
+slicelen v6: 1 [716]

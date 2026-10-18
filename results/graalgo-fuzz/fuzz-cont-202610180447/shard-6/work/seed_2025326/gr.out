@@ -1,0 +1,23 @@
+763 763
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+v1: 1
+v13: 0
+slicelen v2: 4 [
+	 a
+	 foo bar ]
+v26: foo barfoo bar
+v27: foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+v3: 1526
+slicelen v4: 0 []
+v5: 0

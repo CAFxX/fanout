@@ -1,0 +1,12 @@
+
+	foo bar 14
+14 14 14
+v1: 
+	foo bar
+v14: 0
+v16: 
+v17: 2
+slicelen v2: 4 [foo bar foo bar hello 
+	foo bar]
+maplen v3: 0
+v4: 32

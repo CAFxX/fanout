@@ -1,0 +1,8 @@
+true true
+0 true 0
+v1: true
+v2: 0
+slicelen v3: 2 [2147483648 2147483648]
+slicelen v4: 1 [foo bar]
+v40: false
+v44: 1

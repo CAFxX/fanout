@@ -1,0 +1,14 @@
+a -9223372036854775808
+slicelen v1: 3 [144 42 4294967295]
+v10: 0
+v2: 3.14159
+v20: 0
+v24: -2.15
+v3: 0
+v4: -9223372036854775808
+v42: -101
+v43: a
+slicelen v5: 3 [a foo bar foo barfoo barahello]
+maplen v6: 0
+v7: 36
+v8: a

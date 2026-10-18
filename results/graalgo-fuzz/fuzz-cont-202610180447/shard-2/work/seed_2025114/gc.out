@@ -1,0 +1,11 @@
+167 167 167
+2 2 true
+maplen v1: 0
+v2: 2
+v21: 167
+slicelen v28: 4 [1 32768 -2147483648 127]
+v3: 99
+v4: ahellohello
+	foo barhello
+v5: true
+maplen v6: 0

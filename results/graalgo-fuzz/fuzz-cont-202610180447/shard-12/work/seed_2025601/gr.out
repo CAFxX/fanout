@@ -1,0 +1,11 @@
+0 0
+v1: 0
+v10: 1
+v11: a
+v2: 0
+v3: 0
+slicelen v4: 3 [a hello
+	
+	 foo bar]
+v5: 0.1
+v6: 2147483647
