@@ -1,0 +1,7 @@
+{
+ "job_id": "vet-printf-green-20261018a",
+ "files": [
+  "STATUS.json",
+  "shard-0/_shard_status.json"
+ ]
+}
