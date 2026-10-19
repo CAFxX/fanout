@@ -1,0 +1,13 @@
+-1
+1000
+-128
+32633
+32633
+32633 32633
+v1: 32633
+maplen v2: 1
+slicelen v3: 1 [4294967295]
+slicelen v4: 1 [-308]
+slicelen v5: 1 [afoo bar
+	]
+v57: a

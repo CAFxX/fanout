@@ -1,0 +1,26 @@
+1205
+42
+0 42 foo bar
+1 42 foo bar
+2 42 foo bar
+3 42 foo bar
+4 42 foo bar
+5 42 foo bar
+6 42 foo bar
+7 42 foo bar
+8 42 foo bar
+9 42 foo bar
+10 42 foo bar
+11 42 foo bar
+12 42 foo bar
+13 42 foo bar
+14 42 foo bar
+15 42 foo bar
+slicelen v1: 4 [4294967295 42 2 743]
+v12: foo bar
+maplen v2: 0
+maplen v3: 0
+v32: -267
+v33: false
+v34: foo bar
+v4: 42

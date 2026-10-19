@@ -1,0 +1,12 @@
+213 18446744073709551573 32767
+foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar 213
+v1: 1
+v11: 32767
+v12: foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar
+v14: 213
+slicelen v2: 26 [foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar foo barfoo barafoo barfoo barfoo barfoo barfoo barfoo bar]
+v22: 2
+v3: 740
+maplen v4: 1
+v5: -34
+v6: 18446744073709551573

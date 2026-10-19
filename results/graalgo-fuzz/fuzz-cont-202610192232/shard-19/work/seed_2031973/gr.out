@@ -1,0 +1,9 @@
+maplen v1: 0
+v2: a
+	
+v3: 127
+maplen v4: 0
+v5: true
+slicelen v6: 2 [126 127]
+v7: -1
+v8: foo bar

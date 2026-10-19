@@ -1,0 +1,25 @@
+0 -2.25
+-2147483648
+v1: -3.75
+v17: 0
+v19: a
+	afoo bara
+	
+	aahello
+	
+	a
+	afoo bara
+	
+	aahello
+	
+v2: a
+	afoo bara
+	
+	aahello
+	
+maplen v3: 0
+v38: true
+v39: 42
+slicelen v4: 4 [679 0 -9223372036854775808 2147483647]
+slicelen v5: 4 [149 80 65535 652]
+v6: 0

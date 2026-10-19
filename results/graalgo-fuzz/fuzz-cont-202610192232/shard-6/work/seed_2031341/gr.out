@@ -1,0 +1,7 @@
+foo bar foo bar foo bar
+255 foo bar 255
+v1: 32767
+v2: 255
+slicelen v3: 10 [foo barfoo barfoo barfoo barfoo barfoo barhello hello ahellofoo bar hello foo bar foo bar foo bar foo bar foo bar foo bar]
+v38: 0
+v4: foo bar

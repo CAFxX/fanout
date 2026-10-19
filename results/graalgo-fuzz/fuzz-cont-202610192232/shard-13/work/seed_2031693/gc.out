@@ -1,0 +1,11 @@
+v1: 176
+v15: 65535
+v2: false
+v25: 176
+v3: 4294967119
+slicelen v4: 4 [ahellofoo barhello
+	 a a
+	 
+	]
+slicelen v5: 3 [32767 42 1]
+v6: true

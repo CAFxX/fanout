@@ -1,0 +1,12 @@
+false 4294967295
+false false
+34359738367 0 0
+34359738367 1 1
+maplen v1: 0
+v2: 34359738367
+v26: -2.25
+v3: false
+maplen v4: 0
+v41: 5.75
+slicelen v5: 2 [
+	 afoo bar]

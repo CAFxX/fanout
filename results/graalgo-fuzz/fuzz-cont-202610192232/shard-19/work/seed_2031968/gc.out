@@ -1,0 +1,12 @@
+-52 -52
+-52 -52 -52
+v1: 42
+v12: -52
+maplen v2: 0
+maplen v3: 0
+v30: ahellofoo barhello
+v4: -52
+maplen v5: 1
+slicelen v6: 4 [ hello hello
+	hellofoo barhellofoo barhello 
+	]

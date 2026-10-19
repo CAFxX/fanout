@@ -1,0 +1,11 @@
+477 -273
+1.5 -273 1.5
+maplen v1: 0
+slicelen v2: 2 [afoo barfoo bar foo bar]
+maplen v3: 0
+v4: 42
+maplen v5: 0
+slicelen v6: 1 [-1]
+v65: 0
+v76: 1.5
+v77: 42

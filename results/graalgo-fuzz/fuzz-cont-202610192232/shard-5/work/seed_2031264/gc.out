@@ -1,0 +1,12 @@
+2
+v1: 0
+v14: -1
+v2: 2
+slicelen v3: 3 [
+	 a
+	
+	 afoo bar
+	foo barhelloaa
+	helloafoo bar]
+v31: -1
+v4: a

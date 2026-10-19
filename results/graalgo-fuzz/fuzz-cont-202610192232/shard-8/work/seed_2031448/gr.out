@@ -1,0 +1,41 @@
+-1 foo bar foo bar
+-1
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+378 foo bar
+-1 -1 -1
+378 0
+378 1
+378 2
+378 3
+378 4
+378 5
+378 6
+378 7
+378 8
+maplen v1: 0
+v2: -85
+v3: foo bar
+slicelen v4: 1 [2]
+slicelen v5: 0 []
+v7: 378
+v89: 534
+v90: -1
+v91: 0

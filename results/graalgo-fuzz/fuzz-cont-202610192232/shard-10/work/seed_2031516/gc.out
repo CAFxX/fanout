@@ -1,0 +1,8 @@
+v1: 42
+maplen v2: 0
+v3: 1e+10
+slicelen v4: 4 [42 1 42 288]
+slicelen v5: 1 [foo bar
+	]
+v6: 1.5
+v7: 42

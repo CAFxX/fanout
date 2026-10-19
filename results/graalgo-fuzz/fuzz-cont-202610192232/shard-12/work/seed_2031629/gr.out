@@ -1,0 +1,8 @@
+v1: 128
+v11: 82
+v12: 1
+v18: foo bar
+slicelen v2: 5 [a 
+	 foo bar hello hello]
+v3: 4294967295
+v6: 42

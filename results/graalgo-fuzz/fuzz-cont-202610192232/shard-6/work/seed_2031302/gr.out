@@ -1,0 +1,37 @@
+0
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+-3.14159
+false
+false
+false
+false
+false
+false
+false
+0 -1
+0
+v1: 42
+v2: 
+slicelen v3: 1 [65535]
+v4: -1
+slicelen v5: 22 [  hellofoo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v6: false
+v7: 0
+v8: false

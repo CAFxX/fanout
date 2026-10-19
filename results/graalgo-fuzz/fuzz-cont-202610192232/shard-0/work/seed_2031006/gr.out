@@ -1,0 +1,12 @@
+32767
+hellofoo bar hellofoo bar 32767
+v1: false
+v113: 16
+v121: 0
+v122: 32767
+v123: hellofoo bar
+v2: 32767
+slicelen v3: 2 [4294967295 0]
+v4: 1
+slicelen v5: 5 [32767 9223372036854775807 -928 743 -340]
+maplen v6: 0

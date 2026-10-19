@@ -1,0 +1,9 @@
+-1.5
+maplen v1: 0
+v10: -1.5
+v15: 100
+maplen v2: 1
+maplen v3: 0
+slicelen v4: 4 [foo barfoo barhelloaaa  hello
+	 
+	]

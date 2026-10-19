@@ -1,0 +1,10 @@
+127 0 foo bar
+v1: foo bar
+slicelen v13: 2 [127 127]
+v15: 0
+v16: 1
+v18: 1
+v19: false
+v2: 127
+maplen v3: 1
+v4: false

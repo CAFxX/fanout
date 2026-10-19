@@ -1,0 +1,5 @@
+1 1
+v1: foo barhellohello
+v2: 4294967294
+slicelen v23: 3 [4294967295 32767 -1]
+maplen v3: 0

@@ -1,0 +1,16 @@
+ 1
+465
+foo bar 0
+464
+slicelen v1: 3 [foo bar
+	 
+	foo bar 
+	]
+v113: 127
+v114: 0.1
+v115: 255
+v143: 0
+maplen v2: 0
+slicelen v3: 0 []
+v4: 464
+slicelen v5: 1 [9223372036854775807]

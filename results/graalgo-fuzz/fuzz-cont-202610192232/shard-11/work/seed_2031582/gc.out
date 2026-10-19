@@ -1,0 +1,26 @@
+508 0.1
+foo bar
+508 foo bar 0
+508 foo bar 1
+508 foo bar 2
+508 foo bar 3
+508 foo bar 0
+508 foo bar 1
+508 foo bar 2
+508 foo bar 3
+508 foo bar 0
+508 foo bar 1
+508 foo bar 2
+508 foo bar 3
+508 foo bar 0
+508 foo bar 1
+508 foo bar 2
+508 foo bar 3
+0 0 4294967295
+v1: 52428.8
+v2: foo bar
+v3: 0
+v4: 9659343219431430272
+slicelen v41: 3 [-668 60 0]
+v5: 0
+v63: 4294967295

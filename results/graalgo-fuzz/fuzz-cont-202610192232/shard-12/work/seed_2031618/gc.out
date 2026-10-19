@@ -1,0 +1,30 @@
+a 349 349
+v1: 349
+slicelen v2: 4 [-429 -1 9223372036854775807 303]
+v27: 84
+v3: a
+v32: 2
+v33: 1
+v34: foo bar
+v35: false
+slicelen v4: 4 [a hello
+	hello
+	 hello
+	 hello
+	]
+slicelen v5: 4 [0 1 1 225]
+slicelen v6: 4 [hello
+	hello
+	 a hello
+	hello
+	hello
+	hello
+	hellofoo bar
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello hello
+	hello
+	]

@@ -1,0 +1,13 @@
+70 65535
+70 70
+70 70 70
+70 65535 70
+maplen v1: 0
+v2: 140
+v23: 65535
+v28: 0
+slicelen v3: 5 [foo bar 
+	 a
+	 hello foo bar]
+v4: 65535
+maplen v5: 0

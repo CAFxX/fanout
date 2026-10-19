@@ -1,0 +1,9 @@
+-544 -544 42
+foo bar 42
+slicelen v1: 3 [1 -2147483648 2147483647]
+maplen v2: 0
+v25: -544
+v26: foo bar
+v3: 42
+v30: 1000
+v4: false

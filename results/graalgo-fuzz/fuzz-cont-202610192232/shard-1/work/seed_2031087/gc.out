@@ -1,0 +1,29 @@
+4294967295
+-2 4294967295
+8589934591 8589934591
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+maplen v1: 0
+v10: 0
+v13: 0.1
+slicelen v2: 3 [a aahello foo bar]
+v25: foo bar
+v3: -524272
+slicelen v4: 2 [8589934591 4294967282]
+v5: 0
+slicelen v6: 1 [a]
+v9: -58

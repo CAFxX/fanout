@@ -1,0 +1,48 @@
+1 -1 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+	foo bar -1
+
+	foo bar -1 -1
+-1 -1
+
+	foo barfoo bara
+	foo bar
+	foo bar
+	foo barfoo bara
+	foo bar
+	foo bar
+	foo barfoo bara
+	foo bar
+	foo bar
+v1: 1
+maplen v2: 0
+slicelen v3: 0 []
+maplen v4: 0
+v5: 
+	foo barfoo bara
+	foo bar
+	foo bar
+	foo barfoo bara
+	foo bar
+	foo bar
+	foo barfoo bara
+	foo bar
+	foo bar
+v6: -1
+v71: 0
