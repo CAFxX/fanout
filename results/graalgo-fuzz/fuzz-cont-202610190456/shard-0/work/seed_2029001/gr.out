@@ -1,0 +1,26 @@
+0 42
+v1: 0
+v15: 42
+v16: -2.25
+maplen v2: 2
+v25: 42
+v3: -2.25
+slicelen v4: 21 [afoo bar hello a hellofoo barhello 
+	foo bar foo bar helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello helloa
+	foo barfoo barhello]
+maplen v5: 1
+v6: 6.2310104e+23

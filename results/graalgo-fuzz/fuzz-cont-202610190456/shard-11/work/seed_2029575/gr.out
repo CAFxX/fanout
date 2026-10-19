@@ -1,0 +1,29 @@
+32767
+-1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+v1: 0
+maplen v2: 1
+slicelen v3: 6 [a
+	foo bar  hello  foo bar a
+	
+	a
+	foo barhello]
+v36: 2

@@ -1,0 +1,50 @@
+aafoo bar aafoo bar
+2
+2
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+foo bar 0 foo bar
+false aafoo bar
+0 42 false
+false foo bar
+false foo bar
+false foo bar
+false foo bar
+false foo bar
+false foo bar
+v1: true
+v10: 2
+v17: -1
+v2: foo bar
+maplen v3: 0
+v4: -807
+v5: aafoo bar
+v6: false
+v7: 65536
+v8: foo baraafoo bar
+v9: 42

@@ -1,0 +1,9 @@
+384 384
+84
+v1: 0
+slicelen v2: 1 [997]
+slicelen v3: 2 [ foo bar
+	a]
+v45: true
+v46: -1
+v52: false

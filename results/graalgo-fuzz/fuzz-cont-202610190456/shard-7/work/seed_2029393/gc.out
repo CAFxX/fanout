@@ -1,0 +1,14 @@
+-2147483648
+v1: -2147483648
+v13: 0
+v2: foo barhello
+v22: 9223372036854775808
+v25: 862
+v26: -8.614675e+08
+v27: 447
+v28: 18446744073709539631
+v29: foo bar
+v3: -2147483648
+v4: 255
+v5: 1
+slicelen v6: 4 [foo barhello hellofoo barhello foo barhellofoo barhello ]

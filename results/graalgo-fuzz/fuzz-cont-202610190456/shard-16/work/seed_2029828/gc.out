@@ -1,0 +1,12 @@
+1.5 true
+-8 true
+true -8 1.5
+1.5
+v1: -8
+v2: 1.5
+slicelen v23: 4 [1 32767 0 32767]
+v24: 255
+v25: hello
+maplen v3: 0
+v4: true
+maplen v5: 0

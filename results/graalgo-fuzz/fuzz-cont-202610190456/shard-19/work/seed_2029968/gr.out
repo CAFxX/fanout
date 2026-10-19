@@ -1,0 +1,9 @@
+slicelen v1: 3 [foo bar
+	hellofoo bar hellofoo bar ]
+v13: 3.14159
+v2: foo bar
+	hellofoo bar
+v3: -0.75
+v4: 85
+v5: 415
+v6: 42

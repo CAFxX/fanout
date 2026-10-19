@@ -1,0 +1,12 @@
+-2 -775
+v1: -2
+v113: 1
+v127: -380
+v128: 42
+v129: false
+slicelen v2: 0 []
+slicelen v3: 3 [hellohelloahellofoo bar
+	 a
+	foo bar ]
+v78: hello
+v79: -775

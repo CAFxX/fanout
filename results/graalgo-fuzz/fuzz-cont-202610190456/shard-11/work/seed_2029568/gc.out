@@ -1,0 +1,11 @@
+false
+slicelen v1: 4 [foo bar
+	 foo bar  a
+	a
+	foo bara]
+v2: 372
+slicelen v3: 2 [186 186]
+slicelen v4: 5 [
+	  a  foo bar]
+v5: true
+v6: 496

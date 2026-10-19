@@ -1,0 +1,21 @@
+473 42 0
+473 42 1
+473 42 2
+473 42 3
+473 42 4
+473 42 5
+473 42 6
+473 42 7
+473 42 8
+473 42 9
+473 42 10
+473 42 11
+473 42 12
+42 0
+v1: 473
+v16: false
+v2: 473
+v3: 42
+slicelen v4: 17 [foo bar a
+	 a hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v8: 0

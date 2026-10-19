@@ -1,0 +1,24 @@
+255 0 255
+0 0 0
+0 0 0
+4294967295 0
+0 0 0
+0 0 0
+0 0 0
+4294967295 1
+0
+0 foo bara
+	helloa
+	foo bara
+v1: 4294967295
+maplen v2: 0
+v3: 0
+slicelen v4: 1 [foo bar
+	foo barfoo barfoo barhelloahello]
+v5: false
+v6: 0
+v84: foo bara
+	helloa
+	foo bara
+v85: 0
+v93: false

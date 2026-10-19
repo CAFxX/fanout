@@ -1,0 +1,11 @@
+4294967296 -2147483648 577
+maplen v1: 0
+maplen v2: 0
+v3: 0
+slicelen v4: 3 [hello 
+	 hellohellofoo barfoo bar]
+v5: 577
+v6: 2
+v7: 18446744073709551615
+v8: 4294967296
+v9: 2147483647

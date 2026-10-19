@@ -1,0 +1,12 @@
+true true 65535
+true -32768 foo bar
+v1: 65535
+v12: foo bar
+v16: 3.14159
+v18: 100
+v19: -32768
+v2: -32768
+maplen v3: 0
+slicelen v4: 1 [2147483648]
+v5: 1.00000000001e-10
+v6: true

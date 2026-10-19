@@ -1,0 +1,10 @@
+foo bar
+maplen v1: 2
+v2: 18446744073709551530
+slicelen v3: 2 [hello ahello
+	
+	]
+v92: foo bar
+v95: 168
+v96: foo bar
+v99: 0.314159

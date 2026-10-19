@@ -1,0 +1,13 @@
+helloafoo bar
+	foo bar 1065
+1065 0
+v1: helloafoo bar
+	foo bar
+v2: 1065
+v3: -2147483648
+slicelen v46: 1 [-2147483648]
+v50: 0
+v55: 1e+10
+v57: 0
+v58: -7.161978490849722e-11
+v59: 462

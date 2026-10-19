@@ -1,0 +1,13 @@
+-363 -981 0
+0
+v1: 32767
+slicelen v2: 1 [hello]
+v3: -363
+v4: 18446744073709551615
+slicelen v5: 15 [hello  hello
+	afoo bar
+	 
+	foo barfoo bar a a a a a foo bar foo bar foo bar foo bar foo bar foo bar]
+v6: 0
+v7: 127
+v8: 0

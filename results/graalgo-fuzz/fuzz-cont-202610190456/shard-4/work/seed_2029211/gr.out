@@ -1,0 +1,11 @@
+-3e-10 foo bar 1
+maplen v1: 0
+v17: 225
+v18: 0
+slicelen v2: 3 [42 341 2147483648]
+v3: 32767
+v4: foo bar
+v5: -2.5132722e+31
+maplen v6: 0
+v7: 1
+v9: -3e-10

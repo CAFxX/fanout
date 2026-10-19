@@ -1,0 +1,22 @@
+0
+1
+2
+3
+4
+5
+6
+-32767 -1.3999999985e+09
+485
+-1 -32767
+slicelen v1: 2 [a afoo barfoo barfoo bar
+	foo bar]
+maplen v2: 0
+v26: -1.3999999985e+09
+v27: -1
+slicelen v3: 1 [32768]
+v32: true
+v33: 42
+v34: 1
+v4: -32767
+slicelen v5: 0 []
+maplen v6: 0

@@ -1,0 +1,10 @@
+a 0
+foo barfoo barfoo barfoo bar foo barfoo barfoo barfoo bar
+foo barfoo barfoo barfoo bar 0 0
+slicelen v1: 4 [405 2 2147483647 2]
+v2: foo barfoo barfoo barfoo bar
+maplen v3: 0
+v4: 0
+slicelen v5: 1 [-2147483648]
+v6: 63327
+v73: -1

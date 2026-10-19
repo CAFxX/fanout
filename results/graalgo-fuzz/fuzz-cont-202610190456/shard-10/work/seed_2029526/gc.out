@@ -1,0 +1,12 @@
+42 251
+18446744073709551195 false -128
+slicelen v1: 3 [
+	hellofoo barahello a ]
+v18: -128
+maplen v2: 0
+v3: 42
+slicelen v4: 3 [a foo bar hello]
+v5: 18446744073709551195
+maplen v6: 0
+v91: false
+v93: 1.5

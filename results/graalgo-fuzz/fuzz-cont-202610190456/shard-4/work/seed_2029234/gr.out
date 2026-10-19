@@ -1,0 +1,25 @@
+42 hello
+	
+	hello
+	
+	foo barfoo barfoo barfoo bar
+v1: 718
+v16: 18446744073709551615
+v17: hello
+	
+	hello
+	
+	foo barfoo barfoo barfoo bar
+v18: 42
+slicelen v19: 2 [-43 0]
+maplen v2: 0
+v20: 42
+v25: 65532
+v3: foo bar
+v4: hello
+	
+	hello
+	
+	foo barfoo barfoo barfoo bar
+v5: 65532
+v6: 42

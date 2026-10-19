@@ -1,0 +1,9 @@
+v1: hello
+v11: foo barfoo barfoo bar
+v14: foo barfoo bar
+v17: 0
+maplen v2: 0
+slicelen v3: 8 [0 1 1 941 0 0 0 0]
+v4: 0
+v5: 240
+v6: 3.14159

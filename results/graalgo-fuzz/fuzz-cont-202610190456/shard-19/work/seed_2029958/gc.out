@@ -1,0 +1,12 @@
+128 16711425
+slicelen v1: 4 [ foo bar hello foo bar]
+v17: 128
+v19: 255
+slicelen v2: 2 [foo bar ]
+v20: 255
+v21: 16711425
+v22: 0
+v3: 0
+v4: 0.1
+v5: 1.6
+maplen v6: 0

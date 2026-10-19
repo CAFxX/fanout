@@ -1,0 +1,18 @@
+slicelen v1: 2 [-771 -945]
+maplen v2: 1
+v3: 1
+v48: 
+	hello
+	foo bar
+	foo barfoo bar
+v54: 0
+v55: 
+	hello
+	foo bar
+	foo barfoo barhello
+	hello
+	foo bar
+	foo barfoo bara
+	hello
+	foo bar
+	foo barfoo bar

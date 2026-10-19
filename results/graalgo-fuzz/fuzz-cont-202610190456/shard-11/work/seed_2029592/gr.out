@@ -1,0 +1,9 @@
+-2.25 4294967295 4294967295
+v1: 4294967295
+v2: hello
+maplen v3: 1
+slicelen v4: 4 [hellohellohellohellohellofoo barfoo barhello
+	 hello 
+	 hellohellohello
+	hello]
+v5: -2.25

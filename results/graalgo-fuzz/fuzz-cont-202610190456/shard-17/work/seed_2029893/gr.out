@@ -1,0 +1,16 @@
+0
+0
+559 32767 32767
+v1: 0
+v15: 1118
+v16: 42
+slicelen v2: 2 [
+	foo bara
+	hello
+	
+	 
+	]
+maplen v3: 0
+v4: 0
+maplen v5: 0
+slicelen v6: 3 [foo bar foo bar a]

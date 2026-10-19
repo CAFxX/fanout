@@ -1,0 +1,8 @@
+-32725 -2 foo barfoo bar
+-2
+v1: -2147483648
+v2: -2
+slicelen v23: 1 [1]
+v24: -32725
+v3: foo bar
+v4: foo barfoo bar

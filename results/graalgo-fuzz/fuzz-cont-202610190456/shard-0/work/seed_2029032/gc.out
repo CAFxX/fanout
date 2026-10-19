@@ -1,0 +1,17 @@
+-330 -330 -1.3584099
+v1: 2
+v2: -2
+v3: 0
+v4: 0
+slicelen v5: 6 [foo bar 
+	aa
+	hello
+	
+	foo barfoo bar hellofoo bar foo bar  a
+	ahelloaahello
+	afoo bar]
+v6: -1.3584099
+v62: -330
+v80: -128
+v81: -1.3584099
+v82: 1

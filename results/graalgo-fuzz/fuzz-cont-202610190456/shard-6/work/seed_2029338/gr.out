@@ -1,0 +1,15 @@
+0 foo barhello
+	foo bar -2147483648
+v1: NaN
+v11: -2147483648
+v12: -128
+v14: 0.1
+v15: foo barhello
+	foo barhello
+v16: foo barhello
+	foo barfoo barhello
+	foo barhello
+v17: 287
+v2: 0
+v22: 
+maplen v3: 1

@@ -1,0 +1,31 @@
+50
+293 foo bar 0
+293 foo bar 1
+293 foo bar 2
+293 foo bar 3
+293 foo bar 4
+293 foo bar 5
+293 foo bar 6
+293 foo bar 7
+293 foo bar 8
+293 foo bar 9
+293 foo bar 10
+293 foo bar 11
+293 foo bar 12
+293 foo bar 13
+293 foo bar 14
+293 foo bar 15
+293 foo bar 16
+293 foo bar 17
+293 foo bar 18
+293 foo bar 19
+293
+v1: 50
+v15: 293
+slicelen v2: 3 [888 0 1]
+v20: -1
+v29: 64972
+maplen v3: 0
+v30: 128
+slicelen v4: 2 [ 
+	]

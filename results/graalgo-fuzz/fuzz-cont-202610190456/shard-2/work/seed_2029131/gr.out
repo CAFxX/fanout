@@ -1,0 +1,36 @@
+0
+v1: 
+	helloa
+	
+v10: -9223372036854775298
+v11: 255
+v12: -2.25e-10
+v13: 
+	helloa
+v2: 0
+v3: 
+	helloa
+	
+slicelen v4: 2 [32767 -1]
+v5: 1
+slicelen v6: 9 [
+	helloa
+	 
+	helloa
+	 
+	helloa
+	 
+	helloa
+	 
+	helloa
+	 
+	helloa
+	 
+	helloa
+	 
+	helloa
+	 
+	helloa
+	
+	helloa
+	helloa]

@@ -1,0 +1,9 @@
+false 4294967295 0
+v1: 0
+slicelen v2: 4 [hello foo bar hellofoo bar ]
+slicelen v3: 1 [2]
+v31: 1.5
+v4: 0
+v5: false
+v53: -470
+v6: -2147483648
