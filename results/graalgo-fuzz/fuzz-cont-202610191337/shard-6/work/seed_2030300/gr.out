@@ -1,0 +1,12 @@
+v1: 
+	
+	
+	hellofoo barhello
+v2: 128
+slicelen v3: 2 [foo bar foo barhello]
+slicelen v4: 4 [9223372036854775807 32767 128 107]
+v45: foo bar
+v49: -594
+v5: 297
+v59: foo bar
+v6: 393

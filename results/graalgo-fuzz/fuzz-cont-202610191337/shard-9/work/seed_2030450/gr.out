@@ -1,0 +1,8 @@
+hello 65535 -43
+v1: 517
+slicelen v2: 1 [hello]
+maplen v3: 0
+v4: hello
+v5: -43
+v6: 65211
+v7: 18446744073709551615

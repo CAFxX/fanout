@@ -1,0 +1,10 @@
+42 608
+v1: 608
+v11: 65534
+v12: 42
+slicelen v2: 3 [foo bar hello afoo barhello]
+maplen v3: 0
+v34: 42
+v4: -1.8e+11
+maplen v5: 0
+v9: -1

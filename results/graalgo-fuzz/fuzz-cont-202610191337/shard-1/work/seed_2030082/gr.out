@@ -1,0 +1,7 @@
+42 1.5
+v1: 42
+v16: 1.5
+v17: hello
+maplen v2: 1
+maplen v3: 0
+slicelen v4: 1 [hellofoo bar]

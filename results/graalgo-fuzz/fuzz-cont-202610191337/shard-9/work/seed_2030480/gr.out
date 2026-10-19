@@ -1,0 +1,21 @@
+true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+0 true foo bar
+v1: 0
+v17: foo bar
+slicelen v2: 1 [foo barfoo barfoo bar]
+v25: 0
+v26: 18446744073709551614
+v3: 1
+maplen v4: 0
+v5: true

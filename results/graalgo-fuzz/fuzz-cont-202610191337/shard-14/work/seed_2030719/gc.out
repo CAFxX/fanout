@@ -1,0 +1,9 @@
+hello
+true
+maplen v1: 0
+slicelen v2: 5 [-2147483648 127 573 42 188]
+v3: hello
+slicelen v4: 3 [a foo bar ]
+slicelen v5: 3 [32767 128 2147483647]
+v71: true
+v73: 0

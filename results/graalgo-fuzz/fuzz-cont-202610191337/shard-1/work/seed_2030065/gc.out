@@ -1,0 +1,25 @@
+32767 2
+v1: 18446744073676914688
+v2: 65533
+v3: 2
+slicelen v4: 3 [a hello ]
+v5: 32767
+slicelen v6: 17 [
+	foo bar 
+	 hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello hellofoo barahelloahellofoo bar
+	foo barfoo barhellofoo barhellohellohellohello]
+v72: false

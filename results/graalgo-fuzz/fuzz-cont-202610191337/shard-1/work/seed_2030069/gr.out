@@ -1,0 +1,11 @@
+v1: 90
+v101: 42
+maplen v2: 0
+v3: 190
+v4: foo barfoo barfoo bar
+	foo bar
+	foo barfoo barhello
+v5: foo barfoo barfoo bar
+	foo bar
+	foo barfoo barhello
+slicelen v6: 4 [449 947 1 65535]

@@ -1,0 +1,11 @@
+false false
+maplen v1: 1
+v17: 0
+slicelen v2: 3 [foo bar ahello
+	 foo barhellohellofoo barhellohellohellofoo barhelloa
+	foo barhelloa
+	]
+v3: 1
+maplen v4: 0
+v5: false
+v6: 252

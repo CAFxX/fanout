@@ -1,0 +1,17 @@
+
+	foo bar -30 
+	foo bar
+40
+slicelen v1: 4 [18 240 958 32]
+v14: 40
+v15: 
+	foo bar
+	foo bar
+	foo bar
+maplen v2: 0
+maplen v3: 0
+slicelen v4: 4 [32767 -1 42 -528]
+v53: 44
+v57: 2147483647
+v58: -1
+v59: 32767

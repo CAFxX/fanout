@@ -1,0 +1,21 @@
+true aaaafoo baraahelloaahelloaa
+	foo baraahelloahelloaaaafoo baraahelloaahelloaa
+	foo baraaaaafoo baraahelloaahelloaa
+	foo barafoo bar
+slicelen v1: 3 [hello helloa foo bara]
+v18: aaaafoo baraahelloaahelloaa
+	foo bara
+v2: true
+v3: 1
+v4: 0
+v42: 2
+v5: aaaafoo baraahelloaahelloaa
+	foo baraahelloahelloaaaafoo baraahelloaahelloaa
+	foo baraaaaafoo baraahelloaahelloaa
+	foo bara
+v6: 0
+v87: aaaafoo baraahelloaahelloaa
+	foo baraahelloahelloaaaafoo baraahelloaahelloaa
+	foo baraaaaafoo baraahelloaahelloaa
+	foo barafoo bar
+v88: 397

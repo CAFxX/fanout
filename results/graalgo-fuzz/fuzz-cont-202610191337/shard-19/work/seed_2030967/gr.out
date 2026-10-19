@@ -1,0 +1,9 @@
+true
+slicelen v1: 2 [688 2147483648]
+v10: 1e+10
+v11: 255
+v2: true
+v3: foo bar
+slicelen v4: 4 [127 55 278 1]
+v8: 65535
+v9: 0

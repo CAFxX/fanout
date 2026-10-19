@@ -1,0 +1,12 @@
+2 311 42
+0 9223372036854775807 93
+v1: 9223372036854775807
+v11: 2
+v12: 0
+v2: 93
+v23: 42
+slicelen v3: 8 [
+	hellohellofoo bara foo bara 
+	a foo bar foo bar foo bar foo bar foo bar]
+v4: 1000
+v5: 42

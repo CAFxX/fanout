@@ -1,0 +1,19 @@
+9223372036854775807
+foo bar 9223372036854775807
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+true foo bar
+slicelen v1: 1 [a]
+v13: foo bar
+maplen v2: 0
+v3: 9223372036854775807
+v35: 42
+maplen v4: 1
+v5: 0

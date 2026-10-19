@@ -1,0 +1,13 @@
+616 616
+616
+616
+slicelen v1: 3 [2147483648 65535 299]
+v12: 1.5
+maplen v2: 0
+v24: -1
+slicelen v3: 1 [aahellofoo barfoo bar
+	hello
+	]
+v4: 616
+v44: 1
+v45: false

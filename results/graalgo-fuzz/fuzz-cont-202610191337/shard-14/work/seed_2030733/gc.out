@@ -1,0 +1,9 @@
+v1: true
+v10: 2
+v11: 0.1
+v14: 1
+v18: 0
+maplen v2: 0
+slicelen v3: 2 [507 -904]
+slicelen v4: 3 [hello foo bar hello]
+v9: 64960

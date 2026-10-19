@@ -1,0 +1,16 @@
+v1: 0
+v10: 1e-22
+slicelen v2: 2 [foo bar
+	foo bar 
+	ahello
+	
+	hello]
+slicelen v3: 1 [653]
+maplen v4: 0
+v5: 
+	
+	
+	
+	
+v6: 100
+v9: 127

@@ -1,0 +1,13 @@
+-77.38042000000002 -77.38042000000002
+-77.38042000000002 -77.38042000000002
+-77.38042000000002 1.5
+slicelen v1: 4 [hello
+	hello  foo bar foo bar]
+maplen v2: 1
+v3: 1.5
+slicelen v4: 4 [foo baraa
+	
+	
+	 foo bar foo bar 
+	]
+v62: -77.38042000000002

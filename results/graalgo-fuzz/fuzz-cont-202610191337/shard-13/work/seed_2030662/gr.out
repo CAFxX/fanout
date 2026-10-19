@@ -1,0 +1,27 @@
+false 42 -1
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+0 foo bar -218
+42
+0
+v1: true
+v2: -1
+v3: 0
+slicelen v4: 1 [4294967295]
+v46: foo bar
+v5: -218
+v56: 0
+v6: 42
+v77: 0
+v78: 4294967295

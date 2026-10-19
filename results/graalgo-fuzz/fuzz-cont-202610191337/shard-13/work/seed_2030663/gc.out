@@ -1,0 +1,16 @@
+1 a
+	 42
+1 a
+	foo bar
+maplen v1: 0
+v116: a
+	foo bar
+v18: a
+	
+v19: 2147483647
+maplen v2: 0
+slicelen v20: 2 [42 42]
+v21: 1
+v3: 18446744073709551573
+v4: 0
+v74: 100

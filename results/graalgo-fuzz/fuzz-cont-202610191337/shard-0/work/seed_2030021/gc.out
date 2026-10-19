@@ -1,0 +1,12 @@
+false false false
+3.14159 3.14159
+65535
+65535 3.14159
+1e+10 65535
+v1: 1e+10
+maplen v2: 0
+v3: 65535
+slicelen v4: 3 [711 208 555]
+maplen v5: 0
+v60: true
+v61: 931

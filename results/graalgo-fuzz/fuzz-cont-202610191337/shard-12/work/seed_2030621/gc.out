@@ -1,0 +1,11 @@
+hello
+	foo barhello 25 0.1
+true
+v1: 25
+v2: 2.4641536e+06
+slicelen v3: 4 [hello hello hello hello]
+v30: -128
+v4: hello
+	foo barhello
+v8: true
+v9: 774

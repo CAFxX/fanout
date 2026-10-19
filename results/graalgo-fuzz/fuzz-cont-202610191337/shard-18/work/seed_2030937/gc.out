@@ -1,0 +1,12 @@
+1.000000000225e+10 19 1.000000000225e+10
+true
+true true 1.000000000225e+10
+v1: true
+slicelen v2: 4 [
+	 hello foo bar 
+	]
+v3: 229
+v36: 3.14159
+maplen v4: 0
+v5: 1.000000000225e+10
+maplen v6: 0

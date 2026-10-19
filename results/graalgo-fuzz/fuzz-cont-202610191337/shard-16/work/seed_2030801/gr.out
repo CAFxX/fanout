@@ -1,0 +1,14 @@
+1
+1 1
+800
+slicelen v1: 3 [a foo bar 
+	hellohellofoo bar
+	a
+	]
+v13: 800
+maplen v2: 0
+maplen v3: 0
+v4: 800
+slicelen v5: 1 [
+	]
+v6: 1

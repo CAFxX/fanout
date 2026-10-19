@@ -1,0 +1,10 @@
+-2.25
+foo bar 255
+v1: 42
+v17: 1
+v2: true
+v3: -128
+v4: 1e+10
+v5: 255
+slicelen v8: 2 [603 32767]
+v9: foo bar

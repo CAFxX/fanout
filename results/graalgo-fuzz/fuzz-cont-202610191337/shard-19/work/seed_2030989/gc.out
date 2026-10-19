@@ -1,0 +1,10 @@
+2147483648 foo barhello
+	foo barhelloafoo barhello
+2147483648 -0.15915513
+v1: foo barhello
+	foo barhelloafoo barhello
+v2: 0
+slicelen v24: 1 [32768]
+v3: 2147483648
+v4: -0.15915513
+v5: 32767

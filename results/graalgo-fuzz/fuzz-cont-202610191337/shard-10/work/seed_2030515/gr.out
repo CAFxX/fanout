@@ -1,0 +1,12 @@
+2 -2147483648
+maplen v1: 0
+v19: 74
+slicelen v2: 4 [
+	 helloaahellohelloafoo bar
+	afoo barafoo bara
+	
+	a foo bar foo bar]
+v20: 655
+maplen v3: 0
+v4: true
+v5: 0

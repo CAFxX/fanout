@@ -1,0 +1,26 @@
+1 42 42
+foo bar 0 0
+0 foo bar 1e+10
+foo bar 1 0
+1 foo bar 1e+10
+foo bar 2 0
+2 foo bar 1e+10
+foo bar 3 0
+3 foo bar 1e+10
+foo bar 4 0
+4 foo bar 1e+10
+foo bar 5 0
+5 foo bar 1e+10
+foo bar 6 0
+6 foo bar 1e+10
+foo barfoo bar foo barfoo bar
+v1: 0
+v2: 1
+v20: -254
+v22: foo barfoo bar
+v23: 42
+slicelen v3: 1 [10]
+v31: 2147483648
+v4: foo bar
+maplen v5: 1
+v6: 8.192e+13

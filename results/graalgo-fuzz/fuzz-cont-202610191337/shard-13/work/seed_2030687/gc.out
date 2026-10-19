@@ -1,0 +1,16 @@
+hellofoo barhello
+	foo barahello hellofoo barhello
+	foo barahello
+986 986
+42 42 127
+42 4294967294 hellofoo barhello
+	foo barahello
+v1: hellofoo barhello
+	foo barahello
+v2: 127
+maplen v3: 1
+v4: 4294967294
+v41: 42
+v5: 1
+v54: 42
+maplen v6: 1

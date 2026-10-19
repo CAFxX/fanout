@@ -1,0 +1,8 @@
+v1: -671
+v2: 42
+v23: 2
+slicelen v3: 4 [hellohello  a
+	hello hello]
+slicelen v4: 4 [0 0 2147483648 2147483647]
+maplen v5: 0
+v6: 5847065712836298154
