@@ -1,0 +1,18 @@
+2 42 true
+96 2 2
+0.1 493
+42
+v1: true
+v18: -64
+v2: 42
+v22: 493
+v23: 0.1
+slicelen v3: 1 [2]
+maplen v4: 0
+slicelen v5: 4 [
+	 
+	
+	 a
+	 hello
+	hello]
+v6: 2

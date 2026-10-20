@@ -1,0 +1,16 @@
+862 862 -1
+hello
+	hello
+v1: hello
+	hello
+slicelen v2: 0 []
+maplen v3: 1
+v35: false
+v36: -50
+v38: -2500
+slicelen v4: 3 [hello
+	hello hello
+	hello 
+	hello
+	hello]
+v5: 0

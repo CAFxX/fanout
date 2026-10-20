@@ -1,0 +1,9 @@
+v1: 42
+v11: 0
+slicelen v12: 2 [32768 42]
+v2: afoo bar
+	
+v3: 42
+maplen v4: 0
+v42: -1
+v45: 1e+10

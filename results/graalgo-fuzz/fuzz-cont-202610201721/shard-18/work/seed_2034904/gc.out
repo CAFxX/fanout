@@ -1,0 +1,9 @@
+hello hello -32768
+maplen v1: 0
+slicelen v2: 3 [2147483647 2 2]
+v25: 0
+v26: 1
+v27: foo bar
+slicelen v3: 3 [386 0 65535]
+v32: 98
+v38: 2147483647

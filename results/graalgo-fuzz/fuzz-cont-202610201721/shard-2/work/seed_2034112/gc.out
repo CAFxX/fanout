@@ -1,0 +1,10 @@
+v1: 1e+10
+v2: hello
+v3: 148
+slicelen v4: 1 [hellofoo barfoo barhellofoo barfoo barfoo barhellofoo barfoo bar
+	hellofoo barfoo bar]
+v5: 110
+v59: -128
+v66: hello
+v89: hellohellohellofoo barhello
+	

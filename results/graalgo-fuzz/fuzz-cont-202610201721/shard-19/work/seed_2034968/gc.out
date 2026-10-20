@@ -1,0 +1,18 @@
+slicelen v1: 4 [0 42 -645 -357]
+v2: 101
+v3: 641
+v4: a
+	hello
+	hello
+	hellohellohello
+slicelen v5: 1 [foo bar]
+v56: a
+	hello
+	hello
+	hellohellohello
+v6: a
+	hello
+	hello
+	hellohellohellofoo bar
+v63: 0
+v64: true

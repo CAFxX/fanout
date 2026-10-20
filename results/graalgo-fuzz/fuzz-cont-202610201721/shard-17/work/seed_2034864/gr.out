@@ -1,0 +1,14 @@
+9223372036854775807 9223372036854775807
+ 276
+9.8695877281
+true
+slicelen v1: 3 [foo bar 
+	aafoo barfoo bar aafoo barhello]
+v14: 9.8695877281
+v15: 
+maplen v2: 0
+v3: 276
+slicelen v4: 4 [42 -2147483648 674 57]
+v5: true
+v6: 9223372036854775807
+v7: 

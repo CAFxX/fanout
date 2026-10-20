@@ -1,0 +1,11 @@
+5745 1 5745
+v1: 5745
+v2: 2
+slicelen v3: 3 [a foo bar 
+	hellohellohellofoo barfoo bar
+	]
+v4: hello
+maplen v5: 1
+v6: -726
+v7: 18446744073709551613
+v8: 1

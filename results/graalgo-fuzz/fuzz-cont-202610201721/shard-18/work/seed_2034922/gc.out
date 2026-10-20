@@ -1,0 +1,14 @@
+maplen v1: 0
+slicelen v2: 1 [-1]
+slicelen v3: 3 [127 42 9223372036854775807]
+v38: 3.14159
+slicelen v4: 4 [ a 
+	
+	 
+	hellohellohellohelloahellofoo barhello
+	a
+	hello
+	a
+	helloa
+	hellofoo bar]
+v53: 1.5

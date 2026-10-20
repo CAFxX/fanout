@@ -1,0 +1,20 @@
+32767 hello
+0 1 hello
+1 1 hello
+2 1 hello
+3 1 hello
+4 1 hello
+5 1 hello
+6 1 hello
+7 1 hello
+8 1 hello
+slicelen v1: 0 []
+v16: hello
+v17: 32767
+v2: 1
+v20: -623
+v21: hello
+maplen v3: 1
+v4: 3
+v5: 127
+slicelen v6: 4 [a hello foo bar hello]

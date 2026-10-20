@@ -1,0 +1,9 @@
+foo barfoo bar false foo barfoo bar
+foo barfoo bar
+v1: foo barfoo bar
+v11: false
+v12: 110
+maplen v2: 1
+v21: false
+maplen v3: 0
+v7: 1e+10

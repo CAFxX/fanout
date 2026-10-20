@@ -1,0 +1,11 @@
+807 -1
+-1 1 -1
+slicelen v1: 4 [  foo bar ]
+v2: 0
+v3: 807
+slicelen v4: 4 [ahellofoo bar
+	 
+	ahello hello hellofoo bar]
+v5: -1
+v6: -1
+v8: 1.0678711e+21

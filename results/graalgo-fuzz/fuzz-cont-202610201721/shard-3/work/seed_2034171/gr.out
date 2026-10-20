@@ -1,0 +1,13 @@
+true true
+789 789 956
+9223372036854775807
+maplen v1: 1
+v2: 789
+slicelen v3: 5 [foo bar hello 
+	 foo bar 
+	]
+v4: 1436
+v47: 100
+v48: 1.5
+v5: false
+v52: 100

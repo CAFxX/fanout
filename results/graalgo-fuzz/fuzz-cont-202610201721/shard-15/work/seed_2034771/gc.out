@@ -1,0 +1,9 @@
+false true true
+false false false
+false 0
+maplen v1: 1
+slicelen v2: 4 [9223372036854775807 32768 191 1]
+v3: false
+v33: 0
+v4: false
+slicelen v5: 1 [65535]

@@ -1,0 +1,10 @@
+2147483648 1
+maplen v1: 1
+v10: 1
+v17: 2147483647
+v18: 4294967295
+slicelen v2: 2 [hello foo bar]
+v20: true
+v3: 2147483647
+slicelen v4: 0 []
+v5: 0

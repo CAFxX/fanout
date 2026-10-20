@@ -1,0 +1,25 @@
+2
+0.1 1000
+255 0.1 0.1
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 2147483647 255
+v1: foo barhello
+v2: 255
+v23: true
+v3: 0
+v32: 127
+v4: -2.25
+v5: 2147483647

@@ -1,0 +1,11 @@
+true 235
+235
+slicelen v1: 0 []
+maplen v2: 0
+v22: 0
+v23: 1000
+v3: 582
+v4: 235
+slicelen v5: 5 [foo barfoo bar foo bar  a
+	 foo bar]
+v8: false

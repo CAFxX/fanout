@@ -1,0 +1,12 @@
+slicelen v1: 4 [helloa
+	
+	
+	hellohello 
+	  foo barhellofoo barhello
+	helloafoo barhellofoo barhello]
+slicelen v2: 3 [ foo bar hello]
+v3: 1.5
+v4: 32
+v40: false
+v45: 127
+v48: 255

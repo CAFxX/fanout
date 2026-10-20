@@ -1,0 +1,10 @@
+maplen v1: 0
+v15: -83
+v17: 3.14159
+v2: 0.1
+slicelen v3: 1 [afoo barfoo bar
+	foo barafoo barhello]
+maplen v4: 0
+v5: 740
+v6: 83
+v7: 84

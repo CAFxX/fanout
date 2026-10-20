@@ -1,0 +1,9 @@
+18446744073709550789
+slicelen v1: 3 [2147483648 4294967295 42]
+v10: 18446744073709550789
+v2: hello
+slicelen v3: 1 [
+	aaahellofoo bar
+	afoo bar
+	aaahellofoo bar
+	afoo bar]

@@ -1,0 +1,10 @@
+-2147483648 -200 -200
+hello hello
+-2147483648
+maplen v1: 1
+v2: hello
+maplen v3: 0
+slicelen v4: 2 [-1 -258]
+v5: -2147483648
+v58: 0
+v62: 0

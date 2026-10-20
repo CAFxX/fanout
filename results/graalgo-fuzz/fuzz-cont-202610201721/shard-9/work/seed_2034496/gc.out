@@ -1,0 +1,24 @@
+foo bar 65535
+foo bar 65535
+foo bar 65535
+foo bar 65535
+foo bar 65535
+foo bar 65535
+foo bar 65535
+foo bar 65535
+foo bar 65535
+629
+v1: 0.010000000000000002
+v19: 65535
+v2: -905
+v20: foo barfoo barfoo bar
+	
+slicelen v3: 1 [790]
+slicelen v4: 1 [foo barfoo barfoo bar
+	foo barfoo barfoo bar
+	]
+v43: 629
+v44: 0.1
+maplen v5: 0
+v6: false
+v65: 1

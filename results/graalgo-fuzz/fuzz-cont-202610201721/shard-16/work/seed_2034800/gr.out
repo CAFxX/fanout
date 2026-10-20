@@ -1,0 +1,11 @@
+foo bar 84 foo bar
+false
+slicelen v1: 4 [
+	 helloa 
+	 a]
+v113: 84
+v116: 84
+v117: 5.61659
+v12: foo bar
+slicelen v2: 3 [helloa foo bar ]
+v3: false

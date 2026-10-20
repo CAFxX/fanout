@@ -1,0 +1,30 @@
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+0 false 0
+foo bar
+foo bar
+18446744073709551615 18446744073709551615 18446744073709551615
+18446744073709551615
+v1: 0
+v12: 18446744073709551615
+v144: 32767
+v145: 3.14159
+v146: 0
+maplen v2: 0
+slicelen v3: 4 [152 2 2147483647 306]
+maplen v4: 0
+v5: 216
+v8: foo bar
