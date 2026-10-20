@@ -1,0 +1,13 @@
+1 true
+v1: 127
+v12: 0
+v2: false
+v26: 256
+v27: true
+slicelen v3: 1 [hellofoo bar]
+v4: true
+v40: 127
+v41: foo bar
+v42: -2.25
+slicelen v5: 2 [ hello]
+v6: 1

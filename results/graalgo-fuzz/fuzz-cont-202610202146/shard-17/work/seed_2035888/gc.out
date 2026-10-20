@@ -1,0 +1,13 @@
+hellofoo barfoo barafoo bara
+hellofoo barfoo barafoo bara -128
+-128 -128
+slicelen v1: 3 [4294967295 2147483647 871]
+v16: hellofoo barfoo barafoo barafoo bar
+v18: 127
+maplen v2: 0
+maplen v3: 0
+v31: 335
+v32: 405
+maplen v4: 0
+maplen v5: 0
+v6: -128

@@ -1,0 +1,9 @@
+v1: 63
+v15: 65535
+v19: 157
+v2: 0
+v20: 4294967253
+v3: 0
+maplen v4: 0
+slicelen v5: 15 [hello 
+	  foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]

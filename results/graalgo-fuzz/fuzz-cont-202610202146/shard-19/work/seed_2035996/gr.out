@@ -1,0 +1,7 @@
+v1: hello
+v10: 0
+maplen v2: 0
+slicelen v3: 0 []
+slicelen v4: 3 [a hello hello]
+maplen v5: 0
+v9: 0

@@ -1,0 +1,16 @@
+0
+slicelen v1: 5 [hellohello
+	 hellohello
+	 hellohello
+	 hellohello
+	 hellohello
+	]
+v18: -32
+v19: 0
+slicelen v2: 4 [a  foo bar
+	hello
+	foo bar foo barhellofoo barhello]
+v25: 0
+v3: 2
+v8: 0
+v9: 32

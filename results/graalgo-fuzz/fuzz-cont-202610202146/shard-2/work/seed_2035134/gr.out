@@ -1,0 +1,14 @@
+-700 320
+-700 640
+362 230 640
+v1: 362
+v18: 230
+v2: 640
+v21: 18446744073709551615
+slicelen v3: 2 [128 42]
+v33: -2147483648
+v4: 0
+slicelen v5: 3 [ 
+	afoo baraahello
+	a ahellofoo bara]
+maplen v6: 6

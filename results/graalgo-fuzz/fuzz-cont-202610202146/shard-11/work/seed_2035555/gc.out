@@ -1,0 +1,13 @@
+true false true
+true
+true true -1
+-1 127 127
+slicelen v1: 5 [foo bar 
+	
+	 a hello ]
+v2: -1
+v3: false
+v4: true
+v45: 127
+v46: -4765361734042185134
+v5: 127

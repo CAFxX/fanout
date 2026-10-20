@@ -1,0 +1,10 @@
+0.89159 0 623
+v1: 0
+maplen v2: 0
+v3: 0
+slicelen v4: 3 [0 4294967295 0]
+slicelen v5: 2 [ foo bar]
+v50: 0.89159
+slicelen v6: 1 [65535]
+v62: 623
+v66: 1

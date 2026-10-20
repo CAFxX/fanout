@@ -1,0 +1,11 @@
+-1 42
+41
+42 0
+maplen v1: 2
+slicelen v2: 4 [afoo bar  foo bar hello]
+v3: -1
+v4: 32767
+v45: 0
+v5: 41
+v53: 18446744073709549810
+v6: 42

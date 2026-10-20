@@ -1,0 +1,14 @@
+2 2
+v1: 2
+v16: 42
+v17: 3.14159
+v18: false
+v19: 
+	
+v2: 0
+slicelen v3: 2 [2 65535]
+v4: 0
+slicelen v5: 2 [ 
+	hello]
+v6: 42
+v9: 1022

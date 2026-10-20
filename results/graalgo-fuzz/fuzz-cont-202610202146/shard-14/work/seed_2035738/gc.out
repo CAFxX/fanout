@@ -1,0 +1,7 @@
+42 65535
+v1: 42
+v10: 4294967947
+slicelen v2: 1 [foo barfoo bar]
+v3: 65535
+v4: true
+maplen v5: 0

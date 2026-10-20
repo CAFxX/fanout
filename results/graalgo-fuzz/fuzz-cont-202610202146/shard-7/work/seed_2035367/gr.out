@@ -1,0 +1,10 @@
+a a
+a 0
+slicelen v1: 3 [
+	foo barhellofoo bar
+	hello foo bar
+	hellofoo bar foo bar]
+maplen v2: 1
+v3: a
+v7: 0
+v8: 0

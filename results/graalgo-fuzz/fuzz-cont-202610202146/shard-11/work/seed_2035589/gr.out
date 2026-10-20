@@ -1,0 +1,6 @@
+slicelen v1: 2 [215 65535]
+slicelen v2: 1 [foo bar
+	foo barhello]
+maplen v3: 0
+v4: 0
+v49: 255

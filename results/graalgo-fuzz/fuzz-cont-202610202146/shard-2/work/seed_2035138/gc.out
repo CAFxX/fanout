@@ -1,0 +1,14 @@
+9223372036854775169 true 255
+false 128 false
+false
+slicelen v1: 0 []
+v14: 128
+v2: -376
+v23: -128
+v3: 255
+maplen v4: 0
+slicelen v5: 4 [42 65535 42 2147483647]
+slicelen v6: 3 [hello hellohello
+	foo bar 
+	]
+v7: false

@@ -1,0 +1,13 @@
+0 644 foo bar
+1 644 foo bar
+2 644 foo bar
+3 644 foo bar
+4 644 foo bar
+5 644 foo bar
+slicelen v1: 1 [42]
+v13: 365
+v15: foo bar
+slicelen v2: 4 [42 230 0 -1]
+v3: -2147483648
+v34: -2147483648
+v4: 644

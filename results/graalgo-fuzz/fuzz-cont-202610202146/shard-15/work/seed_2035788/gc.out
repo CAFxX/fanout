@@ -1,0 +1,6 @@
+maplen v1: 0
+slicelen v2: 3 [foo bara  foo barhellofoo bara]
+slicelen v3: 2 [0 2]
+v4: 127
+v54: -5.242870001232077e+15
+v57: false

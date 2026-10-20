@@ -1,0 +1,18 @@
+foo bar 0
+foo bar foo bar true
+foo bar 1
+foo bar foo bar true
+foo bar 2
+foo bar foo bar true
+true
+foo bar foo bar
+foo bar
+slicelen v1: 1 [0]
+slicelen v2: 0 []
+v3: foo bar
+v32: 669
+v33: 1.5
+v34: 1.5
+v35: 223
+v36: 32767
+v4: true

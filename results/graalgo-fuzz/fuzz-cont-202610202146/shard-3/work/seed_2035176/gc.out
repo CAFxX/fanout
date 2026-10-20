@@ -1,0 +1,10 @@
+v1: true
+v2: 1
+v3: foo barhellofoo barhellofoo barhelloaafoo barhellofoo barhello
+v4: true
+v5: foo barhellofoo barhellofoo barhelloaafoo barhellofoo barhello
+slicelen v6: 2 [foo barhellofoo barhellofoo barhelloaafoo barhellofoo barhello
+	foo barhellofoo barhellofoo barhellofoo barhelloaafoo barhellofoo barhelloafoo barhellofoo barhellofoo barhelloaafoo barhellofoo barhello
+	foo barhellofoo barhellofoo barhellofoo barhelloaafoo barhellofoo barhello
+	foo barhellofoo barhellofoo barhelloaafoo barhellofoo barhellofoo barhellofoo barhellofoo barhelloaafoo barhellofoo barhello hello]
+v7: -344

@@ -1,0 +1,14 @@
+42
+v1: 0
+v10: -2.25
+v12: true
+v2: -0.1
+v29: 42
+slicelen v3: 0 []
+slicelen v4: 4 [
+	 a
+	
+	foo bara hello foo bar]
+maplen v5: 0
+v6: 42
+v9: foo bar

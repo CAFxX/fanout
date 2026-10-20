@@ -1,0 +1,14 @@
+1 1000
+false
+false 1000 false
+false false false
+1000 1
+maplen v1: 0
+slicelen v2: 2 [hellohello
+	
+	 ]
+slicelen v3: 2 [hello ]
+v4: 1
+v5: 1000
+v6: false
+v7: 100

@@ -1,0 +1,29 @@
+127 49
+127 0 1000
+127 1 1000
+127 2 1000
+127 3 1000
+127 4 1000
+127 5 1000
+127 6 1000
+127 7 1000
+127 8 1000
+127 9 1000
+v1: 1000
+v13: false
+v14: 97
+v15: foo barhellohellofoo bar
+	
+	foo bar
+	
+	foo barhellohellofoo bar
+	
+v2: 127
+slicelen v3: 2 [afoo barhellohellofoo bar
+	 
+	]
+v34: 41
+v4: foo barhellohellofoo bar
+	
+maplen v5: 0
+v6: 4294967294
