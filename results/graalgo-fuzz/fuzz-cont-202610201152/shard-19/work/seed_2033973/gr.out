@@ -1,0 +1,24 @@
+0 foo barahello
+	
+	hellofoo barahello
+	
+	hello
+maplen v1: 0
+v15: -2147483648
+v16: foo barahello
+	
+	hellofoo barahello
+	
+	hello
+v2: 623
+v3: 253
+slicelen v4: 0 []
+v40: 0
+v43: -31
+slicelen v5: 5 [foo barahello
+	
+	helloa  hellofoo barfoo barfoo barhello foo bar foo barahello
+	
+	hellofoo barahello
+	
+	hello]

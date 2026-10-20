@@ -1,0 +1,27 @@
+v1: 22
+v2: foo barfoo bar
+	foo barfoo barfoo bar
+	
+	foo barfoo barfoo bar
+v23: 1000
+v3: -1
+v31: 65513
+v4: 0
+slicelen v5: 3 [4294967295 213 42]
+slicelen v6: 1 [foo barfoo bar
+	foo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo barfoo bar
+	foo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo barfoo bar
+	foo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo barfoo bar
+	foo barfoo barfoo bar
+	
+	foo barfoo barfoo barhellofoo barfoo bar
+	foo barfoo barfoo bar
+	
+	foo barfoo barfoo bar]
+v7: 44

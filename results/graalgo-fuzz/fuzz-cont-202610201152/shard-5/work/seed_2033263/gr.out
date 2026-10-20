@@ -1,0 +1,8 @@
+1 1 0
+v1: 1
+v14: 1.65
+v15: 0
+slicelen v2: 4 [a
+	  hello foo bar]
+slicelen v3: 1 [-665]
+v4: 0

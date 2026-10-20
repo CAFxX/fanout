@@ -1,0 +1,15 @@
+false
+maplen v1: 0
+maplen v2: 0
+maplen v3: 0
+v4: true
+slicelen v5: 4 [helloaa
+	
+	
+	foo barfoo barhelloafoo barfoo baraa
+	hellofoo barfoo baraahello
+	hellofoo barahellohelloaafoo barhellohellofoo barafoo barhello
+	
+	foo bara a 
+	 hello]
+v6: 0

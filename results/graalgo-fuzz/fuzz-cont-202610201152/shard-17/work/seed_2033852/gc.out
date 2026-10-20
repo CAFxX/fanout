@@ -1,0 +1,61 @@
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+
+	afoo bar 
+	a
+1e+10 0
+1e+10 1
+1e+10 2
+1e+10 3
+1e+10 4
+1e+10 5
+1e+10 6
+1e+10 7
+1e+10 8
+1e+10 9
+1e+20 1e+20 1e+20
+v1: 
+	afoo bar
+v2: 
+	a
+maplen v3: 1
+v4: true
+v5: 1e+20
+slicelen v9: 1 [-9223372036854775808]

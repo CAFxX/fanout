@@ -1,0 +1,25 @@
+42 0
+42 1
+42 2
+42 3
+42 4
+42 5
+42 6
+42 7
+42 8
+42 9
+42 10
+42 11
+42 12
+v1: -2.25e+10
+v16: 774
+v17: 1
+v2: 0.1
+slicelen v3: 3 [
+	hellofoo barfoo bar hello 
+	a
+	foo barahellohellofoo barahelloahelloafoo barhello]
+v4: 18446744073709551615
+v5: 774
+v6: 42
+v9: 2.000000000628318e+10

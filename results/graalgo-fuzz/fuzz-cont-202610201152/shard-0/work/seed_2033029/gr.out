@@ -1,0 +1,13 @@
+0
+0
+1.00000000001e+10 0
+slicelen v1: 1 [
+	aa
+	foo barfoo barhellofoo bar
+	foo bar]
+v10: 121
+v11: 0
+maplen v2: 0
+v27: 1.00000000001e+10
+slicelen v3: 4 [9223372036854775807 -627 -409 4294967295]
+v31: 2147483648

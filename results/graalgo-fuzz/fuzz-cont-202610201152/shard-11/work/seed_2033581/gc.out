@@ -1,0 +1,11 @@
+2147483647 foo barfoo bar
+foo barfoo bar foo barfoo bar foo bar
+2147483647
+v1: 2147483647
+v17: foo barfoo bar
+slicelen v2: 3 [a hello a]
+v24: 2147483647
+v3: foo barfoo bar
+v4: foo bar
+maplen v5: 0
+v6: 32767

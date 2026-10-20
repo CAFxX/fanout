@@ -1,0 +1,14 @@
+1 1
+-1e+10 1 1
+1e+10
+slicelen v1: 5 [ hello a a
+	
+	afoo barahello
+	 foo bar]
+v2: -1e+10
+slicelen v3: 4 [foo barhello 
+	 hello foo bar
+	]
+v4: 2147483144
+v60: 1
+v61: 1e+10

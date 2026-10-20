@@ -1,0 +1,9 @@
+2 2 hello
+-2.25
+2 hello 0
+maplen v1: 0
+v2: -2.25
+v27: 0
+slicelen v3: 1 [hello]
+v31: hello
+v35: 2

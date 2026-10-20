@@ -1,0 +1,11 @@
+0 0 0
+-1
+v1: 0
+v2: -1
+slicelen v3: 2 [foo bar 
+	]
+v31: 0
+v32: -1
+slicelen v4: 3 [a ahellofoo barfoo bar ahellofoo bar]
+slicelen v5: 4 [4294967295 2147483647 42 980]
+v6: -2.35

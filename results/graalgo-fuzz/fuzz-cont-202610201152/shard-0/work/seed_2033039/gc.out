@@ -1,0 +1,18 @@
+true 
+	foo barfoo bar
+	 true
+true 0
+v1: true
+v2: 0
+v20: 
+	foo barfoo bar
+	
+	
+	foo barfoo bar
+	ahello
+v21: true
+maplen v3: 0
+v32: -1
+slicelen v33: 4 [977 0 -2147483648 32767]
+v43: -3.14159
+v44: 18446744073709551615

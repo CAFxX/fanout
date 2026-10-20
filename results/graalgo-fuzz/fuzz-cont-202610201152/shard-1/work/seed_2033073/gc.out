@@ -1,0 +1,15 @@
+42 0.1 -636
+-1 -43
+84 -636 42
+v1: 0.1
+v2: -636
+v29: 65535
+slicelen v3: 5 [foo bar ahellofoo bara
+	
+	hello 
+	 
+	 afoo bar]
+v4: 42
+maplen v5: 1
+v6: 84
+v8: 42

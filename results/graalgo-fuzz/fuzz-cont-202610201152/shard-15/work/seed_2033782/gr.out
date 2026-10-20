@@ -1,0 +1,11 @@
+-2147483648 -2147483648
+a
+128 0
+v1: aa
+v2: 203
+slicelen v3: 1 [hello]
+v4: 128
+v5: aaahello
+v6: 32767
+v7: 0
+v9: true

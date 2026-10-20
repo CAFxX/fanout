@@ -1,0 +1,12 @@
+a false
+true
+true
+v1: false
+v18: true
+slicelen v2: 1 [a]
+slicelen v3: 1 [32768]
+v30: 1
+v31: 127
+v32: 0
+slicelen v4: 1 [a]
+v5: foo bar

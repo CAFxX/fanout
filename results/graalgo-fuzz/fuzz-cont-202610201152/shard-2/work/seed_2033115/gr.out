@@ -1,0 +1,13 @@
+helloafoo barhellohello
+	 helloafoo barhellohello
+	
+v1: 0.1
+v2: 42
+v20: 42
+v21: helloafoo barhellohello
+	
+maplen v3: 2
+v4: true
+slicelen v5: 3 [
+	  ]
+v6: -1

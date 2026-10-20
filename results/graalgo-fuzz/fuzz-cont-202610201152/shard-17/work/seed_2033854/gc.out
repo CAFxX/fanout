@@ -1,0 +1,61 @@
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+100 253 0
+slicelen v1: 2 [a hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	foo bar]
+v10: 65535
+v2: 253
+slicelen v3: 1 [14]
+v40: 0
+v41: 100
+v47: hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	hello
+	foo bar

@@ -1,0 +1,16 @@
+-32768
+0 0.031831015
+hello
+maplen v1: 0
+v14: 0
+v15: 0
+slicelen v2: 2 [a hellofoo bar
+	]
+v23: 0
+v24: 1e+10
+v25: 2
+maplen v3: 1
+slicelen v4: 2 [afoo barfoo barhellohello 
+	]
+v5: 0
+slicelen v6: 0 []

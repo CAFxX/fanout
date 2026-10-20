@@ -1,0 +1,12 @@
+100
+73 18446744073709551615 1
+v1: 73
+slicelen v2: 1 [
+	a]
+maplen v3: 2
+slicelen v4: 5 [a
+	 
+	 a  hello]
+maplen v5: 0
+v6: 18446744073709551615
+v9: 1

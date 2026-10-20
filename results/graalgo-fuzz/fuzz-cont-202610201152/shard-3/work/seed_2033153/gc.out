@@ -1,0 +1,26 @@
+maplen v1: 0
+v14: 338
+v15: 42
+v16: 733
+v2: 
+	foo barfoo bar
+	a
+v3: 338
+v4: -0.1
+slicelen v5: 4 [
+	foo barfoo bar
+	a
+	foo barfoo bar
+	a
+	foo barfoo bar
+	a
+	foo barfoo bar
+	a
+	foo barfoo bar
+	a
+	foo barfoo bar
+	a hello 
+	foo barfoo bar
+	a 
+	foo barfoo bar
+	a]

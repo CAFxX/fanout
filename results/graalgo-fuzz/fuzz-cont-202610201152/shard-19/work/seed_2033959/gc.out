@@ -1,0 +1,7 @@
+v1: foo bar
+v17: 42
+v18: 0.1
+v19: 0
+maplen v2: 0
+maplen v3: 4
+slicelen v31: 3 [42 2147483647 128]

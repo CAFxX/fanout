@@ -1,0 +1,7 @@
+maplen v1: 0
+v13: 0
+maplen v2: 0
+slicelen v3: 4 [foo bar a
+	 a foo bar]
+v4: true
+maplen v5: 0

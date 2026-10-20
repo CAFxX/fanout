@@ -1,0 +1,14 @@
+2.0943935 foo bar foo bar
+2.0943935 foo bar 257
+slicelen v1: 1 [foo bar]
+maplen v2: 0
+slicelen v3: 3 [
+	  afoo bar]
+v36: 257
+v4: -32768
+v43: 774
+v45: 65535
+v46: foo bar
+slicelen v5: 4 [691 615 65535 2147483647]
+v6: 2.0943935
+v65: 257

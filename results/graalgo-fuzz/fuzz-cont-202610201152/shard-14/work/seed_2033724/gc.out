@@ -1,0 +1,10 @@
+-128 -128
+slicelen v1: 8 [foo bar  ahello
+	
+	a foo bar foo bar foo bar foo bar foo bar]
+v2: -128
+slicelen v3: 3 [a foo bar 
+	]
+v4: 254
+v5: -7.5e+09
+v7: 

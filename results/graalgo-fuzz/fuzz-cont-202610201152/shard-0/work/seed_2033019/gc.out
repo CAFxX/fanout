@@ -1,0 +1,26 @@
+-205 0 false
+true -2147483648 -128
+-205 1 false
+true -2147483648 -128
+-205 2 false
+true -2147483648 -128
+-205 3 false
+true -2147483648 -128
+-205 4 false
+true -2147483648 -128
+-205 5 false
+true -2147483648 -128
+-205 6 false
+true -2147483648 -128
+-205 7 false
+true -2147483648 -128
+-205 8 false
+true -2147483648 -128
+maplen v1: 0
+v13: -205
+v14: false
+v15: -128
+v2: -2147483648
+v3: 32768
+v4: true
+slicelen v5: 1 [foo bara]

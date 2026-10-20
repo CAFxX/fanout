@@ -1,0 +1,7 @@
+true 3456
+v1: 3456
+slicelen v2: 2 [hello ]
+v21: -1
+v22: 822
+slicelen v3: 1 [-2147483648]
+v4: true

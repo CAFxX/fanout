@@ -1,0 +1,12 @@
+0 -1 -2.25
+slicelen v1: 4 [afoo barhello foo bar foo barfoo barfoo barfoo bar foo bar]
+v10: false
+v11: 
+	
+v12: -2.25
+v2: 0
+maplen v3: 1
+v4: -1
+slicelen v5: 2 [32767 736]
+v6: -108
+v8: -1
