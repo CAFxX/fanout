@@ -1,0 +1,19 @@
+446 3.14159
+v1: 0
+v10: 3.14159
+v11: 2
+v19: 0
+slicelen v2: 2 [foo bar
+	afoo barfoo bar
+	 hellohello
+	hello
+	foo bar
+	
+	foo bar
+	a]
+v20: false
+maplen v3: 0
+v4: 0
+maplen v5: 0
+v6: 0
+v9: 2

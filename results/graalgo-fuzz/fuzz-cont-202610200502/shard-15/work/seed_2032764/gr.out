@@ -1,0 +1,16 @@
+839 hello 0
+1678 0
+v1: 839
+v2: 0
+v3: 2
+v35: 1
+v39: 3.14159
+v4: 0
+slicelen v5: 2 [foo bar
+	aaafoo bar
+	helloafoo barafoo barfoo barhelloa
+	a hello]
+slicelen v6: 2 [2147483647 2147483647]
+v7: false
+v8: 1678
+v9: hello

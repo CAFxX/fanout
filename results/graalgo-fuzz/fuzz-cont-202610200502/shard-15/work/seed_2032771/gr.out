@@ -1,0 +1,22 @@
+132
+30.14159 132 -225
+-225 1e+10 0
+-225 1e+10 1
+-225 1e+10 2
+-225 1e+10 3
+-225 1e+10 4
+-225 1e+10 5
+-225 1e+10 6
+-225 1e+10 7
+-225 1e+10 8
+slicelen v1: 8 [hellofoo bar a hello hello hello hello hello
+	hello hello
+	hello]
+v14: -225
+v18: 89
+maplen v2: 1
+v23: 65535
+v3: 132
+v4: 1
+v5: 1e+10
+v6: 30.14159

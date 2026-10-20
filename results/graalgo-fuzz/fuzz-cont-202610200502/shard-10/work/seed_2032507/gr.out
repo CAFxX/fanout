@@ -1,0 +1,9 @@
+1e+10 1e+10
+foo bar 1e+10
+foo bar 10 10
+v1: 10
+v2: 0
+maplen v3: 0
+slicelen v36: 3 [32768 -9223372036854775808 32768]
+v55: foo bar
+v56: 1e+10

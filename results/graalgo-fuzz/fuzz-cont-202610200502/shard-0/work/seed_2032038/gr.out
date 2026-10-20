@@ -1,0 +1,13 @@
+780 -8.488270802528722e+09 foo bar
+1 1 780
+v1: 780
+v15: 1
+v17: 0
+v18: 2
+v19: 0
+v2: 7.205074120857332e+19
+v20: foo barfoo bar
+v3: foo bar
+v4: 42
+v5: 780
+slicelen v6: 5 [foo bar hellofoo bar foo bar foo bar foo barafoo bar]

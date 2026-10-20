@@ -1,0 +1,21 @@
+slicelen v1: 2 [2 422]
+v12: hello
+	foo bar
+	
+	
+v13: 33
+v14: 0
+v16: 213
+v2: -32768
+v24: hellohello
+	foo bar
+	
+	hello
+	foo bar
+	
+	
+v3: -2.25
+v4: NaN
+v44: -32768
+maplen v5: 0
+maplen v6: 0

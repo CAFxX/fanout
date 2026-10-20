@@ -1,0 +1,14 @@
+0 a a
+4294967295 975 1
+v1: 9223372036854775807
+v2: 128
+maplen v3: 0
+v4: 0
+v45: a
+v46: 9223372036854775807
+slicelen v5: 4 [foo bar 
+	 
+	 hellohello]
+v54: 510
+v55: 65535
+slicelen v6: 3 [aaa a foo bar]

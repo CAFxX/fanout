@@ -1,0 +1,16 @@
+4294967295
+2 aafoo baraaafoo barafoo barfoo bar
+	
+	foo barhello aafoo baraaafoo barafoo barfoo bar
+	
+	foo barhello
+slicelen v1: 4 [9223372036854775807 2147483647 4294967295 0]
+v2: aafoo baraaafoo barafoo barfoo bar
+	
+	foo barhello
+v3: aafoo baraaafoo barafoo barfoo bar
+	
+	foo barhello
+v4: 2
+v5: 0
+v52: 0

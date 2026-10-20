@@ -1,0 +1,9 @@
+4
+maplen v1: 0
+v13: 128
+v14: -2147483648
+v2: foo barfoo barfoo barfoo barfoo barafoo barhellofoo barfoo bar
+v3: 42
+maplen v4: 0
+v5: 4
+slicelen v6: 3 [128 -9223372036854775808 -235]

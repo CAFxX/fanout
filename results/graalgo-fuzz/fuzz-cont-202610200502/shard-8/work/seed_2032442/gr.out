@@ -1,0 +1,99 @@
+81 81
+81 -1 81
+81 -1 -7.06857750159043e-10
+0 0 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 1 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 2 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 3 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 4 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 5 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 6 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 7 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 8 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 9 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 10 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 11 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 12 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 13 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 14 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 15 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 16 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 17 foo bar
+	a
+	afoo bar
+81 -1 -7.06857750159043e-10
+0 18 foo bar
+	a
+	afoo bar
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+-7.06857750159043e-10
+v1: 0
+v2: foo bar
+	a
+	afoo bar
+v3: 0
+maplen v4: 1
+v46: true
+v47: -7.06857750159043e-10
+v5: -1
+v6: 1.0602866257382124e-09

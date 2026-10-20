@@ -1,0 +1,11 @@
+888
+128
+v1: 888
+v11: 0
+v12: foo bar
+v13: -470
+v2: 128
+v3: -2.25
+maplen v4: 0
+slicelen v5: 4 [foo baraaa hello foo bar foo bar
+	foo bar]

@@ -1,0 +1,28 @@
+3.14159 3.14159
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+-517 true
+v1: -483
+v178: -517
+v179: true
+v180: 18446744073709551615
+v181: 42
+v183: 42
+v184: -483
+maplen v2: 0
+slicelen v3: 4 [foo bar
+	
+	hello
+	 a hello ]
+maplen v4: 1
+maplen v5: 0
+v6: 3.14159

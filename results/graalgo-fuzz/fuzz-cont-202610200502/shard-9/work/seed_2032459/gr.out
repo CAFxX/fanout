@@ -1,0 +1,28 @@
+foo bar 1.1
+v1: foo bar
+v2: 4294967295
+v3: 1.1
+v37: 3
+v38: 127
+slicelen v4: 42 [foo barfoo bar foo bar  foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar foo barfoo barfoo barfoo bara
+	foo barhello foo bar]
+v5: 586
+maplen v6: 0

@@ -1,0 +1,26 @@
+0 false
+1 false
+2 false
+3 false
+4 false
+5 false
+v1: false
+v2: foo bar
+	foo bara
+	foo baraafoo bar
+	foo bara
+	foo baraafoo bar
+	foo bara
+	foo baraaafoo bar
+	foo bara
+	foo baraafoo bar
+	foo bara
+	foo baraafoo bar
+	foo bara
+	foo baraa
+v29: 0
+v3: 9223372036854775706
+v32: 2147483648
+slicelen v33: 3 [-9223372036854775808 127 9223372036854775706]
+v54: 0
+v62: 2147483648

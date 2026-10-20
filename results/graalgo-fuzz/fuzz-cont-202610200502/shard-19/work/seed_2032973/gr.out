@@ -1,0 +1,10 @@
+helloafoo bar
+maplen v1: 0
+slicelen v2: 3 [909 879 2147483647]
+slicelen v3: 4 [ hello foo bar a]
+maplen v4: 0
+v46: helloafoo bar
+v49: 18446744073709551615
+slicelen v5: 0 []
+slicelen v6: 4 [hello 
+	 ahellofoo bara ]

@@ -1,0 +1,11 @@
+foo bar 18446744073709551615
+foo bar
+v1: 1
+v12: 2147483647
+maplen v2: 0
+maplen v3: 0
+v4: 18446744073709551615
+v5: 0
+maplen v6: 0
+v8: a
+slicelen v9: 0 []

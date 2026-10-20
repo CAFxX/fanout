@@ -1,0 +1,13 @@
+foo bar
+	 foo bar
+	 128
+v1: 128
+maplen v2: 0
+slicelen v3: 3 [0 128 -798]
+v37: foo bar
+v38: false
+v39: 3
+v40: 496
+v41: foo bar
+	
+v44: 1

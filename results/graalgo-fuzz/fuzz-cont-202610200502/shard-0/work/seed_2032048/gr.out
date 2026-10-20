@@ -1,0 +1,43 @@
+1 0 1
+0 foo bar
+1 1 1
+1 foo bar
+1 2 1
+2 foo bar
+1 3 1
+3 foo bar
+1 4 1
+4 foo bar
+1 5 1
+5 foo bar
+1 6 1
+6 foo bar
+1 7 1
+7 foo bar
+1 8 1
+8 foo bar
+1 9 1
+9 foo bar
+1 10 1
+10 foo bar
+1 11 1
+11 foo bar
+1 12 1
+12 foo bar
+1 13 1
+13 foo bar
+1 14 1
+14 foo bar
+1 15 1
+15 foo bar
+18446744073709551615 foo bar 1
+maplen v1: 0
+v12: -1
+v13: 18446744073709551615
+v2: foo bar
+v25: 1
+v26: 42
+maplen v3: 1
+v4: 1
+slicelen v6: 1 [1]
+v8: 127

@@ -1,0 +1,12 @@
+foo bar
+0
+slicelen v1: 2 [ foo barfoo barfoo bar]
+v2: 560
+v21: 255
+v22: 0
+v23: 0
+v27: foo bar
+v3: 1
+v4: 18446744073709551042
+v5: foo barfoo barfoo bar
+v6: false

@@ -1,0 +1,31 @@
+true
+127
+127
+true
+127
+true
+127
+true
+127
+true
+127
+true
+127
+true
+127
+true
+127
+true
+true
+0 -128 -128
+v1: -128
+v2: true
+slicelen v3: 4 [4294967295 4294967295 42 2]
+v4: true
+slicelen v5: 3 [hellofoo barhello
+	aaa
+	
+	 
+	 hello]
+v8: 0
+v9: foo bar

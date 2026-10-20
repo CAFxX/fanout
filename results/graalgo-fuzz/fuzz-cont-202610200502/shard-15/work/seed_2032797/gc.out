@@ -1,0 +1,16 @@
+129 42
+42 42
+400 129
+400
+400 42
+800
+maplen v1: 0
+slicelen v2: 4 [
+	  hellohellohellohellofoo bar hellohello
+	a]
+v27: 400
+v28: 800
+v3: 16512
+maplen v4: 0
+v5: 42
+slicelen v6: 3 [265 32768 818]

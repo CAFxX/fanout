@@ -1,0 +1,16 @@
+-1 -1
+-1 42
+1
+v1: -1
+v10: 0
+v17: 911
+maplen v2: 1
+v22: 307
+v3: 125
+slicelen v4: 4 [
+	foo bar 
+	foo bar
+	 
+	 helloaafoo barhello
+	foo bar]
+v5: 0

@@ -1,0 +1,10 @@
+-1 foo bara
+foo barafoo barafoo barafoo barafoo barafoo baraaafoo barafoo bara 601 -12
+v1: 18446744073709551615
+v17: 2
+v18: -2147483648
+v2: foo barafoo barafoo barafoo barafoo barafoo baraaafoo barafoo bara
+v3: -12
+slicelen v4: 2 [-9223372036854775808 4294967295]
+v6: 0
+v8: -2

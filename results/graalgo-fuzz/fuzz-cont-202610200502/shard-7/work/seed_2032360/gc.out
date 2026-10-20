@@ -1,0 +1,9 @@
+1 -1
+210 210 -1
+-1
+v1: 1
+v10: -1e+10
+v2: 8589934590
+slicelen v3: 4 [foo barfoo bar 
+	 hello ]
+v4: -1

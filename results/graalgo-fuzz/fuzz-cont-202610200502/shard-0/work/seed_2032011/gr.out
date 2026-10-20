@@ -1,0 +1,9 @@
+maplen v1: 0
+v14: 2.25
+v15: 65535
+slicelen v19: 3 [0 -883 32767]
+v2: true
+v3: 
+	ahello
+	foo barfoo barfoo bar
+v4: 0

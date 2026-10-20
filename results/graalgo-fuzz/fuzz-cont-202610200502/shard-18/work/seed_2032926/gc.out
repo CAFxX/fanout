@@ -1,0 +1,11 @@
+false -3.89159 false
+v1: 1.5
+v19: 
+	foo bar
+maplen v2: 0
+v20: -3.89159
+v21: 1
+v22: -9223372036854775808
+v23: false
+slicelen v3: 1 []
+slicelen v4: 3 [ a a]

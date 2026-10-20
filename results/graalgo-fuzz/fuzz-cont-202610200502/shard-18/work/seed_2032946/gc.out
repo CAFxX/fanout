@@ -1,0 +1,12 @@
+65535
+-1 1.5 65535
+slicelen v1: 1 [32767]
+maplen v2: 0
+v21: 1.5
+v22: -1
+v23: 
+v25: 255
+v3: 65535
+slicelen v4: 2 [a ]
+slicelen v5: 1 [foo bara]
+slicelen v6: 0 []

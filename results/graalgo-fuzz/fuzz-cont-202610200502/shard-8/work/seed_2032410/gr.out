@@ -1,0 +1,20 @@
+hello
+	
+128 hello
+	 hello
+	
+hello
+	 128 hello
+	
+65535
+false -32768
+v1: 131070
+maplen v2: 1
+v3: hello
+	
+slicelen v4: 0 []
+v5: hello
+	
+v56: 128
+v69: 2
+v75: 18446744073709420548

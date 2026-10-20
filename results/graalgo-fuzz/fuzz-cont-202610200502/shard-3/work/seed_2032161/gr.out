@@ -1,0 +1,12 @@
+32767 130 32767
+-1 130 32767
+slicelen v1: 0 []
+v11: 32767
+v12: 455625
+v2: 130
+v26: -1
+v28: -2.15
+slicelen v3: 5 [
+	 
+	 foo barhellohellohellofoo bar foo bar a
+	]
