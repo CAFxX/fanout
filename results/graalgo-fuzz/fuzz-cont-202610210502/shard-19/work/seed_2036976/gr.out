@@ -1,0 +1,19 @@
+false false
+-1 -1 1e+10
+0 
+	foo bar 0
+1 
+	foo bar 0
+2 
+	foo bar 0
+3 
+	foo bar 0
+4 
+	foo bar 0
+5 
+	foo bar 0
+maplen v1: 0
+slicelen v2: 2 [ a]
+v3: false
+v4: 0
+v5: 1e+10

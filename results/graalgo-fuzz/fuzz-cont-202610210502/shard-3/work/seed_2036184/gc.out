@@ -1,0 +1,12 @@
+65534 -27
+maplen v1: 0
+v10: 18446744073709551615
+slicelen v2: 1 [2147483647]
+v24: 
+v3: 65534
+maplen v4: 0
+slicelen v5: 3 [foo bar 
+	 hello]
+v7: a
+v8: 32767
+v9: -27

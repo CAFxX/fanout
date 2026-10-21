@@ -1,0 +1,11 @@
+65535 65535
+4294443008 319 false
+v1: 4294443008
+maplen v2: 0
+slicelen v3: 1 [foo bar
+	helloa]
+v4: 312999936
+v49: false
+slicelen v5: 2 [42 65535]
+v50: 319
+maplen v6: 1

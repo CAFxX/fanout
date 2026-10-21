@@ -1,0 +1,14 @@
+
+32767
+slicelen v1: 4 [a a 
+	 
+	]
+v12: 377
+v13: 
+v15: 32767
+v16: 0
+v19: 0
+slicelen v2: 4 [
+	 foo bara
+	afoo barhelloafoo barhello a hello]
+slicelen v3: 4 [2147483648 0 0 4294967295]

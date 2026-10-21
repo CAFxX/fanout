@@ -1,0 +1,14 @@
+false
+-456 -456
+false
+708
+false -456
+maplen v1: 0
+v19: 708
+maplen v2: 0
+v22: hellohello
+v3: -456
+maplen v4: 0
+v5: false
+slicelen v6: 2 [foo barhello a
+	hello]

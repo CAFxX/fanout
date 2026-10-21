@@ -1,0 +1,12 @@
+1e+10 1e+10
+v1: false
+slicelen v15: 9 [0 0 0 0 0 0 0 0 0]
+v16: 0
+v18: 
+	foo baraa
+	hellohello
+	afoo barfoo barhellofoo bar
+	foo barhello
+v2: 42
+v3: 1e+10
+v4: 42

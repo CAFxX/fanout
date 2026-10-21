@@ -1,0 +1,14 @@
+slicelen v1: 2 [a foo bar]
+v2: -2147483648
+v20: true
+v22: true
+v3: -128
+v4: true
+v41: false
+v42: 1
+v43: 0
+v44: 183
+v47: 91
+v48: helloaa
+v5: 65500
+slicelen v6: 2 [-9223372036854775808 -572]

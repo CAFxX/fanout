@@ -1,0 +1,22 @@
+42 hello
+	 42
+32767 42 32767
+32767 42 32767
+32767 42 32767
+32767 42 32767
+32767 42 32767
+hello
+	 hello
+	
+false
+false
+false
+false
+false
+v1: hello
+	
+v2: 32767
+slicelen v3: 1 [hello
+	]
+v4: 32767
+v5: 18446744073709551614

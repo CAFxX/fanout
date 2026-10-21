@@ -1,0 +1,16 @@
+true 1 
+v1: a
+	
+v2: 18446744073709551615
+v23: 232
+v24: 
+v25: -0.215
+slicelen v3: 12 [a
+	 a
+	 hello a
+	helloa
+	 a a a a a a a a]
+v4: 1
+v5: 322
+v6: 18446744073709551615
+v7: true

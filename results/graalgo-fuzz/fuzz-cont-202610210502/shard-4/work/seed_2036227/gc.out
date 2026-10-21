@@ -1,0 +1,13 @@
+67 127 127
+v1: 127
+v14: 127
+v15: 1
+v2: 67
+v29: 0
+slicelen v3: 5 [a foo bar
+	  
+	 ]
+maplen v4: 1
+slicelen v5: 4 [ 
+	a
+	aa foo bar ]

@@ -1,0 +1,8 @@
+false
+maplen v1: 1
+slicelen v2: 3 [afoo barahellofoo barfoo bar
+	ahelloa foo bar a
+	]
+v3: true
+slicelen v4: 3 [a hello hellohello]
+v9: 42

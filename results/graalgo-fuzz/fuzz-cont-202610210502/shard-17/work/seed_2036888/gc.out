@@ -1,0 +1,6 @@
+true a
+a false
+v1: a
+v2: false
+maplen v3: 0
+slicelen v4: 3 [2147483648 42 65535]

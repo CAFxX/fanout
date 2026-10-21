@@ -1,0 +1,14 @@
+hellohelloafoo bar
+v1: 0
+v10: 2.25
+v11: 558
+v13: 255
+v18: 0
+v19: 2147483648
+v2: 0.1
+v20: -1
+v3: hellohelloafoo bar
+slicelen v4: 3 [
+	hellohelloafoo bar  
+	]
+slicelen v5: 1 [183]

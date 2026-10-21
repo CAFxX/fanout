@@ -1,0 +1,14 @@
+32 32
+true 18446744073709551615
+true
+v1: 18446744073709551615
+v2: 32
+v3: true
+v33: 1955
+v37: hello
+	
+v38: 255
+v39: foo bar
+slicelen v4: 2 [foo bar hello]
+v5: 0
+slicelen v6: 3 [-1 -1 2147483647]

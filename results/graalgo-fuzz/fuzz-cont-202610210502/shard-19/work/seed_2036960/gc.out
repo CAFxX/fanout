@@ -1,0 +1,17 @@
+
+	hellofoo bar 
+	hellofoo bar 140
+false
+v1: 140
+v14: false
+v17: 0
+v18: 
+	hellofoo bar
+	
+v2: 0
+maplen v3: 0
+v4: 
+	hellofoo bar
+maplen v5: 0
+v6: 0
+slicelen v91: 3 [-499 32767 -169]

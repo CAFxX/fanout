@@ -1,0 +1,11 @@
+slicelen v1: 18 [32768 555 42 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14]
+v15: 42
+v18: 0
+maplen v2: 0
+v3: 1
+slicelen v4: 2 [
+	foo bar
+	a hello
+	]
+v5: 0
+slicelen v6: 4 [377 53 0 2147483647]

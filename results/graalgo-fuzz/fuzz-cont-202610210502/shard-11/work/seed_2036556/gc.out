@@ -1,0 +1,16 @@
+false 121 42
+slicelen v1: 5 [ foo bar 
+	a
+	a
+	foo barfoo bar
+	
+	foo barfoo barfoo barhello
+	
+	helloa  ]
+v2: 0
+v24: -652
+v3: 42
+v4: -9223372036854775808
+v5: 42
+v6: false
+v7: false

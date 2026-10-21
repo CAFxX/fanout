@@ -1,0 +1,9 @@
+a 0
+a 0
+slicelen v1: 3 [hellohello foo barhellohello foo bar
+	foo bar]
+slicelen v2: 19 [558 32768 128 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 -13 -14 912]
+maplen v3: 0
+v4: hello
+v5: 0
+v70: 1196

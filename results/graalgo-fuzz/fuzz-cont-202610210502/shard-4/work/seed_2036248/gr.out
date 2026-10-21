@@ -1,0 +1,34 @@
+0 false 0
+1 true 1
+2 true 2
+3 true 3
+4 true 4
+5 true 5
+6 true 6
+7 true 7
+8 true 8
+9 true 9
+10 true 10
+11 true 11
+12 true 12
+13 true 13
+14 true 14
+15 true 15
+16 true 16
+17 true 17
+18 true 18
+19 true 19
+2
+v1: 0
+v112: 1e+10
+slicelen v2: 4 [65535 13 441 401]
+v3: 4294967295
+maplen v4: 1
+v5: true
+v6: 2
+v84: 1
+v85: 581
+v86: 235
+v87: foo barfoo bar
+	
+v99: false

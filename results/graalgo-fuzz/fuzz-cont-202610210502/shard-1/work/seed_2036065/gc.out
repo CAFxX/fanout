@@ -1,0 +1,22 @@
+a
+	foo baraaaa
+	hellofoo barfoo barhellofoo barfoo bar
+	foo bara
+	afoo barhello
+	foo barfoo barfoo barfoo bar 517 0
+maplen v1: 0
+v10: a
+	foo baraaaa
+	hellofoo barfoo barhellofoo barfoo bar
+	foo bara
+	afoo barhello
+	foo barfoo barfoo barfoo bar
+v11: 1e+10
+v14: 1
+maplen v2: 0
+v3: 517
+v4: 559
+slicelen v5: 4 [ahello hello 
+	 a]
+v6: 0
+v7: 109

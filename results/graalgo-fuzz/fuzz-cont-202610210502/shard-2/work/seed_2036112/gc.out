@@ -1,0 +1,8 @@
+v1: 173
+v16: 44
+v17: 1.5
+v18: 32767
+v2: true
+slicelen v3: 4 [
+	 hello 
+	 foo bar]

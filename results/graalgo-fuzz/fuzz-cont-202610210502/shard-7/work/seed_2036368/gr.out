@@ -1,0 +1,16 @@
+2 234 2
+2 234 2
+2 234 2
+2 234 2
+2 234 2
+2 2 176
+176 176
+v1: false
+v19: 2
+v2: 2
+v3: 176
+slicelen v4: 14 [
+	  foo bar 
+	aa foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+slicelen v5: 1 [4294967295]
+maplen v6: 0

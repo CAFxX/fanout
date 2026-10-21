@@ -1,0 +1,31 @@
+-1
+-1 0
+-1 1
+-1 2
+-1 3
+-1 4
+-1 5
+0 42 668
+0 0 
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0
+v1: 42
+v2: 668
+v3: foo bar
+v4: 0
+v5: -128
+slicelen v81: 2 [128 515]
+v82: -2.25
+v85: 0

@@ -1,0 +1,9 @@
+slicelen v1: 3 [a hello
+	
+	 hellofoo bar
+	]
+maplen v2: 0
+v3: 1
+v4: 32767
+v8: 127
+v9: 65535

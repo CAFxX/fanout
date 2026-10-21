@@ -1,0 +1,30 @@
+1 1
+foo barfoo barfoo baraa
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+13 13
+14 14
+15 15
+16 16
+17 17
+-2.25e-09 1 1
+v1: 1
+v2: foo barfoo barfoo baraa
+v24: 1000
+slicelen v3: 2 [140 1]
+v39: 0
+slicelen v4: 2 [674 -115]
+v40: 684
+v5: 66
+maplen v6: 0

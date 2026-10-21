@@ -1,0 +1,10 @@
+v1: 100
+v12: false
+slicelen v2: 2 [a hello
+	aafoo barhellohello
+	foo barhello]
+maplen v3: 1
+v35: 1
+v36: 0
+v4: 0
+v5: 2

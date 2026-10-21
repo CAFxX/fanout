@@ -1,0 +1,14 @@
+9223372036854775807 hello
+maplen v1: 0
+v10: hello
+v11: 9223372036854775807
+slicelen v2: 2 [hello 
+	ahello
+	foo bara
+	foo barafoo baraaafoo bar]
+v27: 42
+maplen v3: 0
+slicelen v4: 1 [a]
+maplen v5: 0
+v8: 1
+v9: 0.1

@@ -1,0 +1,27 @@
+0 foo bar foo bar
+1 foo bar foo bar
+2 foo bar foo bar
+0 0 0
+0 foo bar foo bar
+1 foo bar foo bar
+2 foo bar foo bar
+1 1 1
+0 foo bar foo bar
+1 foo bar foo bar
+2 foo bar foo bar
+2 2 2
+0 foo bar foo bar
+1 foo bar foo bar
+2 foo bar foo bar
+3 3 3
+v1: 0
+v123: 1.5
+v153: 100
+v154: 4294967295
+v155: 1
+v156: 18446744065119617025
+slicelen v2: 1 [hello]
+maplen v3: 0
+v36: 1
+maplen v4: 0
+v5: 0

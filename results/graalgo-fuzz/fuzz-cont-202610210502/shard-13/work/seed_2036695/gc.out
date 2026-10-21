@@ -1,0 +1,11 @@
+maplen v1: 0
+v15: 1.500000001480438e+10
+v16: 9223372036854775807
+v17: 1.5
+v2: 42
+v3: 2147483647
+v4: 1.5
+slicelen v5: 2 [foo bar foo barfoo bar
+	helloa]
+v6: hellohelloafoo barfoo barfoo barfoo bar
+	foo bar

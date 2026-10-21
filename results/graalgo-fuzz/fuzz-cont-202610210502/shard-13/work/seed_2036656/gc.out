@@ -1,0 +1,15 @@
+-2.25 410
+slicelen v1: 1 [hello
+	afoo bar
+	]
+maplen v2: 0
+slicelen v3: 4 [
+	 hello
+	 a a]
+v4: -2.25
+v75: 2
+v76: 65535
+v77: 44
+v78: -2.149999999685841
+v79: 1
+v84: 410

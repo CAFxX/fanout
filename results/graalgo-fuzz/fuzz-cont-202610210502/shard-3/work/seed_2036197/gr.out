@@ -1,0 +1,11 @@
+afoo bar 1e+21
+1e+21 42
+v1: true
+v10: true
+maplen v2: 0
+maplen v3: 0
+v38: 42
+v4: afoo bar
+v5: 42
+v6: 1e+21
+slicelen v7: 3 [42 42 0]

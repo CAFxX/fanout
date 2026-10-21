@@ -1,0 +1,9 @@
+v1: true
+v2: true
+maplen v3: 0
+v32: 42
+v33: 1
+v4: aa
+	foo barfoo bar
+v42: 0
+v47: false

@@ -1,0 +1,9 @@
+v1: 2
+v11: -2147483648
+v14: 171
+slicelen v2: 3 [32767 42 -1]
+v3: -1364
+slicelen v4: 0 []
+slicelen v5: 4 [hello
+	afoo barfoo bar
+	 hello  aa]

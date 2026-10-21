@@ -1,0 +1,19 @@
+0
+0 true
+1
+1 true
+2
+2 true
+3
+3 true
+4
+4 true
+5
+5 true
+6
+6 true
+v1: true
+maplen v2: 0
+v3: foo barhello
+	foo barhello
+slicelen v4: 1 [2147483647]

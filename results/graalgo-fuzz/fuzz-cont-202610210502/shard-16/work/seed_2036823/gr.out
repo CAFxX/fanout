@@ -1,0 +1,15 @@
+foo bara
+	foo barfoo bar
+	foo bar 488 foo bara
+	foo barfoo bar
+	foo bar
+v1: foo bara
+	foo barfoo bar
+	foo bar
+v2: 42
+v23: 488
+v24: 42
+v3: 488
+v4: 543
+slicelen v5: 3 [488 839 4294967295]
+v6: 42
