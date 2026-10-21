@@ -1,0 +1,23 @@
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true true
+true
+false 0
+false 1
+false 2
+slicelen v1: 1 [foo bar]
+v18: false
+slicelen v2: 2 [-863 -2147483648]
+maplen v3: 0
+maplen v4: 0

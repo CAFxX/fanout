@@ -1,0 +1,11 @@
+100 true true
+42 21
+maplen v1: 0
+v2: 42
+v20: 1.5
+v3: 0
+slicelen v4: 4 [42 -2147483648 -576 128]
+maplen v5: 1
+slicelen v6: 1 [
+	]
+v94: true

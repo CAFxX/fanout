@@ -1,0 +1,12 @@
+622
+maplen v1: 0
+v10: 0
+v11: 646
+v2: 622
+slicelen v3: 4 [hello hello
+	foo barfoo barhello
+	hello
+	helloa
+	 foo bar ]
+maplen v4: 0
+maplen v5: 0

@@ -1,0 +1,20 @@
+v1: 127
+v14: 127
+v15: 254
+v18: 127
+v2: 1.5
+v20: -2147483648
+v23: 1.5
+v3: -441
+maplen v4: 1
+slicelen v5: 2 [hello
+	hello
+	helloa
+	foo bar
+	a
+	
+	
+	
+	ahellofoo bar
+	foo barhellofoo bar helloafoo barahello]
+v6: 

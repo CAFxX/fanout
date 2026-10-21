@@ -1,0 +1,15 @@
+131 42
+1 1
+1
+1
+slicelen v1: 2 [
+	 foo barhelloahello
+	foo bar
+	a]
+v10: false
+v17: 4294967295
+slicelen v2: 3 [1 9223372036854775807 128]
+v3: 42
+v4: 1
+slicelen v5: 0 []
+v9: 127

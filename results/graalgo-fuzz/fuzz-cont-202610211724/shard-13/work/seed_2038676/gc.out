@@ -1,0 +1,10 @@
+foo bar 42 42
+42 1e+10 1e+10
+v1: foo bar
+v10: 0
+v2: 1e+10
+slicelen v3: 3 [574 65535 346]
+maplen v4: 1
+v5: foo bar
+v6: 42
+v9: 18446744073709551615

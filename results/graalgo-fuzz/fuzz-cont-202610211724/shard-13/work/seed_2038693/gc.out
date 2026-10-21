@@ -1,0 +1,10 @@
+42 true 42
+v1: 42
+slicelen v2: 3 [
+	
+	 foo bar foo bar]
+slicelen v3: 1 [a]
+v53: true
+v59: foo bar
+v60: 128
+v61: 128

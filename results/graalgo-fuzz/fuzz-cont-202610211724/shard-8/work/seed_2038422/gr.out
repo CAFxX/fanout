@@ -1,0 +1,11 @@
+65535
+foo bar foo bar foo bar
+maplen v1: 0
+slicelen v2: 2 [42 42]
+v3: 0
+maplen v4: 1
+v5: 29.999999999978776
+v6: 65535
+v7: foo bar
+v8: true
+v9: foo barfoo barfoo bar

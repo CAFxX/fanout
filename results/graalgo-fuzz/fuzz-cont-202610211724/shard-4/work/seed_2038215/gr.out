@@ -1,0 +1,22 @@
+false
+false 0 42
+false 1 42
+false 2 42
+false 3 42
+false 4 42
+false 5 42
+false 6 42
+false 7 42
+false 8 42
+false 9 42
+false 10 42
+false 11 42
+1 1
+v1: 2e+10
+v2: 42
+v24: -1.5e+10
+v25: 1
+slicelen v3: 2 [afoo bar foo barfoo barfoo barfoo barafoo baraahellofoo baraa]
+slicelen v4: 3 [42 -43 42]
+v5: false
+v8: 1

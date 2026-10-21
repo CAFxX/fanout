@@ -1,0 +1,5 @@
+foo bar
+foo bar 0
+v1: 0
+slicelen v2: 3 [32767 128 42]
+v3: foo bar

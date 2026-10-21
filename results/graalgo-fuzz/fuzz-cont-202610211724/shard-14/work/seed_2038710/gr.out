@@ -1,0 +1,11 @@
+false true
+false
+0.1 53
+v1: false
+v2: 0
+v3: 53
+v35: 0
+v4: true
+slicelen v5: 81 [foo bar foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello foo barahello]
+slicelen v6: 1 [
+	]

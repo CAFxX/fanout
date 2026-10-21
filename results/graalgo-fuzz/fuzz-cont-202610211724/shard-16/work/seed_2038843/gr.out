@@ -1,0 +1,21 @@
+
+	 0
+0 0
+foo bar 1
+1 1
+foo bar 2
+2 2
+foo bar 3
+3 3
+127
+1000 906
+maplen v1: 1
+v10: false
+v11: 127
+v12: 1000
+maplen v2: 0
+v3: foo bar
+slicelen v4: 4 [
+	   foo bar
+	]
+v9: 906

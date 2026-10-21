@@ -1,0 +1,12 @@
+-128 foo bar
+1.5
+113 1.5
+v1: foo bar
+v13: 1.5
+maplen v2: 0
+v23: 32767
+maplen v3: 0
+v4: 346
+maplen v5: 0
+v6: 113
+slicelen v7: 4 [128 42 264 42]

@@ -1,0 +1,14 @@
+313
+-2147483648 0
+1 0
+v1: 4294967295
+v10: 313
+v11: 0
+v111: 0
+v112: -2147483648
+v113: 0
+v114: -2147483648
+slicelen v2: 1 [299]
+v3: 
+v4: 1
+slicelen v5: 4 [foo bar  hellofoo bar foo barfoo barfoo bar]

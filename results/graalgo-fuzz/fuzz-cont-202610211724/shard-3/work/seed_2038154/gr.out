@@ -1,0 +1,13 @@
+true 3.14159 foo bar
+v1: foo bar
+v10: true
+v11: 9223372036854775807
+v12: 381
+v13: -57
+v14: 0
+v2: 0
+v3: 0
+v4: 3.14159
+v5: 1
+maplen v6: 0
+v9: foo bar

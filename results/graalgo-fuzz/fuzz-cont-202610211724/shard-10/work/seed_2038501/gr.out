@@ -1,0 +1,15 @@
+foo barfoo bar
+	foo barfoo bar
+	foo barfoo bar
+	
+foo barfoo bar
+	foo barfoo bar
+	foo barfoo bar
+	
+maplen v1: 0
+maplen v2: 0
+v3: foo barfoo bar
+	foo barfoo bar
+	foo barfoo bar
+	
+maplen v4: 0

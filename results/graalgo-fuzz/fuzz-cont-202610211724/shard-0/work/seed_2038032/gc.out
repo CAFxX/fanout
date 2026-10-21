@@ -1,0 +1,15 @@
+1 0
+1 1
+1 2
+1 3
+1 4
+1 5
+1
+slicelen v1: 3 [0 127 49]
+maplen v2: 1
+slicelen v3: 61 [foo bar hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v4: 1
+v40: 
+	foo bar
+	hello
+slicelen v5: 3 [hello hello foo bar]

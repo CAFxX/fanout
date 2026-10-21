@@ -1,0 +1,11 @@
+762 2 0.1
+v1: 0.1
+maplen v2: 0
+v22: 2
+v24: 762
+v26: 107
+maplen v3: 0
+slicelen v4: 2 [
+	hello
+	
+	 foo bar]

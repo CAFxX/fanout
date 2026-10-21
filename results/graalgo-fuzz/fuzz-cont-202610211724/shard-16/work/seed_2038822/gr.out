@@ -1,0 +1,8 @@
+slicelen v1: 2 [4294967295 -348]
+v19: 0
+maplen v2: 0
+v21: true
+v25: 100
+v3: foo bar
+v4: true
+slicelen v5: 1 [foo bar]
