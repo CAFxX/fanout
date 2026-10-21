@@ -1,0 +1,60 @@
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 foo bar
+	hello foo bar
+	hello
+-1.5e+09 -1.5e+09
+-1.5e+09 false
+maplen v1: 0
+v2: -1.5e+09
+slicelen v3: 1 [-688]
+slicelen v4: 0 []
+v47: 687
+slicelen v5: 5 [751 2147483647 4294967295 1 0]
+v6: false
+v70: 
+	
+v71: 0
+v72: 42
+v74: -1
+v75: 18446744073709551615

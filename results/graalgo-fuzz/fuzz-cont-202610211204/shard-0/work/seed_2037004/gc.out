@@ -1,0 +1,15 @@
+0 foo bar
+1 foo bar
+2 foo bar
+3 foo bar
+v1: 111
+v2: true
+maplen v3: 1
+v31: -2.25
+v35: 1.5
+slicelen v36: 1 [-959]
+v4: foo bar
+v50: 1952
+v52: 255
+v53: 111
+v55: true

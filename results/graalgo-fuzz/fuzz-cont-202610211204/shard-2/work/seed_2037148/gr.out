@@ -1,0 +1,11 @@
+-1 foo bar
+maplen v1: 1
+v13: false
+v14: foo bar
+v15: -1
+v17: -1
+v2: 0
+v23: 0
+v24: foo bar
+slicelen v3: 1 [65535]
+maplen v4: 0

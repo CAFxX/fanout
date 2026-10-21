@@ -1,0 +1,26 @@
+-128 0 
+	
+	hellohellofoo barhelloa
+	
+	foo barfoo barfoo barfoo bar
+1
+v1: -128
+v11: 0
+v12: 1
+v13: 0
+v14: 
+	
+	hellohellofoo barhelloa
+	
+	foo barfoo barfoo barfoo bar
+v2: 1
+v20: 2147483648
+v23: 
+	
+	hellohellofoo barhelloa
+	
+	foo barfoo barfoo barfoo bar
+slicelen v25: 3 [4294967295 503 -1]
+v26: -195
+maplen v3: 0
+v4: 0

@@ -1,0 +1,20 @@
+foo bar
+	
+	
+	
+	
+	afoo bar
+	
+	
+	
+	
+3.14159e+10 foo bar 42
+maplen v1: 0
+v2: foo bar
+slicelen v3: 3 [hello foo bar 
+	]
+v32: 42
+v34: 3.14159e+10
+v35: 860
+v39: 3.14159
+v7: 2048

@@ -1,0 +1,18 @@
+18446744073709551615 foo bar
+v1: 1e+10
+v18: 65535
+v2: 
+	
+slicelen v3: 4 [
+	 hello 
+	foo barhello
+	
+	
+	
+	
+	foo bar
+	
+	 foo bar]
+slicelen v4: 0 []
+v5: 18446744073709551615
+v6: foo bar

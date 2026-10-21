@@ -1,0 +1,7 @@
+maplen v1: 0
+v13: 70367670435840
+v2: 0
+v27: 255
+slicelen v3: 2 [foo bar foo barfoo bar]
+maplen v4: 0
+slicelen v5: 3 [-9223372036854775808 -876 127]

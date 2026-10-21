@@ -1,0 +1,51 @@
+true hello 100
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+2 true 2
+2 true 2
+2 true 2
+2 true 2
+2 true 2
+2 true 2
+2 true 2
+2 true 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+1 1 2
+slicelen v1: 4 [hello 
+	hello a hello]
+v16: hello
+v2: true
+v20: 2
+v26: 1
+v3: 100
+v30: -2.25
+slicelen v4: 1 [604]

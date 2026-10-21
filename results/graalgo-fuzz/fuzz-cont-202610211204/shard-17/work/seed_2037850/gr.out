@@ -1,0 +1,8 @@
+-2147483648 0.1 42
+v1: 0.1
+slicelen v2: 2 [
+	foo barhelloa foo barfoo bar]
+v29: -2147483648
+v3: -2.5e-10
+v31: a
+v32: 42

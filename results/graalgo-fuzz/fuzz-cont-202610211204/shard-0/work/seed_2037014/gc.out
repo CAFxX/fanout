@@ -1,0 +1,15 @@
+1.5e-10 5.5555553e+09 1540
+maplen v1: 1
+slicelen v2: 1 [2147483648]
+v3: 1540
+v32: 5.5555553e+09
+v35: 1.5e-10
+slicelen v4: 1 [-9223372036854775808]
+v41: 1
+v45: false
+slicelen v5: 4 [hello foo bar 
+	
+	 foo bar
+	
+	]
+slicelen v6: 0 []

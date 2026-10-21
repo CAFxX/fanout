@@ -1,0 +1,16 @@
+NaN
+a NaN
+NaN NaN NaN
+NaN NaN NaN
+NaN NaN NaN
+NaN NaN NaN
+maplen v1: 0
+v15: a
+slicelen v2: 1 [foo bar
+	foo bar]
+v3: NaN
+slicelen v4: 4 [0 249 2147483647 2]
+v43: -122
+v44: 0
+v45: -704
+maplen v5: 0

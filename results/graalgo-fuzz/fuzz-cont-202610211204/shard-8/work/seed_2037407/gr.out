@@ -1,0 +1,8 @@
+v1: -833
+v2: 0
+maplen v3: 0
+v4: foo barfoo barfoo barfoo barhellofoo barfoo bar
+v44: 32770
+v47: 65535
+v5: true
+slicelen v6: 4 [helloa foo barfoo bar hello foo barfoo barfoo barfoo barhellofoo barfoo bar]

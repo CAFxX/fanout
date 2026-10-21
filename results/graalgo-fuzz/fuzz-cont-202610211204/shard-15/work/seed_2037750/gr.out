@@ -1,0 +1,9 @@
+4 -32765
+1 1 4
+v1: 1
+v12: 42
+v13: 0
+slicelen v2: 2 [foo bar hellohello]
+v3: -32765
+v4: 4
+maplen v5: 0

@@ -1,0 +1,16 @@
+1e+10 2097152 foo barfoo barhellofoo bara
+	
+	hellofoo bara
+	
+v1: 2097152
+maplen v2: 1
+v26: 1
+v28: 1e+10
+v3: foo barfoo barhellofoo bara
+	
+	hellofoo bara
+	
+slicelen v31: 4 [128 0 -659 -2147483648]
+maplen v4: 0
+maplen v5: 0
+maplen v6: 0

@@ -1,0 +1,17 @@
+4294967295 4294967295
+-686
+4294967295 hellofoo barfoo baraaafoo barfoo baraaaafoo barfoo baraaafoo barfoo baraaa
+v1: -686
+maplen v2: 4
+v25: foo barfoo baraaafoo barfoo baraaa
+v3: 4294967295
+maplen v4: 1
+v44: true
+v45: hellofoo barfoo baraaafoo barfoo baraaaafoo barfoo baraaafoo barfoo baraaa
+v47: 42
+v48: 2
+slicelen v5: 4 [
+	hello 
+	 
+	aafoo bar 
+	]

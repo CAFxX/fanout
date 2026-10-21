@@ -1,0 +1,13 @@
+foo barfoo bar
+foo barfoo bar 251
+251 251
+foo barfoo bar 4.64159
+251
+251
+251
+v1: foo barfoo bar
+v2: 251
+maplen v3: 1
+v4: NaN
+slicelen v5: 0 []
+slicelen v6: 1 [-9223372036854775808]

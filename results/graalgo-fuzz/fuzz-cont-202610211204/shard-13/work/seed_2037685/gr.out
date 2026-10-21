@@ -1,0 +1,317 @@
+0
+-587 foo bar
+42 hello
+1
+-587 foo bar
+42 hello
+2
+-587 foo bar
+42 hello
+3
+-587 foo bar
+42 hello
+4
+-587 foo bar
+42 hello
+5
+-587 foo bar
+42 hello
+6
+-587 foo bar
+42 hello
+7
+-587 foo bar
+42 hello
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0 569 NaN
+0
+-586 foo bar
+42 hello
+1
+-586 foo bar
+42 hello
+2
+-586 foo bar
+42 hello
+3
+-586 foo bar
+42 hello
+4
+-586 foo bar
+42 hello
+5
+-586 foo bar
+42 hello
+6
+-586 foo bar
+42 hello
+7
+-586 foo bar
+42 hello
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+0
+-585 foo bar
+42 hello
+1
+-585 foo bar
+42 hello
+2
+-585 foo bar
+42 hello
+3
+-585 foo bar
+42 hello
+4
+-585 foo bar
+42 hello
+5
+-585 foo bar
+42 hello
+6
+-585 foo bar
+42 hello
+7
+-585 foo bar
+42 hello
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+0
+-584 foo bar
+42 hello
+1
+-584 foo bar
+42 hello
+2
+-584 foo bar
+42 hello
+3
+-584 foo bar
+42 hello
+4
+-584 foo bar
+42 hello
+5
+-584 foo bar
+42 hello
+6
+-584 foo bar
+42 hello
+7
+-584 foo bar
+42 hello
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+0
+-583 foo bar
+42 hello
+1
+-583 foo bar
+42 hello
+2
+-583 foo bar
+42 hello
+3
+-583 foo bar
+42 hello
+4
+-583 foo bar
+42 hello
+5
+-583 foo bar
+42 hello
+6
+-583 foo bar
+42 hello
+7
+-583 foo bar
+42 hello
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+0
+-582 foo bar
+42 hello
+1
+-582 foo bar
+42 hello
+2
+-582 foo bar
+42 hello
+3
+-582 foo bar
+42 hello
+4
+-582 foo bar
+42 hello
+5
+-582 foo bar
+42 hello
+6
+-582 foo bar
+42 hello
+7
+-582 foo bar
+42 hello
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+0
+-581 foo bar
+42 hello
+1
+-581 foo bar
+42 hello
+2
+-581 foo bar
+42 hello
+3
+-581 foo bar
+42 hello
+4
+-581 foo bar
+42 hello
+5
+-581 foo bar
+42 hello
+6
+-581 foo bar
+42 hello
+7
+-581 foo bar
+42 hello
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+569 569 NaN
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+569
+v1: 0.1
+v2: 569
+maplen v3: 0
+v37: 569
+maplen v4: 0
+maplen v5: 0
+slicelen v57: 3 [1 128 4294967295]
+v6: 42

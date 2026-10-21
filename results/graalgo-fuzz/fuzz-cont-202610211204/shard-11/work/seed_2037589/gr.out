@@ -1,0 +1,12 @@
+42 foo bar
+	hello
+42 foo bar
+	hello
+v1: hello
+v103: -9223372036854775808
+slicelen v105: 1 [128]
+v106: -2147483623
+maplen v2: 1
+v3: foo bar
+	hello
+v4: 18446744073709551575

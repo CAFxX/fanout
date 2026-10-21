@@ -1,0 +1,12 @@
+70
+foo barfoo bar
+1 32767 70
+v1: 32767
+v2: 1
+v3: NaN
+slicelen v35: 2 [70 70]
+v4: foo barfoo bar
+v40: 70
+v5: 18446744073709551615
+v6: 70
+v7: 1

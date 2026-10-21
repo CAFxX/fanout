@@ -1,0 +1,14 @@
+slicelen v1: 1 [foo bar]
+v2: 32767
+v26: 
+v27: 5637144591
+v3: 27
+slicelen v4: 5 [foo bar 
+	hello 
+	 aafoo bar ]
+v42: 4294967295
+v43: 5637144576
+v44: 0
+v45: 0
+v5: -128
+maplen v6: 1

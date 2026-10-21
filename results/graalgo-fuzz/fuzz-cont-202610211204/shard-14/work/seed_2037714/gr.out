@@ -1,0 +1,11 @@
++Inf -179 42
+-179 +Inf hellohellohello
+maplen v1: 0
+slicelen v10: 2 [-1 2147483647]
+v11: 0
+v19: -1
+v2: -179
+v3: hellohellohello
+v4: 42
+maplen v5: 0
+v6: +Inf

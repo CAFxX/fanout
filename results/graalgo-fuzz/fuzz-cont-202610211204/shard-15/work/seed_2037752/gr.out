@@ -1,0 +1,12 @@
+a true -4.5
+maplen v1: 0
+v11: -4.5
+v18: a
+v19: true
+maplen v2: 0
+v20: 65535
+v26: 0
+maplen v3: 0
+v4: 18446739675663040512
+v5: -4.5
+slicelen v6: 1 [foo bar]

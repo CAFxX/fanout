@@ -1,0 +1,14 @@
+1 1
+afoo barfoo barfoo barafoo barfoo barafoo barfoo barafoo barfoo bar 0
+afoo barfoo barfoo barafoo barfoo barafoo barfoo barafoo barfoo bar 1
+afoo barfoo barfoo barafoo barfoo barafoo barfoo barafoo barfoo bar 2
+afoo barfoo barfoo barafoo barfoo barafoo barfoo barafoo barfoo bar 18446744073709551615
+0 4294967295
+v1: a
+v10: 0
+v16: 42
+v2: 18446744073709551615
+slicelen v3: 0 []
+v34: true
+v35: true
+v7: 4294967295

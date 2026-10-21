@@ -1,0 +1,76 @@
+foo barfoo bar
+	ahellohello
+	 0 foo barfoo bar
+	ahellohello
+	
+0
+foo barfoo bar
+	ahellohello
+	 1 foo barfoo bar
+	ahellohello
+	
+0
+408
+foo barfoo bar
+	ahellohello
+	 0 foo barfoo bar
+	ahellohello
+	
+1
+foo barfoo bar
+	ahellohello
+	 1 foo barfoo bar
+	ahellohello
+	
+1
+408
+foo barfoo bar
+	ahellohello
+	 0 foo barfoo bar
+	ahellohello
+	
+2
+foo barfoo bar
+	ahellohello
+	 1 foo barfoo bar
+	ahellohello
+	
+2
+408
+foo barfoo bar
+	ahellohello
+	 0 foo barfoo bar
+	ahellohello
+	
+3
+foo barfoo bar
+	ahellohello
+	 1 foo barfoo bar
+	ahellohello
+	
+3
+408
+foo barfoo bar
+	ahellohello
+	 0 foo barfoo bar
+	ahellohello
+	
+4
+foo barfoo bar
+	ahellohello
+	 1 foo barfoo bar
+	ahellohello
+	
+4
+408
+maplen v1: 0
+maplen v2: 1
+v3: foo barfoo bar
+	ahellohello
+	
+slicelen v30: 13 [-1 232 232 232 232 232 232 232 232 232 232 232 232]
+v33: 14
+v4: foo barfoo bar
+	ahellohello
+	
+v5: 408

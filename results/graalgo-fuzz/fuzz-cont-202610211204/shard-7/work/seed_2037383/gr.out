@@ -1,0 +1,11 @@
+maplen v1: 0
+v11: true
+v14: 888
+slicelen v2: 2 [foo bar a
+	]
+slicelen v3: 3 [127 -1 -2147483648]
+v33: -2.25
+slicelen v4: 0 []
+v5: 4294966849
+v6: 446
+v9: 0

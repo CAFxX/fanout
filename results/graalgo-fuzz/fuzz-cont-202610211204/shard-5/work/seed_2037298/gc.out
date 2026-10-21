@@ -1,0 +1,11 @@
+-1 -1
+slicelen v1: 1 [
+	]
+v10: -2147483648
+v11: 127
+v16: 0
+maplen v2: 0
+v21: -1
+v22: 32
+slicelen v3: 2 [foo bar foo bar]
+v9: -1

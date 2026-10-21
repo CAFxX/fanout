@@ -1,0 +1,58 @@
+0 2
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+0 0 foo bar
+1 1 foo bar
+1 1 foo bar
+1 1 foo bar
+1 1 foo bar
+2 2 foo bar
+2 2 foo bar
+2 2 foo bar
+2 2 foo bar
+3 3 foo bar
+3 3 foo bar
+3 3 foo bar
+3 3 foo bar
+4 4 foo bar
+4 4 foo bar
+4 4 foo bar
+4 4 foo bar
+5 5 foo bar
+5 5 foo bar
+5 5 foo bar
+5 5 foo bar
+6 6 foo bar
+6 6 foo bar
+6 6 foo bar
+6 6 foo bar
+7 7 foo bar
+7 7 foo bar
+7 7 foo bar
+7 7 foo bar
+8 8 foo bar
+8 8 foo bar
+8 8 foo bar
+8 8 foo bar
+9 9 foo bar
+9 9 foo bar
+9 9 foo bar
+9 9 foo bar
+10 10 foo bar
+10 10 foo bar
+10 10 foo bar
+10 10 foo bar
+0 true
+slicelen v1: 2 [128 32767]
+v2: 0
+v3: 2
+v4: 28
+maplen v5: 0
+v84: true
+v85: -44
+v86: 32767
+v87: 
+v92: -22
+v94: 28
+v95: 

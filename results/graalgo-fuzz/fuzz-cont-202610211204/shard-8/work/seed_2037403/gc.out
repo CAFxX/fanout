@@ -1,0 +1,22 @@
+2 0 hello
+2 1 hello
+2 2 hello
+2 3 hello
+2 4 hello
+2 5 hello
+2 6 hello
+2 7 hello
+2 8 hello
+2 9 hello
+2 10 hello
+2 11 hello
+2 12 hello
+0
+v1: 2
+maplen v2: 0
+maplen v3: 0
+v4: 0
+maplen v5: 0
+slicelen v6: 2 [-947 42]
+v7: hello
+v8: 42

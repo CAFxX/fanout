@@ -1,0 +1,9 @@
+42 0 foo barfoo bar
+42 foo barfoo bar 0
+v1: 42
+v2: foo barfoo bar
+v3: 0
+slicelen v4: 4 [706 42 -2147483648 -896]
+v5: 1
+v85: 4294967295
+v86: 0

@@ -1,0 +1,15 @@
+583 -576
+hello
+	aafoo bar 32767 1e+10
+v1: hello
+	aafoo bar
+v15: 583
+v16: 1000
+v17: -576
+maplen v2: 1
+v3: 1e+10
+v4: true
+slicelen v5: 1 [-1]
+v6: 32767
+v91: 1
+v93: 

@@ -1,0 +1,10 @@
+hello hello
+hello
+2147483648 2147483648
+hello hello
+slicelen v1: 4 [32767 9223372036854775807 1 -2147483648]
+maplen v2: 0
+slicelen v3: 4 [0 2147483647 144 366]
+v36: 2147483648
+v4: hello
+slicelen v5: 1 [1]

@@ -1,0 +1,24 @@
+v1: 561
+v2: 2
+v22: foo bar
+	foo bar
+	foo bar
+	foo bar
+	ahellofoo bar
+	foo bar
+	foo bar
+	afoo bar
+	
+slicelen v27: 5 [1 -1 -1 -2147483648 -9223372036854775808]
+v28: foo bar
+	foo bar
+	foo bar
+	foo bar
+	ahellofoo bar
+	foo bar
+	foo bar
+	afoo bar
+	
+v29: 1
+v3: 2147483647
+v30: 732

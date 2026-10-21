@@ -1,0 +1,14 @@
+2 2 3.14159
+65535
+v1: 18446744073709551558
+v2: 64
+maplen v3: 0
+slicelen v4: 2 [hello hello]
+v44: 34.832720000000016
+slicelen v5: 3 [
+	
+	 foo barhellohello a]
+v55: 42
+v59: 65535
+slicelen v6: 1 [afoo barhello]
+v60: 1

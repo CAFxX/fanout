@@ -1,0 +1,11 @@
+0
+390
+390
+true
+true
+maplen v1: 0
+slicelen v2: 2 [foo bar 
+	]
+slicelen v3: 0 []
+slicelen v4: 3 [42 2147483647 1]
+v6: false

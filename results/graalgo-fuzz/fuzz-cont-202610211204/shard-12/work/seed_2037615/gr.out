@@ -1,0 +1,11 @@
+v1: 0
+v10: 0
+v15: -32253
+v18: 0
+v19: -96
+slicelen v2: 3 [  ]
+maplen v3: 0
+v4: 192
+slicelen v5: 3 [aa aa afoo bar
+	hello]
+v6: false

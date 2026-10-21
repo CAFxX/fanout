@@ -1,0 +1,40 @@
+1
+ -0.75 0
+hello
+ -1.3125 1
+hello
+ -3.0351562 2
+hello
+ -12.24733 3
+hello
+ -162.24442 4
+hello
+ -26485.494 5
+hello
+ -7.015079e+08 6
+hello
+ -4.9211333e+17 0
+hello
+ -2.4217554e+35 1
+hello
+ -Inf 2
+hello
+ -Inf 3
+hello
+ -Inf 4
+hello
+ -Inf 5
+hello
+ -Inf 6
+hello
+maplen v1: 0
+v2: NaN
+maplen v3: 0
+maplen v4: 1
+slicelen v5: 2 [ 
+	]
+v6: 468
+v60: 
+v61: 1
+v73: 1
+v75: -Inf
