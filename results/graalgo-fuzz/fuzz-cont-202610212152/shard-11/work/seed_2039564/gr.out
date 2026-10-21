@@ -1,0 +1,10 @@
+false
+-2147483648 false -2147483648
+127 -2147483648 -2147483648
+maplen v1: 0
+slicelen v2: 4 [foo bar afoo barfoo bar foo bar a]
+v3: false
+v4: false
+v5: -2147483648
+v91: foo bar
+v92: 556

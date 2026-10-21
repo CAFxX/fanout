@@ -1,0 +1,16 @@
+false 1
+2 -1 2
+2 -1 2
+1 1
+2 1.5e+10
+v1: false
+slicelen v2: 3 [ foo bar 
+	]
+v20: -1
+v3: 2
+maplen v4: 0
+v5: 1
+v55: 1
+maplen v6: 0
+v63: 1.5e+10
+v64: false

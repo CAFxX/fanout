@@ -1,0 +1,13 @@
+997
+255 false
+maplen v1: 0
+v12: 2147483648
+v2: 997
+v23: 0
+v24: 1.4999999e+10
+v25: 65535
+maplen v3: 0
+slicelen v4: 3 [32768 -628 32767]
+slicelen v5: 2 [860 2147483647]
+slicelen v6: 2 [hello foo barhelloafoo bar]
+v7: false

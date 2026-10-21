@@ -1,0 +1,25 @@
+5376 -860
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+foo bar 5376
+maplen v1: 2
+v10: -860
+v2: 2
+v3: 18
+slicelen v4: 1 [
+	hello]
+slicelen v5: 4 [410 65535 112 295]
+v6: -84
+v7: 5376

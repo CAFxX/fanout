@@ -1,0 +1,11 @@
+helloafoo bar 0
+v1: helloafoo bar
+slicelen v2: 9 [a foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v22: 0
+slicelen v3: 2 [helloafoo bar foo bar]
+v35: 42
+v37: 
+	a
+v4: true
+v5: 
+	

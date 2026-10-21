@@ -1,0 +1,9 @@
+false -1e+10 9223372036854775807
+v1: a
+	foo barfoo barfoo bar
+v2: -1e+10
+slicelen v29: 1 [1]
+maplen v3: 5
+v35: false
+v4: 0
+v66: 0.1

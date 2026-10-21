@@ -1,0 +1,13 @@
+-682
+1 -682 1
+1.5
+slicelen v1: 3 [foo bar a hellohelloahello]
+v114: -681
+v118: true
+v129: -2147483648
+v130: foo bar
+v132: false
+slicelen v2: 0 []
+v3: foo bar
+v4: 2
+v5: 1

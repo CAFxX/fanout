@@ -1,0 +1,13 @@
+0 false
+1 false
+2 false
+3 false
+v1: a
+	foo barfoo baraahello
+	
+v2: 42
+v22: false
+v23: 18446744073709551615
+v3: false
+v4: 194
+slicelen v5: 10 [45097156650 -43 0 1 2 3 0 0 0 0]

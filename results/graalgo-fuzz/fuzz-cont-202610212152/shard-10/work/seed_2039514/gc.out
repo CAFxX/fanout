@@ -1,0 +1,8 @@
+-128
+-1 hello
+1 1
+v1: hello
+v12: 256
+v14: 328
+v2: -1
+slicelen v3: 2 [hello hello]

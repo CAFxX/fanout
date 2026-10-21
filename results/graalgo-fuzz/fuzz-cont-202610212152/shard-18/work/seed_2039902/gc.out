@@ -1,0 +1,7 @@
+true foo bar
+1e+10
+v1: 600
+v2: true
+v3: foo bar
+v4: 1e+10
+maplen v5: 0

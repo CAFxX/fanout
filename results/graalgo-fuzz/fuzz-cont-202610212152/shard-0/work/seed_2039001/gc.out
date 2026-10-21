@@ -1,0 +1,20 @@
+0 0 foo bar
+1 1 foo bar
+2 2 foo bar
+3 3 foo bar
+4 4 foo bar
+5 5 foo bar
+6 6 foo bar
+7 7 foo bar
+8 8 foo bar
+9 9 foo bar
+255 36 36
+slicelen v1: 8 [323 42 1 0 1 2 3 9223372036854775807]
+v2: -4.7632723
+v3: -576
+v4: 255
+v46: 0
+v47: 2147483647
+v5: foo bar
+v6: 1e+10
+v68: 324

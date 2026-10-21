@@ -1,0 +1,25 @@
+210 210 210
+4294967295 true
+210 210 210
+0 true
+210 210 210
+0 true
+210 210 210
+0 true
+210 210 210
+0 true
+210 210 210
+0 true
+v1: 210
+v158: 4294967295
+v159: 3.14159
+v160: 0
+v167: 32767
+slicelen v2: 3 [
+	afoo barfoo barfoo bar
+	hellofoo bar 
+	 hello]
+v3: true
+maplen v4: 0
+v5: 
+v6: 18446744073709485553

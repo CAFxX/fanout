@@ -1,0 +1,12 @@
+65032 foo barhellohello
+-2147483648 1
+-2147483648 65032 65032
+v1: -2147483648
+maplen v2: 0
+slicelen v3: 5 [707 65535 871 0 415]
+v4: a
+slicelen v5: 4 [a foo barhellohello hello foo barhellohello]
+v58: 1
+v6: 65032
+v61: true
+v62: 2

@@ -1,0 +1,17 @@
+aafoo barafoo bar
+	foo bar aafoo barafoo bar
+	foo bar 654
+aafoo barafoo bar
+	foo bar -71 false
+maplen v1: 0
+v13: -71
+v14: false
+v16: 0
+v17: 4294967295
+v2: 2
+v3: 654
+v4: aafoo barafoo bar
+	foo bar
+v5: 9223372036854775807
+maplen v6: 0
+v72: 654

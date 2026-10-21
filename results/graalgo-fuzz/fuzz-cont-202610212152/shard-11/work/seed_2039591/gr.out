@@ -1,0 +1,13 @@
+0 2147483647
+1 2147483647
+2 2147483647
+3 2147483647
+slicelen v1: 7 [
+	 hello 
+	 foo barahellofoo barhello foo barahellofoo barhello foo barahellofoo barhello foo barahellofoo barhello]
+v2: 2147483647
+v3: 2
+v4: true
+v6: -12884901883
+v8: foo bar
+v9: 1

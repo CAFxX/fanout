@@ -1,0 +1,29 @@
+-2.25 a
+	foo barfoo bar
+	hello
+	
+	
+	helloa
+	foo barfoo bar
+	hello
+	
+	 true
+v1: false
+v2: 18446744073709551042
+slicelen v23: 4 [32767 -2147483648 0 -249]
+v24: 18446744073709551042
+v25: 482
+v28: 0.1
+v3: true
+v4: 482
+v5: a
+	foo barfoo bar
+	hello
+	
+	
+	helloa
+	foo barfoo bar
+	hello
+	
+	
+v9: -2.25

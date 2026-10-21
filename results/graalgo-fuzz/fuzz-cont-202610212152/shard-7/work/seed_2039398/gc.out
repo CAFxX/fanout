@@ -1,0 +1,9 @@
+0 0
+v1: 0
+slicelen v2: 3 [
+	 hello foo bar]
+v3: 4294967295
+v4: 0
+v47: 0
+slicelen v5: 4 [4294967295 32767 0 -113]
+v6: true

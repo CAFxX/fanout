@@ -1,0 +1,10 @@
+1.5 0
+slicelen v1: 4 [hello foo barahello foo barfoo bar ]
+v18: 42
+v19: 318
+v2: 0
+v23: 0
+v3: 1.5
+slicelen v4: 4 [32768 42 42 317]
+slicelen v5: 4 [
+	   hello]

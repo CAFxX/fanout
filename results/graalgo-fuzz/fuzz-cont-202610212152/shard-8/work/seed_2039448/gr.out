@@ -1,0 +1,12 @@
+1 2147483647
+v1: 671
+v13: -32768
+v16: true
+v19: 65535
+v2: -709
+v24: 971
+slicelen v3: 3 [foo bar
+	aa hello
+	foo barhello aafoo barfoo bara]
+v4: 1
+maplen v5: 1

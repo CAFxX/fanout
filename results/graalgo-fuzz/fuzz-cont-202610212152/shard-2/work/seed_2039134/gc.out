@@ -1,0 +1,9 @@
+false
+true
+true
+true
+true
+slicelen v1: 3 [132 42 1]
+v2: false
+slicelen v3: 4 [foo bar a foo bar foo barhello]
+v40: true

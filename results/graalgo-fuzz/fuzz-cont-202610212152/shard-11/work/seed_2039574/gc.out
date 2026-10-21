@@ -1,0 +1,21 @@
+519
+519
+519
+519
+519
+519
+519
+519
+519
+foo barfoo barfoo bar 0 foo barfoo barfoo bar
+v1: foo barfoo barfoo bar
+v15: 0
+v16: 1000
+v17: foo bar
+maplen v2: 0
+maplen v3: 0
+v4: 519
+slicelen v5: 2 [foo barfoo bar foo barhellofoo barfoo barfoo bar]
+v6: 0
+v8: 3.2
+v9: hellofoo barfoo barfoo bar

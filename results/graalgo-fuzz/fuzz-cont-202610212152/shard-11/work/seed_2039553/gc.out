@@ -1,0 +1,13 @@
+hello 544
+32767
+544 65535
+hello 544
+544
+maplen v1: 0
+v10: -2147483648
+v12: 65535
+v2: 544
+slicelen v23: 1 [544]
+v3: hellohellohello
+	hellofoo barhello
+v4: 0
