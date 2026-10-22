@@ -1,0 +1,13 @@
+foo bar 2147483648
+v1: 2147483648
+v10: 43
+v12: 1
+maplen v2: 0
+v27: 1
+maplen v3: 0
+slicelen v4: 1 [2147483648]
+v5: foo barfoo bar
+slicelen v6: 1 [67]
+v7: false
+v8: 43
+v9: foo barfoo bar

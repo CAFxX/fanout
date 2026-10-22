@@ -1,0 +1,95 @@
+foo barfoo barfoo bar foo barfoo barfoo bar 32767
+0 831
+foo barfoo barfoo bar foo barfoo barfoo bar -2
+0 831
+0 831
+0 831
+0 831
+ 
+1 831
+1 831
+foo barfoo barfoo bar foo barfoo barfoo bar -128
+1 831
+1 831
+1 831
+ 
+2 831
+2 831
+2 831
+foo barfoo barfoo bar foo barfoo barfoo bar -8192
+2 831
+2 831
+ 
+3 831
+3 831
+3 831
+3 831
+foo barfoo barfoo bar foo barfoo barfoo bar 0
+3 831
+ 
+4 831
+4 831
+4 831
+4 831
+4 831
+ 
+foo barfoo barfoo bar foo barfoo barfoo bar 0
+5 831
+5 831
+5 831
+5 831
+5 831
+ 
+6 831
+6 831
+6 831
+6 831
+6 831
+ 
+7 831
+7 831
+7 831
+7 831
+7 831
+ 
+8 831
+8 831
+8 831
+8 831
+8 831
+ 
+9 831
+9 831
+9 831
+9 831
+9 831
+ 
+10 831
+10 831
+10 831
+10 831
+10 831
+ 
+11 831
+11 831
+11 831
+11 831
+11 831
+ 
+12 831
+12 831
+12 831
+12 831
+12 831
+ 
+foo barfoo barfoo bar  0
+v1: false
+slicelen v2: 1 [
+	]
+v3: 0
+v4: 0
+v46: 45
+v47: 552
+v5: 831
+v6: foo barfoo barfoo barfoo bar
+v7: 

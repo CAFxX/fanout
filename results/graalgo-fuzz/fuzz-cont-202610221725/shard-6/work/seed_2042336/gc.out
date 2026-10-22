@@ -1,0 +1,12 @@
+-1 -1
+v1: 16
+v2: 557
+v3: -1
+v34: -1
+v35: 0
+v37: foo bar
+v4: 1000
+slicelen v5: 2 [a hello
+	hello
+	]
+maplen v6: 0

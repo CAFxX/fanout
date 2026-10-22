@@ -1,0 +1,229 @@
+foo bar foo bar foo bar
+foo bar foo bar foo bar
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+0 false false
+foo bar foo bar foo bar
+hello hello hello
+1 false false
+foo bar foo bar foo bar
+hello hello hello
+2 false false
+foo bar foo bar foo bar
+hello hello hello
+3 false false
+foo bar foo bar foo bar
+hello hello hello
+4 false false
+foo bar foo bar foo bar
+hello hello hello
+5 false false
+foo bar foo bar foo bar
+hello hello hello
+6 false false
+foo bar foo bar foo bar
+hello hello hello
+7 false false
+foo bar foo bar foo bar
+hello hello hello
+8 false false
+foo bar foo bar foo bar
+hello hello hello
+foo bar
+slicelen v1: 1 [2147483647]
+v120: 0
+v14: foo bar
+v15: 0
+v16: false
+slicelen v2: 4 [helloa  hello hello]
+slicelen v3: 2 [
+	 ahellofoo bar]
+v4: -0.007957824
+maplen v5: 1

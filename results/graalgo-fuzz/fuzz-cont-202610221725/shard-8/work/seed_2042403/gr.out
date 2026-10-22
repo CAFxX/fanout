@@ -1,0 +1,10 @@
+afoo barhello 170
+6.28318 afoo barhello 150450
+150450 150450 150450
+6.28318 150450 6.28318
+v1: afoo barhello
+v2: 6.28318
+maplen v3: 0
+v4: 150450
+slicelen v5: 4 [127 42 2147483647 127]
+v8: false

@@ -1,0 +1,13 @@
+v1: 1
+v18: 65535
+v19: false
+v2: 0.15
+v23: -1
+slicelen v3: 8 [foo bar 
+	hellohello
+	foo bara
+	  
+	 foo bara foo bara foo bara foo bara]
+v4: 128
+v5: 926
+slicelen v6: 1 [128]

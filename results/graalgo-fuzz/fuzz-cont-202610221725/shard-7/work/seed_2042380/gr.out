@@ -1,0 +1,21 @@
+417 417 -2.25e+20
+foo bar
+	
+v1: foo bar
+	
+v16: 0
+v19: true
+v2: 417
+v21: 0
+v23: foo bar
+	
+v24: true
+slicelen v3: 4 [foo bar
+	foo bar foo bar
+	 foo bar
+	 foo bar
+	
+	]
+v4: -2.25e+20
+maplen v5: 0
+maplen v6: 1

@@ -1,0 +1,41 @@
+[engine] WARNING: The Truffle API JAR is missing the 'truffleattach' resource, likely due to issues when Truffle was repackaged into a fat JAR.
+As a result, the optimized Truffle runtime is unavailable, and Truffle cannot provide native access to languages and tools.
+To customize the behavior of this warning, use the 'polyglotimpl.AttachLibraryFailureAction' system property.
+Allowed values are:
+  - ignore:    Do not print this warning.
+  - warn:      Print this warning (default value).
+  - diagnose:  Print this warning along with the exception cause.
+  - throw:     Throw an exception instead of printing this warning.
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.oracle.truffle.api.nodes.NodeClassImpl$NodeFieldData (file:/opt/graalgo/phases/phase1/lib/truffle-api-25.0.4.1.1.jar)
+WARNING: Please consider reporting this to the maintainers of class com.oracle.truffle.api.nodes.NodeClassImpl$NodeFieldData
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+Exception in thread "goroutine-1" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.lang.Object.clone(Native Method)
+	at graalgo.values.GoString.<init>(GoString.java:21)
+	at graalgo.values.GoString.concat(GoString.java:55)
+	at graalgo.frontend.BinaryOpNode.executeObject(BinaryOpNode.java:398)
+	at graalgo.frontend.BinaryOpNode.executeObject(BinaryOpNode.java:398)
+	at graalgo.frontend.BinaryOpNode.executeObject(BinaryOpNode.java:398)
+	at graalgo.frontend.AssignNode.executeVoid(AssignNode.java:39)
+	at graalgo.frontend.BlockNode.executeVoid(BlockNode.java:31)
+	at graalgo.frontend.ForRepeatingNode.executeRepeating(ForRepeatingNode.java:104)
+	at graalgo.frontend.GoLoopNode.execute(GoLoopNode.java:27)
+	at graalgo.frontend.ForStmtNode.executeVoid(ForStmtNode.java:50)
+	at graalgo.frontend.BlockNode.executeVoid(BlockNode.java:31)
+	at graalgo.frontend.ForRepeatingNode.executeRepeating(ForRepeatingNode.java:104)
+	at graalgo.frontend.GoLoopNode.execute(GoLoopNode.java:27)
+	at graalgo.frontend.ForStmtNode.executeVoid(ForStmtNode.java:50)
+	at graalgo.frontend.BlockNode.executeVoid(BlockNode.java:31)
+	at graalgo.frontend.IfNode.executeVoid(IfNode.java:28)
+	at graalgo.frontend.BlockNode.executeVoid(BlockNode.java:31)
+	at graalgo.frontend.GoRootNode.execute(GoRootNode.java:52)
+	at graalgo.p3sync.launcher.P3SyncMain.lambda$run$31(P3SyncMain.java:344)
+	at graalgo.p3sync.launcher.P3SyncMain$$Lambda/0x000000002209e000.run(Unknown Source)
+	at graalgo.sched.SchedulerCore.lambda$spawn$0(SchedulerCore.java:369)
+	at graalgo.sched.SchedulerCore$$Lambda/0x000000002209e450.run(Unknown Source)
+	at java.base/java.lang.Thread.runWith(Thread.java:1487)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:460)
+	at java.base/java.lang.VirtualThread$VThreadContinuation$1.run(VirtualThread.java:252)
+	at java.base/jdk.internal.vm.Continuation.enter0(Continuation.java:325)
+	at java.base/jdk.internal.vm.Continuation.enter(Continuation.java:316)

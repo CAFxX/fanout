@@ -1,0 +1,10 @@
+true
+100
+v1: 42
+v12: 93
+v13: 100
+v2: 93
+maplen v3: 0
+v4: true
+slicelen v5: 2 [foo bar helloafoo barfoo barfoo barfoo bar]
+v6: foo bar

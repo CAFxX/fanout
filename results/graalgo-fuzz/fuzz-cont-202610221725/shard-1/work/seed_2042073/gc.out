@@ -1,0 +1,8 @@
+true true
+true
+slicelen v1: 1 [2147483647]
+v10: hello
+slicelen v2: 4 [128 2147483647 239 4294967295]
+v3: 2
+maplen v4: 0
+v8: true

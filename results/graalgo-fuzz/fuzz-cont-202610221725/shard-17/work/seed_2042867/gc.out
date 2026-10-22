@@ -1,0 +1,23 @@
+a
+	
+	hello
+	a
+v1: 1e+10
+v2: a
+	
+	hello
+	a
+v3: 1
+maplen v4: 1
+v5: -32768
+slicelen v6: 3 [a
+	
+	hello
+	a a
+	
+	hello
+	a a
+	
+	hello
+	a]
+v64: -128

@@ -1,0 +1,38 @@
+true
+458
+false 458 -54
+false false
+false false
+false false
+false false
+false false
+false false
+false false
+false false
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+255 0
+maplen v1: 1
+v14: 631
+v15: 0
+maplen v2: 0
+slicelen v3: 1 [4294967295]
+maplen v4: 0
+slicelen v5: 4 [foo bar
+	 foo bar ahello foo bar]
+v53: 255
+v56: 2147483647
+maplen v6: 1
+v8: false

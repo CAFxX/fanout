@@ -1,0 +1,27 @@
+42
+42 42
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+maplen v1: 0
+v2: 42
+slicelen v3: 4 [2147483647 -549 4294967295 42]
+slicelen v4: 193 [
+	 hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v41: -42
+v42: 0
+v43: 1.5
+v5: -128

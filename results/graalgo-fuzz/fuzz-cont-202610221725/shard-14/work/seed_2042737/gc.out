@@ -1,0 +1,15 @@
+-2147483648 false false
+-2147483648 afoo bar
+	ahelloaaaa
+	foo baraaaafoo barfoo barahello 1e+10
+v1: false
+v13: 1e+10
+slicelen v14: 2 [0 -1]
+maplen v2: 0
+v22: 1
+v25: 58
+v3: 1e+10
+v4: -2147483648
+v5: afoo bar
+	ahelloaaaa
+	foo baraaaafoo barfoo barahello

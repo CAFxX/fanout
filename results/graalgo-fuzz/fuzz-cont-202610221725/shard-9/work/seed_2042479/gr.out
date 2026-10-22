@@ -1,0 +1,30 @@
+127 false foo barfoo bar
+	
+	foo bar
+	hello
+427 foo barfoo bar
+	
+	foo bar
+	hello
+hello 127
+812 hellohello
+hello 127
+1197 hellohello
+hello 127
+1582 hellohello
+hello 127
+1967 hellohello
+hello 127
+2352 hellohello
+hello 127
+2737 hellohello
+hello 127
+v1: -4.5
+v16: false
+maplen v2: 0
+v20: 2737
+v27: hello
+v3: 127
+slicelen v4: 1 [1]
+v5: 1e+10
+v6: hellohello

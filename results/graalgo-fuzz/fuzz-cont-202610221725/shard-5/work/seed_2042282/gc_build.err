@@ -1,0 +1,2 @@
+# command-line-arguments
+out/programs/fuzz_2042282.go:19:46: invalid operation: division by zero

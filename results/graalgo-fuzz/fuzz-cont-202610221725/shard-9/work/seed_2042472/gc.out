@@ -1,0 +1,33 @@
+foo bar -9223372036854775808 0
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 442
+-9223372036854775808 0 -9223372036854775808
+maplen v1: 17
+v2: 0
+v22: foo bar
+v3: 0
+v34: 42
+v36: -9223372036854775808
+v4: 0
+v5: 9223372036854775807
+v6: 442
+v63: true

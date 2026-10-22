@@ -1,0 +1,12 @@
+-1.861683e+10 -37
+slicelen v1: 2 [0 0]
+slicelen v2: 3 [hello  ]
+slicelen v3: 0 []
+slicelen v4: 2 [ hello
+	foo bar]
+v42: 523
+v5: -1.861683e+10
+v51: 30
+v52: true
+v58: -37
+v64: 0

@@ -1,0 +1,9 @@
+maplen v1: 0
+slicelen v2: 4 [foo barhello
+	foo barhelloa hello 
+	foo bar foo bar]
+slicelen v3: 2 [32768 -2147483648]
+maplen v4: 0
+v43: 32
+v45: 0.1
+slicelen v5: 4 [1 346 4294967295 2147483648]

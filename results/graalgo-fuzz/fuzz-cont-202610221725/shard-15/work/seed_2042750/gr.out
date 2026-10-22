@@ -1,0 +1,11 @@
+-4.5 
+	afoo bar
+	
+v1: 
+	afoo bar
+	
+v11: -4.5
+maplen v2: 0
+v3: 308
+slicelen v4: 1 [65535]
+v9: false

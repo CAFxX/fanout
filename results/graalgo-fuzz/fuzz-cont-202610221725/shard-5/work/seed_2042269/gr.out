@@ -1,0 +1,17 @@
+0 0
+slicelen v1: 2 [9223372036854775807 2147483647]
+v16: 1
+slicelen v2: 2 [afoo barhello
+	foo barhello
+	 foo bar]
+v24: afoo barhello
+	foo barhello
+	
+v25: 0
+maplen v3: 0
+v4: foo barhello
+	
+v41: 65535
+v5: 0
+maplen v6: 0
+v9: -1

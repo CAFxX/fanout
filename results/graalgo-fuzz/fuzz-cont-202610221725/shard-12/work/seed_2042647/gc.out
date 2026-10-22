@@ -1,0 +1,13 @@
+a
+	foo barhello
+maplen v1: 0
+v17: a
+	foo barhello
+v18: false
+maplen v2: 0
+v23: 32767
+slicelen v3: 1 [2147483648]
+v4: 
+	
+maplen v5: 0
+v7: 0
