@@ -1,0 +1,13 @@
+0 foo bar
+471
+471 471
+0 471
+foo bar
+foo bar 0 0
+false
+slicelen v1: 3 [foo barfoo bar foo bar a]
+v2: 0
+v26: false
+v3: 831
+maplen v4: 0
+v5: foo bar

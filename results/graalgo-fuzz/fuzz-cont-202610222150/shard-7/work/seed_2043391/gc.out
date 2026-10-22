@@ -1,0 +1,16 @@
+0 hello
+1 hello
+0 hello
+1 hello
+0 hello
+1 hello
+0 hello
+1 hello
+835 835 835
+foo barfoo barafoo barfoo barfoo barhello 0
+slicelen v1: 1 [a]
+slicelen v2: 4 [873 873 873 873]
+v3: false
+v36: 1.5e+10
+v4: foo barfoo barafoo barfoo barfoo barhello
+v5: 0

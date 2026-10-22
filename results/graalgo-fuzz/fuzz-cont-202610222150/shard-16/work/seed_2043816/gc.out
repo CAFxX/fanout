@@ -1,0 +1,12 @@
+255 32767
+1 -32727 hello
+255 255
+hello 1 hello
+255
+v1: 0
+v11: 1
+v13: hello
+maplen v2: 0
+v3: 255
+slicelen v4: 1 [0]
+v9: 255

@@ -1,0 +1,17 @@
+0 0 -8.937426
+1 1 -8.937426
+2 2 -8.937426
+3 3 -8.937426
+4 4 -8.937426
+5 5 -8.937426
+6 6 -8.937426
+2 42
+v1: -8.937426
+v14: 2
+slicelen v2: 6 [2147483648 1 1 2 2147483647 987]
+slicelen v3: 4 [hello foo bar foo bar 
+	foo bar
+	foo barhellofoo bar]
+v4: 42
+maplen v5: 0
+slicelen v6: 6 [ foo bar foo bar foo bar foo bar foo bar]

@@ -1,0 +1,13 @@
+16 0
+16 1
+16 2
+16 3
+16 4
+slicelen v1: 2 [1 2]
+maplen v2: 0
+v203: foo barfoo bar
+v3: 1.0000000001914473e+10
+v33: 131072
+maplen v4: 0
+slicelen v5: 3 [hello foo bar 
+	]

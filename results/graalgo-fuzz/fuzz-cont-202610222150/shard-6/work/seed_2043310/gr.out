@@ -1,0 +1,12 @@
+127 1000
+127 1000
+127 1000
+127 1000
+127 1000
+v1: 4
+slicelen v2: 1 [a]
+slicelen v3: 4 [ foo bar hello foo bar]
+v4: 127
+v41: 0
+v5: 2000
+maplen v6: 0

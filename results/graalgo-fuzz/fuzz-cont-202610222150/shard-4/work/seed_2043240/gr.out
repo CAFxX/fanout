@@ -1,0 +1,16 @@
+-1 1
+slicelen v1: 4 [431 -450 525 -2147483648]
+v10: foo barfoo barfoo bar
+	
+	
+maplen v2: 0
+v20: foo barhellofoo bar
+v21: foo barfoo barfoo bar
+	
+	
+v3: 999
+v4: -1
+v5: 106
+v6: 255
+v8: 0
+v9: false

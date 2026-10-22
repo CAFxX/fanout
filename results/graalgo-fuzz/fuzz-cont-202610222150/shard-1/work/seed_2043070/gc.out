@@ -1,0 +1,52 @@
+-32768 -32768
+a
+	
+	hellofoo bar -32768 a
+	
+	hellofoo bar
+1.5 1.5
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+-154
+0
+v1: -32768
+v2: 2147483647
+v21: 1.5
+v22: true
+v3: a
+	
+	hellofoo bara
+	
+	hellofoo bara
+	
+	hellofoo bara
+	
+	hellofoo barhelloa
+	
+	hellofoo barhelloa
+	
+	hellofoo bara
+	
+	hellofoo bara
+	
+	hellofoo baraa
+	
+	hellofoo barfoo bar
+slicelen v4: 1 []
+slicelen v5: 1 [42]

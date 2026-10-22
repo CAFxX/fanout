@@ -1,0 +1,11 @@
+foo barahellofoo barhelloahello
+32767 1e+10 foo barahellofoo barhelloahello
+foo barahellofoo barhelloahello
+v1: foo barahellofoo barhelloahello
+v11: 0
+v12: false
+v2: 32767
+v3: 1.5e+10
+maplen v4: 0
+v44: -534
+slicelen v97: 0 []

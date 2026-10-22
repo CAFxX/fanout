@@ -1,0 +1,11 @@
+1 3.14159
+v1: 840
+v10: 65535
+v14: foo barhello
+slicelen v2: 1 [0]
+v3: 65535
+slicelen v4: 1 [705]
+slicelen v5: 4 [hello  
+	a a]
+v6: 3.14159
+v7: 1

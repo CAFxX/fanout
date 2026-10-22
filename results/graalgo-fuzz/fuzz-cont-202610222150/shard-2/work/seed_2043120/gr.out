@@ -1,0 +1,13 @@
+42
+false 306 100
+100
+v1: 100
+v10: 527
+v15: 306
+v16: 0
+slicelen v2: 1 [
+	foo barhellohellohello]
+v3: 42
+v4: true
+maplen v5: 2
+slicelen v6: 0 []

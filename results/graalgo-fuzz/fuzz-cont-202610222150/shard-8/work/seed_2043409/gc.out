@@ -1,0 +1,12 @@
+4294967295 2
+v1: 4294967295
+v10: 1
+v11: 4
+v2: 1
+slicelen v3: 2 [
+	foo bar
+	
+	
+	 hello]
+maplen v4: 0
+maplen v5: 0

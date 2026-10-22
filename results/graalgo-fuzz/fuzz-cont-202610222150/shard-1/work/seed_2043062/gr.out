@@ -1,0 +1,13 @@
+maplen v1: 0
+v2: 0
+v25: 6.28318
+v3: 6.28318
+v39: -43
+v4: -32768
+v40: 0
+v41: foo barfoo bar
+v42: -2147483647
+slicelen v5: 4 [
+	hellofoo barfoo bar
+	 helloa foo bar foo barfoo bar]
+v6: 42

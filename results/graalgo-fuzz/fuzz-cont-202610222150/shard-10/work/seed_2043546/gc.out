@@ -1,0 +1,14 @@
+false
+v1: false
+slicelen v2: 3 [a hello hello]
+maplen v3: 0
+v4: 0
+v41: 800
+v49: 800
+v5: -1
+v51: 0
+v54: 0
+v55: 955
+v56: 128
+v57: foo bara
+slicelen v6: 2 [1 2147483648]

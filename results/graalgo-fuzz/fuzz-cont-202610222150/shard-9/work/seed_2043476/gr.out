@@ -1,0 +1,20 @@
+1
+1 
+	
+-1 
+	 1.5
+128 1 -1
+v1: 1
+slicelen v2: 4 [
+	 foo bar a 
+	]
+maplen v3: 0
+v4: 
+	
+v43: 387
+v44: 1.5
+slicelen v5: 2 [
+	 a]
+v52: 128
+v53: 1
+v6: -1

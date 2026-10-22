@@ -1,0 +1,11 @@
+2 hello
+255 hello
+slicelen v1: 2 [hellohello a]
+maplen v2: 1
+v3: 0
+v4: hello
+slicelen v5: 3 [-301 128 32768]
+v50: -1
+v88: 67
+v89: false
+v90: -1

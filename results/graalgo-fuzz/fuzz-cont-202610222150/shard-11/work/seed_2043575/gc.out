@@ -1,0 +1,15 @@
+foo bar 886 true
+0.1 0.1 42
+maplen v1: 0
+v2: 42
+v22: 65535
+slicelen v23: 1 [127]
+maplen v3: 0
+v39: 0.1
+v4: true
+v40: 4294967295
+v43: 65535
+v44: 100
+v47: 253
+v5: foo bar
+v6: 886

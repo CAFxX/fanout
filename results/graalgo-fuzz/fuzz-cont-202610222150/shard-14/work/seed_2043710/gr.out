@@ -1,0 +1,9 @@
+0
+foo bar 610 0
+foo bar
+610 0 0
+v1: foo bar
+maplen v2: 1
+slicelen v3: 4 [473 65535 691 2147483647]
+v6: 0
+v60: 610

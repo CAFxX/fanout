@@ -1,0 +1,25 @@
+2
+v1: true
+v2: true
+v3: 100
+v4: helloaahello
+	foo barhello
+	
+	
+	afoo barafoo barhelloaahello
+	foo barhello
+	
+	
+	afoo barafoo barhelloaahello
+	foo barhello
+	
+	
+	afoo barafoo barhelloaahello
+	foo barhello
+	
+	
+	afoo barafoo bar
+v5: 1
+v6: 2
+v69: -128
+slicelen v70: 0 []

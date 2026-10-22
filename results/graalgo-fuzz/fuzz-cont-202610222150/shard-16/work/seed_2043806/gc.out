@@ -1,0 +1,21 @@
+v1: false
+v12: 42
+v13: 1
+v15: 
+	afoo bar
+maplen v2: 0
+slicelen v3: 2 [aa 
+	afoo bar
+	afoo bar
+	afoo bar
+	afoo bar
+	afoo bar
+	afoo barhellohello
+	afoo bar
+	afoo bar
+	afoo bar
+	afoo bar
+	afoo bar
+	afoo barhello
+	afoo bar]
+v4: 540

@@ -1,0 +1,90 @@
+0 false false
+true true 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+false 65535 65535
+0
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+true
+
+	foo bar
+	afoo bara
+v1: true
+v10: 0
+v13: true
+v14: 0
+maplen v2: 0
+v3: 1
+v4: 65535
+slicelen v5: 2 [a a]
+maplen v6: 0
+v7: 0
+v8: 
+	foo bar
+	afoo bara

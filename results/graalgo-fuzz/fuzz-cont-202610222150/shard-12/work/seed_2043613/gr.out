@@ -1,0 +1,8 @@
+255
+1.6 1.6 foo bar
+maplen v1: 2
+v12: 1.6
+v14: 255
+slicelen v2: 1 [4294967295]
+v3: 42
+v8: foo bar

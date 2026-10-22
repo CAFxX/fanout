@@ -1,0 +1,18 @@
+0
+hello
+	 1 hello
+	
+hello
+	 1 1
+v1: 32767
+v2: -32767
+slicelen v3: 1 []
+v4: 1.5
+v5: 1
+slicelen v6: 3 [foo bar ahello foo barhello]
+v81: hello
+	
+v82: 1
+v83: 0
+v93: -784
+v98: 1

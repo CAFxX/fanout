@@ -1,0 +1,9 @@
+slicelen v1: 1 [a]
+v10: 255
+maplen v2: 0
+v20: 1
+slicelen v3: 2 [32768 4]
+slicelen v4: 2 [hello hello]
+maplen v5: 0
+v6: 1
+v9: 9.9999999985e+09
