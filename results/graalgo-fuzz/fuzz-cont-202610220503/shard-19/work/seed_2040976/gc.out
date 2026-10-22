@@ -1,0 +1,28 @@
+true 0
+true 1
+true 2
+true 3
+true 4
+true 5
+true 6
+true 7
+true 8
+true 9
+true 10
+true 11
+true 12
+true 13
+true 14
+true 15
+true 16
+true 17
+slicelen v1: 3 [556 1 2147483648]
+v10: 42
+v12: 128
+slicelen v2: 4 [hello 
+	ahellohellohello hello hello]
+v3: 0
+v4: true
+v5: 42
+maplen v6: 1
+v7: 65535

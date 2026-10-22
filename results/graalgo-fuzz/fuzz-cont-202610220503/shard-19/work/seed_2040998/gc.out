@@ -1,0 +1,17 @@
+foo bar
+	 false 1.5666666666666667
+0 false
+
+	foo barfoo barhello -886
+v1: -886
+v107: -886
+maplen v2: 0
+v3: -756
+v4: 
+	foo barfoo barhello
+v92: 0
+v93: 1.5666666666666667
+v94: false
+v95: foo bar
+	
+slicelen v96: 4 [-1772 0 -886 -886]

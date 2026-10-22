@@ -1,0 +1,12 @@
+0 0
+20
+maplen v1: 0
+maplen v2: 0
+maplen v3: 0
+slicelen v38: 2 [128 -9223372036854775808]
+v39: afoo bar
+	afoo barhello
+	hellofoo bar
+	foo bar
+v4: 0
+v5: 20

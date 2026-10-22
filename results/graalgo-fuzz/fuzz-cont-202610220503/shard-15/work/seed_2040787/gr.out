@@ -1,0 +1,25 @@
+1 0 true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+9223372036854775808 335 9223372036854775808
+maplen v1: 2
+v14: 0
+v15: 0.1
+v16: 1
+v17: 65535
+v2: 1
+v3: 65535
+slicelen v4: 0 []
+v5: true
+slicelen v6: 4 [42 131070 65535 65535]

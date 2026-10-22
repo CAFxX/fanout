@@ -1,0 +1,13 @@
+246
+true true
+true 237 true
+v1: 237
+v11: 237
+v12: true
+slicelen v2: 3 [
+	hello a 
+	]
+maplen v3: 1
+maplen v4: 0
+slicelen v5: 0 []
+v8: true

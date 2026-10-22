@@ -1,0 +1,16 @@
+false
+true
+165 foo bara
+	afoo barfoo barfoo bar
+42
+slicelen v1: 5 [
+	  foo bar foo bar afoo barfoo bara
+	afoo barfoo barfoo bar]
+v2: 42
+v3: 18446744073709551615
+maplen v4: 0
+v43: 
+v5: 165
+v6: 2
+v68: foo bara
+	afoo barfoo barfoo bar

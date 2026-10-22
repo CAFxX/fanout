@@ -1,0 +1,8 @@
+0 42
+0 42 0
+42 0 42
+slicelen v1: 5 [ foo bar hello  ahellofoo barahellofoo barahellofoo barhello]
+v13: false
+v2: 0
+v3: 42
+v4: ahellofoo bar

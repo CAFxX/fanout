@@ -1,0 +1,12 @@
+0 0 -817
+maplen v1: 1
+v10: true
+v12: 780
+slicelen v2: 4 [
+	 foo barfoo bar 
+	hello
+	 helloa
+	foo bar]
+v3: 0
+v7: 0
+v8: -817

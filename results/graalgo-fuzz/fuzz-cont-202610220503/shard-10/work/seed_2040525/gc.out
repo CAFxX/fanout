@@ -1,0 +1,13 @@
+2 -1 -1
+v1: -1
+v12: -128
+v13: 65535
+maplen v2: 0
+v3: 2
+slicelen v4: 4 [hellohello foo bar
+	 a foo bar]
+v48: false
+v49: -128
+maplen v5: 1
+v6: -2
+v9: 0

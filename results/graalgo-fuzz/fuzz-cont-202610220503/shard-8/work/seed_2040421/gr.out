@@ -1,0 +1,10 @@
+foo barfoo bara 0 4294967295
+0
+v1: 127
+v16: 0
+slicelen v2: 26 [foo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara foo barfoo barafoo barfoo bara]
+v3: foo barfoo bara
+v4: 4294967295
+v54: -5e+10
+v56: -32474
+v61: 497

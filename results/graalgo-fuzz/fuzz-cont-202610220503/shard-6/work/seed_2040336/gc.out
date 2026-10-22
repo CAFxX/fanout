@@ -1,0 +1,17 @@
+-32768 -32768
+-32768 42 2147483647
+2147483647
+slicelen v1: 1 [4294967295]
+v12: 4294967336
+v14: 2147483647
+maplen v2: 0
+v20: true
+v25: 2147483647
+v28: 
+	
+v29: 1
+slicelen v3: 4 [hellohello hello  hello
+	]
+slicelen v4: 4 [foo bar 
+	 hello a]
+v5: -32767

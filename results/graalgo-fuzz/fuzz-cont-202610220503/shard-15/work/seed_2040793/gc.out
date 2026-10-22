@@ -1,0 +1,11 @@
+slicelen v1: 3 [ a foo barfoo bar
+	foo barfoo barfoo bar]
+v14: 510
+v15: 32768
+v2: 622719
+v25: 92
+v3: foo bar
+slicelen v4: 1 [
+	]
+v5: 0
+v6: 208

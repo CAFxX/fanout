@@ -1,0 +1,13 @@
+42 18446744073709551615
+slicelen v1: 1 [hellohellofoo bar]
+v17: 18446744073709551615
+v19: 0
+slicelen v2: 3 [helloa 
+	foo barhello
+	foo bar hello]
+v21: -112
+v25: 42
+v26: true
+slicelen v3: 5 [-1 127 9223372036854775807 1 655]
+v4: 42
+maplen v5: 0

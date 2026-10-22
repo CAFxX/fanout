@@ -1,0 +1,19 @@
+foo bar 84 1000
+foo bar 1000
+foo bar 1000
+foo bar 1000
+foo bar 1000
+foo bar 1000
+foo bar 1000
+foo bar 1000
+foo bar 1000
+32767
+v1: foo bar
+v13: 42
+v15: 42
+v2: 84
+v3: 1000
+v4: 32767
+slicelen v5: 3 [128 -970 -887]
+v6: 32767
+v9: false

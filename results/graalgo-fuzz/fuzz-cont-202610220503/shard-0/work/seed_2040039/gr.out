@@ -1,0 +1,15 @@
+2147483648 foo bar
+0
+v1: 0
+v15: 2147483648
+v17: foo bar
+v18: 3.14159
+v19: foo barhello
+	foo barfoo barfoo barfoo barfoo barfoo bar
+v2: foo bar
+v20: 3.0415902
+v3: 0
+maplen v4: 1
+slicelen v5: 2 [
+	 aa]
+v6: 2147483648

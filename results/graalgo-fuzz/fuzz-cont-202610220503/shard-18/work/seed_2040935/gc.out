@@ -1,0 +1,7 @@
+maplen v1: 0
+slicelen v2: 1 [foo bar]
+v3: true
+v31: 247
+maplen v4: 0
+v5: 2
+slicelen v6: 2 [247 406]

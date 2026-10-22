@@ -1,0 +1,16 @@
+9223372036854775807
+slicelen v1: 4 [hello
+	hello
+	a
+	aafoo barhellofoo barfoo barfoo bar
+	  hello hellohello]
+v19: 9223372036854775188
+v2: 9223372036854775807
+v20: 65535
+v21: -2147482750
+v24: 42
+v25: 42
+v26: false
+v3: 1
+slicelen v4: 1 [-981]
+v5: 42

@@ -1,0 +1,21 @@
+42
+131070 0 false
+131070 1 false
+131070 2 false
+131070 hello
+131070 hello
+131070 hello
+131070 hello
+131070 hello
+131070 hello
+131070 hello
+131070 hello
+v1: false
+v14: 672
+v15: 42
+v2: hello
+v25: 1
+slicelen v3: 1 [42]
+slicelen v4: 1 [-1]
+maplen v5: 0
+v8: 131070

@@ -1,0 +1,26 @@
+foo barfoo barhellohello
+	foo bar
+	foo bar
+	ahellofoo bar
+	hello false
+-5 -5
+foo barfoo barhellohello
+	foo bar
+	foo bar
+	ahellofoo bar
+	hello false foo barfoo barhellohello
+	foo bar
+	foo bar
+	ahellofoo bar
+	hello
+v1: false
+v2: 5
+v28: foo barfoo barhellohello
+	foo bar
+	foo bar
+	ahellofoo bar
+	hello
+v29: -32768
+slicelen v3: 1 [6]
+v30: 5
+v33: true

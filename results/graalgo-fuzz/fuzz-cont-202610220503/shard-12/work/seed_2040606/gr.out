@@ -1,0 +1,12 @@
+65535 65535
+ -9223372036854775808
+maplen v1: 0
+v2: 65535
+v28: -9223372036854775808
+maplen v3: 0
+v30: -9223372036854775808
+v32: 44
+v34: foo barfoo barfoo barafoo barfoo barfoo bar
+maplen v4: 0
+maplen v5: 0
+v6: foo bar

@@ -1,0 +1,15 @@
+182
+182 0 42
+v1: 594
+v2: 182
+v22: 0
+v23: 42
+v24: 840
+v25: 42
+v3: 182
+slicelen v4: 6 [
+	 hello foo bar  foo bar 
+	]
+maplen v5: 2
+v6: foo bar
+v9: 0

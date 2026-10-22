@@ -1,0 +1,13 @@
+-563 1 -563
+slicelen v1: 3 [foo bar
+	
+	 a
+	hello
+	
+	afoo barhello ]
+slicelen v2: 2 [
+	 ]
+slicelen v3: 3 [510 4294967295 2]
+v4: -1
+slicelen v5: 1 [32768]
+v70: 315

@@ -1,0 +1,11 @@
+v1: 0
+v13: foo bar
+v15: foo bar
+v16: 135
+v18: -251
+v2: 0
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 4 [
+	 foo bar foo bar a]
+v6: 127

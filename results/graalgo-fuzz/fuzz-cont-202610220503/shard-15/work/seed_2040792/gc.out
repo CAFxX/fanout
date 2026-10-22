@@ -1,0 +1,8 @@
+foo bar
+foo bar
+foo bar
+v1: hellofoo bar
+maplen v2: 1
+slicelen v3: 4 [9223372036854775807 127 32768 9223372036854775807]
+v37: 40
+v38: false

@@ -1,0 +1,8 @@
+v1: foo bar
+v2: foo bar
+v21: 2147483648
+v28: 65535
+v29: -1
+slicelen v3: 12 [foo bar foo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar]
+v30: 127
+maplen v4: 0

@@ -1,0 +1,15 @@
+foo bar foo bar
+foo bar foo bar -136
+0 0
+foo barafoo barhello
+maplen v1: 0
+v18: 42
+v2: 0
+v3: foo barafoo bar
+v4: foo barfoo barfoo bar
+slicelen v49: 0 []
+v5: -136
+v50: 0
+v6: 129
+v64: 1
+v67: 1000

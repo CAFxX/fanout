@@ -1,0 +1,8 @@
+slicelen v1: 4 [ foo barhelloa
+	foo baraa hello foo bar]
+slicelen v2: 1 [4294967295]
+v20: a
+v26: true
+slicelen v3: 1 [42]
+v4: NaN
+maplen v5: 0

@@ -1,0 +1,7 @@
+hello 127
+127 hello hello
+v1: hello
+v2: 32767
+slicelen v3: 2 [helloa hello]
+v4: hello
+v5: 127

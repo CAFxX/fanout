@@ -1,0 +1,14 @@
+-1 2147483648
+true
+true
+v1: false
+v2: 2147483648
+v22: foo barhelloa
+	
+v25: a
+	
+v3: 0
+slicelen v37: 4 [-675 9223372036854775807 4294967295 128]
+v4: -1
+maplen v5: 0
+v6: true

@@ -1,0 +1,15 @@
+hellofoo bar true
+-512 42
+-512 42
+-512 42
+-512 42
+-512 42
+0 hellofoo bar 0
+maplen v1: 0
+maplen v2: 0
+v3: -512
+v4: true
+slicelen v5: 7 [-2147483648 128 -2147483648 -2147483648 -2147483648 -2147483648 -2147483648]
+v6: 0
+v8: hellofoo bar
+v9: 0

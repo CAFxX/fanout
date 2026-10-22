@@ -1,0 +1,12 @@
+foo bar foo bar
+181 0 foo bar
+foo bar
+0 foo bar 0
+0 0
+v1: 2147483647
+slicelen v2: 4 [foo bar foo bar foo bar foo barfoo barfoo bar]
+v3: -54
+v38: 0
+v4: hello
+v40: 181
+v53: 0

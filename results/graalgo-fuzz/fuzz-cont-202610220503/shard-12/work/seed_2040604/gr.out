@@ -1,0 +1,11 @@
+4 1.4 363
+1.4 foo bar foo bar
+v1: foo bar
+v2: 363
+slicelen v28: 4 [42 4294967295 -9223372036854775808 -83]
+v29: 4
+maplen v3: 0
+v30: false
+v4: 1.4
+maplen v5: 1
+v6: 4

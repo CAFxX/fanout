@@ -1,0 +1,9 @@
+hello 0 hello
+slicelen v1: 4 [foo barfoo barfoo barahello foo bar foo bara ]
+v19: ahellohello
+v2: hello
+slicelen v3: 3 [a a a]
+v4: 0
+v5: hello
+v6: -343
+v7: 0

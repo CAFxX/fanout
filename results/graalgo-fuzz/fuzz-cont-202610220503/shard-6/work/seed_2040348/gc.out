@@ -1,0 +1,12 @@
+1.5
+0
+v1: 104
+v176: 0
+v178: 0
+maplen v2: 0
+slicelen v3: 4 [ hellohello foo barfoo bar
+	 
+	a
+	hello
+	aa]
+v4: 1.5

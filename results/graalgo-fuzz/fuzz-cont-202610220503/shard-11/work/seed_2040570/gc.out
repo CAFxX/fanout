@@ -1,0 +1,9 @@
+hello 2
+2 -1
+v1: 
+	
+v16: 2
+v2: 0
+slicelen v3: 2 [hello hello]
+slicelen v4: 5 [2147483647 127 161 386 -78]
+slicelen v5: 1 [42]

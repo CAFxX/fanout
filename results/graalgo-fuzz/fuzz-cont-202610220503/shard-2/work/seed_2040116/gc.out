@@ -1,0 +1,31 @@
+hello hello hello
+hello hello hello
+hello hello hello
+hello hello hello
+hello hello hello
+hello hello hello
+hello hello hello
+42 NaN
+hello -832 65535
+-832 0 42
+hello 42 65535
+65535
+hello 42 65535
+65535
+hello 42 65535
+65535
+hello 42 65535
+65535
+hello 42 65535
+65535
+hello 42 65535
+65535
+maplen v1: 0
+v11: NaN
+v12: 42
+v2: hello
+v3: 42
+v4: 0
+slicelen v47: 4 [-832 1 -1664 0]
+v7: 65535
+v9: -832

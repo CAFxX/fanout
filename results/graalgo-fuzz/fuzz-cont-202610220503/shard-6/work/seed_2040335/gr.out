@@ -1,0 +1,12 @@
+-1 2
+v1: 0.1
+v10: 42
+v12: -405
+v14: hellofoo barfoo barfoo bar
+v15: 0
+v2: 2
+maplen v3: 0
+v4: foo bar
+v5: true
+v6: -1
+slicelen v9: 4 [1 -259 42 206]
