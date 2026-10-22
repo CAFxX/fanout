@@ -1,0 +1,16 @@
+42
+foo bar false false
+false false 0
+42 false foo bar
+false
+maplen v1: 0
+v121: false
+v124: 0.1
+v129: -217
+v130: 255
+v15: foo bar
+v2: 42
+v3: 0
+slicelen v4: 2 [a hello]
+maplen v5: 0
+v6: false

@@ -1,0 +1,11 @@
+13 foo bar 3.14159
+1.5 foo barhellofoo barhellofoo bar
+1.5 3.14159
+1.5 13 255
+v1: 0
+v2: NaN
+v3: hello
+v4: 13
+v5: 255
+slicelen v51: 13 [-44 2147483647 750 32768 255 255 255 255 255 255 255 255 255]
+v79: 1

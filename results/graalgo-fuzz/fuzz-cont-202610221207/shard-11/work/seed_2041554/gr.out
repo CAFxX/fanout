@@ -1,0 +1,355 @@
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+0 
+	hello true
+659 0
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+1 
+	hello true
+659 1
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+2 
+	hello true
+659 2
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+3 
+	hello true
+659 3
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+4 
+	hello true
+659 4
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+5 
+	hello true
+659 5
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+6 
+	hello true
+659 6
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+7 
+	hello true
+659 7
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+8 
+	hello true
+659 8
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+9 
+	hello true
+659 9
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+10 
+	hello true
+659 10
+maplen v1: 0
+v17: 588
+v18: 0
+v19: -1
+maplen v2: 0
+v20: -4096
+v3: 659
+maplen v4: 0
+v6: 
+	hello
+	
+	
+	
+slicelen v7: 3 [-9223372036854775808 32768 60]

@@ -1,0 +1,13 @@
+v1: 0
+v2: 65535
+v3: 322
+v4: 192
+v5: 65535
+v65: foo bar
+	foo barfoo bar
+	foo bar
+slicelen v71: 1 [-322]
+v72: true
+v77: -1
+v79: 3.14159
+v80: 0

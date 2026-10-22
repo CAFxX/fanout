@@ -1,0 +1,54 @@
+foo barfoo bar 42 65535
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0 foo barfoo bar
+0
+0
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+v1: foo barfoo bar
+v2: 0
+v3: 0
+v50: 0
+v78: -42
+v79: 65535
+slicelen v80: 4 [-9223372036854775808 -42 128 32768]

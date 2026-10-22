@@ -1,0 +1,12 @@
+586
+slicelen v1: 2 [ foo bar]
+maplen v2: 0
+slicelen v3: 1 [42]
+maplen v4: 0
+v5: 586
+v56: false
+v57: -1.6874999989383908e-29
+v59: 0
+slicelen v6: 3 [0 400 4294967295]
+v60: 153
+v61: 0.1

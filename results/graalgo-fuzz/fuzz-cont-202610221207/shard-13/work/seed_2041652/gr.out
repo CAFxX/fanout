@@ -1,0 +1,11 @@
+true 1e+10 2
+2
+v1: 1
+v2: true
+v28: 2
+slicelen v3: 2 [
+	 hellofoo bar
+	]
+maplen v4: 1
+maplen v5: 0
+v6: 1e+10

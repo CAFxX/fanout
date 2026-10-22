@@ -1,0 +1,13 @@
+128 -1
+v1: -1
+slicelen v2: 2 [a 
+	foo bar
+	afoo barahello
+	]
+slicelen v3: 1 [34]
+v32: 18446744073709551615
+v33: -1e+10
+v34: 1
+v35: 
+	foo bar
+v4: 128

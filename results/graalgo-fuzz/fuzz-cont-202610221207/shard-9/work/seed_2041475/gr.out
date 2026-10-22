@@ -1,0 +1,60 @@
+32767 hello 0
+hello 0
+0
+32767 hello 1
+hello 1
+1
+32767 hello 2
+hello 2
+2
+32767 hello 3
+hello 3
+3
+32767 hello 4
+hello 4
+4
+32767 hello 5
+hello 5
+5
+32767 hello 6
+hello 6
+6
+32767 hello 7
+hello 7
+7
+32767 hello 8
+hello 8
+8
+32767 hello 9
+hello 9
+9
+32767 hello 10
+hello 10
+10
+32767 hello 11
+hello 11
+11
+32767 hello 12
+hello 12
+12
+32767 hello 13
+hello 13
+13
+32767 hello 14
+hello 14
+14
+32767 hello 15
+hello 15
+15
+32767 hello 16
+hello 16
+16
+false
+hello -2 hello
+v1: hello
+v101: false
+v106: -2
+v107: -2
+maplen v2: 10
+slicelen v3: 1 [2147483647]
+v4: 31768

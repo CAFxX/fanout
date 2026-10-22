@@ -1,0 +1,10 @@
+slicelen v1: 4 [hello 
+	 a 
+	]
+slicelen v2: 5 [42 2147483648 42 65535 340]
+v3: 340
+slicelen v4: 1 [574]
+v45: false
+v46: false
+v5: 1.5
+v53: 340

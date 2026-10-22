@@ -1,0 +1,19 @@
+
+	helloa
+
+	helloa 42
+maplen v1: 0
+v10: 
+	helloa
+v12: 42
+maplen v2: 0
+v21: 4294967295
+slicelen v3: 2 [
+	aa hello
+	
+	foo bar
+	helloa]
+v4: helloa
+maplen v5: 0
+v6: 
+	helloa

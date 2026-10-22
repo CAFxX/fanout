@@ -1,0 +1,9 @@
+v1: 0
+maplen v2: 2
+v21: 9223372036854775807
+v3: 207
+slicelen v4: 5 [ hellofoo barfoo bar hellofoo barfoo bar hellofoo barfoo bar hellofoo barfoo bar]
+v47: -1
+v48: a
+slicelen v5: 2 [2147483647 207]
+v6: 3.14159

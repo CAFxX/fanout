@@ -1,0 +1,30 @@
+false 0.1
+hellofoo bar
+	foo bar
+	hellofoo bar
+	
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+0.1 false
+v1: 0.1
+v17: -300
+v18: 42
+v2: hellofoo bar
+	foo bar
+	hellofoo bar
+	
+v3: false
+slicelen v5: 5 [-9223372036854775808 127 -363 32767 -734]

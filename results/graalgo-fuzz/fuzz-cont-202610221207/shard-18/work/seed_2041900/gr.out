@@ -1,0 +1,14 @@
+99 99 99
+slicelen v1: 1 [4294967295]
+v17: 1e+10
+maplen v2: 0
+v28: true
+v29: foo bara
+v3: 99
+v4: 1e+10
+maplen v5: 0
+slicelen v6: 4 [foo bar
+	 helloa
+	 foo bar
+	
+	 foo barhello]

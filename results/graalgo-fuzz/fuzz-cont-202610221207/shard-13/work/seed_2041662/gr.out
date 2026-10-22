@@ -1,0 +1,12 @@
+true
+v1: 65535
+v101: true
+v192: 
+v2: a
+maplen v3: 2
+v36: 1
+v4: hellofoo bar
+v5: 0
+v80: true
+v83: 0
+slicelen v84: 3 [2147483647 0 9223372036854775807]

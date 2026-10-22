@@ -1,0 +1,8 @@
+foo bar
+978 -32768
+slicelen v1: 1 [65535]
+slicelen v2: 2 [144 9223372036854775807]
+v3: foo barhellofoo barfoo bar
+v50: 1956
+v6: -32768
+v7: 1956

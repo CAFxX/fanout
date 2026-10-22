@@ -1,0 +1,8 @@
+true
+slicelen v1: 2 [ hello]
+v13: 42
+v14: 128
+v18: 236
+v2: true
+slicelen v3: 5 [2 561 4294967295 101 2147483647]
+v4: a

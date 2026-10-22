@@ -1,0 +1,8 @@
+1.5 0 1.5
+v1: 1.5
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 4 [ a foo bar ]
+v6: -120
+v7: 0

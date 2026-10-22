@@ -1,0 +1,153 @@
+foo bara -9223372036854775808
+-9223372036854775808
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+foo bara -2.25
+42
+631 0 -2.25
+32767
+0
+v1: -2.25
+v17: 0
+v18: 631
+v2: 0
+maplen v3: 0
+slicelen v4: 3 [
+	a
+	
+	afoo bar
+	a hello 
+	]
+v5: foo bara

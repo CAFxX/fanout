@@ -1,0 +1,28 @@
+734 734
+aafoo barhello
+	foo bar aafoo barhello
+	foo bar
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+v1: aafoo barhello
+	foo bar
+maplen v2: 0
+v25: 4294967295
+v26: 0
+v27: aafoo barhello
+	foo barafoo baraafoo barhello
+	foo baraafoo barhello
+	foo bar
+v3: 0
+v4: 254
+v44: 0
+v5: 0

@@ -1,0 +1,13 @@
+42
+v1: 1
+v171: 0
+slicelen v2: 2 [foo bar 
+	]
+slicelen v3: 1 [hellofoo barafoo bar
+	]
+v4: 84
+v5: 42
+v6: 42
+v79: 0
+v80: 0
+v81: true

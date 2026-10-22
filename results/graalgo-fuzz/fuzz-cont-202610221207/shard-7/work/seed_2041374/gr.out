@@ -1,0 +1,11 @@
+true 649 foo bar
+true 649 foo bar
+true 649 foo bar
+true 649 foo bar
+maplen v1: 1
+v15: 65535
+v2: 0
+v3: 1.5
+v4: 4000
+slicelen v7: 2 [36028797018963969 32767]
+v9: -1

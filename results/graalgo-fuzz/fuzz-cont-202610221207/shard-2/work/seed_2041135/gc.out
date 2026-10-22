@@ -1,0 +1,21 @@
+-713 0
+-713 1
+-713 2
+-713 3
+-713 4
+-713 0
+-713 1
+-713 2
+-713 3
+-713 4
+false false
+maplen v1: 0
+slicelen v2: 0 []
+slicelen v3: 2 [1 -177]
+maplen v4: 0
+maplen v5: 0
+slicelen v6: 2 [hello foo bar]
+v66: 
+	hello
+v72: false
+v81: false

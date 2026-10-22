@@ -1,0 +1,14 @@
+-32768 -32768
+
+	afoo bar 
+	afoo bar -32768
+
+	afoo bar 
+	afoo bar 
+	afoo bar
+v1: 0
+slicelen v10: 4 [4 -2147483648 858 -9223372036854775808]
+v2: -48
+v3: 
+	afoo bar
+v45: -220

@@ -1,0 +1,23 @@
+2147483647 foo bar
+4294967294 foo bar
+4294967292 foo bar
+4294967288 foo bar
+4294967280 foo bar
+4294967264 foo bar
+slicelen v1: 2 [4294967295 65535]
+slicelen v2: 3 [913 4294967295 -1]
+v27: 9223372036854775807
+v28: 0
+v29: 4294967232
+maplen v3: 0
+maplen v4: 0
+v43: 4294967232
+v44: 32767
+v45: 32768
+v46: 
+	foo barfoo barfoo bar
+v47: hellofoo bar
+v48: 192
+v49: 550
+v5: foo bar
+maplen v6: 0

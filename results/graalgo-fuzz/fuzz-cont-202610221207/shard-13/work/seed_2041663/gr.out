@@ -1,0 +1,9 @@
+0 true
+0 0
+slicelen v1: 4 [aa foo bara afoo bar hellofoo bar]
+v10: false
+v13: 32767
+v14: false
+v2: 0
+slicelen v3: 1 [-878]
+slicelen v4: 4 [164 -2147483648 127 -9223372036854775808]

@@ -1,0 +1,9 @@
+1.5 1.5
+v1: 581
+v10: 1.5
+v14: 65535
+maplen v2: 0
+v3: 1.6
+slicelen v4: 1 [
+	foo barfoo barhello]
+v9: 1.5

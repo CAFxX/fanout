@@ -1,0 +1,12 @@
+maplen v1: 0
+maplen v2: 0
+maplen v3: 0
+slicelen v4: 0 []
+slicelen v5: 3 [1 966 2147483647]
+v52: foo bar
+v53: false
+v54: false
+v63: foo barfoo barfoo bar
+	foo bar
+	
+v64: 1

@@ -1,0 +1,36 @@
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+1e+10 2
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+131072 1e+10
+v1: 0
+v2: 1e+10
+maplen v3: 0
+maplen v4: 17
+v5: foo bar
+slicelen v6: 3 [foo bar foo bar foo barfoo bar]
+v7: 131072

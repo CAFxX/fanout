@@ -1,0 +1,7 @@
+3
+maplen v1: 0
+v2: 3
+v23: true
+slicelen v3: 1 [foo barafoo bar]
+v4: -Inf
+v7: -Inf

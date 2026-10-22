@@ -1,0 +1,69 @@
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+
+	foo bar
+	hellohello 0.1 0.1
+0.1
+65535
+maplen v1: 0
+slicelen v2: 1 [18]
+v3: 0.1
+maplen v4: 0
+slicelen v5: 4 [
+	 foo bar foo baraa hello]
+v6: 
+	foo bar
+	hellohello
+v90: 65535
+v91: false
+v97: 1.5
+v98: false

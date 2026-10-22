@@ -1,0 +1,10 @@
+false
+false 3.14159 3
+v1: 2147483647
+v13: false
+v14: 3.14159
+v2: 3
+slicelen v3: 4 [hello hello hellohellofoo bar
+	 ]
+v4: -2.25
+v5: 3.14159
