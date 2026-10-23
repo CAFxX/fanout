@@ -1,0 +1,18 @@
+127 127
+v1: 
+	ahello
+	
+v11: -2147483648
+v12: 2147483648
+v13: -2.664124767426685
+slicelen v2: 5 [
+	ahello
+	 foo bar 
+	foo bar
+	ahello
+	 
+	ahello
+	 
+	ahello
+	]
+v3: 8

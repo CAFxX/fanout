@@ -1,0 +1,14 @@
+0
+0 0
+0 false false
+slicelen v1: 9 [a
+	 afoo bar
+	a hello hello hello hello hello hello hello]
+v15: 146
+slicelen v2: 4 [-9223372036854775808 42 32767 2147483647]
+v20: false
+v23: 100
+v24: 0
+v3: 0
+slicelen v4: 2 [2 809]
+slicelen v5: 3 [hello hello a]

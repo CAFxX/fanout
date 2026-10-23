@@ -1,0 +1,12 @@
+42 false 0
+false
+42
+false 42 2.25
+v1: false
+slicelen v2: 1 [hello]
+v23: -42
+v24: true
+slicelen v3: 3 [a foo bar 
+	]
+v4: 42
+v5: 2.25

@@ -1,0 +1,25 @@
+true true 0
+true true 1
+true true 2
+true true 3
+true true 4
+true true 5
+true true 6
+true true 7
+true true 8
+true true 9
+true true 10
+true true 11
+0
+1
+2
+3
+4
+5
+6
+slicelen v1: 3 [foo bar helloa 
+	a]
+v2: 0
+slicelen v3: 3 [foo bar 
+	 foo bar]
+maplen v4: 0

@@ -1,0 +1,14 @@
+slicelen v1: 1 [677]
+v14: 2147483648
+v2: 18446744073709551185
+v20: 42
+v21: -32768
+v28: 0
+v29: 0
+v3: 0
+v31: -1
+v37: 128
+maplen v4: 0
+maplen v5: 0
+slicelen v6: 39 [a hellofoo barfoo bara
+	 foo bar foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello]

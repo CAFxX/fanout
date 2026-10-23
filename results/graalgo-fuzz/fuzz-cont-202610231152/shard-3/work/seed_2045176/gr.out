@@ -1,0 +1,19 @@
+2 2
+hello 2
+2 hello
+2 -2147483648
+-2147483648 2
+maplen v1: 0
+slicelen v2: 3 [
+	a
+	 
+	foo bar
+	foo bar foo bar]
+v29: 2
+v3: 2
+v30: hello
+v35: 0
+v36: 571
+v4: 0
+v5: 2
+slicelen v6: 3 [1 2147483647 1]

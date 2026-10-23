@@ -1,0 +1,44 @@
+true -2.25 true
+true 993 993
+true 791 791
+true 788 788
+true 788 788
+true 788 788
+true 788 788
+true 788 788
+-2.25 788 788
+true -2147482861
+true 0 -2.25
+true -2147482861
+true 1 -2.25
+true -2147482861
+true 2 -2.25
+true -2147482861
+true 3 -2.25
+true -2147482861
+true 4 -2.25
+true -2147482861
+true 5 -2.25
+true -2147482861
+true 6 -2.25
+true -2147482861
+true 7 -2.25
+true -2147482861
+true 8 -2.25
+true -2147482861
+true 9 -2.25
+true -2147482861
+true 10 -2.25
+true -2147482861
+true 11 -2.25
+true -2147482861
+true 12 -2.25
+v1: -2.25
+v12: true
+maplen v2: 0
+slicelen v3: 2 [foo barfoo bar 
+	]
+v4: 401
+v5: -2147482861
+v51: -2147482861
+maplen v6: 0

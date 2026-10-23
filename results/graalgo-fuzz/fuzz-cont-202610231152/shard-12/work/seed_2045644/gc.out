@@ -1,0 +1,19 @@
+42
+42
+true 128 57
+57 128 true
+57 128 true
+57 128 true
+128
+maplen v1: 0
+slicelen v2: 21 [foo bar a
+	 
+	
+	 foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+	 
+	 
+	]
+v3: 57
+v4: 128
+v5: true
+v6: 42

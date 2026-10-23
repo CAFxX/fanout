@@ -1,0 +1,24 @@
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+foo baraa
+18446744073709551615
+0 foo baraafoo baraa
+v1: foo baraafoo baraafoo baraafoo baraa
+maplen v2: 0
+maplen v3: 0
+v35: -1
+v36: -1
+slicelen v4: 3 [foo baraa hello foo bar]
+v5: 659
+slicelen v6: 1 [2147483648]

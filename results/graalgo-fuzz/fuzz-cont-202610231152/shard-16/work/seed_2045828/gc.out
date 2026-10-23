@@ -1,0 +1,11 @@
+0 1
+1 1
+0
+v1: 42
+slicelen v2: 3 [
+	 
+	 hello
+	]
+maplen v3: 0
+maplen v4: 1
+slicelen v5: 0 []

@@ -1,0 +1,21 @@
+0 0 65535
+0 232 65535
+1 232 65535
+2 232 65535
+3 232 65535
+4 232 65535
+5 232 65535
+6 232 65535
+7 232 65535
+8 232 65535
+9 232 65535
+v1: 232
+slicelen v2: 4 [
+	 foo bar hello hello]
+v26: 1.5
+slicelen v3: 20 [
+	foo bara foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v34: 77
+maplen v4: 0
+v5: 0
+v6: 65535

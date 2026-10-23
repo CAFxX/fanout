@@ -1,0 +1,13 @@
+a false hellofoo bar
+	
+v1: 7280
+v2: false
+v29: a
+slicelen v3: 3 [aa  ahello]
+slicelen v4: 4 [hellofoo bar
+	 
+	 a 
+	]
+v5: hellofoo bar
+	
+v6: 0

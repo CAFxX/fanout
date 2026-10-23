@@ -1,0 +1,7 @@
+hello 127 127
+slicelen v1: 5 [hello hello a hello ahello]
+maplen v2: 0
+v3: 42
+v4: ahello
+v5: 127
+maplen v6: 1

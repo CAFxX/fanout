@@ -1,0 +1,12 @@
+-1e+10 67
+v1: -2.25
+slicelen v2: 3 [
+	 a
+	 foo barhello
+	]
+v22: 252
+v24: foo barfoo bar
+v25: 67
+maplen v3: 0
+v4: -1e+10
+maplen v5: 0

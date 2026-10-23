@@ -1,0 +1,12 @@
+ahello
+ahello 128
+128
+ahello
+ahello 128 128
+maplen v1: 1
+v10: 128
+v17: ahello
+v2: 688128
+v3: helloahello
+slicelen v4: 3 [25 42 223]
+slicelen v5: 4 [a ahello ahello a]

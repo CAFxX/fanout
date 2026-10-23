@@ -1,0 +1,15 @@
+v1: 127
+slicelen v2: 1 [
+	foo bar]
+v22: 4294967295
+v24: 42
+v25: 4294967295
+v26: 32767
+v3: -3.375
+v31: 4.590505923228087e+10
+v32: 127
+v4: 348
+slicelen v5: 3 [ foo bar foo bar]
+slicelen v6: 4 [foo bar hello 
+	 
+	]

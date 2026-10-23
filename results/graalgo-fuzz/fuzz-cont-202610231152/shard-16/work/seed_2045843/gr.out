@@ -1,0 +1,13 @@
+2
+v1: -4294967296
+v18: 0
+slicelen v2: 4 [ hello 
+	hellohello ]
+v3: 912
+v32: 4294967295
+v33: 2
+maplen v4: 0
+slicelen v5: 4 [
+	 a  hello]
+slicelen v6: 3 [
+	 a a]

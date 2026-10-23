@@ -1,0 +1,11 @@
+true
+true 1e+10
+true
+true 1e+10
+slicelen v1: 1 [65535]
+v2: 42
+slicelen v3: 3 [foo bar 
+	foo bar a]
+maplen v4: 0
+v41: false
+v5: 1e+10

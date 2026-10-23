@@ -1,0 +1,10 @@
+maplen v1: 0
+v2: 9223372036854775807
+maplen v3: 0
+v4: 2.0000000000000002e-11
+slicelen v5: 3 [hellofoo baraaa helloaaaa hellohelloa
+	helloaahelloa
+	hello]
+slicelen v6: 1 [2]
+v7: 0
+v8: 256

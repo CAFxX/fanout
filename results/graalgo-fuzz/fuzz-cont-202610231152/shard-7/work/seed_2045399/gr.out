@@ -1,0 +1,12 @@
+-1 hello
+-1 hello
+slicelen v1: 4 [ 
+	helloa a foo bar]
+v11: -1
+v18: 0
+slicelen v2: 5 [494 892 4294967295 88 4294967295]
+slicelen v3: 3 [0 -208 -1]
+maplen v4: 0
+v5: hello
+maplen v6: 0
+v88: 0

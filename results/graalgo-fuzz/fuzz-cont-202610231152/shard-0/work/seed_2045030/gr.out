@@ -1,0 +1,350 @@
+foo bar -595
+slicelen v1: 5 [foo bar foo bar a a foo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaaa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraa
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraafoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo bara
+	foo barfoo barfoo bar
+	foo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo baraaaaafoo bar]
+v2: -595
+maplen v3: 0
+v30: 504
+v4: foo bar
+slicelen v5: 4 [foo bar
+	foo barfoo bar hello hello ]
+v6: foo bar

@@ -1,0 +1,9 @@
+-2.25 127 127
+slicelen v1: 4 [hello foo bar a hello]
+v10: -2.25
+v11: 1e+10
+v14: 42
+v15: hello
+v2: 127
+v3: 843
+slicelen v4: 2 [4294967295 2]

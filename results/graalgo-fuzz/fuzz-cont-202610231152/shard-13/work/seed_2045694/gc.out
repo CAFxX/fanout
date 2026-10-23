@@ -1,0 +1,9 @@
+42 -2147483648 true
+hello 42
+v1: 42
+v13: hello
+v14: 42
+maplen v2: 0
+v3: 0
+v4: true
+slicelen v55: 0 []

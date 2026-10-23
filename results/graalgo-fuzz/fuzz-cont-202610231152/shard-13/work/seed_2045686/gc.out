@@ -1,0 +1,17 @@
+0
+-0.2 aahellohello
+	
+	foo bar
+aahellohello
+	
+	foo bar
+false
+slicelen v1: 3 [127 127 128]
+v16: aahellohello
+	
+	foo bar
+v17: 0
+maplen v2: 0
+maplen v3: 0
+v4: -0.2
+slicelen v5: 1 [65535]

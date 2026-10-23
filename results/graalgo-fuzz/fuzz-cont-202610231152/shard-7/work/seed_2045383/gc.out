@@ -1,0 +1,54 @@
+42 foo bar 0
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+foo bar
+-1 -1 foo bar
+18446744073709551614 -1
+foo bar -1 18446744073709551614
+maplen v1: 0
+maplen v2: 0
+v3: 18446744073709551614
+v4: 0
+slicelen v5: 1 [19]
+v56: foo bar
+maplen v6: 0
+v85: 2147483648
+v86: 0
+v87: 0
+v88: 1.5

@@ -1,0 +1,16 @@
+-529 -529
+maplen v1: 0
+v178: 
+	
+maplen v2: 0
+slicelen v3: 4 [hello hello
+	foo bar
+	
+	  
+	
+	]
+v4: 0
+slicelen v5: 3 [
+	 
+	 a]
+v9: false

@@ -1,0 +1,15 @@
+0 255 255
+false 0 false
+58 255 false
+0
+v1: 1e+10
+v10: 42
+v2: false
+v29: -2.25
+v3: 255
+v32: foo barfoo barhello
+slicelen v4: 3 [  
+	hello]
+v5: 58
+v6: 133
+v9: 0
