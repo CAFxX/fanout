@@ -1,0 +1,5 @@
+slicelen v1: 2 [ foo bar
+	hello]
+v2: 254
+v23: 2
+slicelen v3: 3 [65535 4294967295 364]

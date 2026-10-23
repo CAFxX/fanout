@@ -1,0 +1,10 @@
+42 true
+42 foo bar
+slicelen v1: 3 [a hello hellohello]
+v2: true
+v3: 84
+v4: foo bar
+v5: 1
+v6: false
+v7: 1
+v8: 785

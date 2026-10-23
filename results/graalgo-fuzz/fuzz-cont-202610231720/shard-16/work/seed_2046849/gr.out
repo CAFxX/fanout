@@ -1,0 +1,15 @@
+9.999999999866665e+09 9.999999999866665e+09
+afoo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo barhello afoo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo barhello
+slicelen v1: 0 []
+slicelen v2: 0 []
+v3: 9.999999999866665e+09
+maplen v4: 0
+v5: afoo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo barhello
+slicelen v6: 3 [foo bar foo bar foo barfoo bar]
+v70: false
+v74: 9.999999999866665e+09
+v75: false
+v97: 55

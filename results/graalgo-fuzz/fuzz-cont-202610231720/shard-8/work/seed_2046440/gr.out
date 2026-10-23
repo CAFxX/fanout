@@ -1,0 +1,15 @@
+98 4294967295
+98 4294967295
+4294967295 98
+-1 6 6
+slicelen v1: 22 [hello
+	afoo bar
+	hello
+	afoo bar
+	 hello foo bar foo bar foo bar hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v11: -1
+v12: 188
+v2: 74
+v3: 0
+slicelen v4: 4 [foo bar a foo bar 
+	]

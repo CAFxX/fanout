@@ -1,0 +1,11 @@
+v1: 127
+v12: foo bar
+	a
+v13: 478
+v2: 0
+slicelen v3: 4 [0 1 1 579]
+v4: foo bar
+	ahello
+maplen v5: 0
+slicelen v6: 2 [42 83230720]
+v81: 1.5

@@ -1,0 +1,21 @@
+true hello
+hello true
+737 true
+0
+737
+737
+737
+737
+737
+v1: true
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+v41: 42
+v42: 1000
+v43: 0
+v44: 1e+10
+v48: false
+slicelen v49: 3 [4294967295 -9223372036854775808 32768]
+v5: hello
+v50: 737

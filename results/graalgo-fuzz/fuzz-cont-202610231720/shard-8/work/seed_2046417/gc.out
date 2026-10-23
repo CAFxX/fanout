@@ -1,0 +1,17 @@
+NaN true NaN
+true 2
+maplen v1: 1
+v16: 2
+v18: true
+v2: NaN
+slicelen v3: 3 [afoo bar
+	foo bar
+	
+	foo bara
+	
+	 
+	 a
+	foo barhello]
+v4: 2
+v5: 1.5
+v6: 121

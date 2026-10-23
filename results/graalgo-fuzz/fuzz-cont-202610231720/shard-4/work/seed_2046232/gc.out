@@ -1,0 +1,16 @@
+false
+hello false false
+hello true true
+hello true true
+hello true true
+hello true true
+a
+maplen v1: 0
+slicelen v2: 1 [foo bar]
+v3: true
+v38: a
+maplen v4: 0
+v44: 0
+maplen v5: 1
+v6: a
+v8: aaa

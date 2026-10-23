@@ -1,0 +1,11 @@
+2147483648
+2147483648 65535
+maplen v1: 0
+v12: 2147483648
+v13: 65535
+slicelen v2: 4 [helloa
+	hellofoo barfoo barhellofoo bar 
+	a a ]
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 1 [2]

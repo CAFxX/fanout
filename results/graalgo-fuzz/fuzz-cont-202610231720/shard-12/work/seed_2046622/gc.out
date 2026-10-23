@@ -1,0 +1,6 @@
+maplen v1: 2
+v2: -32768
+v3: -2.25
+slicelen v4: 3 [hello hello hello]
+v5: -2.25
+slicelen v6: 1 [2147483647]

@@ -1,0 +1,9 @@
+163 hello
+hellofoo bar 32767 false
+v1: 163
+slicelen v18: 4 [-766 9223372036854775807 0 -921]
+v19: hellofoo bar
+v2: hello
+v20: 32767
+v25: false
+v3: 3.14159

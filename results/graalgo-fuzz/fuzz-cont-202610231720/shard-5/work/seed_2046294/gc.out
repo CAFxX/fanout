@@ -1,0 +1,15 @@
+1 127 127
+maplen v1: 0
+v2: -128
+maplen v3: 1
+v4: 127
+v5: 1
+slicelen v53: 3 [32768 127 -128]
+v54: foo bar
+	hello
+v55: 1
+v6: 
+v60: 1
+v65: 1000
+v66: true
+v67: true

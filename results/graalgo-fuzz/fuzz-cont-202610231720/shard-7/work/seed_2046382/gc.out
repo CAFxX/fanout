@@ -1,0 +1,11 @@
+127 4294967295
+maplen v1: 0
+maplen v2: 1
+v3: 0
+v4: 4294967295
+v41: false
+v5: foo barhelloa
+v6: 127
+v70: afoo barhelloafoo barhelloa
+v71: -9.99999999685841e+09
+slicelen v72: 3 [-1 -9223372036854775808 32768]

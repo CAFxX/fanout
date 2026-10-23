@@ -1,0 +1,11 @@
+32767 hello -64
+v1: hello
+v10: -64
+slicelen v15: 1 [207]
+maplen v2: 0
+v21: 32767
+v23: 1
+maplen v3: 0
+v4: -42
+v5: 2
+v6: 414

@@ -1,0 +1,24 @@
+foo barhello 0 1
+0 1 foo barhello
+foo barhello 1 0
+1 1 foo barhello
+foo barhello 2 0
+2 1 foo barhello
+foo barhello 3 0
+3 1 foo barhello
+foo barhello 4 0
+4 1 foo barhello
+foo barhello 5 0
+5 1 foo barhello
+foo barhello 6 0
+6 1 foo barhello
+foo barhello 7 0
+7 1 foo barhello
+v1: 0
+v2: 1
+v27: 1e+10
+slicelen v3: 3 [a  
+	a]
+v4: 
+	
+slicelen v5: 2 [-2147483648 127]

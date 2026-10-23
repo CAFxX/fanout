@@ -1,0 +1,13 @@
+a a
+128 a
+a 128
+a 128
+slicelen v1: 3 [aaaaaafoo baraa 
+	a aaa
+	]
+v2: 128
+slicelen v3: 3 [
+	 
+	 hello]
+v7: aaaaaafoo baraa
+v73: 847

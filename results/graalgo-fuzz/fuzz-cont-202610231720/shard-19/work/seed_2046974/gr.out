@@ -1,0 +1,13 @@
+hello false 18446744073709551615
+slicelen v1: 2 [a foo bar
+	foo bar
+	]
+v2: 18446744073709551615
+v29: 3.14159
+v3: foo barhelloaa
+v30: false
+v31: 59
+v38: 18017750025483748089
+v4: hello
+slicelen v5: 0 []
+v6: 18017750025483748089

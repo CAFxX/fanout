@@ -1,0 +1,15 @@
+2 2
+2 127
+maplen v1: 0
+v2: 0
+maplen v3: 0
+v30: 0
+v32: 0
+maplen v4: 0
+slicelen v5: 6 [hellofoo bar
+	a foo barafoo bar 
+	 
+	 foo bar 
+	]
+v6: 0
+v8: 127

@@ -1,0 +1,100 @@
+-128 0
+-128 1
+-128 2
+-128 3
+-128 4
+-128 5
+-128 6
+-128 7
+-128 8
+-128 9
+-128 10
+-128 11
+-128 12
+-128 13
+-128 14
+0
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+1
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+2
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+3
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+4
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+5
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+6
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+7
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+8
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+9
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+10
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+11
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+12
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+13
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+14
+ahello
+	foo bar ahello
+	foo bar ahello
+	foo bar
+v1: ahello
+	foo bar
+v13: 0
+v2: 36
+v3: -128
+v4: ahello
+	foo bar
+v5: 0
+slicelen v73: 1 [425]
+v82: 42

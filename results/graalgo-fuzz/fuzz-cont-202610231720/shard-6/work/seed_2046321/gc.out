@@ -1,0 +1,9 @@
+foo bar foo bar
+v1: foo bar
+slicelen v2: 4 [127 2147483647 -2147483648 321]
+v20: 124
+v21: false
+v29: 1
+v3: -1
+v30: 0
+v35: -728

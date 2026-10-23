@@ -1,0 +1,28 @@
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+-32768 hello hello
+1e+10 1e+10
+v1: -32768
+slicelen v2: 9 [32767 -9223372036854775808 -580 -580 -580 -580 -580 -580 -580]
+maplen v3: 0
+v31: 1e+10
+v4: hello
+v5: 56

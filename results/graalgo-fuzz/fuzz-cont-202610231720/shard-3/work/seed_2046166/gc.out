@@ -1,0 +1,13 @@
+509
+v1: 509
+v10: 65535
+v11: 181
+v2: 509
+maplen v3: 0
+v4: true
+v46: 1e+10
+slicelen v5: 4 [ 
+	foo bar foo bar
+	
+	 a]
+maplen v6: 0

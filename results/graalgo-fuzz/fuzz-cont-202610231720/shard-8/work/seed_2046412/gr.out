@@ -1,0 +1,15 @@
+292 292 65535
+102 292
+v1: hello
+	hello
+	
+v11: 45
+v2: 0
+v3: 102
+maplen v4: 0
+v5: 65535
+v52: hello
+	hello
+	
+slicelen v53: 0 []
+v6: 0
