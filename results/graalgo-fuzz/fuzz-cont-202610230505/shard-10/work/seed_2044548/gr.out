@@ -1,0 +1,11 @@
+false false
+2 2
+65533 0
+false 0 65533
+v1: 65535
+maplen v2: 0
+v20: 65533
+v3: false
+slicelen v4: 3 [foo bar foo bar hello
+	helloaaafoo bara]
+v6: 0

@@ -1,0 +1,9 @@
+v1: hello
+v2: 726
+v27: -298
+v28: 0
+v3: 65534
+maplen v4: 0
+slicelen v5: 4 [hello ahello 
+	 foo barfoo barhello]
+v6: true

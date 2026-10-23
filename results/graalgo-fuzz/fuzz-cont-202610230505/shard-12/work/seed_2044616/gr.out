@@ -1,0 +1,47 @@
+2147483647 
+	foo bar
+	 998
+2 
+	foo bar
+	 998
+998
+2 
+	foo bar
+	 998
+998
+2 
+	foo bar
+	 998
+998
+2 
+	foo bar
+	 998
+998
+2 
+	foo bar
+	 998
+998
+2 
+	foo bar
+	 998
+998
+slicelen v1: 4 [ foo bar 
+	 ]
+v106: 18446744073709551615
+v118: 244
+v2: 998
+maplen v3: 0
+v4: 
+	a
+	foo bar
+	
+	foo bar
+	foo bar
+	foo bar
+	
+	foo bar
+	
+	foo bar
+	
+maplen v5: 0
+v6: 2

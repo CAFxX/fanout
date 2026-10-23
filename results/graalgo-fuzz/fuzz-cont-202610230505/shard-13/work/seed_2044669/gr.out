@@ -1,0 +1,10 @@
+foo bar -129
+v1: a
+v12: 0
+v14: -112
+v2: -129
+v24: 255
+v3: afoo barafoo bar
+v4: 112
+v6: 1
+slicelen v7: 4 [-129 129 -129 -129]

@@ -1,0 +1,14 @@
+-27.75 -27.75 0
+slicelen v1: 3 [hello
+	hello 
+	a foo bar]
+maplen v2: 0
+maplen v3: 0
+v33: 0
+v34: -27.75
+slicelen v4: 1 [
+	]
+maplen v5: 0
+maplen v6: 0
+v7: false
+v8: 2

@@ -1,0 +1,12 @@
+2 1 1
+903 2 -60879
+v1: -60879
+v155: 42
+v158: 4
+v175: 903
+v2: 2
+v3: -761
+slicelen v4: 3 [a 
+	 foo barafoo bar
+	foo barfoo bara]
+slicelen v5: 0 []

@@ -1,0 +1,10 @@
+65535 true
+v1: hello
+	
+maplen v2: 0
+slicelen v3: 2 [127 256]
+v4: 1
+slicelen v5: 2 [42 1]
+maplen v6: 0
+v8: 65535
+v9: true

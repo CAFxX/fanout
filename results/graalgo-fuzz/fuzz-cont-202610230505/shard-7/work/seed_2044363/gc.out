@@ -1,0 +1,21 @@
+ahelloa
+	
+	foo bar -32768
+ahelloa
+	
+	foo bar 0
+ahelloa
+	
+	foo bar -32768
+ahelloa
+	
+	foo bar 1
+v1: 4294967295
+v121: ahelloa
+	
+	foo bar
+v122: -32768
+v128: 0
+v2: 0
+maplen v3: 0
+maplen v4: 0

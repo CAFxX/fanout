@@ -1,0 +1,10 @@
+maplen v1: 1
+slicelen v2: 2 [ hellohello
+	foo bar
+	
+	afoo barfoo bar
+	ahellohellofoo bar]
+slicelen v3: 4 [-912 0 -9223372036854775808 42]
+v4: 18446744073709551613
+v6: 690
+v7: 0

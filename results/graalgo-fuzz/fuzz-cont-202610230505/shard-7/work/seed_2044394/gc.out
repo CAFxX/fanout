@@ -1,0 +1,10 @@
+40 2
+true
+v1: 2
+v10: true
+v11: 0
+slicelen v2: 4 [foo bar 
+	 hello foo bar
+	]
+slicelen v3: 1 [295]
+v4: 18446744073709550981

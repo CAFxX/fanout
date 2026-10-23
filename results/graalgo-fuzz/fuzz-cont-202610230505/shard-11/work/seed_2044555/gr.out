@@ -1,0 +1,14 @@
+0 0 4.14159
+-1
+NaN +Inf 255
++Inf 90 foo bar
+foo bar -77
+90
+v1: +Inf
+v19: -1
+v2: -77
+v20: -1
+v24: 90
+v25: 255
+v3: NaN
+v7: foo bar

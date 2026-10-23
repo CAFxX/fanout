@@ -1,0 +1,12 @@
+64 64 110
+995 1e+10
+v1: 110
+maplen v2: 0
+v29: 1e+10
+v3: 110
+v30: 995
+v32: foo bar
+v4: 64
+slicelen v5: 1 [a
+	hello]
+v6: true

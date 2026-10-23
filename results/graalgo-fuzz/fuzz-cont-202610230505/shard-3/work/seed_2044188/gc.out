@@ -1,0 +1,14 @@
+472 hello
+-962
+-962 163 163
+slicelen v1: 4 [
+	 foo bar 
+	a 
+	]
+v2: -945
+v3: hellohello
+v4: -1146
+v5: -962
+slicelen v6: 1 [472]
+v83: 163
+v86: 163

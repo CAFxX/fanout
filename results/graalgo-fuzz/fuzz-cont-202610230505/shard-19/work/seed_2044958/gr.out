@@ -1,0 +1,13 @@
+true
+false hello
+v1: hello
+v105: 1.5
+v117: 2
+v119: 3.14159
+v120: 42
+v2: -2.25
+v3: true
+maplen v4: 0
+v5: 0
+slicelen v6: 1 [hellohellohellohello]
+v95: false

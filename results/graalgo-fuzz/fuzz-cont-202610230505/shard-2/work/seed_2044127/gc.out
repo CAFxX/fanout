@@ -1,0 +1,19 @@
+1000 1000
+1000
+slicelen v1: 3 [0 4294967295 4294967295]
+v10: 0
+slicelen v2: 4 [afoo bar 
+	 foo bar 
+	
+	
+	]
+v3: true
+v31: 800
+v32: false
+slicelen v4: 4 [hello foo barhello
+	afoo barfoo baraafoo bar
+	 a ahello
+	]
+v5: -1000
+maplen v6: 1
+v9: 481

@@ -1,0 +1,11 @@
+0
+-128 -128
+maplen v1: 0
+v14: 0
+slicelen v2: 2 [
+	
+	ahellofoo barhello ]
+maplen v3: 0
+slicelen v4: 2 [2147483648 0]
+slicelen v5: 2 [32767 -1]
+v6: -128

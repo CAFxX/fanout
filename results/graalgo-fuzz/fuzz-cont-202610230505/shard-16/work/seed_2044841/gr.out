@@ -1,0 +1,11 @@
+slicelen v1: 1 [65535]
+slicelen v2: 5 [foo bar
+	 aahellohelloahelloa
+	a
+	 foo bar foo bar helloa]
+maplen v3: 0
+v32: 43
+v45: 0
+v46: -1
+v47: 0
+v60: false

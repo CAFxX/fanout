@@ -1,0 +1,12 @@
+9223372036854775807 127 -430
+v1: 9223372036854775807
+v13: 428
+slicelen v2: 4 [
+	foo bar 
+	 hellohelloafoo barfoo bara
+	foo bar hello
+	]
+v3: -430
+v4: 127
+v5: -7739
+v9: 255

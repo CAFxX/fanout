@@ -1,0 +1,9 @@
+foo barfoo bar
+maplen v1: 0
+slicelen v2: 3 [foo bar
+	 a foo bar]
+v3: hellofoo barfoo barfoo barfoo barfoo barfoo bar
+v40: foo barfoo barfoo barfoo barfoo barfoo barafoo barfoo bar
+	foo barfoo barfoo barfoo barfoo barfoo bar
+v42: false
+v43: 42

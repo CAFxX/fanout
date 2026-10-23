@@ -1,0 +1,12 @@
+42 0.03183101550488765 42
+42 42 15.9043
+maplen v1: 0
+v13: 42
+slicelen v2: 5 [
+	foo barfoo barafoo bara
+	ahello hello 
+	 a hello]
+v3: 42
+maplen v4: 1
+v5: 15.9043
+v9: 0.03183101550488765

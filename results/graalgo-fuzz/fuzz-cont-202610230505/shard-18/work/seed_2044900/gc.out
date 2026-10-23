@@ -1,0 +1,9 @@
+v1: foo barfoo barhello
+	
+slicelen v2: 1 [foo barfoo barhello
+	]
+v27: -25
+v29: 359
+v3: 0
+v4: -25
+v5: -1

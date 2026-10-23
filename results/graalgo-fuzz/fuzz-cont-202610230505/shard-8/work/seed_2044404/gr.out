@@ -1,0 +1,11 @@
+0 2
+42 2
+v1: 2147483651
+v19: 1e+10
+v2: 42
+v21: 255
+v3: 255
+v4: 0
+slicelen v5: 4 [helloa foo barhelloafoo bar
+	hellohellofoo bar foo bar 
+	]
