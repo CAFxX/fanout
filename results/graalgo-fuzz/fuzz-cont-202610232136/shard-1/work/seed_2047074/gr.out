@@ -1,0 +1,12 @@
+30 30 3.14159
+30 -2.25
+v1: -2.25
+v12: 0
+v2: 30
+slicelen v3: 2 [foo bara
+	
+	a
+	foo barhello hello]
+v4: 3.14159
+slicelen v5: 4 [hello   aa]
+slicelen v6: 4 [597 4294967295 691 1]

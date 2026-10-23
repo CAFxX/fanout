@@ -1,0 +1,28 @@
+foo bar 127 foo bar
+foo bar 127 foo bar
+foo bar 127 foo bar
+foo bar 127 foo bar
+foo bar 127 foo bar
+foo bar 127 foo bar
+foo bar 127 foo bar
+foo bar 127 foo bar
+127 127
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+332 332 255
+v1: 255
+slicelen v2: 3 [4294967295 4294967295 2]
+v23: -1
+maplen v3: 0
+v4: foo bar
+maplen v5: 0

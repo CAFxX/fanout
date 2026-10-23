@@ -1,0 +1,17 @@
+foo bar 2 2
+0
+foo bar 2 2
+1
+foo bar
+42 42 foo bar
+foo bar foo bar
+foo bar 42 foo bar
+maplen v1: 0
+v2: foo bar
+maplen v3: 1
+slicelen v56: 3 [127 127 128]
+v57: 42
+v58: 2
+v59: 4294967295
+v69: -2.25
+v70: -3.75

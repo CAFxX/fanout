@@ -1,0 +1,27 @@
+0 true 0
+0 true 1
+0 true 2
+0 true 3
+0 true 4
+0 true 5
+0 true 6
+0 true 7
+0 true 8
+0 true 9
+0 true 10
+0 true 11
+0 true 12
+true -2.25
+v1: 126
+v2: -2.25
+slicelen v3: 4 [
+	 helloahelloahelloa
+	aafoo barahello 
+	 
+	]
+v31: true
+v32: 0
+v33: 0
+slicelen v4: 0 []
+v5: 255
+v6: 32768

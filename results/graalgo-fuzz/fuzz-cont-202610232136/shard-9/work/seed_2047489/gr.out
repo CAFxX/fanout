@@ -1,0 +1,13 @@
+false
+maplen v1: 0
+v17: false
+maplen v2: 0
+slicelen v3: 3 [ahelloahelloa
+	
+	helloa a
+	
+	
+	 foo bar]
+slicelen v4: 2 [449 -17]
+slicelen v5: 4 [2147483647 -685 326 9223372036854775807]
+maplen v6: 0

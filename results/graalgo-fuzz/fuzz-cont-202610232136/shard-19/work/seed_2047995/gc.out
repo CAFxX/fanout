@@ -1,0 +1,6 @@
+hello 0
+v1: 0
+v2: hello
+slicelen v3: 2 [hello foo bar]
+v32: 9223372036854775793
+v39: true

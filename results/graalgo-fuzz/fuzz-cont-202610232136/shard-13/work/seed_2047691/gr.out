@@ -1,0 +1,51 @@
+foo bar
+foo bar -82
+foo bar
+foo bar
+foo bar
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+foo bar -82
+0 0 0
+a -82
+1 1 1
+a -82
+1 1 1
+a -82
+1 1 1
+a -82
+1 1 1
+a -82
+1 1 1
+a -82
+1 1 1
+a -82
+1 1 1
+a -82
+1 1 1
+a
+a 0
+a 0
+a 0
+a 0
+a 0
+a 0
+maplen v1: 0
+slicelen v17: 1 [0]
+maplen v2: 0
+v3: a
+maplen v4: 0
+v5: 0
+maplen v6: 0

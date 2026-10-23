@@ -1,0 +1,11 @@
+-577 2883 -529
+v1: -529
+v10: hello
+v12: 434
+v13: 840
+v2: -577
+slicelen v3: 4 [foo bar foo bar
+	
+	 afoo bar
+	a hello]
+v8: -8637

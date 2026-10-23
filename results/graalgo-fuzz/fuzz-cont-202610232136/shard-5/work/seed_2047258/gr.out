@@ -1,0 +1,10 @@
+0 2
+562 562
+v1: 2
+slicelen v2: 2 [
+	helloa hellofoo bar]
+maplen v3: 1
+maplen v4: 0
+v40: true
+maplen v5: 0
+v6: 562

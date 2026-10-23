@@ -1,0 +1,21 @@
+-1e+10 70 70
+v1: 
+	foo bara
+	
+	foo bara
+	
+	foo bara
+	foo bara
+	
+	foo bara
+	
+	foo bara
+	foo bara
+	
+	foo bara
+	
+	foo bara
+v130: 70
+v2: -1e+10
+slicelen v3: 2 [4294967295 1]
+maplen v4: 0

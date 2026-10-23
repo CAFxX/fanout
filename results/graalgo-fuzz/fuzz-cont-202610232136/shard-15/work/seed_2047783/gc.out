@@ -1,0 +1,10 @@
+v1: 42
+slicelen v2: 1 [297]
+maplen v3: 0
+v4: foo bar
+v5: 216
+slicelen v6: 3 [42 -2147483648 756]
+v61: false
+v63: 9223372036854775807
+v65: false
+v66: 42

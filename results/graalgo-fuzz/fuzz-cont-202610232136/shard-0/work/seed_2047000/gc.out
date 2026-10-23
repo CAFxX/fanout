@@ -1,0 +1,12 @@
+616 0 113
+foo barafoo bar 616
+v1: 42
+v15: foo barafoo bar
+slicelen v18: 1 [-9223372036854775808]
+v19: 42
+v2: -2.25
+v21: 16
+v3: 616
+maplen v4: 0
+v5: 0
+v6: 113

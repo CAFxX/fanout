@@ -1,0 +1,9 @@
+v1: -981
+v16: 1
+v17: 42
+v18: 
+v19: 128
+slicelen v2: 4 [
+	 a hello ]
+v20: 1
+slicelen v3: 5 [a foo barhello foo bar hello foo barfoo bar]

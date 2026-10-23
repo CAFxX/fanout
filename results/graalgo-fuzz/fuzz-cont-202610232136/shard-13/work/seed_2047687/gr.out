@@ -1,0 +1,12 @@
+65535 3.1831015504887652e+09 true
+65535 -306 3.1831015504887652e+09
+slicelen v1: 18 [hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v2: 2147483646
+v3: true
+v32: afoo bar
+	aafoo barhello
+	
+	ahello
+v4: -306
+v5: 3.183101551788764e+09
+v6: 65535

@@ -1,0 +1,24 @@
+2147483648 1000 2147483648
+1e+10 0
+1e+10 2147483648
+1e+10 1
+1e+10 2147483648
+1e+10 2
+1e+10 2147483648
+1e+10
+1e+10
+1e+10
+1e+10
+42
+maplen v1: 0
+v2: 42
+v3: 1000
+v38: 2147483648
+v4: 42
+slicelen v5: 17 [helloaahellofoo bar helloafoo bar
+	 foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello foo barhello]
+v6: 1e+10
+v76: 4.984852284085764e+09
+v77: 0
+v78: 127
+v79: 2147483647

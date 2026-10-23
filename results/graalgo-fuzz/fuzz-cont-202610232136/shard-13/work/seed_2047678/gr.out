@@ -1,0 +1,24 @@
+ 128
+ 128
+ 128
+ 128
+ 128
+ 128
+ 128
+ 128
+ 128
+ 128
+maplen v1: 0
+v2: 254
+maplen v3: 0
+v4: 916
+slicelen v5: 4 [foo bar foo bar
+	 hello
+	hellofoo bar
+	
+	afoo bar
+	
+	 hello]
+maplen v6: 0
+v75: 2147483648
+v91: 65535

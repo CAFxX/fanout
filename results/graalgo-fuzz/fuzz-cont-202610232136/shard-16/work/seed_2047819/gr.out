@@ -1,0 +1,11 @@
+0
+2147483647
+2147483647
+slicelen v1: 4 [hello hello 
+	aa 
+	
+	]
+slicelen v2: 4 [ a aa foo bar]
+slicelen v3: 3 [32768 668 -510]
+v30: foo bar
+v4: 2147483647

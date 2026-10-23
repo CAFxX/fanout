@@ -1,0 +1,20 @@
+-9223372036854775808
+0 0 0
+0 0
+foo bar
+	foo barhello
+	hello foo bar
+	foo barhello
+	hello 1
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 30 [0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2]
+v31: foo bar
+	foo barhello
+	hello
+v32: 0
+maplen v4: 0
+v5: 1
+maplen v6: 0
+v67: 0
+v80: 1

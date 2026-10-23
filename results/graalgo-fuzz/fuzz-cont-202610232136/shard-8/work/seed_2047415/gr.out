@@ -1,0 +1,22 @@
+3.14159 foo bar 3.14159
+foo bar true -1
+-1 true -1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+v1: true
+v10: foo bar
+slicelen v11: 2 [0 32768]
+v115: 4294967295
+v118: 127
+v119: -676
+v12: foo bar
+v120: 0
+v124: -100
+maplen v2: 0
+v3: -1
+v4: 3.14159
+maplen v5: 0

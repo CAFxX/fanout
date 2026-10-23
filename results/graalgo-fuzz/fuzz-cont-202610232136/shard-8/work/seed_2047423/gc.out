@@ -1,0 +1,10 @@
+v1: 94
+v10: true
+v11: foo bar
+	a
+v12: 136
+slicelen v2: 0 []
+slicelen v3: 1 [2147483647]
+v4: 1
+v5: 3.14159
+v9: 127

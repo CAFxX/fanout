@@ -1,0 +1,15 @@
+65535 ahellohello
+	
+	foo bara
+	 -1
+maplen v1: 1
+v2: -1
+v3: ahellohello
+	
+	foo bara
+	ahellohello
+	
+	foo bara
+	
+v4: 18446744073709551615
+v5: 65535

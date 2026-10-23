@@ -1,0 +1,16 @@
+0 0
+aa 0
+true true
+true -32768
+-32768 -32768
+-32768 -32768 -32768
+127
+slicelen v1: 2 [85 784]
+slicelen v2: 1 [foo bar]
+maplen v3: 0
+v4: true
+v49: 2
+v5: -32768
+v50: 127
+v52: 2
+maplen v6: 0

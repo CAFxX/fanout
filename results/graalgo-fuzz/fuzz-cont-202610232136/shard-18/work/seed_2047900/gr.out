@@ -1,0 +1,7 @@
+v1: 0
+slicelen v2: 4 [
+	 foo barfoo bar hello foo bar]
+slicelen v3: 1 [2]
+v33: 15.555554672523805
+v34: 1.5
+v35: 1.5

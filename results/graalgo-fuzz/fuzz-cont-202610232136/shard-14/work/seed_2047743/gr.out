@@ -1,0 +1,14 @@
+maplen v1: 0
+v2: -14
+v3: 0.6666666666666667
+v30: 32767
+v39: 42
+maplen v4: 0
+slicelen v5: 3 [
+	hello
+	hello a ]
+v55: 42
+v56: 
+	hello
+	hello
+v63: 0.6666666666666667

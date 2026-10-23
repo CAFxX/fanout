@@ -1,0 +1,19 @@
+0 false
+1 false
+2 false
+3 false
+4 false
+slicelen v1: 1 [-2147483648]
+v10: afoo bara
+v11: -32768
+v15: 4294967295
+maplen v2: 0
+v3: false
+maplen v4: 0
+v5: foo barafoo barahello
+	aafoo barahellohelloafoo barahellohelloafoo bara
+v6: 1
+v7: 32767
+v8: 3
+v89: 857
+v9: 42

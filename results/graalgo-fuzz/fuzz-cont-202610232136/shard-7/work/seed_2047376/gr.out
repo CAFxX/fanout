@@ -1,0 +1,15 @@
+128 128 128
+slicelen v1: 2 [2 65535]
+v13: 128
+v2: 0
+v28: 32767
+v29: 372
+slicelen v3: 3 [
+	
+	hello 
+	
+	hello 
+	
+	hello]
+v34: 1
+slicelen v4: 2 [0 65535]

@@ -1,0 +1,11 @@
+492
+65535 65535
+65535 53
+v1: 65535
+v13: 53
+v14: foo bar
+v15: 1e+10
+slicelen v2: 2 [foo bar 
+	]
+maplen v3: 0
+v4: true

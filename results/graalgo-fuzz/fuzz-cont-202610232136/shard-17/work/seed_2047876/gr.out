@@ -1,0 +1,14 @@
+0 1.5
+1.5 0
+foo barfoo bar
+foo barfoo bar
+foo barfoo bar
+3.00000000015e+10 0 3.00000000015e+10
+464 3.00000000015e+10
+0 3.00000000015e+10 foo barfoo bar
+v1: 3.00000000015e+10
+v19: foo barfoo bar
+v2: 0
+v3: 464
+v32: foo barfoo barfoo barfoo bar
+slicelen v4: 0 []

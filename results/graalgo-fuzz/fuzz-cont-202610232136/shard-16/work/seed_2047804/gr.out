@@ -1,0 +1,10 @@
+1.5 a 1.5
+v1: a
+slicelen v2: 1 [foo bar]
+v3: 1.5
+v30: 4294967295
+v34: 1
+v35: 987
+v36: 1
+slicelen v4: 4 [a hello a aaaa]
+maplen v5: 0
