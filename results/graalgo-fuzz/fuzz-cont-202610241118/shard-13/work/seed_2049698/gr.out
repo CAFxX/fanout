@@ -1,0 +1,18 @@
+283 1
+-1.4
+v1: 283
+v2: 42
+v3: 1
+slicelen v4: 3 [
+	hellohello
+	a
+	
+	hello 
+	a foo bara
+	]
+v48: 128
+slicelen v5: 2 [42 0]
+v50: -1.4
+v75: 3.1499998569488525
+v78: 879
+v9: 0

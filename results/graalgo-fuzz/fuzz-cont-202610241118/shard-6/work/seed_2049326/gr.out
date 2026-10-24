@@ -1,0 +1,16 @@
+-925
+-925 1e+18 -925
+42 934
+42 934
+42 934
+maplen v1: 0
+slicelen v2: 4 [
+	 
+	 foo bar
+	 foo barhelloafoo bar]
+v3: -925
+v4: 934
+slicelen v5: 3 [ 
+	 hello]
+v57: 2147483647
+v6: 1e+18

@@ -1,0 +1,13 @@
+false
+4294967295 4294967295 3.14159
+maplen v1: 0
+v2: 4294967295
+v20: false
+v3: 2
+v4: 1
+v40: 3.14159
+v5: 0
+slicelen v6: 5 [hello 
+	 foo bar hellohello
+	 
+	]

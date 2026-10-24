@@ -1,0 +1,10 @@
+18446744073709551615
+slicelen v1: 4 [foo bar hello ahello a]
+v15: true
+v16: -1.5e+20
+maplen v2: 0
+v20: true
+v3: 0
+slicelen v4: 4 [ 
+	 a foo barafoo barfoo bara]
+v5: 18446744073709551615

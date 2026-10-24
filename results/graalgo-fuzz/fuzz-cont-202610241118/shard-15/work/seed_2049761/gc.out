@@ -1,0 +1,20 @@
+464 464
+0 foo barhello
+	 false
+1 foo barhello
+	 false
+2 foo barhello
+	 false
+foo barhello
+	 foo barhello
+	 0
+maplen v1: 0
+v2: 464
+v29: foo barhello
+	
+maplen v3: 0
+v30: 114
+v32: false
+v4: 0
+maplen v5: 0
+v51: false

@@ -1,0 +1,10 @@
+foo barfoo bar true
+v1: foo barfoo bar
+v2: true
+v24: 1.5
+v27: 9223372036854775807
+v28: -1.25
+maplen v3: 0
+maplen v4: 0
+v5: 2147483647
+v6: 599

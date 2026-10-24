@@ -1,0 +1,13 @@
+v1: 0
+slicelen v2: 4 [a foo barfoo barhelloa
+	a
+	hello
+	 
+	helloa foo bar]
+v26: 785
+maplen v3: 0
+v30: 363
+v31: 56
+slicelen v4: 3 [300 -383 4294967295]
+maplen v5: 0
+v6: foo bar

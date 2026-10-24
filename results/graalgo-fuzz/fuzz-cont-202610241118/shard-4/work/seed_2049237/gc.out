@@ -1,0 +1,73 @@
+
+	hello 128 0
+
+	hello
+
+	hello 128 1
+
+	hello
+
+	hello 128 2
+
+	hello
+
+	hello 128 3
+
+	hello
+
+	hello 128 4
+
+	hello
+
+	hello 128 5
+
+	hello
+
+	hello 128 6
+
+	hello
+
+	hello 128 7
+
+	hello
+
+	hello 128 8
+
+	hello
+
+	hello 128 9
+
+	hello
+
+	hello 128 10
+
+	hello
+
+	hello 128 11
+
+	hello
+
+	hello 128 12
+
+	hello
+
+	hello 128 13
+
+	hello
+
+	hello 128 14
+
+	hello
+0 -2147483648 0
+1 -2147483648 1
+2 -2147483648 2
+true 128 true
+maplen v1: 0
+slicelen v10: 1 [128]
+v11: -2147483648
+v12: 128
+v2: true
+v29: 1
+v3: NaN
+v31: 32767
+v9: 4294967295

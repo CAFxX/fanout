@@ -1,0 +1,12 @@
+foo bar
+foo bar
+false
+maplen v1: 0
+slicelen v2: 3 [ foo baraaa 
+	ahello]
+v21: 2147483647
+v22: false
+v3: foo bar
+v4: false
+v5: 27
+maplen v6: 0

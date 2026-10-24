@@ -1,0 +1,9 @@
+foo barhellohello
+42 foo barhellohello
+v1: foo barhellohello
+maplen v2: 1
+v25: 0
+v3: 0
+slicelen v34: 4 [-2147483648 2147483647 -2147483648 2147483647]
+v35: true
+maplen v4: 0

@@ -1,0 +1,13 @@
+32768 32768 3.14159
+v1: 65535
+v11: 128
+v12: 65535
+v13: hello
+	foo barhelloa
+v2: true
+slicelen v3: 1 [128]
+v4: 3.14159e+10
+v5: 0
+slicelen v6: 3 [a hello 
+	hello]
+v7: 131071

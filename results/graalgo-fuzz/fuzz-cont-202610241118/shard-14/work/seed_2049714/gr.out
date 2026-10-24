@@ -1,0 +1,9 @@
+foo barhellohello
+v1: 837
+v2: foo barhellohello
+v3: -1e+10
+v4: 255
+maplen v5: 1
+v50: false
+slicelen v51: 4 [1 2147483647 -9223372036854775808 -723]
+v61: 0

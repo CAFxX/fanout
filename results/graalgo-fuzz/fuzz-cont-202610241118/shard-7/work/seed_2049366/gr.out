@@ -1,0 +1,10 @@
+maplen v1: 0
+v2: -1
+v22: 0
+v23: foo bar
+v24: false
+maplen v3: 0
+v31: 2
+v32: foo barhellofoo barfoo barfoo bar
+slicelen v4: 4 [-810 -1 32767 32767]
+v5: 0

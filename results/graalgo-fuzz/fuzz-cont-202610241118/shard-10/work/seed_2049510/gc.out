@@ -1,0 +1,10 @@
+foo barhellofoo bar
+	afoo barhello
+foo barhellofoo bar
+	afoo barhello
+slicelen v1: 3 [-1 4294967295 2147483647]
+v2: foo barhellofoo bar
+	afoo barhello
+maplen v3: 1
+v53: foo barhellofoo bar
+	afoo barhello

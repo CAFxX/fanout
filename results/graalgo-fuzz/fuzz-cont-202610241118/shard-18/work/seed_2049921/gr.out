@@ -1,0 +1,14 @@
+-2 -2
+-2 -2
+v1: 101
+v15: 2
+v16: true
+v19: -2
+slicelen v2: 2 [foo bar a]
+v20: foo bar
+v22: 127
+v23: -2
+v25: 18446744073709551615
+maplen v3: 0
+slicelen v4: 3 [127 0 42]
+v8: 0

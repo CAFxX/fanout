@@ -1,0 +1,10 @@
+false -746
+42 42
+v1: -746
+slicelen v2: 5 [hello 
+	
+	 foo bar  hello]
+v22: 1
+slicelen v3: 5 [2147483648 2147483647 1 2147483647 42]
+v4: false
+v5: 42

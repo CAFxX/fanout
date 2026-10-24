@@ -1,0 +1,32 @@
+127
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+v1: 861
+v15: 128
+slicelen v2: 3 [
+	 foo bar ]
+maplen v3: 0
+v32: 1e+10
+slicelen v4: 3 [hello
+	foo bar
+	
+	  a]
+maplen v5: 1
+v52: foo bar
+v54: 1e+10

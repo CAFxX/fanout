@@ -1,0 +1,6 @@
+maplen v1: 0
+v2: hello
+v3: 
+v32: 0
+slicelen v4: 3 [127 104 128]
+slicelen v5: 3 [32768 128 -212]

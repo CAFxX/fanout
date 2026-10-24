@@ -1,0 +1,17 @@
+32767 1.5
+1.5
+true
+1.5
+true
+true
+true
+true
+true
+0 1.5 32767
+slicelen v1: 3 [a  foo bar]
+v2: 32767
+v23: 0
+v24: 1.5
+slicelen v3: 1 [42]
+maplen v4: 0
+v9: true

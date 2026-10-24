@@ -1,0 +1,10 @@
+127 127
+255
+maplen v1: 1
+v10: 0.1
+v11: 27
+v2: 127
+slicelen v3: 3 [foo bara foo bar foo bar
+	foo barfoo bar
+	hello]
+v4: 255

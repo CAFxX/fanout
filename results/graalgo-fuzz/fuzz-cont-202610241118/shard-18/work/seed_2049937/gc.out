@@ -1,0 +1,22 @@
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+-128
+564
+v1: 
+	foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bar
+v2: -128
+slicelen v3: 1 [
+	foo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo barfoo bara]
+maplen v4: 1
+v5: 42
+v8: 564
+v9: -4.5

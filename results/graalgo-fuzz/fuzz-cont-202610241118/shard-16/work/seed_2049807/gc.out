@@ -1,0 +1,16 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+hellohellohello
+	
+maplen v1: 1
+v109: 1.5
+v110: -724
+v113: hello
+slicelen v2: 1 [-2147483648]
+slicelen v3: 3 [65535 10 1]
+v43: hellohellofoo barhellohellohellofoo barfoo baraahellohellohellohello
+	afoo bar
+v44: foo barhello

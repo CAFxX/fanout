@@ -1,0 +1,7 @@
+-128 65535
+65535 65535
+maplen v1: 1
+v2: -128
+slicelen v3: 4 [0 92 42 -128]
+slicelen v4: 2 [hello a]
+v5: 65535

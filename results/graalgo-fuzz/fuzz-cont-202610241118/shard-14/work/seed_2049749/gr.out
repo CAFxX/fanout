@@ -1,0 +1,15 @@
+1.5
+v1: 0
+v19: helloa
+	
+slicelen v2: 2 [
+	
+	 foo barfoo barfoo bar
+	aahellohellohello
+	
+	]
+v20: 132
+v24: 0
+maplen v3: 0
+maplen v4: 0
+v5: 4.64159

@@ -1,0 +1,14 @@
+2
+481 2 2
+2 481 foo bar
+481 127
+v1: 481
+v14: 171
+v15: -1
+maplen v2: 0
+v3: 2
+slicelen v4: 2 [foo bar
+	 a]
+v5: 481
+v6: foo bar
+v7: 127

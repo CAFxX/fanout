@@ -1,0 +1,17 @@
+-1 0.1
+-1 -1
+-1
+-1
+-1
+-1
+-1 -1
+-1 -1
+slicelen v1: 3 [hellofoo bar 
+	hello
+	aaaaa ahellohellofoo barfoo barfoo bara
+	a]
+v2: -8.15
+v3: -1
+slicelen v4: 4 [0 574 -2147483648 -519]
+v43: 0
+maplen v5: 0
