@@ -1,0 +1,8 @@
+v1: true
+v2: 235
+v3: foo barfoo bar
+v62: 3.14159
+v67: false
+v69: 42
+slicelen v70: 4 [0 1 4294967295 -9223372036854775808]
+v71: true

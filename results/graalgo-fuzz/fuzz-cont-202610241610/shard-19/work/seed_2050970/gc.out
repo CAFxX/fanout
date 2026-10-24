@@ -1,0 +1,16 @@
+maplen v1: 0
+v12: 
+	
+v13: 4294966823
+v14: 2147483647
+v15: 676
+slicelen v2: 2 [foo barfoo barhellohelloahello
+	a
+	
+	hello
+	
+	a a]
+v26: 972
+v27: 0
+v3: 858
+v4: false

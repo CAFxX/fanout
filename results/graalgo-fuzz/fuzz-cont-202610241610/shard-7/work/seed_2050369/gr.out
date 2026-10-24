@@ -1,0 +1,15 @@
+1 0 1
+1
+0 610 0
+0 610 0
+0 610 0
+v1: 65535
+slicelen v2: 6 [foo barfoo bar
+	hellohellofoo barfoo barhellohello foo bar foo bar foo bar foo bar foo bar]
+v3: 0
+v39: 65535
+maplen v4: 0
+v5: 0
+v6: true
+v7: 4
+v8: 610

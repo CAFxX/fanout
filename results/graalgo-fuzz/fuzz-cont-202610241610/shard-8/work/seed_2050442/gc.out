@@ -1,0 +1,10 @@
+-822
+755 foo bar
+0 0
+v1: -822
+v16: 755
+v18: 54
+maplen v2: 1
+v3: 0
+v4: foo bar
+slicelen v8: 3 [127 -822 -1]

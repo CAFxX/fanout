@@ -1,0 +1,15 @@
+65535 65535
+65535 65535
+18446744073709551615 18446744073709551615
+v1: 18446744073709551615
+slicelen v2: 71 [hello
+	
+	aaafoo barfoo barhelloaahelloafoo barhello
+	foo bar
+	
+	foo bar
+	hello
+	ahello a  hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+maplen v3: 0
+v4: 65535
+v5: 18446744073709551615

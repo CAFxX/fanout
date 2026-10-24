@@ -1,0 +1,10 @@
+foo bar 0
+v1: 0
+v10: foo bar
+v14: 18446744073709551615
+v15: 0
+v16: 32767
+v2: 326
+slicelen v3: 1 [a]
+v4: false
+v9: foo bar

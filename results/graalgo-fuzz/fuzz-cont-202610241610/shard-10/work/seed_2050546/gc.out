@@ -1,0 +1,26 @@
+true
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+foo bar foo bar -489
+maplen v1: 0
+v2: -489
+v3: false
+maplen v4: 0
+slicelen v41: 1 [-2147483648]
+v52: 1.5
+v53: 42
+v54: foo bar

@@ -1,0 +1,14 @@
+slicelen v1: 2 [2 2]
+v2: hellohello
+v23: 888
+v24: 263
+v29: 263
+v3: 374
+v30: foo bar
+v4: 665
+v47: foo bar
+slicelen v5: 2 [
+	foo bar
+	hello 
+	foo barhellohello]
+v6: 263

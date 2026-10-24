@@ -1,0 +1,28 @@
+-1
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+0 -128
+-551 foo barhellohellohello
+	hello
+	a
+	foo barfoo barhellohellofoo bar 0
+maplen v1: 0
+v2: 84
+maplen v3: 2
+v4: 0
+v5: foo barhellohellohello
+	hello
+	a
+	foo barfoo barhellohellofoo bar
+slicelen v6: 0 []
+v63: 1
+v7: -128
+v8: -551

@@ -1,0 +1,14 @@
+32767
+ahello 32767
+-2147483647 -2147483647
+slicelen v1: 2 [foo bar
+	hellofoo barhellohello ahello]
+v2: 892
+v3: ahello
+v4: 32767
+slicelen v5: 4 [ahelloahelloahelloahelloahelloahello
+	 ahello a ahello]
+v60: -2147483647
+v61: 32767
+v62: 1e+10
+v64: true

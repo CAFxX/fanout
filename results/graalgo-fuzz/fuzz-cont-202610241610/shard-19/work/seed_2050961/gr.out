@@ -1,0 +1,11 @@
+v1: 1000
+v16: false
+v17: 
+v18: -24
+slicelen v2: 2 [1 32767]
+v3: 3000
+maplen v4: 0
+v5: 0
+slicelen v6: 4 [
+	 hello
+	 foo bar a]

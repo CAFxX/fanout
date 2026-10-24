@@ -1,0 +1,14 @@
+1
+1 3.14159
+slicelen v1: 4 [ 
+	 
+	 hello]
+slicelen v2: 4 [  
+	
+	aahellohellohello 
+	foo bar]
+v3: 3.14159
+maplen v4: 0
+v41: 0
+v5: 1
+maplen v6: 0

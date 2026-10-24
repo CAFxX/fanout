@@ -1,0 +1,15 @@
+255 0
+0 2
+slicelen v1: 4 [a hello hello
+	afoo bar
+	foo bar 
+	]
+v2: 0
+maplen v3: 0
+v39: 0
+slicelen v4: 3 [2147483648 42 798]
+v49: 2
+v5: 255
+v50: 0
+v57: -329
+v58: -1

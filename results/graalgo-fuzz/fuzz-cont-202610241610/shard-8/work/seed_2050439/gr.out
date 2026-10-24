@@ -1,0 +1,20 @@
+1
+0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+maplen v1: 0
+slicelen v2: 2 [foo bar a
+	foo baraaaa
+	foo barhello]
+v24: 0
+slicelen v3: 0 []
+slicelen v4: 3 [
+	hellohello foo bar aa]
+v5: 0
+slicelen v6: 2 [4294967295 2147483647]

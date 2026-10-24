@@ -1,0 +1,9 @@
+2147483648 42
+172032 172032
+slicelen v1: 4 [foo bar  
+	helloafoo bar ]
+slicelen v2: 4 [332 4294967295 42 221]
+maplen v3: 0
+v4: 172032
+slicelen v5: 2 [foo bar a]
+v6: 0

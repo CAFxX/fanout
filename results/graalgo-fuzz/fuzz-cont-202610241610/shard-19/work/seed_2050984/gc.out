@@ -1,0 +1,15 @@
+false
+false
+false
+false
+v1: -2.25
+v2: 4294967297
+v21: true
+v25: 42
+v26: false
+v27: 2147483648
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 9 [hello
+	foo bar  
+	      ]

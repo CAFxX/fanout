@@ -1,0 +1,13 @@
+true
+-1 1.5
+-1 1.4
+-1 1.3
+-1 true -1
+v1: 1.1999999
+maplen v2: 1
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 37 [a foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara foo bar helloafoo bara]
+v53: -1
+v6: true
+v60: true

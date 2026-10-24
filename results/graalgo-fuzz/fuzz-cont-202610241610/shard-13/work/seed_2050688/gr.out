@@ -1,0 +1,13 @@
+0 0 afoo bar
+0
+afoo bar 1 42
+42 42
+afoo bar
+0 1 afoo bar
+v1: afoo bar
+v10: -32768
+slicelen v11: 2 [42 0]
+v12: -131
+v2: 0
+v3: 1
+v7: 42

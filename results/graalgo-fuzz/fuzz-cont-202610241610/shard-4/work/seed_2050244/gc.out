@@ -1,0 +1,14 @@
+foo barhellohellohellohellohellohellohello hello
+foo barhellohellohellohellohellohellohello hello
+slicelen v1: 0 []
+v10: 4294967295
+v14: -256
+v16: 0
+v17: -1
+v2: foo barhellohellohellohellohellohellohellohello
+	
+v3: foo barhellohellohellohellohellohellohello
+slicelen v4: 2 [153 4294967295]
+v5: foo barhellohellohellohellohellohellohellohello
+	
+maplen v6: 0

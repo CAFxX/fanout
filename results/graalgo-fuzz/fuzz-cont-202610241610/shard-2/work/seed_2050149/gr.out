@@ -1,0 +1,10 @@
+v1: a
+v15: 1
+v16: 16
+v19: 4294967295
+v2: 1
+slicelen v3: 2 [a
+	aaaaaahelloaahelloaaafoo baraa
+	aaa a]
+v4: -179
+v5: -1

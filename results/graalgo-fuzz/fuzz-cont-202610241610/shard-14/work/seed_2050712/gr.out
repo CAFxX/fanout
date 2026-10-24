@@ -1,0 +1,7 @@
+v1: 0
+slicelen v2: 3 [ foo bar aaaa]
+v3: 4294967295
+v30: -1
+v4: 1
+v5: 9223372036854775807
+slicelen v6: 0 []

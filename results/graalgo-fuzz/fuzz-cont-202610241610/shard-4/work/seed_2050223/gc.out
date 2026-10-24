@@ -1,0 +1,33 @@
+32768 247 221
+32768 -0.044444446
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+-0.044444446 32768 18446744073709518847
+maplen v1: 0
+slicelen v12: 2 [-1 -9223372036854775808]
+v13: -0.044444446
+v16: 0
+maplen v2: 0
+v3: foo bar
+v38: 61
+v4: 0
+v5: 32768
+v59: 18446744073709518847

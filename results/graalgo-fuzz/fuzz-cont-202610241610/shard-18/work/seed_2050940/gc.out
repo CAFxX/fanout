@@ -1,0 +1,20 @@
+hello 717 true
+hello 2015 false
+hello 4095 false
+hello 8191 false
+hello 16383 false
+hello 32767 false
+hello 65535 false
+hello 131071 false
+hello 262143 false
+hello 524287 false
+hello 1048575 false
+hello 2097151 false
+0 hello
+v1: true
+slicelen v2: 1 [42]
+v20: 0
+v3: hello
+v4: 4294901760
+v71: -293
+v72: 42

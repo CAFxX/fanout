@@ -1,0 +1,12 @@
+0 -479 18446744073709551615
+-128
+maplen v1: 0
+v10: 910
+v15: -479
+slicelen v2: 0 []
+slicelen v3: 13 [foo barfoo bar 
+	aa 
+	 hello hello hello hello hello hello hello hello hello hello]
+v54: 910
+v8: 0
+v9: -128

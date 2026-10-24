@@ -1,0 +1,14 @@
+helloa
+	
+-79 4294967295
+v1: helloa
+	
+maplen v2: 0
+maplen v3: 0
+v4: -79
+slicelen v5: 2 [foo barhellohelloa
+	hello
+	 hello]
+v53: 18446744073709551615
+v6: 4294967295
+v60: -0.071428575

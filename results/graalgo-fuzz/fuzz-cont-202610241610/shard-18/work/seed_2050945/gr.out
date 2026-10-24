@@ -1,0 +1,17 @@
+0 100 1e+09
+0 100
+v1: 
+	foo barfoo bar
+	foo barhello
+	foo bar
+	foo bar
+	foo bar
+v2: 1e+09
+v3: 9223372036854775807
+v30: 100
+v31: 0
+v36: 3.0866123e-09
+v37: 0
+maplen v4: 0
+v40: true
+v69: true

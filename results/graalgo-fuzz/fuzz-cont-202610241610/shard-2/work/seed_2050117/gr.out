@@ -1,0 +1,11 @@
+76 3.14159
+3.14159
+slicelen v1: 2 [ foo bar
+	foo bar]
+v2: 76
+v20: 1e+10
+v21: 2147483647
+v22: 1
+slicelen v3: 1 [foo bar]
+v4: 3.14159
+v9: 993

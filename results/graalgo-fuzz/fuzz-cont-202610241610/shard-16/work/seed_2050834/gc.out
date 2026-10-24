@@ -1,0 +1,9 @@
+1
+0.1 0.1 foo barfoo barafoo barfoo barafoo barfoo bara
+slicelen v1: 2 [963 42]
+slicelen v2: 4 [42 314 4294967295 42]
+v24: 0
+v26: 0.1
+v3: foo barfoo barafoo barfoo barafoo barfoo bara
+slicelen v4: 3 [127 0 -791]
+maplen v5: 0

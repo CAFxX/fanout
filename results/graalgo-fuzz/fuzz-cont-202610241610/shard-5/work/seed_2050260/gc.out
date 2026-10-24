@@ -1,0 +1,12 @@
+255 foo bar
+v1: 4294967295
+v17: 18446744069414584320
+v2: foo bar
+slicelen v20: 1 [-1]
+v3: -932
+v4: 128
+maplen v5: 0
+maplen v6: 1
+v7: 56
+v8: 0
+v9: true

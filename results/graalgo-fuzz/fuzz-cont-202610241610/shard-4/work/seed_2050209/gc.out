@@ -1,0 +1,22 @@
+
+	a 2147483647 85
+
+	a 2147483647 85
+
+	a 2147483647 85
+
+	a 2147483647 85
+
+	a 2147483647 85
+
+	a 2147483647 85
+
+	a 2147483647 85
+5376
+v1: 5376
+maplen v2: 0
+v3: 2147483647
+v4: hellofoo bar
+maplen v5: 0
+slicelen v6: 9 [
+	a hellofoo bar hellofoo bar hellofoo bar hellofoo bar hellofoo bar hellofoo bar hellofoo bar hellofoo bar]

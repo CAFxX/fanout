@@ -1,0 +1,12 @@
+60 hello
+42
+true
+v1: true
+maplen v2: 0
+slicelen v3: 5 [hello afoo bar 
+	 hellofoo bar ]
+v4: 0
+v42: 60
+v5: 0
+v50: 
+	hellohello

@@ -1,0 +1,11 @@
+255 -1
+-1 255 -30
+slicelen v1: 2 [foo bar 
+	foo barfoo barhello]
+v2: true
+v3: 255
+v33: -1
+v39: -61
+maplen v4: 0
+v5: 2
+v61: -30

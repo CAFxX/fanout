@@ -1,0 +1,12 @@
+1 true 1
+v1: foo barfoo bar
+v162: 254
+v172: 65535
+v173: -2
+v2: 1
+v26: true
+v27: -2
+v3: 0
+v4: true
+slicelen v5: 0 []
+slicelen v6: 0 []

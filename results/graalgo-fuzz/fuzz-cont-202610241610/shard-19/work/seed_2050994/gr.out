@@ -1,0 +1,15 @@
+2147483647
+42 55 42
+v1: -2.15
+v16: 4294967294
+v17: 55
+v18: 42
+v19: 0
+slicelen v2: 4 [
+	  
+	foo bar hello]
+v20: 42
+maplen v3: 0
+v4: 255
+maplen v5: 0
+slicelen v6: 1 [32768]

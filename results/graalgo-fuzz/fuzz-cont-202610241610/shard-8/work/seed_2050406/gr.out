@@ -1,0 +1,9 @@
+true true
+v1: true
+slicelen v2: 4 [857 615 2147483648 2]
+maplen v3: 0
+slicelen v4: 3 [2147483647 4294967295 761]
+v40: true
+v42: 32767
+slicelen v5: 1 [foo barfoo bar]
+v6: 1

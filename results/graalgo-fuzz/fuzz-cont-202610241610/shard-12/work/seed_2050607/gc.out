@@ -1,0 +1,14 @@
+foo bar
+-7391 177 127
+foo barfoo barafoo barhello
+v1: 177
+maplen v2: 0
+maplen v3: 0
+v38: -14782
+v39: foo barfoo barafoo barhello
+maplen v4: 0
+v5: 127
+v6: foo bar
+v66: 1
+slicelen v67: 3 [-737 1 -9223372036854775808]
+v69: -3696
