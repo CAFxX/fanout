@@ -1,0 +1,29 @@
+true helloahello
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+32767
+true 32767 -2
+slicelen v1: 3 [foo barhellohello
+	hellofoo baraahello
+	a helloahello foo barhelloahello]
+v2: 784
+v3: true
+v4: foo barhelloahellofoo barhelloahellohellofoo bar
+v5: 32767
+v6: -2

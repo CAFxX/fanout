@@ -1,0 +1,15 @@
+0 0
+4294967295 0
+maplen v1: 0
+v15: 18446744065119617025
+v16: 4294967295
+v17: 
+	hello
+v18: true
+v19: 4294967295
+v2: 0
+v20: -1
+slicelen v3: 4 [
+	foo barfoo bar
+	  foo bar hello]
+v4: 4294967295

@@ -1,0 +1,11 @@
+32767
+255 32767
+255 255
+255 32767
+v1: -2
+v10: 255
+v11: 0
+slicelen v2: 3 [foo bar
+	 foo bar hello]
+slicelen v3: 0 []
+v9: 943

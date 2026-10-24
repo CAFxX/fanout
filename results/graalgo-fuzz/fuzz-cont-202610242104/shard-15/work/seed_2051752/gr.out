@@ -1,0 +1,25 @@
+0
+foo barhello
+	foo barhellofoo barfoo barhello
+	foo barhellofoo bar foo barhello
+	foo barhellofoo barfoo barhello
+	foo barhellofoo bar
+v1: 461
+slicelen v10: 4 [-239 4294967295 128 9223372036854775807]
+v11: 0
+maplen v2: 0
+v25: foo barhello
+	foo barhellofoo barfoo barhello
+	foo barhellofoo barfoo barhello
+	foo barhellofoo barfoo barhello
+	foo barhellofoo barhello
+	hello
+v3: foo barhello
+	foo barhellofoo barfoo barhello
+	foo barhellofoo bar
+v30: 4294966545
+v31: -1e+10
+v4: 461
+maplen v5: 1
+v8: 0
+v9: 3.5235815

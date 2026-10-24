@@ -1,0 +1,10 @@
+false true
+slicelen v1: 3 [65535 4294967295 2]
+v2: false
+v3: -1
+v33: 42
+v35: true
+v36: foo bar
+maplen v4: 1
+slicelen v5: 2 [hello ]
+v6: 42

@@ -1,0 +1,26 @@
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+76
+-2.25 -32768 hello
+-2.25 0 hello
+-2.25 -32768 hello
+-2.25 1 hello
+v1: -32768
+v16: -2.25
+v18: 842
+v2: 76
+v23: hello
+v3: true
+v4: 0
+slicelen v5: 1 [32767]

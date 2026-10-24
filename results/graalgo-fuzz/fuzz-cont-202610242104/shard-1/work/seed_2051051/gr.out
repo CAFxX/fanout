@@ -1,0 +1,33 @@
+552 1
+false false 1
+false false
+false true
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+true true 0.1
+552 0.1 1
+1
+slicelen v1: 1 [foo bar]
+v17: 1
+v19: true
+v2: 2147483647
+v20: 0.1
+v21: 42
+v3: true
+v4: 342
+maplen v5: 1
+v6: -9223372036854775692

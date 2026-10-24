@@ -1,0 +1,12 @@
+161 false 161
+slicelen v1: 2 [a hello]
+v14: 161
+v15: 420
+v16: -9223372036854775808
+v2: false
+v20: 65535
+v3: 183
+v4: true
+slicelen v5: 1 [
+	a
+	hello]

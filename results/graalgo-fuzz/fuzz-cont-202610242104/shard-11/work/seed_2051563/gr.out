@@ -1,0 +1,8 @@
+false foo barafoo bar 2e+10
+false
+v1: false
+v18: foo barafoo bar
+slicelen v2: 1 [hellofoo barafoo bar]
+v3: foo barafoo bar
+maplen v4: 1
+v5: 2e+10

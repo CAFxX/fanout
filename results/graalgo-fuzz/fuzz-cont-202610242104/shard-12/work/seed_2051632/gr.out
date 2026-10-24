@@ -1,0 +1,106 @@
+a
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara -1 a
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+-1 a
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara a
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+v1: a
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+	foo bar
+	foo barafoo bara
+v2: -1
+v3: -1073676287
+slicelen v5: 1 [-42]

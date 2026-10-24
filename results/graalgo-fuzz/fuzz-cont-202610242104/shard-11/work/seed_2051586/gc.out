@@ -1,0 +1,9 @@
+foo barfoo barfoo barhello
+	foo barfoo barfoo barhello
+foo barfoo barfoo barhello
+	foo barfoo barfoo barhello -295
+maplen v1: 1
+slicelen v2: 2 [0 2147483648]
+v3: foo barfoo barfoo barhello
+	foo barfoo barfoo barhello
+v57: -295

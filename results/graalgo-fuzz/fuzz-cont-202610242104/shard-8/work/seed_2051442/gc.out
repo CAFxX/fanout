@@ -1,0 +1,11 @@
+-9223372036854775808
+-9223372036854775808
+1 1 1
+1 0 1
+slicelen v1: 4 [1 922 2147483648 2]
+v11: 0
+v15: 547
+slicelen v2: 3 [a hello foo bar]
+v23: foo barhellofoo bar
+v3: 0
+maplen v4: 1

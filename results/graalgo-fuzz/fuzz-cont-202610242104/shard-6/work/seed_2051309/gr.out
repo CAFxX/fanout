@@ -1,0 +1,11 @@
+v1: 0
+v12: 578
+slicelen v2: 3 [
+	 a
+	 foo bar]
+v3: 0
+slicelen v4: 1 [foo bar
+	]
+v5: 1
+v62: 66
+v64: 0

@@ -1,0 +1,15 @@
+a
+	helloa
+v1: a
+	helloa
+	helloa
+	helloa
+	hello
+v2: 32768
+v3: -1
+v4: a
+	helloa
+	hello
+v54: 3
+slicelen v7: 1 [32768]
+v8: 54

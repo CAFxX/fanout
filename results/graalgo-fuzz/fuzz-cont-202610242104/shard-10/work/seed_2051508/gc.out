@@ -1,0 +1,12 @@
+v1: 65535
+v10: hello
+slicelen v2: 16 [ 
+	hello 
+	 hello hello hello hello hello hello hello hello hello hello hello a foo barfoo barhello]
+v23: 0
+v24: hello
+v25: 3.14159
+v26: 0
+v27: 4294967295
+v3: 0
+v4: 3.14159

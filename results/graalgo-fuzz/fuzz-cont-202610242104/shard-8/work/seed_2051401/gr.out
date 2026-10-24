@@ -1,0 +1,17 @@
+v1: 1
+v15: 7204422369735868415
+v2: 0
+v3: 9223372034707292161
+v39: 32767
+slicelen v4: 4 [-9223372036854775808 -9223372036854775808 127 0]
+v40: 255
+slicelen v5: 3 [hellofoo bar a hellofoo barfoo barhello
+	
+	foo barhelloa
+	foo barhello
+	
+	hellohelloa
+	a
+	foo barafoo barhello
+	
+	afoo barhello]

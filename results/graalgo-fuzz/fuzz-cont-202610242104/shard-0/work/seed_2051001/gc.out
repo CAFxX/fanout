@@ -1,0 +1,16 @@
+224 42 true
+2147483647 true
+slicelen v1: 2 [4294967295 65535]
+v18: 2147483647
+v19: -115
+v2: true
+v22: -2147483648
+slicelen v3: 4 [foo bar hello afoo bar foo barfoo bar
+	
+	
+	aahellofoo bar
+	foo barahello
+	a]
+v4: 42
+v5: 224
+v6: 42

@@ -1,0 +1,28 @@
+foo bar -1
+42 -32768
+-32768 42 foo bar
+-32768 41 foo bar
+-32768 40 foo bar
+-32768 39 foo bar
+-32768 38 foo bar
+-32768 37 foo bar
+-32768 36 foo bar
+-32768 35 foo bar
+-32768 34 foo bar
+-32768 33 foo bar
+-32768 32 foo bar
+-32768 31 foo bar
+-32768 30 foo bar
+-32768 29 foo bar
+-32768 28 foo bar
+-32768 27 foo bar
+-32768 26 foo bar
+-32768 25 foo bar
+v1: foo bar
+v13: 24
+v14: -32768
+maplen v2: 1
+v3: 42
+v30: false
+v4: -1
+slicelen v5: 1 [791]

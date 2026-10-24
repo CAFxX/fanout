@@ -1,0 +1,13 @@
+0 foo barfoo bar
+1 foo barfoo bar
+2 foo barfoo bar
+3 foo barfoo bar
+4 foo barfoo bar
+foo barfoo bar
+true true foo barfoo bar
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 2 [859 -937]
+v4: foo barfoo bar
+v40: 0
+v5: true

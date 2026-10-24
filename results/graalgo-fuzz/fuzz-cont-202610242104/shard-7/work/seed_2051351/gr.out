@@ -1,0 +1,25 @@
+0 0
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+foo barhello
+foo barhello 0
+foo barhello 0
+foo barhello 0
+foo barhello 0
+slicelen v1: 1 [
+	]
+v2: foo barhello
+v3: -1.5e+10
+v66: 0
+v75: false

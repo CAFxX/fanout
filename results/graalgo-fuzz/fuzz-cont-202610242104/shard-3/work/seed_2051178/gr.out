@@ -1,0 +1,16 @@
+0 1
+v1: 4294967295
+v11: 1
+v12: 9223372036854775807
+v13: 497
+v14: 255
+v15: 0
+v16: 128
+slicelen v2: 0 []
+maplen v3: 0
+slicelen v4: 4 [
+	
+	
+	hello 
+	foo barhello a hello]
+v5: true

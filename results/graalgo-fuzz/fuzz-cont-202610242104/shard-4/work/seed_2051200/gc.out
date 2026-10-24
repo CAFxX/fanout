@@ -1,0 +1,13 @@
+
+	foo bara
+false false 0
+v1: false
+v18: true
+v19: 0
+v2: 
+	foo bara
+v20: 9223372036854775807
+v3: 2
+maplen v4: 0
+slicelen v8: 5 [-9223372036854775808 2147483647 32767 128 4294967295]
+v9: 0

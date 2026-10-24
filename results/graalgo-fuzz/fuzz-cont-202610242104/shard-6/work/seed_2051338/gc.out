@@ -1,0 +1,14 @@
+128
+2147483647 -9223372036854775808
+maplen v1: 0
+v14: 2
+v15: 65535
+v19: 128
+v2: 2147483647
+v20: -472
+v21: -9223372036854775808
+slicelen v3: 4 [foo bar foo bar 
+	foo bar hello]
+v4: 0
+maplen v5: 0
+maplen v6: 0

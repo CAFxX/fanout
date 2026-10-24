@@ -1,0 +1,15 @@
+9223372036854775807 9223372036854775807
+v1: -2
+v2: 588
+v28: false
+v29: -2
+slicelen v3: 4 [
+	hello 
+	foo barhellohello a foo bar]
+v30: 0
+v34: 2147483648
+slicelen v4: 5 [0 4294967295 42 484 2]
+slicelen v5: 3 [foo bar  
+	]
+slicelen v6: 1 [2]
+v88: 3.14159

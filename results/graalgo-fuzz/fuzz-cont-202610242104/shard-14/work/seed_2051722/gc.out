@@ -1,0 +1,10 @@
+v1: 600
+v18: 599
+v2: 65535
+v20: 0
+slicelen v3: 3 [ foo bar 
+	
+	]
+maplen v4: 1
+slicelen v5: 3 [hello  afoo barhellohello]
+v6: 52

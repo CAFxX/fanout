@@ -1,0 +1,7 @@
+42 1 false
+a 149 42
+v1: a
+v2: 42
+v3: false
+slicelen v4: 2 [a a]
+v42: 149

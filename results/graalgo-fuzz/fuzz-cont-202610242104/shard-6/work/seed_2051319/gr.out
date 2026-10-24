@@ -1,0 +1,19 @@
+0 hello
+	foo barfoo bar
+1 hello
+	foo barfoo bar
+2 hello
+	foo barfoo bar
+3 hello
+	foo barfoo bar
+4 hello
+	foo barfoo bar
+v1: hello
+	foo barfoo bar
+slicelen v2: 9 [2147483648 363 2 2147483647 1 1 1 1 1]
+v24: true
+v25: -1
+maplen v3: 0
+v4: false
+v8: 427
+v9: 42

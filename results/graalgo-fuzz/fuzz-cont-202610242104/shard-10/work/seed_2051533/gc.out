@@ -1,0 +1,14 @@
+409 280
+maplen v1: 1
+v11: 503
+slicelen v2: 1 [hello]
+v23: 280
+v27: 2
+v3: 409
+v30: 1.5
+v31: 256
+v32: -9
+v4: 128
+slicelen v5: 2 [
+	 foo bar]
+v6: 88

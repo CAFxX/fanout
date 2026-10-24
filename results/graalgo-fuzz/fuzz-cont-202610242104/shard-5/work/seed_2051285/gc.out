@@ -1,0 +1,10 @@
+foo bar foo bar 32767
+maplen v1: 0
+v11: 0
+v12: 32767
+v18: foo bar
+slicelen v2: 3 [
+	foo barhello
+	foo baraafoo barhellohellofoo bar
+	a hello foo bar]
+slicelen v3: 3 [4294967295 1 65535]
