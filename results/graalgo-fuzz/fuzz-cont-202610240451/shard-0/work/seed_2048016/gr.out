@@ -1,0 +1,11 @@
+maplen v1: 0
+v2: 1000
+v3: 99
+v31: 100
+v32: 0
+v39: 1000
+v4: 146
+v40: -124
+v5: 0
+slicelen v6: 2 [hello
+	 aafoo bar]

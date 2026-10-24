@@ -1,0 +1,17 @@
+2 -1
+2 true -1
+0 true
+true
+v1: false
+v12: true
+v16: 
+	foo bar
+v17: 
+	foo bar
+v2: 0
+maplen v3: 0
+v34: 0
+v4: 0
+maplen v5: 1
+maplen v6: 0
+v9: true

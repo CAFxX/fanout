@@ -1,0 +1,32 @@
+11 0 hello
+-78 1 hello
+89 2 hello
+0 3 hello
+-89 4 hello
+78 5 hello
+-11 6 hello
+-100 7 hello
+67 8 hello
+-22 9 hello
+-111 10 hello
+56 11 hello
+-33 12 hello
+-122 13 hello
+45 14 hello
+-44 15 hello
+123 16 hello
+34 17 hello
+34
+34
+34 42 34
+430 0.1 430
+maplen v1: 0
+v2: hello
+v28: 42
+v3: 256
+v4: 34
+v5: 0.1
+v80: -323
+v81: 430
+slicelen v82: 1 [32767]
+v83: 430

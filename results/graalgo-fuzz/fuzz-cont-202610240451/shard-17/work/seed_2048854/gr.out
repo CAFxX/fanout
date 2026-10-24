@@ -1,0 +1,18 @@
+18446744073709551573
+maplen v1: 0
+v10: 
+maplen v2: 0
+slicelen v3: 4 [
+	 foo bar  
+	a
+	hello
+	foo bar
+	hello
+	hello
+	hello]
+v4: 42
+v5: 582
+v6: 
+	hello
+v7: 1
+v8: 18446744073709551573

@@ -1,0 +1,11 @@
+false false false
+slicelen v1: 1 [571]
+maplen v2: 0
+v21: false
+v22: foo barfoo barhello
+v23: 1
+v27: 1
+slicelen v3: 3 [
+	  hello]
+v30: false
+maplen v4: 0

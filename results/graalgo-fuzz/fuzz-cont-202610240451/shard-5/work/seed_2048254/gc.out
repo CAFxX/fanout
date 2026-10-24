@@ -1,0 +1,7 @@
+a -432 -432
+v1: a
+slicelen v2: 1 [aaaaa]
+slicelen v3: 3 [540 434 728]
+slicelen v4: 4 [a a a ]
+v5: -432
+v6: 2e+10

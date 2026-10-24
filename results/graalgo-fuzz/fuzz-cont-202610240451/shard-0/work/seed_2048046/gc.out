@@ -1,0 +1,12 @@
+-1 156
+-2.25
+v1: -1
+v111: 0
+v112: 236
+v2: -2.25
+slicelen v3: 5 [a a foo barfoo bar helloafoo barhellohello foo barhellohellohello
+	hello]
+maplen v4: 0
+maplen v5: 1
+v6: 156
+v82: -1

@@ -1,0 +1,13 @@
+1 971 971
+1 971 971
+42 true
+slicelen v1: 0 []
+v11: 971
+v15: 0
+v17: true
+slicelen v2: 5 [
+	  hello hello ]
+slicelen v3: 4 [164 4294967295 2147483647 4294967295]
+v4: 42
+v5: 9223372036854775807
+slicelen v6: 0 []

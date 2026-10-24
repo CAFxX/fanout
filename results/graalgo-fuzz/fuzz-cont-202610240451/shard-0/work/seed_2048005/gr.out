@@ -1,0 +1,13 @@
+977
+slicelen v1: 1 [128]
+v19: foo barfoo barfoo barfoo bar
+	foo barfoo barfoo bara
+slicelen v2: 4 [1 65535 4294967295 65535]
+v20: 255
+v23: 1e+10
+v3: 65535
+maplen v4: 0
+v45: 1e+10
+v5: 18446744073709486080
+v6: -1
+v7: 977

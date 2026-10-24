@@ -1,0 +1,63 @@
+137 512 
+	foo bar
+	
+	foo bar
+512
+1 18446744073709551064
+137
+137
+137
+137
+137
+137
+137
+137
+137
+137
+137
+foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	hello
+	
+0
+18446744073709551615
+1
+18446744073709551615
+2
+18446744073709551615
+3
+18446744073709551615
+4
+18446744073709551615
+5
+18446744073709551615
+v1: 137
+maplen v2: 0
+v3: foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	foo bar
+	hello
+	
+v4: 545
+slicelen v5: 4 [-14 -421 -1 4294967295]
+v6: 1
+v65: -1
+v7: 18446744073709551615
+v74: 118

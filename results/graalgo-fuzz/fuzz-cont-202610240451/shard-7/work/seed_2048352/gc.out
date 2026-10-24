@@ -1,0 +1,11 @@
+800 1.5 800
+v1: aaafoo bar
+	foo bar
+	
+v2: 32767
+slicelen v3: 0 []
+v31: 1.5
+v4: foo bar
+	
+maplen v5: 0
+v6: 800

@@ -1,0 +1,11 @@
+v1: true
+v11: 0
+v12: 0
+v19: 0
+slicelen v2: 2 [4294967295 1]
+v20: 1e+10
+maplen v3: 0
+v4: foo bar
+v47: false
+v49: 18446744073709551360
+slicelen v5: 1 [4294967295]

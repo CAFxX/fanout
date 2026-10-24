@@ -1,0 +1,11 @@
+0 0
+0 0 5542
+1 1
+slicelen v1: 3 [
+	 hello foo bar]
+v148: 1
+v149: 0
+v150: a
+maplen v2: 1
+slicelen v3: 0 []
+v4: 5542

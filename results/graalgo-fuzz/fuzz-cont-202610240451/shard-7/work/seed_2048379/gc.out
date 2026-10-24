@@ -1,0 +1,4 @@
+maplen v1: 1
+slicelen v2: 2 [foo bara foo bar]
+slicelen v3: 1 [0]
+v45: 3

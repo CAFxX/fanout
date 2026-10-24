@@ -1,0 +1,30 @@
+32767 32767
+0 0
+0 0
+42 0
+42 0
+0 42
+42 0
+1 42
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+v1: 0
+v10: foo barfoo barfoo barfoo barfoo barfoo barfoo bar
+v15: 0
+maplen v2: 0
+v22: -1
+slicelen v3: 4 [0 0 1073676289 128]
+v4: 42
+slicelen v5: 2 [
+	 hello]

@@ -1,0 +1,67 @@
+1 1
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+foo bar 0 0
+foo bar 1 1
+foo bar 2 2
+foo bar 3 3
+foo bar 4 4
+5 foo bar
+maplen v1: 0
+maplen v2: 1
+v3: 5
+slicelen v4: 3 [ hello ]
+v5: foo bar

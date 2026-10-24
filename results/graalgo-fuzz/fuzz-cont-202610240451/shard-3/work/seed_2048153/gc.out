@@ -1,0 +1,19 @@
+true
+false true
+false true
+false true
+false true
+false true
+false true
+false true
+false true
+false true
+true
+v1: true
+v2: true
+v23: 42
+v3: 22
+v35: 42
+maplen v4: 0
+slicelen v5: 4 [hello afoo barfoo bar a a]
+maplen v6: 0

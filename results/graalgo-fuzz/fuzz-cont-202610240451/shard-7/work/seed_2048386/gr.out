@@ -1,0 +1,12 @@
+false
+slicelen v1: 3 [
+	 
+	 hello
+	]
+slicelen v2: 1 [65535]
+slicelen v3: 1 [-198]
+v31: 2147483647
+v4: true
+v44: 2147483647
+maplen v5: 0
+slicelen v6: 4 [128 32768 188 9223372036854775807]

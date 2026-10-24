@@ -1,0 +1,14 @@
+1 780
+-1 780
+-1 780
+-1 780
+0 1 0
+v1: 0
+v10: -1
+v16: 1
+slicelen v2: 4 [0 42 4294967295 4294967295]
+v3: 0
+slicelen v4: 6 [foo bar hello hellofoo bar a a foo bar]
+v41: 42
+v5: -1
+v7: 780

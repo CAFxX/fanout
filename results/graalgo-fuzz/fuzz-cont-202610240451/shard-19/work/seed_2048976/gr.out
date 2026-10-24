@@ -1,0 +1,8 @@
+733
+733
+slicelen v1: 3 [
+	 hello ahello]
+v2: 381
+slicelen v3: 4 [foo bar hello
+	 foo bar ]
+maplen v4: 0

@@ -1,0 +1,14 @@
+v1: 0
+v10: 0
+v11: -128
+v12: 405
+v14: 1.00000000001e+10
+v15: hellofoo bar
+	
+	
+v17: -128
+v18: 91
+v19: 65535
+v2: 1
+slicelen v3: 3 [foo bar hello aaafoo bar]
+v4: -128

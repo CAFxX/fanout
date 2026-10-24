@@ -1,0 +1,28 @@
+0 443 foo barfoo barhello
+1 443 foo barfoo barhello
+2 443 foo barfoo barhello
+3 443 foo barfoo barhello
+4 443 foo barfoo barhello
+5 443 foo barfoo barhello
+6 443 foo barfoo barhello
+7 443 foo barfoo barhello
+8 443 foo barfoo barhello
+9 443 foo barfoo barhello
+10 443 foo barfoo barhello
+11 443 foo barfoo barhello
+12 443 foo barfoo barhello
+13 443 foo barfoo barhello
+14 443 foo barfoo barhello
+15 443 foo barfoo barhello
+16 443 foo barfoo barhello
+17 443 foo barfoo barhello
+1
+v1: -1e+10
+v163: 154
+v168: 2e+10
+v180: 1.5
+v185: hello
+v2: 1
+v3: 42
+v4: 4294967295
+v5: foo barfoo barhello

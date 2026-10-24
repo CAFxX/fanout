@@ -1,0 +1,27 @@
+-569
+-569 65535 42
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+-569 0 false
+v1: -569
+v2: 65535
+v21: 42
+v23: 0
+v24: -569
+v25: false
+maplen v3: 0
+v4: 3.14159
+slicelen v5: 4 [
+	 
+	a hello 
+	]

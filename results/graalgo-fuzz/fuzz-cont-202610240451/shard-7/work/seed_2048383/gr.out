@@ -1,0 +1,40 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+13 13
+14 14
+15 15
+16 16
+17 17
+foo barhellohellofoo barhellohello 0
+foo barhellohellofoo barhellohello 1
+foo barhellohellofoo barhellohello 2
+foo barhellohellofoo barhellohello 3
+foo barhellohellofoo barhellohello 4
+foo barhellohellofoo barhellohello 5
+foo barhellohellofoo barhellohello 6
+foo barhellohellofoo barhellohello 7
+foo barhellohellofoo barhellohello 8
+foo barhellohellofoo barhellohello 9
+foo barhellohellofoo barhellohello 10
+foo barhellohellofoo barhellohello 11
+foo barhellohellofoo barhellohello 12
+foo barhellohellofoo barhellohello 13
+foo barhellohellofoo barhellohello 14
+24
+maplen v1: 1
+slicelen v2: 2 [695556 32767]
+v3: foo barhellohellofoo barhellohello
+v31: 695556
+v36: 24
+v37: -28

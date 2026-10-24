@@ -1,0 +1,27 @@
+foo bar true foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+-247 foo bar
+v1: 0
+v10: -247
+v2: 639
+slicelen v21: 4 [32767 42 -570 9223372036854775807]
+v3: foo bar
+v4: true
+v6: foo bar

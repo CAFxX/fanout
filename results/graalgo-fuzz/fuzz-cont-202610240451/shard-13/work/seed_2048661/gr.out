@@ -1,0 +1,9 @@
+false 127 foo bar
+slicelen v1: 4 [1 0 2147483648 1]
+maplen v2: 1
+v29: 177
+v3: 65535
+v31: 127
+v4: foo bar
+v40: false
+v81: 150

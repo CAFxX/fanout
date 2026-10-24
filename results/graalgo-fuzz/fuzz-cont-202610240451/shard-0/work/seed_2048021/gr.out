@@ -1,0 +1,12 @@
+0.1
+0.1
+0.1 0
+slicelen v1: 3 [
+	afoo bar
+	foo bar 
+	 hello]
+v2: -9223372036854775807
+maplen v3: 0
+maplen v4: 0
+v5: 0.1
+v7: 0
