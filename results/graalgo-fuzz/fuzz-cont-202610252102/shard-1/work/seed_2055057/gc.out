@@ -1,0 +1,66 @@
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+2 2 foo bar
+	hellohello
+	foo bara
+47 true 0
+47 true 1
+47 true 2
+47 true 3
+47 true 4
+47 true 5
+47 true 6
+47 true 7
+47 true 8
+47 true 9
+47 true 10
+47 true 11
+47 true 12
+47 true 13
+711 2
+v1: 0
+v2: 2
+v3: foo bar
+	hellohello
+	foo barahello
+v31: true
+v32: 47
+maplen v4: 0
+v47: 2
+slicelen v48: 4 [296 484 0 -176]
+maplen v5: 0
+maplen v6: 0

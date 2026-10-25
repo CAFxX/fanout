@@ -1,0 +1,32 @@
+true 18446744073709551614
+true true 0
+hello 65535
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+0 hello true
+v1: 0
+v112: hello
+v123: 65535
+v124: 1e+10
+v2: -32768
+maplen v3: 0
+v30: true
+v4: hello
+v5: false
+v6: 18446744073709551614

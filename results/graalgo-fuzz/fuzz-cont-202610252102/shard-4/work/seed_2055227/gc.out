@@ -1,0 +1,17 @@
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+-1e+10
+v1: 42
+maplen v2: 0
+v3: 1e+10
+slicelen v4: 5 [849 42 327 2147483648 140]
+v5: -1e+10
+slicelen v6: 1 [foo barfoo baraa
+	a
+	
+	
+	hellohellohello]
+v77: 0

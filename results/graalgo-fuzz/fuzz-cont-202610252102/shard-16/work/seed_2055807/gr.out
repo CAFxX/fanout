@@ -1,0 +1,13 @@
+false 42
+127 -1
+65535 false false
+v1: 42
+v10: 127
+v11: 65535
+v12: false
+maplen v2: 0
+v3: -1
+v4: true
+v5: 127
+maplen v6: 0
+v9: 515

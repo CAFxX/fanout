@@ -1,0 +1,4 @@
+slicelen v1: 1 [foo bar]
+v2: -1e+09
+slicelen v3: 2 [2147483647 -593]
+v4: 201422

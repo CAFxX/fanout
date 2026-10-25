@@ -1,0 +1,11 @@
+a
+-2147483648 a -2147483648
+maplen v1: 0
+slicelen v2: 1 [hellohello
+	]
+v25: a
+slicelen v3: 2 [0 42]
+v74: 125
+v75: 2147483647
+v78: 125
+v84: 255

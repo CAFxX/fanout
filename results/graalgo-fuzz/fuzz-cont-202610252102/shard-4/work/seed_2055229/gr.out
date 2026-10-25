@@ -1,0 +1,8 @@
+512 512
+maplen v1: 1
+v2: 934
+slicelen v3: 4 [65535 0 217 0]
+slicelen v4: 3 [a a
+	hellohello hello]
+v5: -9.9999999999e+09
+v57: -2147483648

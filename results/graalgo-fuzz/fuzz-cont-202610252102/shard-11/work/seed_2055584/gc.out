@@ -1,0 +1,8 @@
+0.1
+true
+v1: 1.00000000001e+10
+v2: 2
+v21: true
+slicelen v3: 5 [
+	hellofoo barfoo barfoo bar a foo bar hello foo bar]
+v4: -48

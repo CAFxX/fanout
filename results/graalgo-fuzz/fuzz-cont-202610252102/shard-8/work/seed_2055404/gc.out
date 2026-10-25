@@ -1,0 +1,14 @@
+709
+-1 709
+709 0
+709 0
+709 0
+709 0
+709 0
+-1 -1
+v1: 0
+v2: 709
+v21: -1
+slicelen v3: 21 [hello foo bar 
+	 foo bar a a a a a a a a a a a a a a a a a]
+slicelen v4: 7 [382 0 0 1 2 3 4]

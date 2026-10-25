@@ -1,0 +1,18 @@
+18446744069414584320
+-2147483648 451
+-2.25
+v1: -2.25
+v2: -2147483648
+slicelen v3: 8 [
+	 foo bar 
+	hellofoo barfoo barfoo bara
+	foo barafoo bar
+	 a
+	afoo bar    ]
+v33: 2147483030
+v34: 2147483647
+v35: 255
+v36: 841
+v4: 451
+maplen v5: 0
+v51: -2.25

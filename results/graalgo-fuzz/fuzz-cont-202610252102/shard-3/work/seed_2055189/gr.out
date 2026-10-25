@@ -1,0 +1,11 @@
+216 1000 1000
+v1: -9
+maplen v2: 0
+slicelen v3: 3 [67108864 0 0]
+maplen v4: 6
+v41: 4294967295
+v5: 353
+v57: -1000
+v58: 216
+slicelen v6: 4 [foo bar hello hello foo bar
+	afoo baraa]

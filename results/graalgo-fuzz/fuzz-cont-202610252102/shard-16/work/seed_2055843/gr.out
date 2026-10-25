@@ -1,0 +1,16 @@
+0
+foo bara
+	foo bara
+	 -42 foo bara
+	foo bara
+	
+v1: foo bara
+	
+v11: 0
+v15: foo bara
+	foo bara
+	
+v2: -42
+slicelen v3: 0 []
+v4: 0
+slicelen v5: 3 [0 0 0]

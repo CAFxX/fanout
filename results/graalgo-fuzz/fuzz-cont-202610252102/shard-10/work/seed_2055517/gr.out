@@ -1,0 +1,30 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+afoo bar aa
+v1: 5.0625
+v102: 0
+v103: 1
+v106: 0
+slicelen v2: 5 [aa 
+	 a  foo barafoo barfoo barhello]
+v3: aa
+slicelen v4: 1 [4294967295]
+v5: afoo bar
+v6: -1

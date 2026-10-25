@@ -1,0 +1,9 @@
+false
+false 128 128
+slicelen v1: 3 [foo bar
+	foo bar foo bar ]
+slicelen v2: 3 [-812 -698 -1]
+maplen v3: 0
+v41: false
+v43: 567
+v46: 128

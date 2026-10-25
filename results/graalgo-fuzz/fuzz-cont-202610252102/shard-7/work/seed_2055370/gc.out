@@ -1,0 +1,11 @@
+v1: 65535
+v10: foo bar
+v11: 65535
+slicelen v2: 4 [hellohello foo bar hello afoo bar]
+slicelen v3: 4 [foo bar  hello
+	foo barfoo bar hello]
+v4: 1000
+v5: 254
+v6: -1
+v7: 65535
+v9: 1

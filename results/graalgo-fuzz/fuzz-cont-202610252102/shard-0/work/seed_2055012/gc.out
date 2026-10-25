@@ -1,0 +1,12 @@
+0 -32768
+0 0
+0 0
+foo barhellofoo bar foo barhellofoo bar
+foo barhellofoo bar foo barhellofoo bar foo barhellofoo bar
+v1: 0
+slicelen v2: 4 [32767 42 128 42]
+slicelen v3: 0 []
+v33: -32767
+v37: foo barhellofoo bar
+v4: 0
+v42: foo barhellofoo bar
