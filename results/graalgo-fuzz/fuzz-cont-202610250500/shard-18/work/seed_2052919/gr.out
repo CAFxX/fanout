@@ -1,0 +1,9 @@
+NaN 1.5e-10 foo barhello
+maplen v1: 0
+v11: NaN
+v14: -1
+v15: 1e+10
+v16: 1.5e-10
+v2: foo barhello
+maplen v3: 0
+slicelen v4: 3 [-486 42 1]

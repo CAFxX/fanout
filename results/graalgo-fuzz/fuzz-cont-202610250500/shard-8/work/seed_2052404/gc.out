@@ -1,0 +1,8 @@
+3.14159 255 255
+0 3.14159 3.14159
+v1: 0
+v17: 255
+slicelen v2: 1 [128]
+slicelen v3: 4 [foo bar foo bar afoo bar hello]
+v4: 4294246881
+v8: -31.415900000000004

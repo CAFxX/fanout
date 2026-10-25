@@ -1,0 +1,10 @@
+hello 32274
+maplen v1: 0
+v2: hello
+v21: -9008875012741874048
+v24: 4.64159
+v27: 4.64159
+slicelen v3: 4 [hello hello foo bar hello]
+slicelen v4: 3 [foo bar hellohelloa foo barhellohellohellohellohellohellohello]
+v7: 32274
+v8: 42

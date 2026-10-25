@@ -1,0 +1,10 @@
+-2.25
+false -2.25 false
+v1: 0
+maplen v2: 0
+v20: false
+v3: -2.25
+slicelen v4: 3 [afoo bar
+	 hello 
+	
+	]

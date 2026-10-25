@@ -1,0 +1,15 @@
+v1: 480
+maplen v2: 0
+v21: 498
+v22: 1
+v23: false
+v25: 1
+v26: 0
+v27: 1e+10
+v28: 1e+10
+maplen v3: 0
+slicelen v4: 0 []
+slicelen v5: 0 []
+slicelen v6: 4 [
+	 a 
+	aaaa afoo bar]

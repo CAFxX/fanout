@@ -1,0 +1,19 @@
+foo barfoo barfoo bar foo barfoo barfoo bar foo barfoo barfoo bar
+4918
+4918
+4918
+4918
+4918
+v1: 4918
+slicelen v2: 1 [2147483647]
+v3: foo barfoo barfoo bar
+v31: 0
+v36: foo barfoo barfoo bar
+v37: 4294967295
+maplen v4: 1
+v43: 195
+v46: 
+slicelen v5: 1 []
+v50: 0
+v51: -1e+10
+v6: 0

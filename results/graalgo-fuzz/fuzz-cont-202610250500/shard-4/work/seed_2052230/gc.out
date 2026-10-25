@@ -1,0 +1,19 @@
+0 2147483647 false
+1 2147483647 false
+2 2147483647 false
+3 2147483647 false
+4 2147483647 false
+5 2147483647 false
+6 2147483647 false
+7 2147483647 false
+8 2147483647 false
+-512 -512 2147483647
+maplen v1: 0
+slicelen v2: 4 [hello afoo barfoo bar 
+	 a]
+v20: 2147483647
+v3: -30233088
+maplen v4: 1
+slicelen v5: 0 []
+v6: false
+v73: -32768

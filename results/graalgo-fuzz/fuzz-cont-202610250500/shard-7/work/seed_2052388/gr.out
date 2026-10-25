@@ -1,0 +1,8 @@
+42
+42 42 42
+maplen v1: 0
+slicelen v2: 3 [foo bar
+	hellohellohello hellofoo barfoo barhellofoo barfoo bar a]
+v3: 42
+v4: 9223372036854775807
+v5: 42

@@ -1,0 +1,47 @@
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+v1: 0
+maplen v2: 0
+v22: -128
+v3: 0
+v33: 0
+slicelen v4: 0 []
+v5: 62
+slicelen v6: 3 [foo barfoo bar
+	
+	hellofoo barahello
+	foo barhellofoo barhello foo barfoo bar
+	
+	hellofoo barahello
+	foo barhellofoo barhello foo barfoo bar
+	
+	hellofoo barahello
+	foo barhellofoo barhello]

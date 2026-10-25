@@ -1,0 +1,13 @@
+0 foo bar 0.75
+1 foo bar 0.75
+foo bar foo bar 0.75
+slicelen v1: 22 [32767 -2147483648 128 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691 -691]
+maplen v2: 0
+slicelen v3: 3 [
+	helloahello a hello
+	]
+maplen v4: 0
+v44: 0.75
+v45: -691
+v62: foo bar
+v74: -1

@@ -1,0 +1,8 @@
+-2.25 100
+-3.75 -72
+v1: -72
+slicelen v2: 2 [hello
+	 a]
+slicelen v3: 4 [65535 587 4294967295 2147483648]
+v4: -3.75
+slicelen v5: 4 [ a hello ]

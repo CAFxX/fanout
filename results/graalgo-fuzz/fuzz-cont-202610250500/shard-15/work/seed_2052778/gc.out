@@ -1,0 +1,7 @@
+foo bar 0 2147483648
+foo bar foo bar 2147483523
+v1: 0
+slicelen v2: 0 []
+v3: 2147483523
+v4: foo bar
+maplen v5: 0

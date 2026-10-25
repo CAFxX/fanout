@@ -1,0 +1,14 @@
+1 32767
+-2.25e+10 0
+v1: 42
+v10: -5.56650478125e+31
+v11: 65535
+slicelen v2: 0 []
+v22: 127
+slicelen v3: 4 [ahello
+	 
+	 foo barfoo bar ]
+v4: 0
+v5: 1
+v6: -2.25e+10
+v9: true

@@ -1,0 +1,16 @@
+hello hello -1
+v1: 32768
+v13: false
+slicelen v2: 4 [ 
+	
+	 a foo barhello]
+slicelen v3: 0 []
+v33: 
+	
+	
+v35: hello
+v36: 1
+maplen v4: 0
+slicelen v5: 2 [a
+	 ]
+v6: -1

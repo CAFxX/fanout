@@ -1,0 +1,36 @@
+false 0 -32768
+false 1 -32768
+false 2 -32768
+false 3 -32768
+false 4 -32768
+false 5 -32768
+false 6 -32768
+false 7 -32768
+false 8 -32768
+false 9 -32768
+false 10 -32768
+false 11 -32768
+false 12 -32768
+false 13 -32768
+false 14 -32768
+false 15 -32768
+false 16 -32768
+false 17 -32768
+false -32768
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+false 32767
+32767 false
+v1: 1000
+slicelen v2: 4 [127 -412 0 -615]
+v3: false
+v62: 1.5

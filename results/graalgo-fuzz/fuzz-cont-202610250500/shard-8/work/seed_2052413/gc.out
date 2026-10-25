@@ -1,0 +1,13 @@
+65535 0 65535
+0
+255
+v1: 0
+v10: 255
+v14: aa
+v15: 0
+v18: 0
+slicelen v2: 0 []
+slicelen v3: 4 [
+	  a hello]
+maplen v4: 0
+v9: 255

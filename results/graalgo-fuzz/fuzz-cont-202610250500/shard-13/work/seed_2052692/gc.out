@@ -1,0 +1,43 @@
+0 
+	foo bar -685
+1 
+	foo bar -685
+2 
+	foo bar -685
+3 
+	foo bar -685
+4 
+	foo bar -685
+5 
+	foo bar -685
+6 
+	foo bar -685
+7 
+	foo bar -685
+8 
+	foo bar -685
+9 
+	foo bar -685
+10 
+	foo bar -685
+11 
+	foo bar -685
+12 
+	foo bar -685
+13 
+	foo bar -685
+42 1e+10 42
+v1: 685
+v11: 42
+v17: 32767
+v2: 
+	
+v25: -2.25
+v26: false
+v27: 850
+v3: 1e+10
+slicelen v30: 3 [1 128 0]
+maplen v4: 1
+v5: 
+	foo bar
+v6: 42

@@ -1,0 +1,13 @@
+-32768
+false -35 false
+slicelen v1: 4 [2147483648 42 65535 2]
+v13: 0
+v16: 18446744073709551615
+v17: 0
+v2: false
+v3: -32768
+maplen v4: 0
+maplen v5: 1
+slicelen v6: 2 [ 
+	]
+v9: -35

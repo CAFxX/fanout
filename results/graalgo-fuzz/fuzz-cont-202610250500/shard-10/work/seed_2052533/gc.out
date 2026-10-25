@@ -1,0 +1,10 @@
+v1: 65535
+v10: 18446744073709551615
+v12: 
+	foo bar
+maplen v2: 0
+v3: false
+v4: -2
+maplen v5: 1
+slicelen v6: 0 []
+v9: 1e+10

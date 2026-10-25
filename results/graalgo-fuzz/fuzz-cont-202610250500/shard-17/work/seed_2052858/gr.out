@@ -1,0 +1,39 @@
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+
+	a 1e+10 false
+v1: hello
+v19: false
+v2: 59
+v21: 127
+v22: -1
+v3: 127
+v4: 1e+10
+slicelen v5: 2 [
+	a
+	a 
+	
+	afoo bar
+	a]
+v6: 465
+v7: 59

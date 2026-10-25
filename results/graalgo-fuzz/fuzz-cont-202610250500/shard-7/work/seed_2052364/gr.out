@@ -1,0 +1,17 @@
+0
+0
+slicelen v1: 2 [a a
+	a]
+v2: 0
+v28: 
+	
+	
+slicelen v3: 4 [foo bar 
+	hello
+	 
+	 
+	foo baraafoo bara
+	]
+slicelen v4: 3 [a foo bar hello
+	]
+v5: 3.14159

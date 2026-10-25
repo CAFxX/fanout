@@ -1,0 +1,42 @@
+1 foo barfoo bar
+	hello 0
+1 foo barfoo bar
+	hello 1
+1 foo barfoo bar
+	hello 2
+1 foo barfoo bar
+	hello 3
+1 foo barfoo bar
+	hello 4
+1 foo barfoo bar
+	hello 5
+1 foo barfoo bar
+	hello 6
+1 foo barfoo bar
+	hello 7
+1 foo barfoo bar
+	hello 8
+1 foo barfoo bar
+	hello 9
+1 foo barfoo bar
+	hello 10
+1 foo barfoo bar
+	hello 11
+1 foo barfoo bar
+	hello 12
+845 1
+1.5 1
+v1: 713
+v2: foo barfoo bar
+	hello
+slicelen v3: 5 [2147483647 65535 0 2 512]
+v4: 845
+v48: -2147483235
+v49: 1
+v5: 1
+v51: false
+v52: 1.5
+v53: foo barfoo bar
+	hello
+v54: 1
+v6: 1

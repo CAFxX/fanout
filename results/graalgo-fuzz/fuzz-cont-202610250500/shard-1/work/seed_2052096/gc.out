@@ -1,0 +1,9 @@
+false false false
+v1: 0.1
+v11: false
+v16: 42
+slicelen v2: 1 [foo bar]
+maplen v3: 1
+maplen v4: 0
+maplen v5: 0
+v6: 0

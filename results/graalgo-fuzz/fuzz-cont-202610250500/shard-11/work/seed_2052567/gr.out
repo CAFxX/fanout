@@ -1,0 +1,13 @@
+0 0
+1 1
+2 2
+3 3
+hello 32767
+hello
+maplen v1: 1
+v16: 42
+v19: 32767
+slicelen v2: 1 [2147483648]
+v20: hello
+v25: -1.5
+v3: hello
