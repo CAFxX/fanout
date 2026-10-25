@@ -1,0 +1,9 @@
+-2.25 foo bar 1
+1 1 1
+1 1
+v1: foo bar
+v2: 1
+v22: -1e+10
+v3: 1
+slicelen v4: 1 [
+	foo bar]

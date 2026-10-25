@@ -1,0 +1,15 @@
+42 42 42
+false false
+false
+slicelen v1: 4 [858 2 782 717]
+v10: -2.25e+10
+v11: 717
+v2: 42
+v23: +Inf
+slicelen v3: 4 [
+	foo barfoo bar aa a helloa
+	a]
+v34: 42
+v4: false
+slicelen v5: 3 [-424 -9223372036854775808 -994]
+v6: 2

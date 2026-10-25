@@ -1,0 +1,14 @@
+foo bar -2.25
+1 foo bar 127
+true -2.25
+true
+slicelen v1: 2 [976 1]
+v2: foo bar
+slicelen v3: 3 [foo bar foo bar foo barfoo barfoo barfoo barfoo bar]
+v4: 1
+v50: -2.25
+v52: foo bar
+v53: 127
+v55: true
+v56: 2147483647
+v77: 42

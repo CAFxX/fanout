@@ -1,0 +1,17 @@
+true 0
+true 1
+true 2
+true 3
+true 4
+true 5
+true 6
+false -331
+1e+10
+v1: false
+v2: 0
+v3: true
+v4: -331
+slicelen v5: 4 [4294967295 -231 567 32768]
+v52: 1e+10
+v53: 0
+v9: false

@@ -1,0 +1,23 @@
+32768 5 32768
+127 5
+false 4294967295 32768
+v1: 4294967295
+v2: 5
+v3: false
+slicelen v4: 1 [4294967295]
+slicelen v5: 13 [ 
+	 a 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello 
+	foo barfoo barhelloahellohello]
+v59: 127
+v6: 32768
+v68: 127
+v70: 0

@@ -1,0 +1,22 @@
+128
+
+maplen v1: 0
+v2: 0
+v3: hello
+slicelen v4: 4 [foo bara
+	foo bara
+	a foo bar foo bar foo bara
+	foo bara
+	afoo bara
+	foo bara
+	a
+	foo bara
+	foo bara
+	afoo bara
+	foo bara
+	a]
+v71: 128
+v78: 
+v79: 42
+v80: 
+v84: 

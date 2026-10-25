@@ -1,0 +1,18 @@
+1000
+1000
+1000 1000
+0 hello
+0 hello
+0 hello
+0 hello
+0 hello
+0 hello
+0 hello
+0 hello
+slicelen v1: 3 [hellohellofoo bar hello a]
+slicelen v2: 3 [
+	hellohellohellohellohellohellohellohellohellohellohelloa 
+	 hello]
+slicelen v3: 2 [690 4294967295]
+v4: 1000
+v77: -169472

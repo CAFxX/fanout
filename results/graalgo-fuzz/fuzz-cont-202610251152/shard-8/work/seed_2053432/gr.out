@@ -1,0 +1,9 @@
+true 1 true
+maplen v1: 0
+slicelen v2: 4 [ 
+	ahellofoo bar foo bar foo bar]
+maplen v3: 0
+v36: 1.5
+v4: true
+v5: 1
+v6: 1

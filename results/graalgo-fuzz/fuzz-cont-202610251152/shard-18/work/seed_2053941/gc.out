@@ -1,0 +1,13 @@
+1 280
+0 980
+v1: 0
+v10: foo bar
+v17: 497
+slicelen v2: 4 [
+	 hello foo bar hello
+	]
+v3: 1
+v4: 980
+v5: 280
+v7: 232
+v9: false

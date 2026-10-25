@@ -1,0 +1,8 @@
+65535 65535 65535
+647 -1 65535
+maplen v1: 0
+slicelen v2: 3 [foo barfoo barfoo bar aahello
+	foo bar hello]
+v21: 65535
+v26: 647
+v3: 0

@@ -1,0 +1,20 @@
+foo bar 1 1
+32768
+v1: 1
+v10: -220
+v11: 42
+v12: 42
+v2: 
+	afoo bar
+	helloafoo bar
+	helloafoo bar
+	helloafoo bar
+	helloafoo barhello
+	helloafoo barfoo barfoo bar
+v3: 
+	helloafoo bar
+slicelen v4: 4 [-549 0 0 -1]
+slicelen v5: 4 [458 65535 2147483648 42]
+maplen v6: 0
+v8: -220
+v9: 0

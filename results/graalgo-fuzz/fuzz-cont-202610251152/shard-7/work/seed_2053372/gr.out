@@ -1,0 +1,76 @@
+foo bar -1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar 1 -1
+-1
+foo bar
+-2.25 foo bar -1
+-529
+v1: -1
+v2: foo bar
+slicelen v3: 3 [65535 65535 2147483647]
+v40: 0
+v51: 9223372036854775807
+v52: -529

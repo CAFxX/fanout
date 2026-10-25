@@ -1,0 +1,33 @@
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo barfoo barfoo barhellofoo barfoo bar
+	foo barfoo barfoo barahellofoo bar 42
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+891 891
+maplen v1: 0
+v19: foo barfoo barfoo barhellofoo barfoo bar
+	foo barfoo barfoo barahellofoo bar
+slicelen v2: 3 [a helloa a
+	a]
+v27: 322
+v3: foo barhello
+v4: 0
+v57: 891

@@ -1,0 +1,7 @@
+slicelen v1: 1 [a]
+slicelen v2: 0 []
+v22: 0
+slicelen v3: 4 [-765 127 128 -9223372036854775808]
+v4: false
+slicelen v5: 15 [a
+	  foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]

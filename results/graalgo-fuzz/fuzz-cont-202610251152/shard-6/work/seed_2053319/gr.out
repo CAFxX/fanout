@@ -1,0 +1,19 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+slicelen v1: 3 [2147483647 2147483647 263]
+maplen v2: 1
+v3: 1
+slicelen v4: 1 [foo bar]
+v41: hello
+v43: -2147483648
+slicelen v5: 5 [
+	 foo bar
+	foo bar 
+	foo barafoo bar
+	 
+	foo baraafoo bar hello]

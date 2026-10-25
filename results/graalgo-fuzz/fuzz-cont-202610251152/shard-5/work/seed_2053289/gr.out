@@ -1,0 +1,9 @@
+255  foo bar
+foo barhello foo barhello
+0 foo barhello foo barhello
+v1: foo bar
+v2: 255
+v3: foo barhello
+v4: -1
+v5: foo barhello
+v6: 0

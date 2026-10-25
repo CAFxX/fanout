@@ -1,0 +1,8 @@
+slicelen v1: 3 [141 1 32768]
+v14: foo bar
+	foo barfoo barfoo barfoo barfoo barfoo barfoo barafoo bara
+v15: 65535
+v16: -32768
+v2: 0
+maplen v3: 0
+v4: foo bar

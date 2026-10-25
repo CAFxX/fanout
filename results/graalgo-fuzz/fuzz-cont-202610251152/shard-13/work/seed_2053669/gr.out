@@ -1,0 +1,9 @@
+true true
+slicelen v1: 10 [
+	 a hello hello hello hello hello hello hello hello]
+v2: true
+v21: 40
+v3: false
+slicelen v4: 2 [411 276]
+v41: 42
+v5: 0

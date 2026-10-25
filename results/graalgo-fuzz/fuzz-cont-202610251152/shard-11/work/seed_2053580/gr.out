@@ -1,0 +1,14 @@
+false 0
+false
+maplen v1: 0
+v16: 0
+v17: false
+v19: 1
+slicelen v2: 3 [42 -2147483648 42]
+v27: foo bar
+v28: 0
+v29: 18446744073709551615
+slicelen v3: 3 [127 4294967295 9223372036854775807]
+v37: 0.1
+maplen v4: 0
+slicelen v5: 3 [127 32767 -285]

@@ -1,0 +1,33 @@
+0.1 0.1
+foo bar
+	 foo bar
+	
+0.1
+slicelen v1: 20 [foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	]
+maplen v2: 0
+v3: 1.5
+v4: -1
+v40: -1
+v41: 0
+v5: foo bar
+	

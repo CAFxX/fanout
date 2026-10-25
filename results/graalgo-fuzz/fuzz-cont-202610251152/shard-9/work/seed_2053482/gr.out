@@ -1,0 +1,17 @@
+2
+-2.25 false
+-2.25 false
+-2.25 false
+-2.25 false
+2
+32767 hello 1e+10
+v1: 32767
+v11: -2.25
+slicelen v2: 1 [-9223372036854775808]
+v20: false
+v21: 65535
+v3: 2
+v4: 1e+10
+v5: 65535
+v8: false
+v9: hello

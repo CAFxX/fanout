@@ -1,0 +1,16 @@
+hello
+42 42 false
+v1: false
+v2: 
+	
+v23: 42
+v24: 372
+v25: 0
+v26: 
+	
+slicelen v3: 5 [hello a hellohellohellohellohellofoo barhelloahellohellohelloa 
+	 
+	]
+v32: 
+	
+slicelen v4: 3 [2147483648 2 4294967295]

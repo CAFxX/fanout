@@ -1,0 +1,12 @@
+99
+823
+v1: -2.25
+v14: false
+v15: 823
+v2: -32766
+slicelen v3: 1 [hello]
+slicelen v4: 1 [2147483647]
+slicelen v5: 2 [
+	hellofoo barhello
+	 a]
+v6: 99

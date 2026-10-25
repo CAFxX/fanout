@@ -1,0 +1,8 @@
+ 
+v1: 65535
+v18: hello
+v2: 
+v22: 1
+v3: foo bar
+maplen v4: 0
+slicelen v5: 1 [32767]

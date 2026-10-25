@@ -1,0 +1,39 @@
+42 0 true
+42 1 true
+42 2 true
+42 3 true
+42 4 true
+42 5 true
+42 6 true
+42 7 true
+42 8 true
+2.45 2.45 1
+0 true 0
+2.45 2.45 1
+1 true 1
+2.45 2.45 1
+2 true 2
+2.45 2.45 1
+3 true 3
+2.45 2.45 1
+4 true 4
+2.45 2.45 1
+5 true 5
+2.45 2.45 1
+6 true 6
+2.45 2.45 1
+7 true 7
+2.45 2.45 1
+8 true 8
+2.45 2.45 1
+9 true 9
+2.45 2.45 1
+10 true 10
+true 1 true
+maplen v1: 0
+slicelen v10: 2 [42 -2147483648]
+v16: 1
+v2: true
+v20: 360
+v3: 2.45
+maplen v4: 0

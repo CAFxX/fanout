@@ -1,0 +1,21 @@
+6 42
+51 42
+2728.5 42
+7.4515335e+06 42
+5.552537e+13 42
+3.083067e+27 42
++Inf 42
++Inf 42
++Inf 42
++Inf 42
+-Inf -Inf 21
++Inf +Inf +Inf
+slicelen v1: 1 [hello]
+v17: 362
+v19: -Inf
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+v5: +Inf
+v6: 21
+v8: true

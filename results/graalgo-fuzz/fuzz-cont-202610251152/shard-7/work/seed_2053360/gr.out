@@ -1,0 +1,10 @@
+0
+false
+-4.7
+slicelen v1: 4 [foo bar hello  hello]
+v12: false
+v2: -4.7
+maplen v3: 0
+slicelen v4: 1 [247]
+v44: 222
+v47: -128

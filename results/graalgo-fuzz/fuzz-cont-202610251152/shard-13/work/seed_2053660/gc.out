@@ -1,0 +1,12 @@
+slicelen v1: 1 [-165]
+v14: 0
+v15: -42
+v2: 0
+v3: -2
+v31: -2147483648
+v33: 0
+v34: ahello
+slicelen v4: 4 [
+	
+	foo bar  aahellofoo bar a
+	ahello]

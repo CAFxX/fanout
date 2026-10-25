@@ -1,0 +1,10 @@
+1e+10
+slicelen v1: 3 [4294967295 4294967295 9223372036854775807]
+v16: 1.5
+v18: 1.5
+maplen v2: 0
+v20: foo barfoo bar
+maplen v3: 0
+maplen v4: 0
+slicelen v5: 1 [foo bar]
+v6: 18446744073709551615

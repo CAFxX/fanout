@@ -1,0 +1,34 @@
+slicelen v1: 9 [
+	 hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar hellofoo bar
+	foo barfoo barfoo barahellofoo bar
+	foo barfoo barfoo barhellofoo bar
+	foo barfoo barfoo bar]
+v12: 6
+v13: 255
+v14: 1
+v17: 42
+v2: hellofoo bar
+	foo barfoo barfoo bar
+v3: 52
+slicelen v4: 0 []
