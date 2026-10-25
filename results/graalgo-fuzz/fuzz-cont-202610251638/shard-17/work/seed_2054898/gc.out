@@ -1,0 +1,15 @@
+128
+0
+128 false
+-1
+262144
+262144 -1 false
+v1: false
+v2: 262144
+slicelen v3: 3 [hello foo bar hello]
+v4: -1
+maplen v5: 0
+v53: -1
+v54: 0
+maplen v6: 1
+v9: true

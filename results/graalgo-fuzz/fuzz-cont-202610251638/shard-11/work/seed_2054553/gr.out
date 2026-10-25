@@ -1,0 +1,9 @@
+4294967550
+false 4294967550 4294967550
+slicelen v1: 0 []
+v2: 4294967550
+v29: 4294967550
+v3: false
+slicelen v4: 3 [ foo barfoo bar foo bar]
+slicelen v5: 1 []
+v6: 32767

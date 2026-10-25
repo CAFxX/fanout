@@ -1,0 +1,11 @@
+1 1
+1 26832
+v1: 1
+v13: false
+maplen v2: 0
+v22: a
+maplen v3: 0
+slicelen v4: 3 [a
+	foo bar hello ahelloa]
+v5: 0
+slicelen v6: 3 [936 604 44]

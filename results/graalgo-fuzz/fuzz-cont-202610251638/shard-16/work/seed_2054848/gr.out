@@ -1,0 +1,13 @@
+-2.25 
+	
+false true 42
+v1: -2.25
+v11: true
+v12: 42
+v13: -2
+slicelen v2: 0 []
+v3: 42
+v4: 
+	
+v5: false
+slicelen v6: 3 [42 195 32767]

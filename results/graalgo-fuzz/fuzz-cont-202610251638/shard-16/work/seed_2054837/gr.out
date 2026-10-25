@@ -1,0 +1,15 @@
+65535
+2 65535
+18446744073709551615 0 65535
+v1: 0
+v120: 3.14159
+v2: 65535
+v27: true
+v3: 2
+v4: 18446744073709551615
+slicelen v5: 6 [hello hello
+	helloaafoo barfoo barfoo barfoo barhellohello
+	hellofoo barfoo bar
+	  foo barafoo barfoo baraaahellohello
+	
+	aafoo bar foo bar helloa]

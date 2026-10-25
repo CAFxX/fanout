@@ -1,0 +1,12 @@
+0 606
+1 606
+2 606
+3 606
+4 606
+5 606
+maplen v1: 0
+v12: 18446744073709551552
+slicelen v2: 6 [foo barhello foo bara    ]
+maplen v3: 1
+v4: 0
+slicelen v5: 2 [42 1]

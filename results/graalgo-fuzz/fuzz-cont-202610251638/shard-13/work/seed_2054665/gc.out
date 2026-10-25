@@ -1,0 +1,9 @@
+v1: 2
+slicelen v2: 2 [hello 
+	]
+v277: 1
+v278: 2
+v279: 1
+v280: 1
+slicelen v3: 2 [afoo barfoo bar hello]
+v4: -1

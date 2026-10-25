@@ -1,0 +1,8 @@
+0.1
+v1: 0.1
+v12: false
+v2: 2
+slicelen v3: 4 [
+	 foo bar foo bar hello]
+slicelen v4: 3 [2 1 1]
+v8: 175

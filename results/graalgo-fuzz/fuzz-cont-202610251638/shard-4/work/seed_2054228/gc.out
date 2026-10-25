@@ -1,0 +1,13 @@
+hello 3.14159 hello
+-1 -1 hello
+2 -1
+0 hello -1
+slicelen v1: 3 [hellofoo bar foo barhello foo bar]
+v15: 2
+v16: 2
+v2: hello
+v3: 3.14159
+v37: 0
+maplen v4: 0
+maplen v5: 0
+v6: -1

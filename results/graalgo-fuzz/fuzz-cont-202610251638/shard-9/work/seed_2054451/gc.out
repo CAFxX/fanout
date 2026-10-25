@@ -1,0 +1,13 @@
+65535
+624
+624 65535 hello
+hello 0 hello
+v1: 624
+slicelen v12: 2 [338 2147483647]
+v14: 0
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+v5: 65535
+v6: true
+v7: hello

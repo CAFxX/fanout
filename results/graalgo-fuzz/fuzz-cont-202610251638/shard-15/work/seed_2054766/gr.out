@@ -1,0 +1,17 @@
+v1: 4295000063
+v16: -945
+v17: -128
+slicelen v2: 1 [-32769]
+slicelen v3: 4 [foo bar hello
+	hellofoo bar
+	 
+	foo bar foo bar]
+v37: 0
+maplen v4: 0
+slicelen v5: 2 [
+	hello
+	foo baraa
+	
+	afoo bar
+	 foo bar]
+v6: foo bar

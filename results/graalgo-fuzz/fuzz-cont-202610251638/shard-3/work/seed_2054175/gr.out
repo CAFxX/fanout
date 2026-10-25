@@ -1,0 +1,14 @@
+-1 536 false
+slicelen v1: 4 [a  hello ]
+v104: 1e+10
+v105: 160
+v106: 536
+v2: false
+v3: 536
+slicelen v4: 0 []
+slicelen v5: 4 [
+	 helloa 
+	hello helloafoo bara
+	afoo barhellofoo barfoo bar
+	hello]
+v94: 0

@@ -1,0 +1,33 @@
+1 39
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+39 39 1
+156 -128
+slicelen v1: 0 []
+v13: -128
+v15: 0
+slicelen v2: 11 [afoo bar
+	ahello
+	foo bar
+	foo barhello
+	helloahellofoo bar a hello 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	]
+slicelen v3: 3 [2 4294967295 65535]
+v45: 156
+v65: -9223372036854775808
+v66: 0
+v67: 547

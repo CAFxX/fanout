@@ -1,0 +1,28 @@
+0 2
+1 2
+2 2
+3 2
+4 2
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+v1: 0
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+v68: foo barhellofoo bar
+	
+	
+	foo barhello
+v72: hellofoo barhellofoo bar
+	
+	
+	foo barhellofoo barhellofoo bar
+	
+	
+	foo barhello
+v76: 4294967295

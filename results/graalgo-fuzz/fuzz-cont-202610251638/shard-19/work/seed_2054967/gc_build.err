@@ -1,0 +1,2 @@
+# command-line-arguments
+out/programs/fuzz_2054967.go:163:25: 1e10 * ((float32(1e10) * (0.0 - float32((float64(0.1) / (0.1 / (float64(((-2.25 / 1.0) * 1e10)) * (1.5 * 1e10))))))) * float32(float64(1.5))) (constant 5.0625e+40 of type float32) overflows float32

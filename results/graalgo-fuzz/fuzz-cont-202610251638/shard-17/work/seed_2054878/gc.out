@@ -1,0 +1,9 @@
+-2147483648 -2147483648
+v1: 0
+v2: 18446744073709551615
+v3: foo bar
+slicelen v4: 3 [foo bar foo bar foo barfoo barfoo bar]
+v46: 0.9333333333333333
+v5: 2147483647
+v53: 0.1
+maplen v6: 2

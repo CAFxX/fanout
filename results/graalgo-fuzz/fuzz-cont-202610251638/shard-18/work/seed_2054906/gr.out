@@ -1,0 +1,13 @@
+true
+32767 true 2
+v1: true
+slicelen v2: 4 [
+	
+	hello  
+	foo bar a]
+v25: 32767
+slicelen v3: 1 [-450]
+v31: 2
+slicelen v4: 17 [ foo barhellofoo bar
+	foo bar a a a a a a a a a a a a a a a]
+maplen v5: 0

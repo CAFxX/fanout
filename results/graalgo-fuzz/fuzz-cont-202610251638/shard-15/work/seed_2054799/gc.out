@@ -1,0 +1,10 @@
+maplen v1: 0
+slicelen v2: 4 [ 
+	 foo bar 
+	]
+v23: 1e+10
+v3: 0.1
+v4: 42
+slicelen v5: 2 [a ]
+maplen v6: 0
+v9: 0

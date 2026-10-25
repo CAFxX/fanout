@@ -1,0 +1,13 @@
+true
+-179 true -179
+slicelen v1: 3 [a foo barafoo barhellofoo baraaaafoo barhello a]
+v10: 1
+v11: 42
+slicelen v2: 2 [0 130]
+v20: false
+v22: 4294967295
+slicelen v3: 1 [hello]
+v4: true
+v6: 672
+v8: -179
+v9: 1

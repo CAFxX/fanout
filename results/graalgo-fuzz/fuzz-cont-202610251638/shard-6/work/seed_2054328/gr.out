@@ -1,0 +1,12 @@
+65534 255 1.5
+v1: 1.5
+v2: 88
+maplen v3: 3
+v4: 65534
+v42: 255
+v43: hello
+	foo barhello
+v48: 0
+v5: 65535
+v53: 1
+maplen v6: 0

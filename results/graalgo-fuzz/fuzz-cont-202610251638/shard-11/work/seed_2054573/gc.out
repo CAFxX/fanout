@@ -1,0 +1,25 @@
+foo bar
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar 127
+foo bar -2.25 193
+-2.25 127 65535
+127
+v1: -2.25
+v17: 65535
+v2: 193
+v21: foo bar
+v23: -1
+v3: 254
+maplen v4: 0
+v46: 3.14159e+10
+v47: 0
+v5: 126
+v6: foo bar

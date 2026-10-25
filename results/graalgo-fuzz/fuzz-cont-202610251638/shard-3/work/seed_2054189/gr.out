@@ -1,0 +1,23 @@
+foo baraahelloa 808 foo baraahelloa
+1 foo baraahelloa
+0 foo baraahelloa foo baraahelloa
+1 foo baraahelloa foo baraahelloa
+2 foo baraahelloa foo baraahelloa
+3 foo baraahelloa foo baraahelloa
+4 foo baraahelloa foo baraahelloa
+5 foo baraahelloa foo baraahelloa
+6 foo baraahelloa foo baraahelloa
+7 foo baraahelloa foo baraahelloa
+8 foo baraahelloa foo baraahelloa
+9 foo baraahelloa foo baraahelloa
+10 foo baraahelloa foo baraahelloa
+v1: 808
+v13: 1
+v14: 0
+v15: -2.25
+v17: true
+v2: 652864
+v23: 1e+10
+v3: foo baraahelloa
+maplen v4: 1
+slicelen v9: 14 [-9223372036854775808 405 -1 0 0 0 0 0 0 0 0 0 0 0]

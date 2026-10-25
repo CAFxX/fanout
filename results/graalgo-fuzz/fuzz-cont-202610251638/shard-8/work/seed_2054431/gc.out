@@ -1,0 +1,11 @@
+hello 2 hello
+65535 2 255
+slicelen v1: 4 [
+	 foo bar hello a]
+v15: 255
+v179: 2
+v181: 
+	
+v182: -6.666666666666667e-11
+v2: 65535
+v3: hello

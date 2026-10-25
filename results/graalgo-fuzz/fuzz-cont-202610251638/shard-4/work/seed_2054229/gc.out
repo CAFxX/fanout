@@ -1,0 +1,24 @@
+0 300852 447
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+13 13
+v1: foo barfoo barfoo barfoo bar
+maplen v2: 0
+v3: 447
+v4: 300852
+slicelen v5: 4 [483 0 2 42]
+v57: 300852
+v58: 0
+slicelen v6: 0 []
+v75: true

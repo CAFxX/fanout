@@ -1,0 +1,11 @@
+1e+10
+2e+10 65535
+65535 65535
+v1: 2e+10
+v19: 1
+maplen v2: 0
+v26: foo barhello
+slicelen v3: 2 [42 2147483647]
+v4: 65535
+maplen v5: 0
+slicelen v6: 1 [2]

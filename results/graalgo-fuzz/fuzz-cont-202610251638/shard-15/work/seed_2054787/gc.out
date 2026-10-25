@@ -1,0 +1,22 @@
+18446744073709551615 -1
+0
+hello 32767 hello
+slicelen v1: 2 [hello foo barfoo bar
+	
+	
+	
+	hello
+	
+	hellohello]
+slicelen v2: 4 [hellofoo barhellofoo bara 
+	
+	  hello]
+v26: hello
+v27: -1
+slicelen v3: 1 [-1]
+v36: 0
+v39: 32767
+v4: 18446744073709551615
+v40: 680
+v41: 65535
+v42: 255

@@ -1,0 +1,13 @@
+foo bar
+1
+302 42
+foo baraaaaaaa 42
+maplen v1: 0
+v10: 0
+v12: 42
+slicelen v2: 3 [0 -9223372036854775808 -9223372036854775808]
+v3: 1
+slicelen v4: 0 []
+v43: 255
+v5: foo baraaaaaaa
+v6: 344

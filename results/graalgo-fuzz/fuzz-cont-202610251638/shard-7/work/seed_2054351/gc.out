@@ -1,0 +1,12 @@
+127
+-Inf 127
+v1: 1.5
+maplen v2: 0
+v28: -Inf
+slicelen v3: 2 [
+	 
+	]
+slicelen v4: 3 [
+	hello foo bar ]
+v5: 127
+maplen v6: 0

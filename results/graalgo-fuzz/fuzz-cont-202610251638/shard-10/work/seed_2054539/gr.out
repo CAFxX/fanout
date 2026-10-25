@@ -1,0 +1,13 @@
+0 -42
+v1: 0
+v10: -42
+slicelen v2: 4 [ hellohello
+	foo barfoo barfoo barfoo bar foo bar a]
+maplen v3: 1
+v32: 65534
+v35: 42
+maplen v4: 0
+slicelen v5: 3 [
+	 foo barfoo bar afoo bara
+	]
+v6: 0

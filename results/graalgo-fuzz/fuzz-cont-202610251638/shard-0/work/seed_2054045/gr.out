@@ -1,0 +1,13 @@
+foo barfoo barhello -32768
+v1: foo barfoo barhello
+v10: foo barfoo barhello
+v11: 15
+v12: -32768
+v13: -32768
+v15: 15
+v16: -2.25
+v2: -32768
+v3: 0
+maplen v4: 1
+v5: -2.25
+slicelen v6: 1 [foo barfoo barhello]

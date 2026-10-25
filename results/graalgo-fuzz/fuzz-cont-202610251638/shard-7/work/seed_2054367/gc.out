@@ -1,0 +1,9 @@
+0 0
+false false
+v1: 1e+10
+slicelen v2: 11 [-2147483648 -2147483648 128 -1 -2 -3 -4 -5 -6 -7 -8]
+v3: -1
+slicelen v4: 2 [
+	hello 
+	]
+v5: false

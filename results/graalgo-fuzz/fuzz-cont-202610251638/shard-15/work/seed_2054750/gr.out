@@ -1,0 +1,12 @@
+slicelen v1: 2 [foo bar a]
+v2: true
+v3: 0.1
+slicelen v4: 5 [
+	  
+	ahellohello
+	 hellofoo bar a]
+v5: 42
+v56: -3.375
+v59: 0
+v60: 985
+v61: -1
