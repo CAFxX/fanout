@@ -1,0 +1,21 @@
+321
+0
+0 true
+slicelen v1: 4 [2147483648 540 2 2147483647]
+v2: true
+v3: hello
+	
+v35: -1.0742967128753662
+slicelen v4: 4 [a
+	foo barfoo barhellohello
+	aa a
+	foo barfoo barhellohello
+	aaa
+	foo barfoo barhellohello
+	aaa
+	foo barfoo barhellohello
+	aa hello a
+	foo barfoo barhellohello
+	aa]
+v5: 0
+v6: 321

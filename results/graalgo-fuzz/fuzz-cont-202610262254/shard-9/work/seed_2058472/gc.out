@@ -1,0 +1,29 @@
+-2.94159
+foo bar
+	
+	hello foo bar
+	
+	hellofoo bar
+	
+	hellofoo barfoo bar
+	
+	hello
+	foo bar
+	
+	hellofoo bar
+v1: -2.94159
+slicelen v2: 0 []
+v3: foo bar
+	
+	hello
+v4: foo bar
+	
+	hellofoo bar
+	
+	hellofoo barfoo bar
+	
+	hello
+	foo bar
+	
+	hellofoo bar
+v6: true

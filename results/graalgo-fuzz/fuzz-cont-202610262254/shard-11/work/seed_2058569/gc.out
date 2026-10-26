@@ -1,0 +1,12 @@
+slicelen v1: 5 [ 
+	foo bar 
+	foo bar 
+	foo bar 
+	foo bar]
+slicelen v2: 4 [2147483648 4294967295 2147483647 42]
+v3: a
+v4: 0
+v49: 0
+v5: true
+v50: 42
+v62: -1

@@ -1,0 +1,12 @@
+297 297
+297
+3.14159 297
+maplen v1: 0
+slicelen v2: 3 [
+	a a foo bar]
+v3: true
+slicelen v4: 1 [32767]
+v40: 3.14159
+v41: 0
+maplen v5: 1
+v6: 255

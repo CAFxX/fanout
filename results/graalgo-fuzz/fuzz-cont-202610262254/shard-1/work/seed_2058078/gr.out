@@ -1,0 +1,7 @@
+maplen v1: 21
+v2: -32768
+slicelen v3: 3 [a a foo barafoo barfoo barhello]
+v32: aaaaaaaaa
+	
+v35: 84
+v40: 0

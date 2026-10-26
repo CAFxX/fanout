@@ -1,0 +1,14 @@
+foo bar
+	 984 hello
+hello 1123 foo bar
+	
+v1: hello
+v13: 1123
+v14: 1123
+v2: 1123
+slicelen v3: 0 []
+maplen v4: 0
+v5: foo bar
+	
+v7: 42
+v8: -442

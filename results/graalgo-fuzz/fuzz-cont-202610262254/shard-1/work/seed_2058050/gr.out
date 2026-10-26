@@ -1,0 +1,13 @@
+v1: a
+	
+v10: 42
+v11: 42
+slicelen v2: 3 [
+	 foo bar a
+	a
+	foo bar]
+slicelen v3: 0 []
+v4: 42
+v5: 32768
+v6: -749
+v9: 727

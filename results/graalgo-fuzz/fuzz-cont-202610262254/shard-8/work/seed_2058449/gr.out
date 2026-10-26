@@ -1,0 +1,12 @@
+0 32726 32726
+32726 0
+32726
+0 2 18446744073709551615
+32726
+v1: true
+v2: 32726
+v21: 18446744073709551615
+slicelen v3: 22 [foo barfoo bar
+	foo barfoo bar
+	foo bar a foo bar foo bar hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v4: 0

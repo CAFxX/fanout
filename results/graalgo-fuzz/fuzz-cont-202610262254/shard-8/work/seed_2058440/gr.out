@@ -1,0 +1,11 @@
+626 626
+slicelen v1: 3 [hello foo bar hello]
+v10: 1.6e+10
+v11: 42
+v12: 32768
+v14: 42
+v2: 594
+v3: 
+slicelen v4: 3 [foo bar hellohellofoo barfoo barfoo bar 
+	]
+v9: true

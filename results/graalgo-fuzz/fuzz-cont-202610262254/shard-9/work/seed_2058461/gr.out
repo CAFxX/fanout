@@ -1,0 +1,11 @@
+0 80 foo bar
+v1: 1
+v2: foo bar
+v23: 80
+v28: 0
+v3: 3.14159
+slicelen v4: 4 [foo bar 
+	foo bar foo bar foo bar]
+v45: true
+v46: 967
+v5: true

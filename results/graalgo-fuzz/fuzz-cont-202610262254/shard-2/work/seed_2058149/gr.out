@@ -1,0 +1,15 @@
+197
+2 197 197
+true
+-128
+maplen v1: 0
+slicelen v2: 4 [a foo bar 
+	 hello
+	]
+slicelen v3: 4 [0 97 1 414]
+v39: 0
+v40: -128
+v41: 2
+v42: 197
+v45: 18446744073709551615
+v46: true

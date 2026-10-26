@@ -1,0 +1,12 @@
+0 true
+0 127
+v1: 42
+v10: 0
+v19: true
+v2: 0
+maplen v3: 0
+slicelen v4: 6 [2 0 42 42 42 42]
+slicelen v5: 2 [
+	helloa hello]
+v6: true
+v7: 127

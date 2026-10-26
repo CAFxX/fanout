@@ -1,0 +1,24 @@
+hello 0
+hello 1
+hello 2
+hello 3
+hello 4
+hello 5
+hello 6
+hello 7
+hello 8
+hello 9
+hello 10
+hello 11
+hello 12
+hello 13
+maplen v1: 0
+v12: hello
+maplen v2: 0
+v27: 42
+v28: 2000
+slicelen v3: 2 [315 333]
+v31: 0
+slicelen v4: 1 [9223372036854775807]
+v5: 74
+maplen v6: 0

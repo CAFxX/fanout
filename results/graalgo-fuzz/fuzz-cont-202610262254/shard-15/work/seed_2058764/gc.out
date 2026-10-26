@@ -1,0 +1,10 @@
+maplen v1: 0
+v2: 1e+10
+v3: 923
+slicelen v4: 3 [
+	 hellofoo bar
+	 hello
+	]
+v42: 844
+v44: 2
+v45: 0

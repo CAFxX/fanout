@@ -1,0 +1,9 @@
+574
+-32768 foo bar
+v1: 574
+v10: foo barfoo barfoo bar
+v2: -32768
+slicelen v3: 0 []
+v4: foo bar
+v5: 65535
+v7: -32768

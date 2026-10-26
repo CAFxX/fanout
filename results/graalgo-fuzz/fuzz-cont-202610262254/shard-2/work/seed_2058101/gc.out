@@ -1,0 +1,12 @@
+-394
+-394
+-394 foo barfoo barfoo bar
+	
+slicelen v1: 1 [foo barfoo barfoo bar
+	]
+v10: 2
+v11: 454
+maplen v2: 0
+v3: -394
+v4: foo barfoo barfoo bar
+	

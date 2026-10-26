@@ -1,0 +1,12 @@
+3.14159 170 170
+maplen v1: 0
+v10: 170
+v2: -4.5
+v27: false
+slicelen v3: 2 [ 
+	hello]
+v30: 0
+v4: -1.5
+v45: 18446744073709551615
+slicelen v5: 3 [hello hellohello
+	 a]

@@ -1,0 +1,14 @@
+6.666666663566668e+09 42 foo barfoo bar
+4294967295 4294967295 1e+10
+-1
+0 -1 -1
+v1: 0
+v2: 6.666666664066669e+09
+v3: 4294967295
+v35: 0
+v4: 18446744073709551615
+slicelen v5: 61 [ foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar]
+v6: -1
+v7: 1e+10
+v8: -1
+v9: foo barfoo bar

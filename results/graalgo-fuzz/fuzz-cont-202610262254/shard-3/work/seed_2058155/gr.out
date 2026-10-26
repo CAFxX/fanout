@@ -1,0 +1,10 @@
+hello true
+0 0.1 false
+v1: 1e+10
+v2: 0.1
+v3: false
+v34: hello
+v35: 0
+slicelen v4: 1 [hello]
+v5: 895
+v8: 0

@@ -1,0 +1,11 @@
+1 1
+maplen v1: 0
+maplen v2: 0
+v3: 1
+slicelen v4: 4 [
+	hellohelloahellohello 
+	 foo bar aa
+	helloa]
+v93: hellohello
+v94: 899
+v95: 18

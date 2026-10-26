@@ -1,0 +1,11 @@
+0 0
+v1: 1
+slicelen v2: 5 [foo barhellohello
+	 a 
+	 hellofoo bar 
+	]
+slicelen v3: 0 []
+v4: 0
+v46: 0
+v49: -2
+v50: 1

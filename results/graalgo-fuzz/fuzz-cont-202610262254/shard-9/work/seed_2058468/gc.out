@@ -1,0 +1,9 @@
+555 1
+0 128
+v1: 0
+v2: -2
+slicelen v3: 5 [a hello foo barfoo bar a hellohello
+	
+	foo barafoo bara]
+v5: 0
+v9: 128

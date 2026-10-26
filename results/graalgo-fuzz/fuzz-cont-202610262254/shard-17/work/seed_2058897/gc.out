@@ -1,0 +1,10 @@
+1e+10 2
+v1: 0
+v15: 42
+v2: 0
+v20: 128
+v3: 2
+maplen v4: 0
+slicelen v5: 2 [hellofoo barfoo bar
+	ahelloa hellohello]
+maplen v6: 0

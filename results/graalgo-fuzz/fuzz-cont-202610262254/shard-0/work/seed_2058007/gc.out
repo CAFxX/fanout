@@ -1,0 +1,8 @@
+v1: 0.2
+v18: 797
+slicelen v2: 1 [foo bar
+	hellofoo barhellohelloaa]
+v24: true
+slicelen v3: 1 [0]
+slicelen v4: 3 [-509 502 0]
+v5: true

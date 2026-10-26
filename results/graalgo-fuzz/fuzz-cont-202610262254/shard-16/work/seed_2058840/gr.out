@@ -1,0 +1,8 @@
+523 523
+v1: 523
+slicelen v2: 2 [foo bar ]
+v3: true
+v4: 127
+v5: 81
+v57: 18446744073709551615
+v64: foo barhello

@@ -1,0 +1,12 @@
+-107 foo barfoo bar
+42 foo barfoo bar -2.25
+maplen v1: 0
+v101: -2.25
+v102: 42
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+v5: 3.14159e+10
+v50: foo barfoo bar
+v59: -107
+slicelen v61: 1 [32767]
