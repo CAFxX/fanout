@@ -1,0 +1,11 @@
+true 42
+true
+v1: false
+v2: 0
+maplen v3: 0
+slicelen v4: 2 [65535 702]
+maplen v5: 0
+slicelen v6: 3 [
+	
+	 a 
+	]

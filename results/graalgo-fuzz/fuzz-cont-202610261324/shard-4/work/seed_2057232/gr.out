@@ -1,0 +1,10 @@
+3.75000000084375 true 2
+maplen v1: 0
+slicelen v2: 2 [66 65535]
+v27: true
+slicelen v3: 3 [foo bar 
+	 foo barfoo bara]
+maplen v4: 0
+v5: 2
+v6: 1e+10
+v9: 3.75000000084375

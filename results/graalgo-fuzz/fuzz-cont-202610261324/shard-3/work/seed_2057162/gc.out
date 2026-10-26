@@ -1,0 +1,11 @@
+127 127 127
+127
+v1: 128
+slicelen v2: 2 [
+	foo barhellofoo bar
+	aa aaafoo barfoo bara]
+v24: 782
+v3: 127
+v4: 782
+v5: 127
+slicelen v6: 2 [42 342]

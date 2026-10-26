@@ -1,0 +1,13 @@
+0 -1
+maplen v1: 0
+v10: -1
+v13: 65528
+maplen v2: 0
+maplen v3: 0
+slicelen v4: 4 [
+	 hello 
+	 a
+	foo barahello]
+maplen v5: 0
+v6: 698
+v9: 0

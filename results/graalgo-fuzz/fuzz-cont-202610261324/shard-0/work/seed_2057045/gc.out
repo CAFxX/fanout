@@ -1,0 +1,8 @@
+maplen v1: 0
+v12: foo bar
+v15: 0
+maplen v2: 0
+maplen v3: 0
+maplen v4: 0
+v5: 1
+slicelen v8: 2 [27 32767]

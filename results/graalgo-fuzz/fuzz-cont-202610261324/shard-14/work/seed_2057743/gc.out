@@ -1,0 +1,12 @@
+322 foo bar 64
+-128 true 322
+v1: 42
+v13: -128
+v14: 322
+slicelen v2: 4 [
+	 hellohellofoo barfoo bar foo barhellofoo barfoo bar
+	foo bar
+	helloahello hello]
+v3: true
+v4: foo bar
+v5: 64

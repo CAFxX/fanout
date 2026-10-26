@@ -1,0 +1,8 @@
+hello 32767
+32767 hello
+slicelen v1: 1 [hello]
+v2: hello
+maplen v3: 0
+v57: 32767
+v73: true
+v75: 4294962735

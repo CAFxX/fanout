@@ -1,0 +1,12 @@
+42
+0 951
+slicelen v1: 19 [
+	  hello 
+	 foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar foo barfoo bar]
+v101: 
+	
+v2: 951
+v26: 0
+v3: 42
+slicelen v4: 3 [a foo bar foo bar]
+v5: 3.14159

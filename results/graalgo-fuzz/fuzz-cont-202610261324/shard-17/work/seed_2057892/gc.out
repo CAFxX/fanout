@@ -1,0 +1,21 @@
+
+	ahellofoo bar
+	
+	 9223372036854775807
+slicelen v1: 3 [0 949 9223372036854775807]
+v2: 0
+v3: 1.593749991988945
+v37: 9223372036854775807
+slicelen v4: 1 [0]
+slicelen v5: 5 [foo bar hello 
+	 a 
+	ahellofoo bar
+	
+	]
+v59: 42
+v60: 
+	ahellofoo bar
+	
+	
+v61: 553
+v63: 1.593749991988945

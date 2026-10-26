@@ -1,0 +1,14 @@
+0 foo bar
+1 foo bar
+2 foo bar
+3 foo bar
+255 -128 41
+v1: -128
+slicelen v16: 1 [32768]
+v17: 255
+v2: 18446744073709551615
+maplen v3: 0
+v4: 9223372036854775807
+v5: foo bar
+v54: 41
+v56: false

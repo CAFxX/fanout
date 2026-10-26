@@ -1,0 +1,12 @@
+1 0
+0 1
+0
+maplen v1: 0
+maplen v2: 0
+maplen v3: 1
+v48: 1
+v59: 0
+v60: 
+	hellofoo bar
+	hellofoo bar
+slicelen v62: 4 [551 -33 32767 9223372036854775807]

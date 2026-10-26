@@ -1,0 +1,10 @@
+127 1 42
+v1: 42
+v123: 42
+v17: 1
+v2: 127
+slicelen v3: 1 [607]
+slicelen v4: 1 [foo bar
+	]
+slicelen v5: 2 [816 0]
+v6: 0

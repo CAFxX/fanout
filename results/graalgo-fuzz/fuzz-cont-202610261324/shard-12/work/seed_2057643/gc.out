@@ -1,0 +1,14 @@
+false 39
+39
+-2.25 -2.25
+false -2147483648 -2.25
+v1: 39
+v2: false
+v3: 2
+slicelen v4: 4 [ afoo barhello 
+	 foo bar]
+slicelen v5: 6 [hello 
+	 a 
+	 
+	 ]
+v7: -2.25

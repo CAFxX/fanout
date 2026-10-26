@@ -1,0 +1,12 @@
+16.886047 16.886047
+v1: -128
+v12: 32767
+v13: 42
+v15: hello
+maplen v2: 0
+slicelen v3: 4 [
+	 a
+	hellofoo bara foo bar hello]
+v4: 16.886047
+v5: 22
+slicelen v6: 1 [1]

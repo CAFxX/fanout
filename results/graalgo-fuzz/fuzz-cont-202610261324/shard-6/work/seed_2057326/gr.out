@@ -1,0 +1,23 @@
+ 1
+127
+127
+139
+-319 foo bar foo bar
+0 0 -319
+0 0 -319
+0 0 -319
+0 0 -319
+0 0 -319
+0 0 -319
+slicelen v1: 0 []
+v2: 0
+slicelen v3: 2 [
+	 afoo bar]
+v36: 
+	
+v37: -1
+slicelen v4: 0 []
+v5: a
+maplen v6: 0
+v8: 0
+v9: -319

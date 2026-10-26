@@ -1,0 +1,11 @@
+true 2 30
+false
+maplen v1: 1
+v12: -32768
+v2: false
+maplen v3: 1
+slicelen v4: 4 [ foo bar ahelloa helloa
+	hello
+	afoo bar]
+v5: 186
+v6: 0

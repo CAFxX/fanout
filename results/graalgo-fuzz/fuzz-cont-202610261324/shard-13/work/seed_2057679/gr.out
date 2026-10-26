@@ -1,0 +1,9 @@
+3.14159 -1 afoo bar
+v1: false
+v2: -1
+v3: 3.14159
+maplen v4: 1
+v5: afoo bar
+slicelen v78: 0 []
+v81: afoo barfoo bar
+	

@@ -1,0 +1,19 @@
+678 -853 20
+-853
+foo bar 42 0
+foo bar 42 1
+foo bar 42 2
+foo bar 42 3
+foo bar 42 4
+foo bar 42 5
+foo bar 42 6
+v1: -853
+v2: 18446744073709551595
+v26: 0
+v27: 42
+v28: foo bar
+v29: foo bar
+v3: 720
+slicelen v39: 2 [0 -854]
+v4: 678
+v42: 0.314159

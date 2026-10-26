@@ -1,0 +1,17 @@
+127
+127
+127 0
+127 1
+127 2
+127 3
+127 4
+slicelen v1: 5 [hello 
+	
+	 
+	hello
+	foo barfoo barhellofoo bar
+	helloaafoo bar
+	hellohello hello 
+	afoo bar]
+slicelen v2: 1 [foo bara]
+v3: -3

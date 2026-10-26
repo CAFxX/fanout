@@ -1,0 +1,14 @@
+42 42
+42 42 84
+-9223372036854775808
+maplen v1: 0
+slicelen v2: 0 []
+maplen v3: 0
+v4: 42
+slicelen v5: 9 [foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+slicelen v6: 1 [
+	]
+v63: -9223372036854775808
+v64: -1
+v80: true
+v95: 845

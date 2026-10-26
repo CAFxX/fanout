@@ -1,0 +1,43 @@
+-2147483648
+32767
+0 32767 32767
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+0 
+	foo barhello
+	 4194272
+v1: 4194272
+v11: 0
+slicelen v2: 3 [4294967295 -461 42]
+v24: 32767
+v25: 198
+v26: 198
+v27: 255
+v28: true
+v3: -2147483648
+v4: 
+	foo barhello
+	
+v5: 32767

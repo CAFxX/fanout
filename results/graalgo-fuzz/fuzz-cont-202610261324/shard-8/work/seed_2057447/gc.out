@@ -1,0 +1,8 @@
+slicelen v1: 0 []
+v2: foo bar
+slicelen v3: 3 [a
+	foo bar 
+	a
+	foo bar a
+	foo bar]
+v49: 255

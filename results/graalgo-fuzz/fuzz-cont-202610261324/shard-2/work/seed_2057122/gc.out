@@ -1,0 +1,9 @@
+ 
+false
+v1: foo bar
+slicelen v2: 1 [hello]
+slicelen v3: 2 [foo bar ]
+v4: false
+v68: 387
+v70: false
+v97: false

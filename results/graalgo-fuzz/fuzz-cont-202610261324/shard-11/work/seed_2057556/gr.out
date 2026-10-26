@@ -1,0 +1,15 @@
+true 988 false
+1 false
+988 true false
+v1: 127
+v10: -1.4323957
+v11: 1
+v12: true
+v13: false
+v2: 988
+v20: 1.5
+v21: 65535
+v22: 42
+slicelen v3: 2 [0 2147483647]
+slicelen v4: 2 [a foo bar]
+v5: true

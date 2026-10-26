@@ -1,0 +1,14 @@
+0
+0
+592 592
+v1: 0
+slicelen v2: 3 [
+	 foo bar hello]
+v20: 592
+slicelen v3: 3 [a
+	
+	hello 
+	 foo barfoo barhello]
+slicelen v4: 4 [foo bara foo bar foo bar 
+	
+	]

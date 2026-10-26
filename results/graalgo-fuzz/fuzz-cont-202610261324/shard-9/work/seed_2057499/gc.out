@@ -1,0 +1,18 @@
+128 false 3.14159
+128 false 3.14159
+128 false 3.14159
+128 false 3.14159
+128 false 3.14159
+128 false 3.14159
+128 false 3.14159
+v1: 128
+v10: -394
+v13: 255
+v2: 3.14159
+v3: false
+slicelen v4: 2 [65535 2]
+slicelen v5: 2 [
+	a foo bar
+	
+	hello]
+slicelen v6: 3 [2147483647 32767 -2147483648]

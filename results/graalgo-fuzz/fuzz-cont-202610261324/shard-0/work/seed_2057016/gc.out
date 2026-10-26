@@ -1,0 +1,20 @@
+true
+maplen v1: 0
+v13: -103
+v14: 42
+v2: 0
+v28: 
+	hello
+slicelen v3: 10 [ 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello]
+maplen v4: 0
+v5: true
+v60: 42
