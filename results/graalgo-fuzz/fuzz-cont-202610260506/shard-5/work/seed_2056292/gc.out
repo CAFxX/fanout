@@ -1,0 +1,9 @@
+v1: 446
+v17: -22.913431
+v19: 1.5
+v2: true
+slicelen v3: 2 [
+	 foo barfoo barahellofoo barfoo bar]
+slicelen v4: 3 [623 32768 4294967295]
+maplen v5: 0
+v6: 3

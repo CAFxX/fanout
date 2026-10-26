@@ -1,0 +1,14 @@
+810 810 foo bar
+0
+50 50
+v1: 50
+v14: -128
+v16: 0
+slicelen v2: 3 [ a 
+	]
+v22: 1
+v3: 254
+maplen v4: 0
+v5: foo bar
+v6: 810
+v7: -128

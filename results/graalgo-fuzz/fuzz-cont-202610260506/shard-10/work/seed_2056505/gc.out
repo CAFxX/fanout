@@ -1,0 +1,12 @@
+-1.5 -1.5
+-1.5 -1.5
+0 2147483648 0
+2147482232 0 0
+v1: -1.5
+slicelen v2: 1 [a]
+v3: -9223372036854775808
+v4: 2147482232
+v48: 331
+v49: 0
+slicelen v5: 18 [foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar]
+v6: 56

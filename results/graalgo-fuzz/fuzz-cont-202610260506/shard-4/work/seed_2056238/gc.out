@@ -1,0 +1,8 @@
+v1: 4
+v2: 18446744073709551615
+v3: hello
+slicelen v4: 2 [foo bar ]
+maplen v5: 1
+slicelen v6: 2 [ ]
+v76: true
+v77: 326

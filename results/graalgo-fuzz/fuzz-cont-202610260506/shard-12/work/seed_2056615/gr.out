@@ -1,0 +1,17 @@
+-490
+-490 0
+-490 0
+-490 0
+-490 -490 -490
+maplen v1: 1
+v11: 0
+v15: -371
+slicelen v2: 3 [foo bar
+	
+	 hello hello]
+v22: 0
+v23: -980
+v3: -490
+v4: 1
+v5: -2.79252439085e+10
+slicelen v6: 1 [foo barahello]

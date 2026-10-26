@@ -1,0 +1,47 @@
+0 -63
+false 4294967295
+false
+1 -63
+false 4294967337
+false
+2 -63
+false 4294967379
+false
+3 -63
+false 4294967421
+false
+4 -63
+false 4294967463
+false
+5 -63
+false 4294967505
+false
+6 -63
+false 4294967547
+false
+7 -63
+false 4294967589
+false
+8 -63
+false 4294967631
+false
+9 -63
+false 4294967673
+false
+10 -63
+false 4294967715
+false
+32725
+32725
+32725
+32725
+32725
+124 1e+10
+v1: true
+maplen v2: 0
+v3: 4294967757
+v30: 124
+v36: 1e+10
+v4: 42
+maplen v5: 0
+slicelen v6: 1 [foo bar]

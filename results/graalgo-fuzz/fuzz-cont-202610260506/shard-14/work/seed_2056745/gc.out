@@ -1,0 +1,15 @@
+3.14159e-10
+foo barafoo bar a
+3.14159e-10 a a
+foo barafoo bar a
+3.14159e-10 a a
+v1: 1
+v2: 3.14159e-10
+v24: 32767
+v3: 0
+v4: foo bar
+v5: -2147483648
+v50: true
+v55: foo barafoo bar
+v6: a
+slicelen v64: 2 [32767 32767]

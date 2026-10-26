@@ -1,0 +1,23 @@
+1e+10 1
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+1e+10
+42 1e+10 42
+maplen v1: 0
+v2: 1e+10
+slicelen v3: 1 [foo barhellohello]
+v4: 1
+v45: 2
+v46: 42
+v47: 65535
+slicelen v5: 3 [652 224 2147483648]
+maplen v6: 0

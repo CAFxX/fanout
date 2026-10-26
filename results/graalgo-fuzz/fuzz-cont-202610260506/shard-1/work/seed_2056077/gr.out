@@ -1,0 +1,27 @@
+0 127 0
+1 127 1
+2 127 2
+3 127 3
+4 127 4
+5 127 5
+6 127 6
+7 127 7
+8 127 8
+9 127 9
+10 127 10
+11 127 11
+12 127 12
+13 127 13
+14 127 14
+15 127 15
+16 127 16
+17 127 17
+hellohellohellofoo bar
+maplen v1: 0
+v125: 0
+v134: 42
+maplen v2: 0
+slicelen v3: 3 [foo barhellohello hello foo bar]
+maplen v4: 0
+v82: hellohellohellofoo bar
+v84: 50

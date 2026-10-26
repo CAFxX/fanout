@@ -1,0 +1,46 @@
+
+	hello 42 50
+213 42
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+157
+60
+v1: 
+	hello
+maplen v2: 0
+maplen v3: 0
+slicelen v4: 19 [ foo bar 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello 
+	hello]
+v5: 42
+v6: 60
+v83: 157

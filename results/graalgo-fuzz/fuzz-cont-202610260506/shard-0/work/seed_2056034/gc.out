@@ -1,0 +1,11 @@
+2 65535
+maplen v1: 0
+slicelen v2: 4 [foo barhello
+	foo bar
+	foo bar
+	 a  a
+	]
+maplen v3: 1
+v4: 0
+v5: 65535
+v6: 2

@@ -1,0 +1,179 @@
+0 0 foo barhello
+foo barhello
+1 0 foo barhello
+foo barhello
+2 0 foo barhello
+foo barhello
+3 0 foo barhello
+foo barhello
+4 0 foo barhello
+foo barhello
+5 0 foo barhello
+foo barhello
+0 1 foo barhello
+foo barhello
+1 1 foo barhello
+foo barhello
+2 1 foo barhello
+foo barhello
+3 1 foo barhello
+foo barhello
+4 1 foo barhello
+foo barhello
+5 1 foo barhello
+foo barhello
+0 2 foo barhello
+foo barhello
+1 2 foo barhello
+foo barhello
+2 2 foo barhello
+foo barhello
+3 2 foo barhello
+foo barhello
+4 2 foo barhello
+foo barhello
+5 2 foo barhello
+foo barhello
+0 3 foo barhello
+foo barhello
+1 3 foo barhello
+foo barhello
+2 3 foo barhello
+foo barhello
+3 3 foo barhello
+foo barhello
+4 3 foo barhello
+foo barhello
+5 3 foo barhello
+foo barhello
+0 4 foo barhello
+foo barhello
+1 4 foo barhello
+foo barhello
+2 4 foo barhello
+foo barhello
+3 4 foo barhello
+foo barhello
+4 4 foo barhello
+foo barhello
+5 4 foo barhello
+foo barhello
+0 5 foo barhello
+foo barhello
+1 5 foo barhello
+foo barhello
+2 5 foo barhello
+foo barhello
+3 5 foo barhello
+foo barhello
+4 5 foo barhello
+foo barhello
+5 5 foo barhello
+foo barhello
+0 6 foo barhello
+foo barhello
+1 6 foo barhello
+foo barhello
+2 6 foo barhello
+foo barhello
+3 6 foo barhello
+foo barhello
+4 6 foo barhello
+foo barhello
+5 6 foo barhello
+foo barhello
+0 7 foo barhello
+foo barhello
+1 7 foo barhello
+foo barhello
+2 7 foo barhello
+foo barhello
+3 7 foo barhello
+foo barhello
+4 7 foo barhello
+foo barhello
+5 7 foo barhello
+foo barhello
+0 8 foo barhello
+foo barhello
+1 8 foo barhello
+foo barhello
+2 8 foo barhello
+foo barhello
+3 8 foo barhello
+foo barhello
+4 8 foo barhello
+foo barhello
+5 8 foo barhello
+foo barhello
+0 9 foo barhello
+foo barhello
+1 9 foo barhello
+foo barhello
+2 9 foo barhello
+foo barhello
+3 9 foo barhello
+foo barhello
+4 9 foo barhello
+foo barhello
+5 9 foo barhello
+foo barhello
+0 10 foo barhello
+foo barhello
+1 10 foo barhello
+foo barhello
+2 10 foo barhello
+foo barhello
+3 10 foo barhello
+foo barhello
+4 10 foo barhello
+foo barhello
+5 10 foo barhello
+foo barhello
+0 11 foo barhello
+foo barhello
+1 11 foo barhello
+foo barhello
+2 11 foo barhello
+foo barhello
+3 11 foo barhello
+foo barhello
+4 11 foo barhello
+foo barhello
+5 11 foo barhello
+foo barhello
+0 12 foo barhello
+foo barhello
+1 12 foo barhello
+foo barhello
+2 12 foo barhello
+foo barhello
+3 12 foo barhello
+foo barhello
+4 12 foo barhello
+foo barhello
+5 12 foo barhello
+foo barhello
+0 13 foo barhello
+foo barhello
+1 13 foo barhello
+foo barhello
+2 13 foo barhello
+foo barhello
+3 13 foo barhello
+foo barhello
+4 13 foo barhello
+foo barhello
+5 13 foo barhello
+foo barhello
+0 0
+0 0 350
+v1: true
+v2: false
+v20: 0
+v21: 4294246411
+v3: 350
+slicelen v39: 4 [0 364 -9223372036854775808 -1]
+v4: -Inf
+v40: -1
+v41: hello

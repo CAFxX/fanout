@@ -1,0 +1,15 @@
+false true
+v1: false
+slicelen v2: 3 [hello 
+	 hello
+	hello
+	hello
+	hello
+	]
+v3: false
+v4: 1e+10
+v47: hello
+	
+v48: 0
+v49: 117
+slicelen v5: 1 [411]

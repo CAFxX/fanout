@@ -1,0 +1,14 @@
+true
+-2.25 -2.25
+48
+-2.25
+-2.25 -2.25 48
+maplen v1: 1
+slicelen v2: 1 [hello
+	foo bar
+	
+	hello]
+v3: 4221955737
+v49: -67.06293
+v50: 48
+v67: true

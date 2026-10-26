@@ -1,0 +1,26 @@
+196 196 0
+196
+2 0
+2 1
+2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+2 9
+2 10
+2 11
+slicelen v1: 2 [foo bar 
+	]
+v11: foo bar
+v12: 2
+v14: -657
+v2: 0
+v3: 196
+v4: 393
+maplen v5: 0
+slicelen v6: 4 [
+	foo bar 
+	helloa a foo bar]

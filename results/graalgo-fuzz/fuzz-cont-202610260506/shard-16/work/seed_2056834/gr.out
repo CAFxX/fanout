@@ -1,0 +1,17 @@
+v1: 1000
+v15: afoo barafoo barfoo barfoo bar
+	foo barafoo barfoo barfoo bar
+	foo bara
+slicelen v2: 1 [foo barfoo barfoo bar
+	foo barafoo barfoo barfoo bar
+	foo barafoo bara]
+v24: afoo barafoo barfoo barfoo bar
+	foo barafoo barfoo barfoo bar
+	foo bara
+slicelen v3: 1 [32768]
+v4: 4294967295
+v42: 822
+v5: 100
+maplen v6: 0
+v70: foo barfoo barfoo bar
+	foo bara

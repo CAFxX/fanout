@@ -1,0 +1,14 @@
+255 255
+811 0 0
+true 811 hello
+0 0
+v1: 0
+v2: 
+	foo barhello
+v23: false
+v3: true
+v4: 255
+maplen v5: 0
+v6: -2.25
+v7: 804
+v8: 811

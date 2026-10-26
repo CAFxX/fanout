@@ -1,0 +1,14 @@
+1
+1
+maplen v1: 1
+maplen v2: 1
+v24: 
+	foo barhellofoo bar
+	foo barhellofoo bar
+	foo barhellofoo bar
+	foo barhellofoo bar
+v25: -2
+v28: 32767
+v3: 18446744073709551614
+maplen v4: 0
+slicelen v5: 2 [4294967295 4294967295]

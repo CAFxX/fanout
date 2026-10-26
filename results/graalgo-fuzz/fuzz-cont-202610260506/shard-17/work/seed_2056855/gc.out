@@ -1,0 +1,17 @@
+892
+892 
+	ahello
+892
+maplen v1: 0
+v107: 892
+v109: 
+	ahellohello
+v110: 0
+v111: false
+v2: 892
+maplen v3: 0
+v4: 18446744073709551614
+v40: 
+	ahello
+slicelen v5: 2 [ahello foo barafoo barhellofoo bar]
+slicelen v6: 3 [42 872 42]

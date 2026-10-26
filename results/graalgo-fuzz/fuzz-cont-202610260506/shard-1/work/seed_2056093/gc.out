@@ -1,0 +1,27 @@
+foo bar
+	foo barafoo bar
+	foo barahellofoo bar
+	foo barafoo bar
+	foo baraafoo bar
+	foo barafoo bar
+	foo barafoo bar
+	foo barafoo bar foo bar
+	foo barafoo bar
+	foo barahellofoo bar
+	foo barafoo bar
+	foo baraafoo bar
+	foo barafoo bar
+	foo barafoo bar
+	foo barafoo bar
+slicelen v1: 2 [0 997]
+v2: foo bar
+	foo barafoo bar
+	foo barahellofoo bar
+	foo barafoo bar
+	foo baraafoo bar
+	foo barafoo bar
+	foo barafoo bar
+	foo barafoo bar
+v3: 0
+v8: 371
+v9: 397

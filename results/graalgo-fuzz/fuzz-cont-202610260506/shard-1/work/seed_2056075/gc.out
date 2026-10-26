@@ -1,0 +1,30 @@
+true helloafoo bar
+true helloafoo bar
+true helloafoo bar
+true helloafoo bar
+true helloafoo bar
+true helloafoo bar
+366 true 366
+366 helloafoo bar helloafoo bar
+true helloafoo bar 0
+true helloafoo bar 1
+true helloafoo bar 2
+true helloafoo bar 3
+true helloafoo bar 4
+true helloafoo bar 5
+true helloafoo bar 6
+true helloafoo bar 7
+true helloafoo bar 8
+true helloafoo bar 9
+true helloafoo bar 10
+true helloafoo bar 11
+helloafoo bar 819
+v1: helloafoo bar
+slicelen v2: 3 [2 42 4294967295]
+v3: true
+slicelen v4: 1 [1]
+v47: 1638
+v48: helloafoo bar
+slicelen v5: 2 [-479 798]
+slicelen v6: 3 [helloafoo barhelloafoo barhelloafoo bar
+	helloafoo barhelloafoo barhelloafoo bar  foo bar]

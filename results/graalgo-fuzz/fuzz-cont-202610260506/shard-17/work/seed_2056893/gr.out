@@ -1,0 +1,10 @@
+-553 -553
+-553 2
+2 hello hellohellohello
+maplen v1: 1
+v11: 1e+10
+v12: hello
+v13: hellohellohello
+v2: -553
+slicelen v3: 4 [foo bar hello  foo barhello]
+v4: 2

@@ -1,0 +1,9 @@
+9223372036854775807 0 0
+v1: 98
+maplen v2: 0
+v3: 0
+v36: 9223372036854775807
+slicelen v4: 1 [hello
+	foo bar
+	]
+slicelen v5: 3 [hello a foo bar]

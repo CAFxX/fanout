@@ -1,0 +1,10 @@
+hello 51 aa
+slicelen v1: 2 [ foo barhello]
+v10: 3.14159
+v17: -9223372036854775808
+v2: 588
+v3: hello
+v4: aa
+slicelen v5: 1 [2147483647]
+v6: hello
+v9: 51

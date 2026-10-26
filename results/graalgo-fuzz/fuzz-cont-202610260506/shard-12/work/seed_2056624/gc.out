@@ -1,0 +1,13 @@
+2147483648
+slicelen v1: 4 [373 2 2147483647 2]
+v107: 0
+v108: 
+	
+slicelen v2: 4 [
+	 
+	  foo bar
+	
+	afoo barahello]
+slicelen v3: 4 [436 2147483647 9223372036854775807 42]
+v4: 0
+maplen v5: 0

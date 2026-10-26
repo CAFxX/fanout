@@ -1,0 +1,9 @@
+foo bar
+v1: 18446744073709551615
+v14: foo bar
+v2: foo barfoo bar
+v29: false
+v3: false
+v31: 42
+slicelen v4: 5 [a foo bar foo barfoo barfoo bar foo bar hello]
+v5: 181

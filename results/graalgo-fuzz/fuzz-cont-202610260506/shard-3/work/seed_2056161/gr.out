@@ -1,0 +1,9 @@
+125
+-32768
+v1: 125
+slicelen v2: 1 [
+	foo bar]
+slicelen v3: 1 [a
+	]
+v32: -32768
+v4: 125

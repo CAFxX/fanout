@@ -1,0 +1,8 @@
+true
+v1: 2
+v2: true
+maplen v3: 0
+slicelen v4: 5 [
+	foo bar  
+	 foo bar hello]
+v9: 42

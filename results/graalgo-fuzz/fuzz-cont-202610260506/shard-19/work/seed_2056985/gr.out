@@ -1,0 +1,26 @@
+127 0
+65535
+2147483647 foo bar foo bar
+127
+127
+127
+127
+127
+127
+127
+127
+127
+127
+127
+127
+127
+127
+v1: foo bar
+v17: 127
+v18: 1e+10
+v19: 65535
+v2: 14
+v3: 2147483647
+slicelen v4: 4 [foo bar foo bar  foo bar]
+v5: foo bar
+slicelen v6: 0 []

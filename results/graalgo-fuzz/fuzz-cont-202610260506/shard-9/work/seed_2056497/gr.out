@@ -1,0 +1,12 @@
+100 100 true
+true -114 100
+slicelen v1: 1 [1]
+v12: true
+v13: 100
+slicelen v2: 3 [-799 2147483647 32767]
+slicelen v3: 4 [32767 -9223372036854775808 1 42]
+maplen v4: 0
+maplen v5: 0
+maplen v6: 0
+v7: -114
+v8: 0
