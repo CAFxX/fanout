@@ -1,0 +1,16 @@
+
+ 
+
+59
+maplen v1: 0
+v11: 1
+v13: 59
+v14: a
+slicelen v2: 2 [
+	a
+	foo bar
+	hellofoo barfoo bar ]
+slicelen v3: 0 []
+maplen v4: 0
+slicelen v5: 2 [-424 -666]
+v6: 

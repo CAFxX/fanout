@@ -1,0 +1,14 @@
+127
+-256
+v1: -256
+v113: 65535
+v16: false
+v17: 0
+maplen v2: 0
+v25: 2
+v27: 0
+maplen v3: 0
+v30: 0
+slicelen v4: 4 [
+	foo bar
+	hellohello foo bar foo bar foo barfoo barfoo bar]

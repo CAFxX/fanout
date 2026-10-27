@@ -1,0 +1,11 @@
+5.0625 foo bar
+v1: foo bar
+v11: 5.0625
+v12: 0
+slicelen v2: 2 [2 65535]
+slicelen v3: 37 [foo bar foo barfoo bar foo bar foo bar a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a]
+v37: afoo barfoo barfoo bar
+v4: foo bar
+v42: foo bar
+v5: -2.25
+v6: 42

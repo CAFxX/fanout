@@ -1,0 +1,21 @@
+0
+255 true 0
+255 true 0
+255 true 0
+2147483647 
+	hellofoo bar
+	foo bar 2147483647
+v1: true
+v18: 2147483647
+v2: 
+	hellofoo bar
+	foo bar
+v20: -484
+v21: 32767
+v22: 360
+v26: -1
+v28: 1
+slicelen v3: 2 [471 -846]
+v4: 255
+maplen v5: 3
+v6: 1.5

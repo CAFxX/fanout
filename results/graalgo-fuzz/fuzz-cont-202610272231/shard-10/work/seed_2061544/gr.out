@@ -1,0 +1,9 @@
+maplen v1: 1
+slicelen v2: 1 [65535]
+v3: 53
+v4: 0
+v40: 0
+v42: foo bar
+	
+v5: 0.1
+slicelen v6: 2 [2147483648 1]

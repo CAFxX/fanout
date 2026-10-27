@@ -1,0 +1,16 @@
+-1 65535 true
+-1 65535 true
+-1 65535 true
+v1: true
+v17: -1
+v18: 1
+slicelen v2: 4 [
+	 hello foo barhello a]
+v25: 0
+v3: 
+	
+v4: 65535
+slicelen v5: 3 [32768 -111 2147483647]
+v91: -977
+v92: 
+	

@@ -1,0 +1,15 @@
+foo bar
+false
+foo bar true foo bar
+maplen v1: 0
+maplen v2: 0
+v3: false
+v35: 4.712385001480438
+v36: -9223372036854775808
+v37: 4.712385001480438
+v38: 42
+v39: 42
+maplen v4: 0
+slicelen v5: 5 [2 558 2147483648 1 42]
+maplen v6: 0
+v7: foo bar

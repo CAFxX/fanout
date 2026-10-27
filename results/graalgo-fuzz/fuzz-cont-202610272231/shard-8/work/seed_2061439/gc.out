@@ -1,0 +1,9 @@
+8 8 8
+8 1.5 8
+foo bar 8 8
+v1: -1.5
+v2: foo bar
+v3: 8
+v4: 84
+slicelen v5: 2 [foo bar foo bar]
+slicelen v6: 1 [0]

@@ -1,0 +1,15 @@
+false -2.25 false
+-2.25 -2.25 false
+0
+-2.25 false
+0
+-2.25 false
+0
+-2.25 false
+slicelen v1: 1 [hello]
+v12: 0
+slicelen v2: 2 [2147483648 2]
+slicelen v3: 4 [9223372036854775807 128 -2147483648 -2147483648]
+maplen v4: 1
+v5: true
+v6: -2.25

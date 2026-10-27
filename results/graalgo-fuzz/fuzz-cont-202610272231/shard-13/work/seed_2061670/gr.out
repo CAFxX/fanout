@@ -1,0 +1,10 @@
+maplen v1: 0
+v10: 128
+v12: 129
+v13: 42
+v15: 5
+slicelen v2: 4 [foo bar afoo bar 
+	 a]
+maplen v3: 1
+v30: 1e+10
+v4: -2

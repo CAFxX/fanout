@@ -1,0 +1,14 @@
+9223372036854775807
+66 66
+maplen v1: 0
+v10: hellofoo bar
+	
+v11: hellofoo bar
+	
+v12: 4294967295
+slicelen v2: 2 [1 -1]
+maplen v3: 0
+maplen v4: 0
+v5: -9223372036854775767
+v7: 66
+v9: 2147483647

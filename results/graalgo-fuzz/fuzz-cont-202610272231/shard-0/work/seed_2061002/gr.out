@@ -1,0 +1,10 @@
+maplen v1: 1
+maplen v2: 0
+v3: 128
+slicelen v4: 19 [foo barfoo barfoo barhello
+	helloafoo barfoo barahellohellofoo barhello 
+	 a  hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello]
+v42: 100
+slicelen v5: 1 [-536]
+v6: true
+v62: 0

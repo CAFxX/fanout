@@ -1,0 +1,8 @@
+foo barhello
+slicelen v1: 5 [98 701 42 277 0]
+maplen v2: 1
+v27: 18446744073709551615
+v28: 0
+v3: foo bar
+maplen v4: 0
+slicelen v5: 1 [foo barhello]

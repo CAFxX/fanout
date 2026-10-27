@@ -1,0 +1,31 @@
+1 31 31
+v1: -303
+v10: 1
+v11: 31
+v12: 1.5
+v17: -303
+v19: 31
+slicelen v2: 4 [-2147483648 -9223372036854775808 -9223372036854775808 106]
+v22: a
+v24: 0.1
+v3: 42
+slicelen v4: 19 [ 
+	 
+	ahello 
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	 foo bar
+	]
+v5: 31

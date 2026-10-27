@@ -1,0 +1,23 @@
+2 43 hello
+2 hello 0
+2 43 hello
+2 hello 0
+2 43 hello
+2 hello 0
+2 43 hello
+2 hello 0
+2 43 hello
+2 hello 0
+2 43 hello
+2 hello 0
+slicelen v1: 3 [a foo bar 
+	foo barhellohello]
+maplen v2: 0
+v25: 43
+v26: hello
+v27: 0
+slicelen v3: 1 [foo bar]
+v30: 65535
+v4: 2147483648
+v5: 2
+v6: 2147483648

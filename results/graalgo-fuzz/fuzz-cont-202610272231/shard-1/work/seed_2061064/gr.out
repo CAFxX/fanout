@@ -1,0 +1,120 @@
+-2 -2
+-2 -2
+false 0 a
+	foo barafoo bar
+false 0 a
+	foo barafoo bar
+false 0 a
+	foo barafoo bar
+-2 -2
+false 1 a
+	foo barafoo bar
+false 1 a
+	foo barafoo bar
+false 1 a
+	foo barafoo bar
+-2 -2
+false 2 a
+	foo barafoo bar
+false 2 a
+	foo barafoo bar
+false 2 a
+	foo barafoo bar
+-2 -2
+false 3 a
+	foo barafoo bar
+false 3 a
+	foo barafoo bar
+false 3 a
+	foo barafoo bar
+-2 -2
+false 4 a
+	foo barafoo bar
+false 4 a
+	foo barafoo bar
+false 4 a
+	foo barafoo bar
+-2 -2
+false 5 a
+	foo barafoo bar
+false 5 a
+	foo barafoo bar
+false 5 a
+	foo barafoo bar
+-2 -2
+false 6 a
+	foo barafoo bar
+false 6 a
+	foo barafoo bar
+false 6 a
+	foo barafoo bar
+-2 -2
+false 7 a
+	foo barafoo bar
+false 7 a
+	foo barafoo bar
+false 7 a
+	foo barafoo bar
+-2 -2
+false 8 a
+	foo barafoo bar
+false 8 a
+	foo barafoo bar
+false 8 a
+	foo barafoo bar
+-2 -2
+false 9 a
+	foo barafoo bar
+false 9 a
+	foo barafoo bar
+false 9 a
+	foo barafoo bar
+-2 -2
+false 10 a
+	foo barafoo bar
+false 10 a
+	foo barafoo bar
+false 10 a
+	foo barafoo bar
+-2 -2
+false 11 a
+	foo barafoo bar
+false 11 a
+	foo barafoo bar
+false 11 a
+	foo barafoo bar
+-2 -2
+false 12 a
+	foo barafoo bar
+false 12 a
+	foo barafoo bar
+false 12 a
+	foo barafoo bar
+-2 -2
+false 13 a
+	foo barafoo bar
+false 13 a
+	foo barafoo bar
+false 13 a
+	foo barafoo bar
+-2 -2
+false 14 a
+	foo barafoo bar
+false 14 a
+	foo barafoo bar
+false 14 a
+	foo barafoo bar
+-2 -2
+false 15 a
+	foo barafoo bar
+false 15 a
+	foo barafoo bar
+false 15 a
+	foo barafoo bar
+maplen v1: 0
+maplen v2: 0
+v3: -2
+v4: false
+v60: a
+	foo barafoo bar
+v67: 42

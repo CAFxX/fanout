@@ -1,0 +1,11 @@
+foo barfoo bar
+	 4294967295 foo barfoo bar
+	
+slicelen v1: 1 [0]
+v13: 4294967295
+v2: true
+v23: -1
+v24: 4294967295
+maplen v3: 0
+v4: foo barfoo bar
+	

@@ -1,0 +1,24 @@
+false 0 0
+
+	aafoo bar
+	
+	hellohello
+2147483648 270 0
+2147483648 270 1
+2147483648 270 2
+2147483648 270 3
+slicelen v1: 1 [
+	aafoo bar
+	
+	hellohello]
+v2: 2147483648
+v3: 0
+v38: -270
+v39: 0
+v4: false
+v46: 65535
+v5: 0.1
+v6: 
+	aafoo bar
+	
+	hellohello

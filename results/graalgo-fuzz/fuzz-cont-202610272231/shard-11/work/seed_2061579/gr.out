@@ -1,0 +1,14 @@
+728 728 728
+slicelen v1: 1 []
+v164: 18446744073709551615
+slicelen v2: 4 [a
+	 foo barhello
+	 a 
+	hello
+	foo barfoo bar
+	]
+v219: 1456
+v220: 32768
+v3: helloa
+	hellohellohelloa
+v4: 728

@@ -1,0 +1,12 @@
+42 0
+42 1
+42 2
+42 3
+maplen v1: 0
+v101: 32767
+maplen v2: 0
+v3: 42
+slicelen v4: 5 [hello foo bara foo bar foo bar
+	 foo bar]
+v50: 0
+v99: 0

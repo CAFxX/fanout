@@ -1,0 +1,8 @@
+v1: 0
+v14: true
+v19: 1
+slicelen v2: 3 [hello hello foo bar]
+v3: 0
+v4: 313
+slicelen v5: 0 []
+v6: 18446744073709551615

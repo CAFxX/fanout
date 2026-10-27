@@ -1,0 +1,16 @@
+false
+false
+0 63232
+0 false
+slicelen v1: 2 [-288 -9223372036854775808]
+v13: 0
+v15: -2.25
+maplen v2: 1
+slicelen v3: 4 [
+	hello a
+	hello  
+	]
+v4: false
+slicelen v5: 1 [398]
+maplen v6: 0
+v8: 63232

@@ -1,0 +1,14 @@
+20
+0 true
+18446744073709551573 3.14159
+v1: 20
+maplen v2: 0
+v21: 3.14159
+v22: -898
+v23: true
+v29: -1
+v3: 18446744073709551573
+v33: 0
+v34: 255
+v36: 18446744073709551573
+slicelen v4: 4 [foo bar hello afoo barfoo barfoo barfoo barfoo bar hello]

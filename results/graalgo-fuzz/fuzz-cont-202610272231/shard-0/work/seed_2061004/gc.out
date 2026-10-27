@@ -1,0 +1,24 @@
+-2 0 true
+-4 1 true
+-8 2 true
+-16 3 true
+-32 4 true
+-64 5 true
+-128 6 true
+-256 7 true
+-512 8 true
+-1024 9 true
+-2048 10 true
+-4096 11 true
+-8192 12 true
+-16384 13 true
+-32768 14 true
+-65536 15 true
+v1: 0
+v11: 0.1
+v2: -65536
+v20: 0.1
+slicelen v3: 3 [798 1 4294967295]
+v4: 886
+v5: true
+v6: 1e+10

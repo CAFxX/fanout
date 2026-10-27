@@ -1,0 +1,844 @@
+1.5 1
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+1 -9223372036854775808 18446744073709551615
+v1: 18446744073709551615
+v100: 0
+v113: 1000
+v114: 0
+v116: -2.9
+v2: 1
+v3: 1.5
+v4: 1
+v5: 42
+slicelen v6: 272 [
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a 
+	
+	foo bar
+	a]
+v93: -9223372036854775808

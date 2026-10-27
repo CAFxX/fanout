@@ -1,0 +1,9 @@
+128
+1437 128
+128
+v1: 0
+maplen v2: 0
+v25: 1000
+v3: 1437
+slicelen v4: 4 [foo bar foo bar hello
+	 hello]

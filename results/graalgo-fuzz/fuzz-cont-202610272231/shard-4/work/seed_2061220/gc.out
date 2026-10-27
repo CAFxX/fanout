@@ -1,0 +1,12 @@
+false false
+false 993
+0 hello
+v1: 993
+v2: 0
+v3: false
+slicelen v4: 4 [a hellofoo bar
+	hellofoo barafoo barfoo bar aa hellofoo bar]
+v6: 0
+v7: 1
+v8: hello
+v9: -9223372036854775808

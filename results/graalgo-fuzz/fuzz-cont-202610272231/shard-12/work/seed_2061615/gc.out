@@ -1,0 +1,11 @@
+hellofoo barhello
+	
+slicelen v1: 2 [0 -9223372036854775808]
+v2: hellofoo barhello
+	
+v3: 42
+maplen v4: 0
+v5: 1000
+maplen v6: 0
+v7: 1e+09
+v8: -1

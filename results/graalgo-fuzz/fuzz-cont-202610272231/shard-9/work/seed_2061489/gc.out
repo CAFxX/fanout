@@ -1,0 +1,30 @@
+1000
+1000
+-2.25
+v1: false
+v2: -2.25
+v3: 0
+v30: 180
+v4: -1000
+v41: false
+slicelen v5: 22 [ 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar 
+	foo barfoo bar helloa]

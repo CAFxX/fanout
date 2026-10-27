@@ -1,0 +1,9 @@
+-2.25 -2.25
+foo barfoo bar
+2
+v1: -2.25
+slicelen v19: 2 [127 2147483647]
+v2: foo barfoo bar
+v25: 0
+v27: 65535
+v3: 42

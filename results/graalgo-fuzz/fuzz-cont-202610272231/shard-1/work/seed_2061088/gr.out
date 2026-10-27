@@ -1,0 +1,16 @@
+0.1 0.1 0
+foo bar foo bar
+foo bar 0
+464 464
+47 0 464
+maplen v1: 0
+v10: foo bar
+v15: 0.1
+maplen v2: 1
+v20: 255
+v21: true
+v22: 47
+maplen v3: 0
+v4: 464
+v5: 0
+v6: 0.1

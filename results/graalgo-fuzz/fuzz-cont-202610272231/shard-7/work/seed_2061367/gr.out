@@ -1,0 +1,13 @@
+v1: 65534
+slicelen v2: 3 [18 -863 140733193355265]
+v27: 1
+v28: 1
+v3: 1
+v30: false
+v32: 1
+maplen v4: 0
+slicelen v5: 4 [
+	
+	 foo bar foo bar 
+	hello]
+v6: 9

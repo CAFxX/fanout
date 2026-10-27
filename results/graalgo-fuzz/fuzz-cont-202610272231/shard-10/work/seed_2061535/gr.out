@@ -1,0 +1,19 @@
+v1: true
+v2: -1
+v21: -1
+v22: -1
+v23: true
+slicelen v3: 3 [964 1 -260]
+v4: 
+	foo bar
+	
+	
+v5: 1680
+slicelen v6: 5 [  
+	foo bar
+	
+	 
+	foo bar
+	
+	 
+	]

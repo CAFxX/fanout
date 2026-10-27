@@ -1,0 +1,17 @@
+41
+maplen v1: 0
+maplen v2: 0
+v3: true
+v4: 1e+09
+slicelen v5: 3 [869 1 16]
+v50: 2
+v51: -32768
+v52: 1e+09
+v53: -2147483648
+v59: aafoo bar
+	afoo baraafoo bar
+	a
+	foo barfoo bar
+	a
+v60: 613
+v62: 1

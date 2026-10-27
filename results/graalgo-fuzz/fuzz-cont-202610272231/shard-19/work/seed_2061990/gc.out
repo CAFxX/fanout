@@ -1,0 +1,178 @@
+0 hello hello
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+hello -2.25 325
+hello -2.25 326
+-2.25 0 hello
+-2.25 1 hello
+-2.25 2 hello
+-2.25 3 hello
+-2.25 4 hello
+-2.25 5 hello
+-2.25 6 hello
+-2.25 7 hello
+-2.25 8 hello
+-2.25 9 hello
+-2.25 10 hello
+-2.25 11 hello
+hello -2.25 248
+hello -2.25 249
+-2.25 0 hello
+-2.25 1 hello
+-2.25 2 hello
+-2.25 3 hello
+-2.25 4 hello
+-2.25 5 hello
+-2.25 6 hello
+-2.25 7 hello
+-2.25 8 hello
+-2.25 9 hello
+-2.25 10 hello
+-2.25 11 hello
+hello -2.25 248
+hello -2.25 249
+-2.25 0 hello
+-2.25 1 hello
+-2.25 2 hello
+-2.25 3 hello
+-2.25 4 hello
+-2.25 5 hello
+-2.25 6 hello
+-2.25 7 hello
+-2.25 8 hello
+-2.25 9 hello
+-2.25 10 hello
+-2.25 11 hello
+hello -2.25 248
+hello -2.25 249
+-2.25 0 hello
+-2.25 1 hello
+-2.25 2 hello
+-2.25 3 hello
+-2.25 4 hello
+-2.25 5 hello
+-2.25 6 hello
+-2.25 7 hello
+-2.25 8 hello
+-2.25 9 hello
+-2.25 10 hello
+-2.25 11 hello
++Inf hello
+v1: hello
+v2: 0
+v22: +Inf
+v26: -2.25
+slicelen v3: 1 [670]
+v4: 0
+slicelen v5: 1 [2147483647]
+v55: hello

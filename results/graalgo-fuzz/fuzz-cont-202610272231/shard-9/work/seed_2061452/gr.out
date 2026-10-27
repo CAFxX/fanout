@@ -1,0 +1,13 @@
+1 foo bar
+0 foo bar
+v1: 0.1
+v125: foo bar
+v129: 1
+v130: 42
+v131: 0
+v133: -1
+slicelen v2: 3 [foo bar aafoo bar 
+	]
+v3: 0
+v30: foo bar
+v4: 1.000000000314159e+10
