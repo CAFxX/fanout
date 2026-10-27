@@ -1,0 +1,10 @@
+65535 true
+v1: a
+v151: 0
+v154: -32768
+v155: foo barhello
+maplen v2: 0
+v23: 65535
+v3: true
+maplen v4: 0
+slicelen v5: 1 [573]

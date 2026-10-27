@@ -1,0 +1,35 @@
+742
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+65535 65535 65535
+128 0 0
+maplen v1: 0
+v2: 1484
+maplen v3: 20
+v32: 0
+v33: true
+v36: 128
+v4: false
+v5: 0
+slicelen v6: 4 [foo bar hello
+	foo bar
+	 foo bar hellohellofoo bar]
+v7: 65535

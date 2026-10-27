@@ -1,0 +1,28 @@
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+foo bar -192
+v1: 0
+v2: a
+v3: a
+v39: 4294967295
+v4: 1.6
+v5: 736
+v6: true
+slicelen v7: 15 [736 0 1 2 3 4 5 6 7 8 9 10 11 12 13]
+v8: -192

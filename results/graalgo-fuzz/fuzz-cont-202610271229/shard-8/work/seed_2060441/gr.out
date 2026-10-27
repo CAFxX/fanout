@@ -1,0 +1,30 @@
+foo bar -72
+0
+0 0
+1
+0 1
+2
+0 2
+3
+0 3
+4
+0 4
+5
+0 5
+6
+0 6
+7
+0 7
+v1: foo bar
+v2: 0
+slicelen v3: 3 [
+	 
+	 
+	]
+v36: -740
+v37: 0
+v39: foo bar
+maplen v4: 0
+v45: 42
+v46: foo bar
+maplen v5: 0

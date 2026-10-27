@@ -1,0 +1,18 @@
+-32768
+127 a
+127 a
+127 a
+127 a
+127 a
+maplen v1: 0
+v10: 42
+v11: a
+maplen v2: 0
+v22: 1
+v23: 3
+v25: 42
+v3: 127
+slicelen v4: 4 [a  a hello]
+maplen v5: 0
+v6: 1672
+v9: true

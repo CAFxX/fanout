@@ -1,0 +1,14 @@
+0 0
+v1: 949
+maplen v2: 0
+v20: 0
+v21: 0
+v3: false
+slicelen v4: 4 [42 4294967295 -9223372036854775808 -2147483648]
+slicelen v5: 4 [
+	 
+	 foo bar hello
+	hellofoo barhello
+	
+	foo bar]
+v6: 0

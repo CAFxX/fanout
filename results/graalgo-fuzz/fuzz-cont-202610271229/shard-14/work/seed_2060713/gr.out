@@ -1,0 +1,38 @@
+foo barfoo bar 127
+v1: 127
+slicelen v2: 2 [135 0]
+v3: -124
+maplen v4: 0
+v6: foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	foo barfoo barfoo barfoo bar
+	foo barfoo barfoo barfoo bar
+	
+	
+	
+	
+	
+v7: 0.15

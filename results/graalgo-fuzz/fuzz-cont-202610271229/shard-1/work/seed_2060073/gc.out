@@ -1,0 +1,45 @@
+0 +Inf 0
+-2 -1 0
+1 +Inf 1
+-2 -1 0
+2 +Inf 2
+-2 -1 0
+3 +Inf 3
+-2 -1 0
+4 +Inf 4
+-2 -1 0
+5 +Inf 5
+-2 -1 0
+6 +Inf 6
+-2 -1 0
+7 +Inf 7
+-2 -1 0
+8 +Inf 8
+-2 -1 0
+9 +Inf 9
+-2 -1 0
+10 +Inf 10
+-2 -1 0
+11 +Inf 11
+-2 -1 0
+12 +Inf 12
+-2 -1 0
+13 +Inf 13
+-2 -1 0
+14 +Inf 14
+-2 -1 0
+15 +Inf 15
+-2 -1 0
+16 +Inf 16
+-2 -1 0
+v1: 0
+slicelen v11: 0 []
+v12: 18446744073709551615
+maplen v2: 0
+v3: foo barahellohellohellofoo barfoo barfoo barfoo bar
+	
+	foo bar
+maplen v4: 0
+v5: -2
+v55: +Inf
+v9: +Inf

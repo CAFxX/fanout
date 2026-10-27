@@ -1,0 +1,16 @@
+873
+-252 873 610
+v1: 0
+v12: 0
+maplen v2: 0
+v3: 0
+slicelen v4: 4 [
+	afoo bara
+	hellofoo barfoo bar
+	
+	hellohelloafoo barfoo bar
+	helloa 
+	 
+	 foo bara]
+maplen v5: 0
+v6: 873

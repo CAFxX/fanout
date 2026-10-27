@@ -1,0 +1,37 @@
+
+	foo bar
+	 
+	foo bar
+	 
+	foo bar
+	
+
+	foo bar
+	 
+	foo bar
+	 
+	foo bar
+	
+
+	foo bar
+	 
+	foo bar
+	 
+	foo bar
+	
+983022 983022 983022
+-1 983022
+3.14159 3.14159 -1
+slicelen v1: 2 [
+	foo bar
+	 
+	]
+v132: 3.14159
+v2: 983022
+v3: 42
+v4: -1
+v44: 
+	foo bar
+	
+slicelen v5: 2 [-1 127]
+maplen v6: 0

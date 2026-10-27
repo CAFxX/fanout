@@ -1,0 +1,42 @@
+v1: 214
+v17: 2147483647
+v18: 65321
+v19: 32768
+v2: 1e+10
+v20: 18446744073709551615
+v3: 1e+10
+maplen v4: 0
+v5: 
+	a
+	aa
+	a
+	aaa
+	a
+	aa
+	a
+	aaaa
+	a
+	aa
+	a
+	aaa
+	a
+	aa
+	a
+	aaaaa
+	a
+	aa
+	a
+	aaa
+	a
+	aa
+	a
+	aaaa
+	a
+	aa
+	a
+	aaa
+	a
+	aa
+	a
+	aaaaaa
+slicelen v7: 2 [32768 128]

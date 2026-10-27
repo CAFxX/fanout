@@ -1,0 +1,13 @@
+slicelen v1: 4 [
+	 a hello 
+	]
+v10: 9223372036854775807
+v13: 0
+slicelen v2: 1 []
+slicelen v3: 3 [0 42 2147483647]
+v4: aaahelloaaahelloaaahelloaaahellofoo baraaahelloaaahello
+	aaahelloaaahelloaaahelloaaahelloaaahellofoo baraaahelloaaahello
+	aaahelloaaahelloaaahelloaaahelloaaahellofoo baraaahelloaaahello
+	aaahelloaaahelloaaahelloaaahelloaaahellofoo baraaahelloaaahello
+	aaahello
+v6: 2

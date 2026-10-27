@@ -1,0 +1,23 @@
+255 3.14159 3.14159
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+false 3.14159 false
+slicelen v1: 2 [foo bar 
+	foo bar]
+v2: false
+maplen v3: 2
+v4: 3.14159
+v5: 255
+v51: 32767
+v52: 65535
+v54: 
+	foo bar

@@ -1,0 +1,9 @@
+-3198
+slicelen v1: 2 [2147483648 0]
+slicelen v2: 3 [
+	foo bar afoo bara 
+	a]
+maplen v3: 0
+slicelen v4: 0 []
+v5: -3198
+v71: 32512

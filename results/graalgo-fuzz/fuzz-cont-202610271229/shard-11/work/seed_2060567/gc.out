@@ -1,0 +1,12 @@
+-1 0
+-1 0 a
+0 0 0
+slicelen v1: 4 [65535 664 2147483648 52]
+v10: 0
+v16: 0
+v17: 0
+slicelen v2: 4 [ foo bar  hello]
+slicelen v3: 0 []
+v4: -72
+maplen v5: 0
+v6: a

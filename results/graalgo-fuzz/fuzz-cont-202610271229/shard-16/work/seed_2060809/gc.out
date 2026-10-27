@@ -1,0 +1,13 @@
+0 18446744073709551615 849
+40 0 NaN
+-717 NaN
+0
+720
+678 NaN 0
+v1: 678
+v2: 65551
+maplen v3: 1
+slicelen v4: 12 [afoo bar
+	 hello hello hello hello hello hello hello hello hello hello hello]
+v6: NaN
+v7: 65535

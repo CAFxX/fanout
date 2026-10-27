@@ -1,0 +1,10 @@
+false
+v1: true
+slicelen v2: 3 [foo bar hellohello foo bar]
+maplen v3: 0
+slicelen v4: 1 [a]
+v40: 
+	
+v42: 0
+v5: 686
+v6: 1.50000000015e-10

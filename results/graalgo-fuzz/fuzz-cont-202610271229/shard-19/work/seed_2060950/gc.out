@@ -1,0 +1,9 @@
+38 foo bar 2
+v1: 38
+slicelen v2: 1 [a]
+v3: -1
+v4: foo bar
+v5: 2
+v6: 1.5
+v64: -2147483648
+v65: true

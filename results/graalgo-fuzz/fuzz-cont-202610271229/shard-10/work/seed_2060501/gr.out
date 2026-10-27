@@ -1,0 +1,14 @@
+528 528
+255 255 255
+hello
+0 155
+v1: 255
+slicelen v2: 3 [hello foo bar foo bar]
+v3: 0
+v36: hello
+v4: 155
+v41: 255
+maplen v5: 1
+v52: -425
+v53: 0
+v6: -2.25

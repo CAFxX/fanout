@@ -1,0 +1,7 @@
+true
+slicelen v1: 2 [foo barfoo bar a]
+v2: 1
+v26: foo baraaa
+v27: true
+slicelen v3: 17 [-2147483648 956 -9223372036854775808 0 1 0 1 0 1 0 1 0 1 0 1 0 1]
+v4: 1e+10

@@ -1,0 +1,7 @@
+65535 65535
+maplen v1: 1
+maplen v2: 0
+v235: 65535
+v26: 4
+slicelen v3: 3 [hello foo bar 
+	]

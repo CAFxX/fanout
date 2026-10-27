@@ -1,0 +1,20 @@
+0 0
+1 0
+2 0
+0 1
+1 1
+2 1
+0 2
+1 2
+2 2
+0 3
+1 3
+2 3
+aaaaaafoo bar aaaaaafoo bar
+v1: aaaaaafoo barfoo bar
+v10: aaaaaafoo bar
+maplen v2: 1
+slicelen v3: 2 [395 670]
+v56: 984
+v57: -32768
+v58: 2147483647

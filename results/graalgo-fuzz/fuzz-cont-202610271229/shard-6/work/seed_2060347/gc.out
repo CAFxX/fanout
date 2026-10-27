@@ -1,0 +1,11 @@
+0 0
+slicelen v1: 1 [foo bar
+	foo barfoo barafoo bar]
+v2: true
+v3: 0
+slicelen v4: 0 []
+slicelen v5: 1 [4294967295]
+v6: 0
+v80: 0
+v81: 1.5
+v94: 452

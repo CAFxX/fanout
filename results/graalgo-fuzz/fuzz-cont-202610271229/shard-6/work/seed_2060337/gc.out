@@ -1,0 +1,13 @@
+-290 true 2
+false
+false -290
+slicelen v1: 3 [hellofoo bar foo bar foo barfoo barhelloahelloa]
+v2: -290
+v3: 2
+v35: false
+v4: 510
+v40: 0
+v41: 4294967295
+v42: 65535
+maplen v5: 0
+slicelen v6: 2 [3 2]

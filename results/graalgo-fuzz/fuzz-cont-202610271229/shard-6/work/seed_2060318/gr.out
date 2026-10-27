@@ -1,0 +1,25 @@
+false 0 0
+false 1 1
+false 2 2
+false 3 3
+false 4 4
+false 5 5
+false 6 6
+999 false false
+0 999
+1 999
+2 999
+3 999
+4 999
+5 999
+6 999
+7 999
+999 999 true
+slicelen v1: 3 [
+	 hello foo bar]
+v2: true
+v3: 999
+slicelen v4: 1 [foo bara]
+v44: 0.1
+slicelen v5: 5 [834 32768 -2147483648 128 42]
+v50: 999
