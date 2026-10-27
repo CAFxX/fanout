@@ -1,0 +1,36 @@
+128
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 32767
+a
+32767 0
+v1: 32767
+v10: 0
+v18: a
+maplen v2: 0
+slicelen v3: 2 [936 1]
+maplen v4: 0
+maplen v5: 0
+slicelen v6: 4 [hello
+	foo bar 
+	hellofoo bara 
+	hello
+	 
+	]

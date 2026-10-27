@@ -1,0 +1,40 @@
+42 65535 42
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+foo bar foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+v1: true
+v11: hellohellofoo barfoo barfoo barfoo barfoo barfoo bar
+v12: 0
+v19: foo bar
+slicelen v2: 4 [4294901760 797 4294967295 785]
+v3: 0
+v4: 18446744073709522636
+v5: 1
+slicelen v6: 3 [ a foo bar]

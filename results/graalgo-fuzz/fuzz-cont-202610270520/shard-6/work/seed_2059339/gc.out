@@ -1,0 +1,8 @@
+v1: 256
+v160: 52260
+v165: 0
+v168: 2
+maplen v2: 0
+v3: -1
+slicelen v4: 1 [foo barhello
+	]

@@ -1,0 +1,13 @@
+2 -110 2
+-2.25
+v1: 2
+v14: 24
+slicelen v2: 2 [
+	
+	 foo bar]
+v28: 0
+v3: -1
+v4: -2.25
+maplen v5: 1
+slicelen v6: 1 [642]
+v7: 49

@@ -1,0 +1,83 @@
+-891 -891
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+foo bar
+	
+	a 42 foo bar
+	
+	a
+v1: true
+v10: false
+v11: -8.369588
+v12: 42
+slicelen v2: 1 [2147483648]
+v26: 4294967295
+slicelen v3: 4 [a
+	 a
+	aa a foo bara]
+v4: -1782
+v5: foo bar
+v9: 703

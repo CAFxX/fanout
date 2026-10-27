@@ -1,0 +1,7 @@
+42 foo bar foo bar
+maplen v1: 1
+v2: 42
+v3: 41.75
+maplen v4: 1
+slicelen v5: 1 [960]
+v63: foo bar

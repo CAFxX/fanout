@@ -1,0 +1,15 @@
+-32768 
+	foo barfoo baraaa
+	ahellofoo bar
+-32768 -32768 3.14159
+
+	foo barfoo baraaa
+	ahellofoo bar
+3.14159
+v1: -32768
+v13: 3.14159
+v14: -8
+maplen v2: 0
+v3: hello
+slicelen v4: 0 []
+v5: 2.49159

@@ -1,0 +1,12 @@
+128 false
+128
+251 251
+false false 204
+slicelen v1: 1 [foo bar]
+maplen v2: 0
+slicelen v3: 1 [32767]
+v4: false
+v44: 204
+v46: -2.25
+v63: -417
+v64: hellofoo barfoo barfoo barhello

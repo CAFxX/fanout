@@ -1,0 +1,23 @@
+foo bar
+	a
+	hello
+	
+	foo bar
+	a
+	hello
+	
+	foo bar
+maplen v1: 0
+maplen v2: 0
+maplen v3: 0
+v4: foo bar
+	a
+	hello
+	
+	foo bar
+	a
+	hello
+	
+	foo bar
+v6: 36
+v7: 1344

@@ -1,0 +1,18 @@
+v1: true
+v15: 85
+v16: 0
+maplen v2: 0
+v20: false
+v25: foo barahellofoo barfoo bar
+	
+	
+v26: 0
+v27: 0
+v29: 42
+slicelen v3: 3 [ 
+	
+	foo barhellohello hello
+	]
+v4: -1
+v5: NaN
+maplen v6: 0

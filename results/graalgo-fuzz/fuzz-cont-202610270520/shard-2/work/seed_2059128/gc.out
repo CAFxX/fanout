@@ -1,0 +1,31 @@
+65535 0 65535
+65535 0 65535
+65535 0 65535
+65535 0 65535
+65535 0 65535
+65535 0 65535
+65535 0 65535
+65535 0 65535
+65535
+2147483647 true
+65535 -86 0
+true true 921
+slicelen v1: 3 [a foo bar afoo barfoo bar
+	
+	
+	afoo barfoo bar
+	foo bar
+	aa
+	
+	
+	foo barhello
+	foo barhello
+	]
+slicelen v2: 4 [921 147 2147483648 0]
+v3: 65536
+v37: true
+v4: 921
+v40: 0
+v41: 2147483647
+v5: -86
+v82: -86

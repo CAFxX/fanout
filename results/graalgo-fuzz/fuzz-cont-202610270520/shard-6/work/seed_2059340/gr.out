@@ -1,0 +1,13 @@
+0 0 true
+1 1 true
+2 2 true
+true 38
+slicelen v1: 2 [42 162]
+v14: true
+v15: 0
+maplen v2: 17
+v3: 38
+slicelen v4: 2 [-9223372036854775808 4294967295]
+slicelen v5: 4 [-9223372036854775808 0 963 2147483647]
+slicelen v6: 3 [foo baraa
+	foo baraa hellofoo bar foo bar]

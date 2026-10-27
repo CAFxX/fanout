@@ -1,0 +1,28 @@
+638 foo bar foo bar
+foo barfoo bar 129 0
+foo barfoo bar 128 1
+foo barfoo bar 127 2
+foo barfoo bar 126 3
+foo barfoo bar 125 4
+foo barfoo bar 124 5
+foo barfoo bar 123 6
+foo barfoo bar 122 7
+foo barfoo bar 121 8
+foo barfoo bar 120 9
+foo barfoo bar 119 10
+foo barfoo bar 118 11
+foo barfoo bar 117 12
+foo barfoo bar 116 13
+foo barfoo bar 115 14
+foo barfoo bar 114 15
+foo barfoo bar 113 16
+foo barfoo bar 112 17
+65209
+638 14 14
+v1: 14
+v2: foo barfoo bar
+v3: 638
+maplen v4: 0
+v50: 65209
+v58: 915
+slicelen v61: 4 [14 0 14 14]

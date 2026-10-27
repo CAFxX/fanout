@@ -1,0 +1,10 @@
+foo barfoo bar 2
+slicelen v1: 3 [
+	 foo bar ]
+v13: 127
+v15: foo barfoo bar
+v2: 2
+slicelen v3: 2 [
+	 hello]
+v4: -58
+v59: 255

@@ -1,0 +1,13 @@
+hello
+	 -9.99999999534841e+19
+maplen v1: 0
+v10: foo barhello
+	hello
+	ahello
+	hello
+	helloahello
+	
+v14: -9.99999999534841e+19
+slicelen v2: 1 [-497]
+slicelen v3: 3 [42 2147483647 438]
+slicelen v4: 2 [42 2]

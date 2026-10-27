@@ -1,0 +1,10 @@
+354 true true
+1 1 1
+v1: 354
+v2: 100
+maplen v3: 0
+v37: 1
+v38: 1
+v4: true
+slicelen v5: 2 [foo barhello
+	 hello]

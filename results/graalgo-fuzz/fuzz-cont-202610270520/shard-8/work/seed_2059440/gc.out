@@ -1,0 +1,9 @@
+32767
+32767
+32767
+slicelen v1: 1 [foo bar]
+v15: 0
+slicelen v2: 0 []
+slicelen v3: 3 [2 65535 1]
+v4: 32766
+v5: 32766

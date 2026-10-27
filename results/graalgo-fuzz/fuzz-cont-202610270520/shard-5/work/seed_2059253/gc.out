@@ -1,0 +1,30 @@
+-9223372036854775808
+577 577 true
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+577 577 false
+slicelen v1: 1 [hello]
+v13: 577
+v14: -9223372036854775808
+slicelen v2: 0 []
+v26: 42
+v3: false
+maplen v4: 0
+slicelen v5: 3 [
+	  foo bar]

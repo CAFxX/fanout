@@ -1,0 +1,20 @@
+-1 4294967295
+4294967295 442 -1
+477 true
+477 true
+477 true
+477 true
+477 true
+477 true
+maplen v1: 0
+slicelen v2: 1 [0]
+v3: 0
+slicelen v4: 4 [
+	 a a
+	aa hello
+	hellofoo baraa]
+v49: 4294967295
+v5: true
+v50: 477
+v51: 0
+v6: -1

@@ -1,0 +1,6 @@
+maplen v1: 0
+v14: false
+v15: foo bar
+v16: false
+maplen v2: 0
+slicelen v3: 4 [2147483648 4294967295 1 42]

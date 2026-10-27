@@ -1,0 +1,21 @@
+4294967295 aafoo bar
+	aaafoo bar
+	aafoo bar
+	foo bara
+aafoo bar
+	aaafoo bar
+	aafoo bar
+	foo bara 255 4294967295
+slicelen v1: 0 []
+v10: 975
+v11: 0
+maplen v2: 0
+v3: 862
+v4: aafoo bar
+	aaafoo bar
+	aafoo bar
+	foo bara
+maplen v5: 0
+v6: 255
+v7: true
+v8: 706

@@ -1,0 +1,11 @@
+slicelen v1: 0 []
+v10: 65535
+v11: hellofoo barhellofoo barfoo barfoo bar
+v12: 0
+v13: -2.25
+v14: 65535
+slicelen v2: 3 [2 1 42]
+v3: 2.0943935
+v4: 0
+slicelen v5: 2 [hello hello]
+v6: 18446744073709420545

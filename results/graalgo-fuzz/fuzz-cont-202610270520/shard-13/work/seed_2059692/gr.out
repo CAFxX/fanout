@@ -1,0 +1,10 @@
+239 false
+v1: false
+v12: 239
+v13: a
+slicelen v2: 2 [a a]
+slicelen v3: 3 [4294967295 701 1]
+v4: 42
+slicelen v5: 2 [
+	a foo barhello]
+slicelen v6: 0 []

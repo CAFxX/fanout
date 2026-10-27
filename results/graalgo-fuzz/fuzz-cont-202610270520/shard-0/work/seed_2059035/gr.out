@@ -1,0 +1,12 @@
+ 97
+maplen v1: 0
+v14: foo bar
+v19: -127
+v2: 0
+v25: true
+v26: 1e+10
+v3: foo bar
+maplen v4: 0
+slicelen v5: 1 [2147483647]
+v6: -36
+v7: true

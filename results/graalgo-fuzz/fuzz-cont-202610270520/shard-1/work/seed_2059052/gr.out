@@ -1,0 +1,11 @@
+0 -1.2999999999999998
+slicelen v1: 1 [a]
+v14: 2147483647
+v2: 1.5
+slicelen v3: 3 [
+	hellofoo bar foo bar 
+	]
+slicelen v4: 2 [42 42]
+v5: -788
+v6: 0
+v80: 127

@@ -1,0 +1,36 @@
+1
+-2147483648 true 0
+-2147483648 true 1
+-2147483648 true 2
+-2147483648 true 3
+-2147483648 true 4
+-2147483648 true 5
+-2147483648 true 6
+-2147483648 true 7
+-2147483648 true 8
+-2147483648 true 9
+-2147483648 true 10
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+42 hello true
+slicelen v1: 1 [4294967295]
+v18: 42
+v19: true
+slicelen v2: 4 [hello hello hello foo bar]
+v21: hello
+v25: -2147483648
+maplen v3: 0
+v4: 1

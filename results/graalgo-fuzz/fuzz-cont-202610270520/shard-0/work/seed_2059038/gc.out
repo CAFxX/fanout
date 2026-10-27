@@ -1,0 +1,16 @@
+213 0
+213 1
+213 2
+18446744073709551615
+false 3.14159 3.14159
+v1: 18446744073709551615
+v13: 22
+v14: 3.14159
+v15: 65535
+maplen v2: 1
+v21: 128
+v3: false
+v4: 0
+slicelen v5: 5 [a foo barahello hello
+	aahellofoo bara  foo barafoo barhelloahelloa]
+v6: -97

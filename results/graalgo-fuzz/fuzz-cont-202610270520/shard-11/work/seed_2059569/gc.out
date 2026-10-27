@@ -1,0 +1,9 @@
+32767
+140 140 140
+191
+slicelen v1: 3 [
+	 foo barfoo bar a]
+v2: 140
+v3: 126
+v4: 32767
+slicelen v5: 0 []

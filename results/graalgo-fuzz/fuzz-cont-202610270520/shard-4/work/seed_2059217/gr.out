@@ -1,0 +1,5 @@
+93 93
+slicelen v1: 1 [foo bar]
+v2: 1
+v3: -1
+slicelen v4: 0 []

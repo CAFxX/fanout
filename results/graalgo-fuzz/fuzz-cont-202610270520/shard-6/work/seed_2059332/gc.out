@@ -1,0 +1,12 @@
+-418
+0.1 0 0.1
+maplen v1: 2
+v2: 1.6
+slicelen v3: 2 [foo barfoo bar
+	foo bara
+	foo bara
+	 hello]
+v4: 0
+v47: 3.14159
+maplen v5: 0
+v6: 0

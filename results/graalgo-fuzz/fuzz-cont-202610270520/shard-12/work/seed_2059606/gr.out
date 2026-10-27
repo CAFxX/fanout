@@ -1,0 +1,12 @@
+true true 1000
+790
+v1: 1000
+maplen v2: 0
+v26: true
+v3: 2147483647
+v36: -1
+v38: 790
+maplen v4: 1
+v42: 1000
+slicelen v5: 3 [afoo barhellofoo barhelloa foo bar ]
+v6: 790
