@@ -1,0 +1,10 @@
+255
+slicelen v1: 3 [foo bar aa foo barhello]
+maplen v2: 1
+v3: 9223372036854775807
+slicelen v4: 3 [127 -2147483648 -398]
+v42: 44
+v5: 0
+v50: 0
+v51: 9.869588
+v52: -286

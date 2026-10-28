@@ -1,0 +1,13 @@
+0 false
+0 0
+v1: 0
+v2: false
+slicelen v3: 4 [foo bar a 
+	 
+	]
+v4: false
+v40: 0
+v45: 42
+v46: true
+slicelen v5: 2 [1 32768]
+maplen v6: 0

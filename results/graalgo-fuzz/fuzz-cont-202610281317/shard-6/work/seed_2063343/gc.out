@@ -1,0 +1,12 @@
+foo bar
+	
+	foo bar 1.5
+v1: foo bar
+	
+	foo bar
+v11: 1.5
+v2: 4295032030
+v20: 42
+v3: 4295032030
+slicelen v4: 0 []
+slicelen v5: 1 [248]

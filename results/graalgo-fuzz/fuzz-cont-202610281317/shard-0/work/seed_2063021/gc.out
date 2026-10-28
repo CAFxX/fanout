@@ -1,0 +1,10 @@
+4294967295
+42 42
+maplen v1: 1
+v10: 4294967294
+slicelen v2: 4 [foo bar a afoo bar
+	ahello a]
+v22: 42
+slicelen v3: 3 [foo bar 
+	 
+	aafoo bar]

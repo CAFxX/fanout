@@ -1,0 +1,13 @@
+v1: 65534
+v155: -32768
+v2: 0
+v24: -32768
+v26: 37
+v3: 0
+v4: 0.1
+v5: foo barafoo bar
+	foo bar
+slicelen v6: 4 [foo barafoo bar
+	foo bar foo barafoo bar
+	foo bar helloa foo barafoo bar
+	foo bar]

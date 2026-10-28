@@ -1,0 +1,9 @@
+v1: 127
+v13: -1
+v15: 0
+slicelen v2: 1 [hello
+	foo bar]
+v3: 18446744056529682437
+slicelen v4: 2 [32768 32768]
+v5: 65535
+maplen v6: 0

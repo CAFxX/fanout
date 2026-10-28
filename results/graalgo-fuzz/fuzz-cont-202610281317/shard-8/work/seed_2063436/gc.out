@@ -1,0 +1,12 @@
+1.5 +Inf
+maplen v1: 0
+slicelen v2: 4 [2147483647 42 2147483647 42]
+v3: 1e+10
+slicelen v4: 2 [foo bar foo bar
+	
+	
+	a
+	foo bar
+	foo bar]
+v5: 4.712384999999999
+v6: +Inf

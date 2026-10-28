@@ -1,0 +1,10 @@
+0 255 255
+255 0
+v1: 
+v13: 255
+slicelen v2: 3 [-534 -225 0]
+slicelen v3: 2 [
+	 foo bar]
+maplen v4: 0
+maplen v5: 0
+v6: 100

@@ -1,0 +1,9 @@
+3
+3 3
+v1: 75
+maplen v2: 1
+v3: 3
+maplen v4: 0
+v43: false
+slicelen v5: 4 [hello a foo bar 
+	foo bar]

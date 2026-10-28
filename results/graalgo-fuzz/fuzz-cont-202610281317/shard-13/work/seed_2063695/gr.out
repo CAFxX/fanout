@@ -1,0 +1,19 @@
+1
+maplen v1: 0
+v16: 255
+v2: 1
+v21: -1
+v22: 1
+v24: 1
+v25: 1
+v3: 0
+maplen v4: 0
+v5: 612
+v56: 1.5
+slicelen v6: 3 [foo barfoo bar 
+	 a
+	
+	
+	a
+	aaa
+	aa]

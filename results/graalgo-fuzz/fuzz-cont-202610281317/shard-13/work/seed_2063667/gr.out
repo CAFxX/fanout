@@ -1,0 +1,8 @@
+-32768
+maplen v1: 1
+v15: 0
+slicelen v2: 4 [foo bar hello hello ]
+slicelen v3: 1 [foo bar]
+maplen v4: 0
+v58: 0
+v73: 0
