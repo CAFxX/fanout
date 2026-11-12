@@ -1,0 +1,8 @@
+slicelen v1: 3 [foo bar foo bar hello]
+maplen v2: 0
+v22: 79
+v23: 0
+v3: 1048576
+maplen v4: 0
+v5: 4294967295
+slicelen v6: 2 [79 1]

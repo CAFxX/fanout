@@ -1,0 +1,10 @@
+9223372036854775807
+maplen v1: 1
+v18: -9223372036854775808
+slicelen v2: 2 [foo bar 
+	foo barfoo bar
+	hellohello
+	a
+	helloafoo bar]
+v25: 737
+maplen v3: 1

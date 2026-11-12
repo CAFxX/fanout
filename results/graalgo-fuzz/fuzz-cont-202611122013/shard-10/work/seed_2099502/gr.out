@@ -1,0 +1,13 @@
+0 255
+true true 255
+-50 -50
+v1: true
+v2: 127
+slicelen v3: 1 [foo bar]
+v38: 1
+v4: -50
+slicelen v5: 1 [hellofoo bar
+	afoo bara
+	a
+	foo barfoo bara
+	]

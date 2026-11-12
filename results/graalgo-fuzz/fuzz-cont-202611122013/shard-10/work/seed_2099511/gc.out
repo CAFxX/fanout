@@ -1,0 +1,14 @@
+2147483647 -128 1.5
+1.5 2147483647
+42
+601
+v1: 0
+v16: foo barhelloafoo barafoo barhellohello
+v17: 485
+v2: -128
+maplen v3: 2
+slicelen v4: 3 [4294967295 2147483647 2147483648]
+slicelen v5: 3 [a a hello]
+v6: 42
+v7: 2147483647
+v8: 1

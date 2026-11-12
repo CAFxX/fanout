@@ -1,0 +1,9 @@
+v1: 96
+v19: hellohellofoo bar
+	
+v2: -32768
+v3: hellohellofoo bar
+	
+maplen v4: 0
+v5: true
+slicelen v6: 5 [0 127 96 72 390]
