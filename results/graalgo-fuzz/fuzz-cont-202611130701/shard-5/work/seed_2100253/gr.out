@@ -1,0 +1,11 @@
+4294967295
+-4294967296
+
+maplen v1: 0
+maplen v2: 0
+v3: -4294967296
+slicelen v4: 3 [foo bar
+	foo barfoo bar a a]
+v6: -8589934592
+v7: 
+v8: -2
