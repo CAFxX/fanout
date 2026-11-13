@@ -1,0 +1,7 @@
+slicelen v1: 2 [foo bar a]
+maplen v2: 0
+maplen v3: 0
+v4: foo bar
+v5: 65535
+v6: 1.5
+v7: 32767

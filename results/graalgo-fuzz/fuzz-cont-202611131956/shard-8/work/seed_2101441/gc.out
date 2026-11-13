@@ -1,0 +1,11 @@
+3.14159
+3.14159
+3.14159
+slicelen v1: 3 [foo barfoo bar
+	 foo barfoo bar a]
+slicelen v2: 0 []
+maplen v3: 0
+slicelen v4: 4 [hello 
+	 
+	 hello]
+v5: 3.14159

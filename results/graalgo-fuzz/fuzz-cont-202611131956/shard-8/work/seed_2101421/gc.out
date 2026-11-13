@@ -1,0 +1,14 @@
+23
+foo bar
+	a hello
+maplen v1: 0
+v2: 23
+maplen v3: 0
+v4: foo bar
+	a
+v5: 0
+v58: 0
+v59: 255
+v6: hellohello
+slicelen v60: 3 [127 -9223372036854775808 -335]
+v68: true

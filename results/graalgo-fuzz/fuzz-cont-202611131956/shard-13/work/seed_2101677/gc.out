@@ -1,0 +1,7 @@
+false
+v1: false
+v14: 0
+slicelen v2: 2 [helloa
+	foo bar
+	a hellohello]
+slicelen v3: 2 [351 9223372036854775807]

@@ -1,0 +1,10 @@
+v1: 0
+maplen v2: 1
+v21: false
+v24: 64
+v25: 1e+10
+v3: 56
+v31: -1e+10
+v4: hello
+v5: 0
+slicelen v6: 2 [a hello]

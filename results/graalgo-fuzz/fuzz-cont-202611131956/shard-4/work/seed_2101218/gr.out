@@ -1,0 +1,18 @@
+true
+true
+true
+true
+true
+true
+true
+true
+true
+v1: 0.1
+v10: foo bar
+v2: 9223372036854775808
+v3: 43
+v4: 42
+slicelen v49: 1 [-9223372036854775808]
+v50: 9223372036854775808
+v63: foo barfoo barfoo bar
+v9: 65535
