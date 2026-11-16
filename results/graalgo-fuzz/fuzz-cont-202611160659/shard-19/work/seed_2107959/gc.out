@@ -1,0 +1,14 @@
+1e+10 -1
+1e+10 foo bar
+1e+10 foo bar
+1e+10 foo bar
+1e+10 foo bar
+1e+10 foo bar
+v1: 1
+v2: +Inf
+maplen v3: 1
+v4: foo bar
+v50: 0
+v51: -3.14159e-10
+v52: 0
+v54: -1

@@ -1,0 +1,11 @@
+foo bar
+146
+146 146
+maplen v1: 0
+maplen v2: 0
+slicelen v3: 0 []
+slicelen v4: 1 [-9223372036854775808]
+slicelen v5: 3 [4294967295 65535 42]
+v6: 146
+v69: 2
+v70: hello

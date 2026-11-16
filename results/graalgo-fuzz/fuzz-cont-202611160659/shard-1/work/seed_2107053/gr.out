@@ -1,0 +1,21 @@
+42 1 1
+42 1 1
+42 1 1
+42 1 1
+42 1 1
+42 1 1
+42 1 1
+42 1 1
+maplen v1: 0
+v10: 42
+v14: -610
+v16: -2.25
+v17: 42
+slicelen v2: 0 []
+slicelen v3: 3 [hello hello foo barafoo bar]
+v4: 1
+v5: 254
+slicelen v6: 2 [65535 4294967295]
+v7: 0
+v8: 1
+v9: 4294967295

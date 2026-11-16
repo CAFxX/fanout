@@ -1,0 +1,12 @@
+952 952
+18446744073709551615 952
+1904 627
+v1: 1904
+slicelen v2: 6 [ 
+	 a
+	
+	hellohello hello foo barhello ]
+v3: 627
+v42: 65536
+v48: 0
+v49: false

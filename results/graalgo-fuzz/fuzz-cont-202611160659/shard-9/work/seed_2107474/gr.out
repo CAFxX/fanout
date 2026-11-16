@@ -1,0 +1,7 @@
+-547 65535
+v1: 65535
+maplen v2: 0
+slicelen v3: 4 [hello a hello foo bar
+	foo bar
+	foo barhelloa]
+v4: -547

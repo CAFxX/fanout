@@ -1,0 +1,26 @@
+0 255 255
+0 255 255
+255 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 foo bar
+0 255 255
+0 foo bar foo bar
+v1: 0
+v2: 0
+v28: 255
+v29: 0
+maplen v3: 1
+v30: 255
+slicelen v36: 1 [32767]
+v4: foo bar
+v5: 255
+v56: 255
+v57: 0

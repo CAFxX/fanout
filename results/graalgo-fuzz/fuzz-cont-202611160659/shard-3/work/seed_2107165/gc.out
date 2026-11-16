@@ -1,0 +1,20 @@
+498 true
+0 0 498
+0 0 498
+0 0 498
+0 0 498
+0 0
+v1: 498
+v10: true
+v11: 498
+v12: -128
+v13: 0
+v14: -813
+v2: 0
+v22: 0
+slicelen v3: 1 [foo barhelloa]
+v36: 0
+v4: 364
+slicelen v5: 3 [
+	 hello foo bar]
+maplen v6: 1

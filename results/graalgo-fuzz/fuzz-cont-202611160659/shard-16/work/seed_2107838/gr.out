@@ -1,0 +1,11 @@
+4294967295 4294967295 4294967295
+foo bar false
+v1: foo bar
+v12: 255
+v18: 65025
+v2: 4294967295
+slicelen v3: 0 []
+v4: 255
+maplen v5: 1
+slicelen v6: 0 []
+v9: false

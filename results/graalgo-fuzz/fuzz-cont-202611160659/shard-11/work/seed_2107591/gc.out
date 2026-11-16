@@ -1,0 +1,17 @@
+
+
+
+
+a
+	foo bar 0
+0 a
+	foo bar
+slicelen v1: 5 [a hello helloahello a
+	foo bar 
+	]
+v10: a
+	foo bar
+v2: a
+slicelen v3: 2 [1 2147483647]
+v4: 0
+v5: 1008

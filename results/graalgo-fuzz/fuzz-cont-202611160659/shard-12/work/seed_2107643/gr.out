@@ -1,0 +1,35 @@
+1.5 1.5
+32767
+1.5
+true 4294967295 1
+true 0
+true 1
+true 2
+true 3
+true 4
+true 5
+true 6
+true 7
+true 8
+true 9
+true 10
+true 11
+true 12
+true 13
+true 14
+true 15
+true 16
+true 17
+true 18
+true 19
+slicelen v1: 2 [1 1]
+v2: 32767
+maplen v3: 0
+v4: 2147483647
+v42: 1.5
+v46: true
+v47: true
+maplen v5: 0
+v56: 1
+v57: -32768
+v71: 65535

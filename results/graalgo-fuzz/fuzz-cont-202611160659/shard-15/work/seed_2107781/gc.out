@@ -1,0 +1,23 @@
+true 521
+true 521
+true 521
+true 521
+true 521
+1042
+0 0
+0 0
+0 0
+0 0
+v1: 1042
+v2: 0
+v3: true
+slicelen v86: 2 [9223372036854775807 -9223372036854775808]
+v90: 
+	hello
+	foo barhello
+	
+	foo barhelloa
+	foo bar
+	afoo barafoo bar
+v96: false
+v97: 0

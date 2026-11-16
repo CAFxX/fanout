@@ -1,0 +1,21 @@
+true
+true true
+true true
+true true
+42 42 42
+0
+128 0
+0
+128 1
+1
+128 0
+1
+128 1
+slicelen v1: 5 [foo bar afoo barfoo bara
+	  foo barfoo bar
+	 foo bar]
+v111: 0
+v2: true
+maplen v3: 0
+v91: 42
+v96: true

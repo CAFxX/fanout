@@ -1,0 +1,11 @@
+32767
+32767
+-32768
+false 127 127
+slicelen v1: 2 [ ]
+v10: 42
+maplen v2: 0
+v3: -32768
+slicelen v4: 1 [a]
+v7: 127
+v8: false

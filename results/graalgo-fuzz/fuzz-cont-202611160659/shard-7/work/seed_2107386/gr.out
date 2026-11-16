@@ -1,0 +1,19 @@
+foo barfoo bar 470
+470 0 0
+foo barfoo bar 470
+470 0 1
+foo barfoo bar 470
+470 0 2
+0 0 foo barfoo bar
+0 0 5.620222e+09
+0 hello 5.620222e+09
+foo bar 2
+v1: 5.620222e+09
+slicelen v15: 0 []
+v16: 0
+maplen v2: 0
+v3: 470
+v4: foo bar
+v42: 0
+v5: hello
+v6: 0

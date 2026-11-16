@@ -1,0 +1,10 @@
+0 1
+1 1
+true true 
+v1: false
+v18: hello
+v2: true
+v3: hello
+maplen v4: 0
+slicelen v5: 3 [42 511 2]
+v85: -1

@@ -1,0 +1,11 @@
+-2147483648 2
+v1: -1
+v19: 0
+slicelen v2: 3 [
+	 a
+	ahellofoo barhellohello foo bar
+	]
+v3: -2147483648
+v31: 65535
+v36: true
+v37: 279

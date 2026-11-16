@@ -1,0 +1,14 @@
+0
+v1: 2147483647
+v10: 0
+v12: 0
+v2: 1
+slicelen v3: 3 [foo bar a hello]
+v4: 12884901885
+v5: 2147483647
+v55: foo bar
+	
+	
+slicelen v6: 1 [
+	]
+v7: 1.5

@@ -1,0 +1,22 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+foo bar 1e+10 65535
+foo bar
+slicelen v1: 1 [
+	]
+v15: 65534
+v16: 32767
+v2: false
+v20: 2
+v3: foo bar
+v4: 1e+10
+v5: 65535
+slicelen v6: 2 [-462 128]

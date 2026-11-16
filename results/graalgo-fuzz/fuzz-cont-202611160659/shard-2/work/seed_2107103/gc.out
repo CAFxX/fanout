@@ -1,0 +1,17 @@
+-1.4 foo bar
+foo bar 102 0
+foo bar 102 1
+foo bar 102 2
+foo bar 102 3
+foo bar 102 4
+foo bar 102 5
+foo bar 102 6
+foo bar 102 7
+foo bar 102 8
+foo bar 102 9
+foo bar 102 10
+-1.4 foo bar foo bar
+v1: foo bar
+v2: -1.4
+v3: 255
+v4: 102

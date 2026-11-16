@@ -1,0 +1,21 @@
+true
+false
+false false 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+v1: false
+slicelen v2: 11 [
+	foo barfoo barhellohelloaaa
+	 foo barhelloafoo bar aa aa aa aa aa aa aa aa aa]
+v3: false
+v4: 1
+v5: 42
+v6: 0

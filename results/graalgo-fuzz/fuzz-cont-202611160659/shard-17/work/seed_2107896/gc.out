@@ -1,0 +1,12 @@
+false
+false
+v1: 0
+v19: 18446744073709551615
+slicelen v2: 3 [2147483648 65 65535]
+v23: -0
+v24: 1
+v3: false
+v4: -2147483648
+v47: 100
+slicelen v5: 4 [
+	  a foo bar]

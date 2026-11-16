@@ -1,0 +1,50 @@
+{"file": "fuzz_2107000", "result": "PASS", "detail": "", "seed": 2107000, "shard": 0}
+{"file": "fuzz_2107001", "result": "PASS", "detail": "", "seed": 2107001, "shard": 0}
+{"file": "fuzz_2107002", "result": "PASS", "detail": "", "seed": 2107002, "shard": 0}
+{"file": "fuzz_2107003", "result": "PASS", "detail": "", "seed": 2107003, "shard": 0}
+{"file": "fuzz_2107004", "result": "PASS", "detail": "", "seed": 2107004, "shard": 0}
+{"file": "fuzz_2107005", "result": "PASS", "detail": "", "seed": 2107005, "shard": 0}
+{"file": "fuzz_2107006", "result": "PASS", "detail": "", "seed": 2107006, "shard": 0}
+{"file": "fuzz_2107007", "result": "PASS", "detail": "", "seed": 2107007, "shard": 0}
+{"file": "fuzz_2107008", "result": "PASS", "detail": "", "seed": 2107008, "shard": 0}
+{"file": "fuzz_2107009", "result": "PASS", "detail": "", "seed": 2107009, "shard": 0}
+{"file": "fuzz_2107010", "result": "PASS", "detail": "", "seed": 2107010, "shard": 0}
+{"file": "fuzz_2107011", "result": "PASS", "detail": "", "seed": 2107011, "shard": 0}
+{"file": "fuzz_2107012", "result": "PASS", "detail": "", "seed": 2107012, "shard": 0}
+{"file": "fuzz_2107013", "result": "PASS", "detail": "", "seed": 2107013, "shard": 0}
+{"file": "fuzz_2107014", "result": "PASS", "detail": "", "seed": 2107014, "shard": 0}
+{"file": "fuzz_2107015", "result": "PASS", "detail": "", "seed": 2107015, "shard": 0}
+{"file": "fuzz_2107016", "result": "PASS", "detail": "", "seed": 2107016, "shard": 0}
+{"file": "fuzz_2107017", "result": "PASS", "detail": "", "seed": 2107017, "shard": 0}
+{"file": "fuzz_2107018", "result": "PASS", "detail": "", "seed": 2107018, "shard": 0}
+{"file": "fuzz_2107019", "result": "PASS", "detail": "", "seed": 2107019, "shard": 0}
+{"file": "fuzz_2107020", "result": "PASS", "detail": "", "seed": 2107020, "shard": 0}
+{"file": "fuzz_2107021", "result": "PASS", "detail": "", "seed": 2107021, "shard": 0}
+{"file": "fuzz_2107022", "result": "PASS", "detail": "", "seed": 2107022, "shard": 0}
+{"file": "fuzz_2107023", "result": "PASS", "detail": "", "seed": 2107023, "shard": 0}
+{"file": "fuzz_2107024", "result": "PASS", "detail": "", "seed": 2107024, "shard": 0}
+{"file": "fuzz_2107025", "result": "PASS", "detail": "", "seed": 2107025, "shard": 0}
+{"file": "fuzz_2107026", "result": "PASS", "detail": "", "seed": 2107026, "shard": 0}
+{"file": "fuzz_2107027", "result": "PASS", "detail": "", "seed": 2107027, "shard": 0}
+{"file": "fuzz_2107028", "result": "PASS", "detail": "", "seed": 2107028, "shard": 0}
+{"file": "fuzz_2107029", "result": "PASS", "detail": "", "seed": 2107029, "shard": 0}
+{"file": "fuzz_2107030", "result": "PASS", "detail": "", "seed": 2107030, "shard": 0}
+{"file": "fuzz_2107031", "result": "PASS", "detail": "", "seed": 2107031, "shard": 0}
+{"file": "fuzz_2107032", "result": "PASS", "detail": "", "seed": 2107032, "shard": 0}
+{"file": "fuzz_2107033", "result": "PASS", "detail": "", "seed": 2107033, "shard": 0}
+{"file": "fuzz_2107034", "result": "PASS", "detail": "", "seed": 2107034, "shard": 0}
+{"file": "fuzz_2107035", "result": "PASS", "detail": "", "seed": 2107035, "shard": 0}
+{"file": "fuzz_2107036", "result": "PASS", "detail": "", "seed": 2107036, "shard": 0}
+{"file": "fuzz_2107037", "result": "OUTPUT_BOMB", "detail": "gc output 66060288 bytes > 1MB cap (generator-rejected)", "seed": 2107037, "shard": 0}
+{"file": "fuzz_2107038", "result": "PASS", "detail": "", "seed": 2107038, "shard": 0}
+{"file": "fuzz_2107039", "result": "PASS", "detail": "", "seed": 2107039, "shard": 0}
+{"file": "fuzz_2107040", "result": "PASS", "detail": "", "seed": 2107040, "shard": 0}
+{"file": "fuzz_2107041", "result": "PASS", "detail": "", "seed": 2107041, "shard": 0}
+{"file": "fuzz_2107042", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107042, "shard": 0}
+{"file": "fuzz_2107043", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107043, "shard": 0}
+{"file": "fuzz_2107044", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107044, "shard": 0}
+{"file": "fuzz_2107045", "result": "PASS", "detail": "", "seed": 2107045, "shard": 0}
+{"file": "fuzz_2107046", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107046, "shard": 0}
+{"file": "fuzz_2107047", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107047, "shard": 0}
+{"file": "fuzz_2107048", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107048, "shard": 0}
+{"file": "fuzz_2107049", "result": "GC_BUILD_FAIL", "detail": "gc build failed", "seed": 2107049, "shard": 0}

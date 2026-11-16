@@ -1,0 +1,7 @@
+v1: 65535
+maplen v2: 0
+v29: 2147483647
+maplen v3: 14
+slicelen v4: 2 [hellofoo bar hello
+	foo barfoo bar]
+v5: 18446744073709551615

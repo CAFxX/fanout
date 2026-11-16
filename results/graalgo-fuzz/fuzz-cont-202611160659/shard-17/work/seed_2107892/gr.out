@@ -1,0 +1,12 @@
+0 0
+3.14159 -126 -126
+3.14159 -126 hello
+slicelen v1: 5 [4294967295 65535 0 0 470]
+v134: 3.14159
+v139: -126
+v140: 0
+slicelen v2: 4 [a
+	a 
+	foo bar hello foo bar]
+v3: hello
+slicelen v4: 2 [0 1]
