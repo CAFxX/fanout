@@ -1,0 +1,18 @@
+-1e+10
+0 0 -1e+10
+1 1 -1e+10
+2 2 -1e+10
+3 3 -1e+10
+4 4 -1e+10
+5 5 -1e+10
+6 6 -1e+10
+7 7 -1e+10
+slicelen v1: 4 [aafoo bar
+	hellofoo bar
+	 
+	afoo bar hello foo bar]
+v2: 0.1
+v3: -1e+10
+v4: -976
+v5: -772
+v7: -1e+10
