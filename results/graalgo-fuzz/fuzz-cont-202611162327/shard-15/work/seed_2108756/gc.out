@@ -1,0 +1,17 @@
+ahello
+foo bar a
+foo bar a
+foo bar a
+foo bar a
+foo bar a
+foo bar a
+foo bar a
+foo bar a
+foo bar a
+a foo bar
+v1: a
+maplen v2: 0
+v3: 0
+v4: foo bar
+maplen v5: 0
+slicelen v6: 3 [-2147483648 32767 127]

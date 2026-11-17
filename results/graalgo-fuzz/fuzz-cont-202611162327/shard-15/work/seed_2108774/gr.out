@@ -1,0 +1,16 @@
+1 -173
+1 1 0
+1 1 1
+1 1 2
+1 1 3
+1 1 4
+1 1 5
+1 1 6
+-173 1 952
+true
+v1: 1
+slicelen v2: 3 [hellofoo bar helloa helloa]
+v3: -1044
+v4: -1044
+v6: 0
+v97: true
