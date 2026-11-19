@@ -1,0 +1,10 @@
+1.3706224e+10 42
+42 false 42
+v1: false
+v11: 42
+v17: a
+slicelen v2: 1 [
+	afoo bar]
+slicelen v3: 3 [-2147483648 42 4294967295]
+v4: 1.3706224e+10
+maplen v5: 0
