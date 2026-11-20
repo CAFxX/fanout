@@ -1,0 +1,15 @@
+32767
+2 foo bar
+maplen v1: 0
+v2: 217
+v21: 2
+v22: 217
+maplen v3: 1
+maplen v4: 0
+v44: foo bar
+v47: true
+v48: true
+slicelen v5: 2 [a foo bar]
+v51: false
+v52: 3.14159
+v6: 32767
