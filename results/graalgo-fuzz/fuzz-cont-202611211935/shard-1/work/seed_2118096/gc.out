@@ -1,0 +1,26 @@
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+4294967295 foo bar
+127
+slicelen v1: 4 [13 32768 32768 233]
+v13: 4294967295
+v14: 127
+v156: foo bar
+v2: 0
+v27: true
+v3: 0
+slicelen v4: 0 []
+v5: foo bar
+maplen v6: 0

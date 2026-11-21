@@ -1,0 +1,29 @@
+3.14159 18446744073709551615
+3.14159
+foo bar 3.14159
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+127 foo bar
+-128 -128 127
+3.14159 a 0
+v1: a
+v10: 127
+v14: -1
+v2: -6.099480658330305e-20
+v25: true
+v3: 4294968233
+v4: 2.14159
+v5: 3.14159
