@@ -1,0 +1,11 @@
+foo bar -1
+v1: 65535
+slicelen v10: 0 []
+v2: -2147483648
+v21: -1
+v3: 65535
+v4: foo bar
+v51: 42
+v52: hellofoo barfoo barhello
+v8: 42
+v9: -1
